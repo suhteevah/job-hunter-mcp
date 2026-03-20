@@ -1,0 +1,19 @@
+Dear WITHIN Hiring Team,
+
+I'm applying for the AI Engineer role. I build production AI systems that solve real business problems — from LLM-powered automation to ML prediction models.
+
+What I bring:
+
+Production AI Systems: 10+ MCP servers for Claude Code integration, a 27K-line Rust browser automation engine with AI planning, and autonomous trading systems using ML prediction models (20x returns on Kalshi Weather Bot).
+
+LLM Application Development: I work with OpenAI, Anthropic/Claude, and custom inference stacks daily. Prompt engineering, RAG pipelines, tool calling, streaming APIs, and structured output extraction are my daily tools.
+
+Full-Stack Engineering: Python, Rust, TypeScript — I build across the entire stack. FastAPI backends, React frontends, Docker/K8s orchestration, CI/CD pipelines, and monitoring with Prometheus/Grafana.
+
+Practical Impact: I focus on AI that delivers measurable business value. Every system I build includes evaluation metrics, monitoring, and iteration based on real outcomes — not just model accuracy scores.
+
+US citizen based in California, available immediately.
+
+Best regards,
+Matt Gates
+ridgecellrepair@gmail.com | github.com/suhteevah | (530) 786-3655

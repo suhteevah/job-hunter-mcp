@@ -1,0 +1,7 @@
+Building production agent systems is what I do every day.
+
+27K-line Rust browser engine with MCTS action planning and multi-step orchestration. 10+ production MCP servers. Autonomous trading bot with ML prediction (20x returns). Job hunting automation coordinating search, scoring, application, and tracking agents. Knowledge graph and semantic search for agent memory.
+
+I understand agent reliability, evaluation, and production infrastructure.
+
+Matt Gates | (530) 786-3655 | ridgecellrepair@gmail.com | github.com/suhteevah

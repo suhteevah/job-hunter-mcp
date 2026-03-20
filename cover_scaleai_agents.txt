@@ -1,0 +1,19 @@
+Dear Scale AI Hiring Team,
+
+I'm applying for the Senior/Staff ML Engineer, General Agents role. Building AI agents that reliably accomplish complex tasks is my core focus.
+
+What I bring:
+
+End-to-End Agent Systems: I built Wraith Browser (27K lines Rust) — an autonomous agent that navigates the web using MCTS planning, multi-step tool orchestration, semantic memory, and adaptive strategy selection. I also built 10+ MCP servers giving AI agents structured access to real-world systems.
+
+ML Engineering: I build and deploy ML models in production — from prediction systems (Kalshi Weather Bot, 20x returns) to LLM-powered applications with RAG, tool calling, and evaluation frameworks. I understand the full ML lifecycle: data, training, evaluation, deployment, monitoring.
+
+Systems + ML Intersection: I work in both Rust (performance-critical agent infrastructure) and Python (ML pipelines, model serving, API development). This combination lets me build agent systems that are both intelligent and fast.
+
+Agent Evaluation: I build automated evaluation pipelines that measure agent task completion, tool usage efficiency, and output quality. I understand that shipping agents means measuring what matters, not just deploying models.
+
+US citizen, available immediately. Deeply motivated by Scale's mission of accelerating AI development.
+
+Best regards,
+Matt Gates
+ridgecellrepair@gmail.com | github.com/suhteevah | (530) 786-3655

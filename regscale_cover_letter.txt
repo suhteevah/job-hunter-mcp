@@ -1,0 +1,22 @@
+Dear RegScale Hiring Team,
+
+This role is an exact match for my current daily work. You're looking for someone who builds production AI systems end-to-end, designs agent orchestration layers, and develops MCP servers — I do all three, every day.
+
+What I bring that maps directly to your requirements:
+
+MCP Server Development: I've built 10+ production MCP servers in Python and Rust for Claude Code integration, exposing platform capabilities to AI systems exactly as you describe. My Wraith browser project (27K lines of Rust) includes a full MCP server with 80+ tools for browser automation, credential management, and knowledge graph operations.
+
+AI Agent Orchestration: I architect and operate multi-step AI agent systems with tool calling, MCTS action planning, and failure handling. My Kalshi Weather Bot uses ML prediction models for autonomous trading (20x returns, 4 beta testers). I build the agent loop, the tool definitions, and the safety guardrails.
+
+Production AI Infrastructure: I deploy and monitor GPU inference fleets (Tesla P40) with Docker container orchestration, Prometheus/Grafana observability, and CI/CD pipelines with automated testing gates. I understand inference cost optimization, caching strategies, and model selection tradeoffs at scale.
+
+RAG & Knowledge Systems: My projects include vector search, embedding stores with cosine similarity, knowledge graph construction (petgraph), and adaptive caching with per-domain TTL learning — all in production.
+
+I'm a US citizen based in California, available immediately, and comfortable with the full ownership model you describe — reliability, observability, cost management, and ongoing model behavior.
+
+Best regards,
+Matt Gates
+Technical Director, Ridge Cell Repair LLC
+(530) 786-3655
+ridgecellrepair@gmail.com
+github.com/suhteevah

@@ -1,0 +1,7 @@
+I'm a power user of the Claude Developer Platform — 10+ production MCP servers, daily Claude Code usage, and production agent systems built on the API.
+
+Full-Stack: Python/Rust/TypeScript across the stack. APIs, web interfaces, database systems, infrastructure tooling. Projects range from GPU inference fleet management to browser automation engines to ML trading systems.
+
+I understand developer experience from both sides — as a tool builder AND a power user. I know what makes a platform delightful vs. frustrating.
+
+Matt Gates | (530) 786-3655 | ridgecellrepair@gmail.com | github.com/suhteevah

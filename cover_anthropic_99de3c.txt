@@ -1,0 +1,5 @@
+I build production systems on Claude's platform daily. 10+ MCP servers shipped. 27K-line Rust browser engine with agent orchestration. Python/TypeScript/Rust polyglot. Docker/K8s. GPU inference fleet ops.
+
+Power user of Claude Code and the developer platform — I know what works, what's missing, and what would make it transformative.
+
+Matt Gates | (530) 786-3655 | ridgecellrepair@gmail.com | github.com/suhteevah

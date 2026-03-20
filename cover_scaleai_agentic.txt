@@ -1,0 +1,19 @@
+Dear Scale AI Hiring Team,
+
+I'm applying for the Senior Software Engineer, Agentic Data Products role because building reliable AI agent systems is exactly what I do.
+
+What I bring:
+
+Agent Architecture: I built Wraith Browser — a 27,000-line Rust AI-agent browser with MCTS planning, entity knowledge graphs, workflow recording/replay, and 80+ tools exposed via MCP. I understand the full stack of agent systems: planning, tool calling, state management, error recovery, and evaluation.
+
+Data Pipeline Engineering: I build production data pipelines for AI systems — job scraping at scale (800+ records with scoring), real-time market data processing (Kalshi trading bot with 20x returns), and embedding/vector search across large document collections. I understand data quality, provenance, and the infrastructure needed to feed reliable data to AI agents.
+
+Production ML: Python is my primary AI development language. I work with LLM APIs, build evaluation frameworks, implement RAG pipelines, and deploy ML models with monitoring and CI/CD. I also build in Rust for performance-critical components.
+
+Scale Mindset: I've operated GPU inference fleets, built distributed scraping systems with parallel execution, and designed systems that handle thousands of concurrent operations with proper caching, deduplication, and error handling.
+
+US citizen, available immediately.
+
+Best regards,
+Matt Gates
+ridgecellrepair@gmail.com | github.com/suhteevah | (530) 786-3655

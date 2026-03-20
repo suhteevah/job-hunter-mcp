@@ -1,0 +1,11 @@
+Dear OnBoard Meetings Hiring Team,
+
+I'm excited about this Senior Software Engineer role focused on AI-assisted development. My background in production AI systems and full-stack engineering maps directly to your needs.
+
+I build and deploy AI-powered applications daily — 10+ MCP servers for Claude Code integration, a 27K-line Rust browser automation engine, and ML prediction systems. I'm fluent in Python, Rust, and TypeScript with strong Docker/K8s, CI/CD, and monitoring experience.
+
+I embrace AI-assisted development practices as part of my daily workflow and would bring both technical depth and practical AI integration experience to your engineering team.
+
+Best regards,
+Matt Gates
+(530) 786-3655 | ridgecellrepair@gmail.com | github.com/suhteevah

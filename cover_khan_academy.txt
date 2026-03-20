@@ -1,0 +1,17 @@
+Dear Khan Academy Hiring Team,
+
+I'm drawn to this role because I believe AI has the potential to transform education at scale — and I have the technical depth to help make that happen.
+
+What I bring:
+
+Applied AI Engineering: I build production AI systems daily — prompt chaining, RAG pipelines, tool calling, and multi-step agent orchestration. I've built 10+ MCP servers and a full AI browser automation engine (27K lines of Rust) with MCTS planning and knowledge graph integration.
+
+Python Expertise: Python is my primary AI development language. I work with OpenAI, Anthropic/Claude, LangChain, FastAPI, and custom ML pipelines. I build evaluation frameworks, track model quality metrics, and implement automated testing.
+
+Production Infrastructure: Docker/K8s orchestration, GPU inference fleet management, Prometheus/Grafana monitoring, CI/CD with safety gates.
+
+Data-Driven Development: My Kalshi Weather Bot project demonstrates my approach — ML prediction models with rigorous backtesting, real-time performance tracking, and continuous iteration based on measured outcomes.
+
+Best regards,
+Matt Gates
+(530) 786-3655 | ridgecellrepair@gmail.com | github.com/suhteevah

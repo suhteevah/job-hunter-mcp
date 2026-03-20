@@ -1,0 +1,25 @@
+Subject: Re: Application - GENAI / Machine Learning AI / Data Scientist
+
+Hi,
+
+Thank you for confirming receipt of my application. I wanted to add some context about my most relevant work, since my background maps directly to production GenAI infrastructure:
+
+AI Agent Systems (Rust/Python): I built Wraith Browser, a 27,000-line Rust application that serves as an AI-driven browser automation platform. It enables autonomous AI agents to navigate, extract, and interact with web content -- essentially production-grade agent orchestration with LLM decision-making at its core.
+
+ML Prediction Systems: I developed a weather prediction trading bot for the Kalshi prediction market that has generated 20x returns and is currently in beta with 4 active testers. This system combines real-time data ingestion, ML inference pipelines, and autonomous trading execution.
+
+LLM Infrastructure at Scale: I operate OpenClaw, an AI inference fleet managing distributed model serving. I've also built and deployed 10+ production MCP (Model Context Protocol) servers -- these are the integration layer between LLMs and external tools/APIs, making me one of relatively few engineers with hands-on production MCP experience as the standard gains adoption.
+
+Industrial Automation: I've designed and built production test fixtures for industrial hardware (ESP32-based, 120VAC mains, SWD programming, opto-isolated sensing) and implemented PID controllers -- bridging the gap between software AI systems and physical-world automation.
+
+DevOps & Automation: All of the above systems include full CI/CD pipelines, automated QA, monitoring, and deployment infrastructure. I build and ship end-to-end, from model integration to production reliability.
+
+I'd welcome the chance to discuss how this experience aligns with the role. Could you also share some details about the end client, compensation range, and whether this is a W2 contract or permanent position?
+
+Best regards,
+Matt Gates
+Technical Director, Ridge Cell Repair LLC
+Chico, CA
+(530) 786-3655
+ridgecellrepair@gmail.com
+github.com/suhteevah

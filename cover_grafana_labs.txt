@@ -1,0 +1,20 @@
+Dear Grafana Labs Hiring Team,
+
+I'm deeply excited about this role because it sits at the exact intersection of my two strongest domains: AI/ML engineering and observability infrastructure.
+
+What I bring:
+
+Production Observability: I run Prometheus + Grafana monitoring stacks daily for my GPU inference fleet and AI agent systems. I understand metrics, traces, and logs not as abstract concepts but as tools I depend on to keep production AI systems healthy.
+
+AI Agent Systems: I've built 10+ production MCP servers for Claude Code integration, a 27K-line Rust browser automation engine with MCTS action planning and multi-step agent orchestration, and an autonomous trading bot using ML prediction models (20x returns).
+
+LLM Application Development: I build with OpenAI, Anthropic/Claude, LangChain, and custom inference stacks daily. Prompt engineering, RAG pipelines, tool calling, streaming — these are my daily tools, not buzzwords.
+
+Infrastructure: Docker/Kubernetes container orchestration, CI/CD pipelines with safety gates, Python/Rust/TypeScript polyglot development, and GPU inference optimization.
+
+The opportunity to build AI-powered features that help users understand and respond to their observability data is exactly where I want to be. I understand both sides of this problem intimately.
+
+Best regards,
+Matt Gates
+Technical Director, Ridge Cell Repair LLC
+(530) 786-3655 | ridgecellrepair@gmail.com | github.com/suhteevah

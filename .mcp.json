@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wraith": {
+      "command": "J:\\openclaw-browser\\target\\release\\openclaw-browser.exe",
+      "args": ["serve", "--transport", "stdio"]
+    }
+  }
+}

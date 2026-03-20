@@ -1,0 +1,19 @@
+Dear ZipRecruiter Hiring Team,
+
+I'm applying for the Senior Software Engineer, Machine Learning role. I build production ML systems that match data to decisions — which is exactly what job matching requires.
+
+What I bring:
+
+ML Matching & Scoring: I've built automated job-candidate scoring systems that evaluate fit across multiple dimensions using NLP and structured data. I understand the challenge of matching unstructured job descriptions to candidate profiles at scale.
+
+Production ML Infrastructure: End-to-end ML pipeline experience — data ingestion, feature engineering, model training, evaluation, deployment, and monitoring. My systems process thousands of records with proper scoring, deduplication, and quality tracking.
+
+AI Application Development: 10+ production MCP servers, LLM-powered applications with RAG and tool calling, and a 27K-line Rust AI browser with semantic search and entity extraction. I build AI systems that work reliably in production.
+
+Full-Stack: Python (ML pipelines, FastAPI), Rust (performance-critical processing), TypeScript (web interfaces). Docker/K8s, CI/CD, Prometheus/Grafana monitoring.
+
+US citizen, available immediately.
+
+Best regards,
+Matt Gates
+ridgecellrepair@gmail.com | github.com/suhteevah | (530) 786-3655

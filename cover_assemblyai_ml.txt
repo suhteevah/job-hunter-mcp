@@ -1,0 +1,19 @@
+Dear AssemblyAI Hiring Team,
+
+I'm applying for the Senior Software Engineer, Machine Learning role. Building production ML infrastructure that processes data at scale is exactly my domain.
+
+What I bring:
+
+Production ML Systems: I build and deploy ML models end-to-end — from data pipelines and feature engineering to model serving and monitoring. My Kalshi Weather Bot processes real-time data feeds, runs ML predictions, and executes autonomous trades with 20x returns.
+
+AI Infrastructure: I built Wraith Browser (27K lines Rust) with embedded vector search, semantic embeddings, and knowledge graph extraction. I also built 10+ production MCP servers exposing AI capabilities to developer tools. I understand how to build ML infrastructure that's reliable, observable, and scalable.
+
+Python + Systems: Python is my primary ML development language (FastAPI, async, ML frameworks), complemented by Rust for performance-critical data processing. I build Docker-orchestrated services with CI/CD, monitoring, and automated evaluation.
+
+Data Engineering: I build data pipelines that handle collection, preprocessing, quality validation, and storage at scale. I've processed hundreds of thousands of records with proper deduplication, scoring, and caching.
+
+US citizen, available immediately. Excited about AssemblyAI's mission of making AI models accessible through APIs.
+
+Best regards,
+Matt Gates
+ridgecellrepair@gmail.com | github.com/suhteevah | (530) 786-3655

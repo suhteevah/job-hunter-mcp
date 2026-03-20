@@ -1,0 +1,19 @@
+Dear PlanetScale Hiring Team,
+
+I'm applying for the Software Engineer - Infrastructure role. I build production infrastructure that's reliable, observable, and scales — exactly what a database platform demands.
+
+What I bring:
+
+Systems Infrastructure: I built Wraith Browser (27K lines Rust) — a production system with embedded SQLite, connection pooling, caching layers, and concurrent request handling. I understand database internals, query optimization, and the infrastructure that makes databases reliable at scale.
+
+Production Operations: I operate GPU inference fleets and distributed services with Docker orchestration, Prometheus/Grafana monitoring, CI/CD pipelines, and automated health checks. I build infrastructure with observability baked in from day one.
+
+Multi-Language Systems: Rust (performance-critical infrastructure), Python (tooling, automation, ML), TypeScript (APIs, web services). I pick the right tool for each layer of the stack.
+
+Database Experience: I work with SQLite, PostgreSQL, and Redis in production. I've built data migration tools, caching strategies, and query optimization layers. I understand the challenges of building infrastructure that other developers depend on.
+
+US citizen, available immediately.
+
+Best regards,
+Matt Gates
+ridgecellrepair@gmail.com | github.com/suhteevah | (530) 786-3655

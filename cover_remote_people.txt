@@ -1,0 +1,17 @@
+Dear Remote People Hiring Team,
+
+I'm excited to apply for the Senior AI Engineer role. With 10+ years in software engineering and deep hands-on experience building production AI/ML systems, I'm confident I can drive meaningful impact on your platform.
+
+Most recently, I built an autonomous job-hunting agent that orchestrates multiple LLM providers, implements RAG pipelines for resume-to-job matching, and uses browser automation for end-to-end workflow execution. This system manages vector embeddings, semantic search, and real-time decision-making across thousands of job listings -- exactly the kind of LLM-based application development you're looking for.
+
+My background spans the full AI/ML lifecycle you've described: I've designed and deployed production-grade systems using Python (FastAPI, async/await), cloud infrastructure (AWS), and data pipelines for preprocessing and analytics. I have hands-on experience with RAG architectures, prompt engineering, LLM orchestration frameworks, and vector databases for semantic search.
+
+Before pivoting to AI, I spent years in industrial automation and full-stack development -- building PID controllers, sensor integration systems, and scalable web applications. This cross-domain experience gives me the practical, problem-solving mindset your role requires, plus the communication skills to educate stakeholders and foster an AI-first culture.
+
+I'm particularly drawn to Remote People's mission of enabling borderless teams. As someone who works remotely and has built systems that operate autonomously across time zones, I deeply understand the value of the infrastructure you're creating.
+
+I'd love to bring my end-to-end AI engineering experience to your Product and Engineering team.
+
+Best regards,
+Matt Gates
+

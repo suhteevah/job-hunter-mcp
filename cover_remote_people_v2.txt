@@ -1,0 +1,21 @@
+Dear Remote People Hiring Team,
+
+I'm excited to apply for the Senior AI Engineer role. Your mission of powering borderless teams resonates with me — I've spent the last several years building AI infrastructure that works at scale, and I'd love to bring that experience to Remote People's platform.
+
+Here's what I bring that maps directly to your requirements:
+
+LLM & RAG Systems: I've built production RAG pipelines, agent orchestration frameworks, and LLM-powered tools. My recent work includes building Wraith Browser — a 27,000-line Rust-based AI-agent browser with semantic search, entity graphs, and vector embeddings. I've also built 10+ MCP (Model Context Protocol) servers for production AI integrations.
+
+Python + FastAPI + Async: Python has been my primary language for AI/ML work, with deep experience in FastAPI and async patterns. I've built real-time data pipelines, autonomous trading systems (Kalshi Weather Bot with 20x returns), and distributed inference services.
+
+Cloud & MLOps: Extensive experience with AWS and cloud-native AI deployment. I've built CI/CD pipelines for ML models, monitoring dashboards, and scalable inference infrastructure including distributed model serving with OpenClaw.
+
+Vector Databases & Semantic Search: Hands-on experience with embedding-based retrieval, semantic similarity search, and building custom vector stores — core components of the RAG architectures your team works with.
+
+Cross-functional Impact: Beyond engineering, I've driven AI adoption across teams — from building internal tools that automate workflows to educating stakeholders on practical AI applications. I also bring industrial automation experience (ESP32 test fixtures, PID controllers, sensor QA) that gives me a unique perspective on real-world system reliability.
+
+I'm a US citizen based in California, fully authorized to work, and enthusiastic about remote-first teams. I'd welcome the chance to discuss how my experience building production AI systems can accelerate Remote People's AI initiatives.
+
+Best regards,
+Matt Gates
+ridgecellrepair@gmail.com | github.com/suhteevah

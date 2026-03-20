@@ -1,0 +1,19 @@
+Dear Anthropic Hiring Team,
+
+I'm applying for the Staff Software Engineer, Claude Developer Platform role because I've been building on this platform extensively — and I want to help make it better for every developer.
+
+What I bring:
+
+Deep Claude Platform Experience: I've built 10+ production MCP servers that extend Claude Code's capabilities — database access, browser automation, job search APIs, email integration, and more. I understand the developer experience from the trenches: what works, what's painful, and what would unlock the next level of agent capability.
+
+Production Infrastructure: I built Wraith Browser (27K lines Rust) — an AI-agent-first browser with 80+ tools exposed via MCP. I understand API design for AI consumption: structured tool schemas, streaming responses, error handling patterns, and the nuances of making tools that LLMs can reliably use.
+
+Full-Stack Systems: Python, Rust, TypeScript — I work across the entire stack. I've built distributed inference services, real-time streaming APIs, and developer-facing tooling. I understand both the backend infrastructure and the developer experience layer.
+
+Developer Empathy: As a power user of Claude's developer tools, I bring firsthand insight into what the developer community needs. I've pushed the boundaries of what's possible with Claude Code and MCP, and I know exactly where the friction points are.
+
+I'm a US citizen, available immediately, and deeply committed to Anthropic's mission.
+
+Best regards,
+Matt Gates
+ridgecellrepair@gmail.com | github.com/suhteevah | (530) 786-3655

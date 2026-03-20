@@ -1,0 +1,7 @@
+I build production agentic systems and understand the data infrastructure they require.
+
+27K-line Rust browser engine with MCTS planning, knowledge graph, semantic search, workflow replay. Data pipelines, SQLite knowledge stores, entity graphs, embedding search. 10+ MCP servers, LLM apps, RAG pipelines, evaluation frameworks.
+
+Rust, Python, TypeScript. Docker/K8s, GPU inference, CI/CD, monitoring.
+
+Matt Gates | (530) 786-3655 | ridgecellrepair@gmail.com | github.com/suhteevah

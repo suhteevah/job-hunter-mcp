@@ -1,0 +1,19 @@
+Dear ZipRecruiter Hiring Team,
+
+I'm applying for the Staff Software Engineer, Machine Learning role. I bring 10 years of engineering experience with deep ML focus and the systems thinking needed for staff-level impact.
+
+What I bring:
+
+ML Systems at Scale: I build production ML pipelines end-to-end — from data collection and feature engineering to model serving, evaluation, and monitoring. I've built automated scoring systems that process thousands of records with multi-dimensional NLP analysis.
+
+Technical Leadership: I architect systems that balance ML capability with engineering reliability. My portfolio includes a 27K-line Rust AI browser (agent planning, knowledge graphs, 80+ tools), 10+ production MCP servers, and autonomous ML trading systems.
+
+Cross-Stack Fluency: Python (ML, FastAPI, async), Rust (performance-critical systems), TypeScript (full-stack web). I design APIs, data pipelines, and distributed systems with a focus on maintainability and observability.
+
+Impact Focus: Every ML system I build includes evaluation frameworks, monitoring, and feedback loops. I understand that shipping ML means measuring real-world impact, not just model metrics.
+
+US citizen, available immediately.
+
+Best regards,
+Matt Gates
+ridgecellrepair@gmail.com | github.com/suhteevah | (530) 786-3655

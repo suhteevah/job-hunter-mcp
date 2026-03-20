@@ -1,0 +1,19 @@
+Dear Anthropic Hiring Team,
+
+I'm applying for the Senior/Staff+ Software Engineer, Autonomous Agents role because I've been building exactly this kind of system — and I want to do it at the company defining the frontier.
+
+What I bring:
+
+Production Agent Systems: I built Wraith Browser — a 27,000-line Rust agent browser with MCTS action planning, multi-step tool orchestration, entity knowledge graphs, and semantic search. It's an autonomous agent that navigates, reasons, and acts across the web. I also built 10+ production MCP servers for Claude Code, giving AI agents structured access to databases, APIs, and browser automation.
+
+MCP & Tool Calling: I'm deeply familiar with the Model Context Protocol and have built both MCP servers and clients. I've implemented tool calling patterns, input/output schemas, dynamic tool registration, and multi-step agent loops — the exact infrastructure that powers Claude's agent capabilities.
+
+Systems Engineering: Rust and Python are my primary languages. I build performance-critical systems (Rust) and AI/ML pipelines (Python) with equal fluency. I operate GPU inference fleets with Docker orchestration, monitoring, and CI/CD.
+
+AI-Native Development: I use Claude daily as a development tool and collaborator. I understand its capabilities and limitations from both sides — as a user building with it and as an engineer building systems around it.
+
+I'm a US citizen based in California, available immediately, and deeply motivated by Anthropic's mission of building safe, beneficial AI.
+
+Best regards,
+Matt Gates
+ridgecellrepair@gmail.com | github.com/suhteevah | (530) 786-3655

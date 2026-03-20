@@ -1,0 +1,19 @@
+Dear AssemblyAI Hiring Team,
+
+I'm applying for the Senior Software Engineer, AI Data role. Building data infrastructure that feeds reliable, high-quality data to AI models is core to my experience.
+
+What I bring:
+
+Data Pipeline Engineering: I build production data pipelines that handle collection, preprocessing, validation, deduplication, and storage at scale. I've built systems that process hundreds of thousands of records with automated quality scoring and semantic analysis.
+
+AI Infrastructure: 10+ production MCP servers, a 27K-line Rust browser engine with embedded SQLite knowledge stores, vector embeddings, and entity extraction pipelines. I understand how to build data infrastructure that AI models can rely on.
+
+Python + Systems: Python for data processing and ML pipelines, Rust for performance-critical data handling, Docker/K8s for orchestration. I build observable, maintainable data systems with proper monitoring and error handling.
+
+Quality Focus: I build automated data quality checks, deduplication systems, and evaluation frameworks. I understand that AI model quality starts with data quality.
+
+US citizen, available immediately.
+
+Best regards,
+Matt Gates
+ridgecellrepair@gmail.com | github.com/suhteevah | (530) 786-3655

@@ -1,0 +1,20 @@
+Dear Censys Hiring Team,
+
+Building AI-powered features on top of Internet-scale data is exactly the kind of challenge I thrive on. My background combines production AI systems with the infrastructure expertise needed to make them reliable at scale.
+
+Relevant experience:
+
+Production AI/LLM Systems: I build and deploy LLM-powered applications daily — RAG pipelines, vector search, tool calling agents, and streaming interfaces. I've built 10+ MCP servers exposing platform capabilities to AI systems, and a 27K-line Rust browser engine with embedded knowledge graphs and semantic search.
+
+Scale & Infrastructure: I operate GPU inference fleets with Docker container orchestration, Prometheus/Grafana monitoring, and CI/CD pipelines. I understand K8s networking, scaling, and monitoring for AI services — not theoretically, but from running them in production.
+
+Python & Full Stack: Python is my primary language for AI work, alongside Rust for performance-critical systems and TypeScript for web interfaces. I'm comfortable across the entire stack from model fine-tuning to API design to frontend integration.
+
+Evaluation & Quality: I build evaluation frameworks for my AI systems, track model performance metrics, and implement automated testing gates. I understand that shipping AI features means measuring what matters, not just deploying models.
+
+I'm a US citizen based in California, available immediately.
+
+Best regards,
+Matt Gates
+Technical Director, Ridge Cell Repair LLC
+(530) 786-3655 | ridgecellrepair@gmail.com | github.com/suhteevah

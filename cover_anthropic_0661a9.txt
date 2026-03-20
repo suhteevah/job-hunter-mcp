@@ -1,0 +1,9 @@
+I'm applying for the Autonomous Agent Infrastructure role because I've been building exactly this kind of system — on top of Claude.
+
+Production Agent Infrastructure: 27,000-line Rust browser automation engine with MCTS action planning, multi-step agent orchestration, knowledge graph integration, and workflow replay. 10+ production MCP servers for Claude Code. Autonomous job hunting system coordinating search, scoring, application, and tracking agents.
+
+Infrastructure: Rust (27K lines shipped), Python, TypeScript. Docker/K8s, GPU inference fleet operations, CI/CD, Prometheus/Grafana monitoring. I build reliable systems at scale.
+
+US citizen, California, available for relocation. Deeply motivated to work on the infrastructure that makes Claude's agent capabilities possible.
+
+Matt Gates | (530) 786-3655 | ridgecellrepair@gmail.com | github.com/suhteevah

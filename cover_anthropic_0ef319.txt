@@ -1,0 +1,7 @@
+Heavy user of Anthropic's API — 10+ production MCP servers handling tool calling, streaming, conversation management, error recovery. I understand the API from the consumer side deeply.
+
+Systems: 27K lines production Rust, Python/TypeScript full-stack, GPU inference fleet ops. Model serving, prompt engineering, RAG, evaluation frameworks.
+
+10 years shipping software. The opportunity to shape the API developers worldwide use to build with Claude is deeply motivating.
+
+Matt Gates | (530) 786-3655 | ridgecellrepair@gmail.com | github.com/suhteevah
