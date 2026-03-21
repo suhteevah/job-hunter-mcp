@@ -1,0 +1,77 @@
+=== ASHBY PW SWARM W6 2026-03-20T15:09:08.217233+00:00 ===
+[08:09:08] ============================================================
+[08:09:08] ASHBY PLAYWRIGHT SWARM — Worker 6
+[08:09:08] ============================================================
+[08:09:08] Total Ashby jobs: 163
+[08:09:08] Batch: 33 (from=0, limit=33)
+[08:09:11] [1] Perplexity AI — Software Engineer, AI Platform (score=66.0)
+[08:09:27]   >>> SUCCESS: Confirmation detected <<<
+[08:09:30] [2] Perplexity AI — Full Stack Software Engineer - Applied AI (score=66.0)
+[08:09:46]   >>> SUCCESS: Confirmation detected <<<
+[08:09:49] [3] Perplexity AI — AI Software Engineer - Agents (score=66.0)
+[08:10:05]   >>> SUCCESS: Confirmation detected <<<
+[08:10:08] [4] Perplexity AI — Full Stack Software Engineer - Growth (score=66.0)
+[08:10:22]   >>> SUCCESS: Confirmation detected <<<
+[08:10:25] [5] Perplexity AI — Full Stack Software Engineer  (score=66.0)
+[08:10:41]   >>> SUCCESS: Confirmation detected <<<
+[08:10:44] [6] Perplexity AI — Full Stack Software Engineer - Finance (score=66.0)
+[08:11:03]   >>> SUCCESS: Confirmation detected <<<
+[08:11:06] [7] LangChain — Fullstack Software Engineer, Applied AI (score=66.0)
+[08:11:23]   >>> SUCCESS: Confirmation detected <<<
+[08:11:26] [8] Deepgram — Software Engineer, Voice Agents / AI - Deepgram fo (score=66.0)
+[08:11:44]   >>> SUCCESS: Confirmation detected <<<
+[08:11:47] [9] Harvey AI — Software Engineer, AI Platform (score=66.0)
+[08:12:03]   >>> SUCCESS: Confirmation detected <<<
+[08:12:06] [10] OpenAI — Software Engineer, Data Infrastructure (score=66.0)
+[08:12:21]   >>> SUCCESS: Confirmation detected <<<
+[08:12:21] --- W6 Progress: 10/33 OK=10 FAIL=0 ---
+[08:12:24] [11] OpenAI — Software Engineer, Fleet Infrastructure (score=66.0)
+[08:12:40]   >>> SUCCESS: Confirmation detected <<<
+[08:12:43] [12] OpenAI — Software Engineer, Frontier Clusters Infrastructur (score=66.0)
+[08:12:58]   >>> SUCCESS: Confirmation detected <<<
+[08:13:01] [13] OpenAI — Software Engineer, Privacy Infrastructure (score=66.0)
+[08:13:17]   >>> SUCCESS: Confirmation detected <<<
+[08:13:20] [14] OpenAI — Software Engineer, GPU Infrastructure - HPC (score=66.0)
+[08:13:36]   >>> SUCCESS: Confirmation detected <<<
+[08:13:39] [15] OpenAI — Software Engineer, Identity Infrastructure Enginee (score=66.0)
+[08:13:54]   >>> SUCCESS: Confirmation detected <<<
+[08:13:57] [16] OpenAI — Software Engineer, Caching Infrastructure (score=66.0)
+[08:14:12]   >>> SUCCESS: Confirmation detected <<<
+[08:14:15] [17] OpenAI — Software Engineer, Cloud Infrastructure  (score=66.0)
+[08:14:30]   >>> SUCCESS: Confirmation detected <<<
+[08:14:33] [18] OpenAI — Software Engineer, Quality & Developer Tools, Cons (score=66.0)
+[08:14:48]   >>> SUCCESS: Confirmation detected <<<
+[08:14:51] [19] OpenAI — Software Engineer, Infrastructure Reliability (score=66.0)
+[08:15:06]   >>> SUCCESS: Confirmation detected <<<
+[08:15:09] [20] OpenAI — Full Stack Software Engineer, Growth (score=66.0)
+[08:15:25]   >>> SUCCESS: Confirmation detected <<<
+[08:15:25] --- W6 Progress: 20/33 OK=20 FAIL=0 ---
+[08:15:28] [21] OpenAI — Software Engineer, Data Infrastructure - Research (score=66.0)
+[08:15:43]   >>> SUCCESS: Confirmation detected <<<
+[08:15:46] [22] OpenAI — Full Stack Software Engineer, GTM Innovation  (score=66.0)
+[08:16:02]   >>> SUCCESS: Confirmation detected <<<
+[08:16:05] [23] OpenAI — Full Stack Software Engineer, Jobs Platform  (score=66.0)
+[08:16:20]   >>> SUCCESS: Confirmation detected <<<
+[08:16:23] [24] OpenAI — Software Engineer, Full Stack, Revenue Platform (score=66.0)
+[08:16:38]   >>> SUCCESS: Confirmation detected <<<
+[08:16:41] [25] OpenAI — Software Engineer, Monetization Infrastructure (score=66.0)
+[08:16:56]   >>> SUCCESS: Confirmation detected <<<
+[08:17:00] [26] OpenAI — Software Engineer, ChatGPT Infrastructure  (score=66.0)
+[08:17:16]   >>> SUCCESS: Confirmation detected <<<
+[08:17:19] [27] OpenAI — Full Stack Software Engineer, B2B Applications (score=66.0)
+[08:17:34]   >>> SUCCESS: Confirmation detected <<<
+[08:17:37] [28] OpenAI — Software Engineer, API Engineer (score=66.0)
+[08:17:52]   >>> SUCCESS: Confirmation detected <<<
+[08:17:55] [29] OpenAI — Software Engineer, Enterprise AI Platform (score=66.0)
+[08:18:11]   >>> SUCCESS: Confirmation detected <<<
+[08:18:14] [30] OpenAI — Software Engineer, Full Stack (Cooperative AI) (score=66.0)
+[08:18:29]   >>> SUCCESS: Confirmation detected <<<
+[08:18:29] --- W6 Progress: 30/33 OK=30 FAIL=0 ---
+[08:18:32] [31] OpenAI — Supply Chain Operations Program Manager, AI Infras (score=66.0)
+[08:18:48]   >>> SUCCESS: Confirmation detected <<<
+[08:18:51] [32] OpenAI — Full Stack Software Engineer, ChatGPT Engineering (score=66.0)
+[08:19:06]   >>> SUCCESS: Confirmation detected <<<
+[08:19:09] [33] OpenAI — Full Stack Software Engineer, ChatGPT Partnerships (score=66.0)
+[08:19:24]   >>> SUCCESS: Confirmation detected <<<
+[08:19:24] 
+W6 DONE: 33 success, 0 fail, 10.3min

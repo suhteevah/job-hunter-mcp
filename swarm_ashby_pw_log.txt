@@ -1,0 +1,789 @@
+[08:09:19]     Clicked Apply button
+[08:09:20]     Clicked Apply button
+[08:09:20]     Uploaded resume
+[08:09:21]     Field: Additional Information = I am excited about the Product Manager, 
+[08:09:21]     Uploaded resume
+[08:09:22]     Checked: I agree
+[08:09:23]     Checked: I acknowledge that I have opened, read, 
+[08:09:23]     Checked: I confirm I have read the above.
+[08:09:23]     Clicked Apply button
+[08:09:23]     Clicked submit
+[08:09:24]     Uploaded resume
+[08:09:24]     Clicked submit
+[08:09:26]     Textarea filled with cover letter
+[08:09:26]     Clicked Apply button
+[08:09:26]     Field: Country of Residence = United States
+[08:09:27]     Uploaded resume
+[08:09:27]     Clicked submit
+[08:09:28]     Clicked Apply button
+[08:09:28]     Textarea filled with cover letter
+[08:09:29]     Field: Additional Information = I am excited about the AI Deployment Eng
+[08:09:29]     Uploaded resume
+[08:09:29]     Clicked submit
+[08:09:31]     Checked: I acknowledge that I have opened, read, 
+[08:09:31]     Checked: I confirm I have read the above.
+[08:09:32]     Clicked submit
+[08:09:38]     Clicked Apply button
+[08:09:39]     Clicked Apply button
+[08:09:39]     Uploaded resume
+[08:09:40]     Field: Additional Information = I am excited about the Full Stack Softwa
+[08:09:40]     Uploaded resume
+[08:09:41]     Clicked Apply button
+[08:09:41]     Checked: I agree
+[08:09:42]     Checked: I acknowledge that I have opened, read, 
+[08:09:42]     Uploaded resume
+[08:09:42]     Checked: I confirm I have read the above.
+[08:09:42]     Clicked submit
+[08:09:43]     Clicked submit
+[08:09:43]     Clicked Apply button
+[08:09:43]     Textarea filled with cover letter
+[08:09:44]     Field: Country of Residence = United States
+[08:09:44]     Field: Expected Compensation = $150,000 USD
+[08:09:44]     Clicked submit
+[08:09:45]     Uploaded resume
+[08:09:46]     Textarea filled with cover letter
+[08:09:47]     Clicked submit
+[08:09:47]     Clicked Apply button
+[08:09:48]     Field: Additional Information = I am excited about the AI Deployment Eng
+[08:09:48]     Uploaded resume
+[08:09:50]     Checked: I acknowledge that I have opened, read, 
+[08:09:50]     Checked: I confirm I have read the above.
+[08:09:51]     Clicked submit
+[08:09:56]     Clicked Apply button
+[08:09:57]     Uploaded resume
+[08:09:57]     Clicked Apply button
+[08:09:58]     Field: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[08:09:58]     Field: Why do you want to work at Baseten? = I am drawn to the Software Engineer - In
+[08:09:58]     Uploaded resume
+[08:09:58]     Clicked Apply button
+[08:09:59]     Checked: I agree
+[08:10:00]     Uploaded resume
+[08:10:01]     Clicked submit
+[08:10:01]     Clicked submit
+[08:10:02]     Clicked Apply button
+[08:10:02]     Clicked submit
+[08:10:02]     Field: Expected Compensation = $150,000 USD
+[08:10:03]     Field: Why would you like to work with us and i = I am excited about the Database Support 
+[08:10:03]     Uploaded resume
+[08:10:05]     Clicked submit
+[08:10:06]     Clicked Apply button
+[08:10:07]     Field: Additional Information = I am excited about the Technical Sourcer
+[08:10:07]     Uploaded resume
+[08:10:09]     Checked: I acknowledge that I have opened, read, 
+[08:10:09]     Checked: I confirm I have read the above.
+[08:10:10]     Clicked submit
+[08:10:14]     Clicked Apply button
+[08:10:15]     Clicked Apply button
+[08:10:15]     Uploaded resume
+[08:10:16]     Field: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[08:10:16]     Field: Why do you want to work at Baseten? = I am excited about the Software Engineer
+[08:10:16]     Uploaded resume
+[08:10:16]     Clicked Apply button
+[08:10:17]     Uploaded resume
+[08:10:17]     Checked: I agree
+[08:10:18]     Clicked submit
+[08:10:19]     Textarea filled with cover letter
+[08:10:19]     Clicked submit
+[08:10:20]     Clicked Apply button
+[08:10:20]     Clicked submit
+[08:10:20]     Field: Why are you interested in  joining the S = I am drawn to the Data Platform Reliabil
+[08:10:21]     Uploaded resume
+[08:10:24]     Clicked submit
+[08:10:25]     Clicked Apply button
+[08:10:25]     Field: Additional Information = I am excited about the Data Center Incid
+[08:10:26]     Uploaded resume
+[08:10:28]     Checked: I acknowledge that I have opened, read, 
+[08:10:28]     Checked: I confirm I have read the above.
+[08:10:29]     Clicked submit
+[08:10:32]     Clicked Apply button
+[08:10:33]     Clicked Apply button
+[08:10:33]     Uploaded resume
+[08:10:34]     Field: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[08:10:34]     Field: Why do you want to work at Baseten? = I am excited about the Software Engineer
+[08:10:34]     Uploaded resume
+[08:10:34]     Clicked Apply button
+[08:10:35]     Uploaded resume
+[08:10:36]     Checked: I agree
+[08:10:37]     Clicked submit
+[08:10:37]     Clicked submit
+[08:10:37]     Textarea filled with cover letter
+[08:10:38]     Clicked Apply button
+[08:10:38]     Clicked submit
+[08:10:39]     Field: Github Profile = https://github.com/suhteevah
+[08:10:39]     Field: Linkedin = https://www.linkedin.com/in/matt-michels
+[08:10:39]     Field: Where  did you hear about this vacancy? = Chico, CA, United States
+[08:10:40]     Uploaded resume
+[08:10:43]     Clicked submit
+[08:10:44]     Clicked Apply button
+[08:10:45]     Field: Additional Information = I am excited about the Datacenter NetDep
+[08:10:49]     Uploaded resume
+[08:10:51]     Checked: I acknowledge that I have opened, read, 
+[08:10:51]     Checked: I confirm I have read the above.
+[08:10:52]     Clicked Apply button
+[08:10:52]     Clicked Apply button
+[08:10:52]     Clicked submit
+[08:10:52]     Clicked Apply button
+[08:10:53]     Field: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[08:10:53]     Uploaded resume
+[08:10:53]     Uploaded resume
+[08:10:55]     Uploaded resume
+[08:10:55]     Textarea filled with cover letter
+[08:10:56]     Clicked submit
+[08:10:56]     Clicked submit
+[08:10:57]     Clicked Apply button
+[08:10:58]     Checked: I agree
+[08:10:58]     Field: What excites you about Deepgram? = I am excited about the Solutions Archite
+[08:10:59]     Field: Describe an enterprise deployment you le = I am excited about the Solutions Archite
+[08:10:59]     Uploaded resume
+[08:10:59]     Clicked submit
+[08:11:02]     Clicked submit
+[08:11:07]     Clicked Apply button
+[08:11:08]     Field: Additional Information = I am excited about the Abuse Investigato
+[08:11:08]     Uploaded resume
+[08:11:10]     Checked: I acknowledge that I have opened, read, 
+[08:11:10]     Clicked Apply button
+[08:11:10]     Checked: I confirm I have read the above.
+[08:11:10]     Clicked Apply button
+[08:11:12]     Field: Additional information = I am excited about the Member of Technic
+[08:11:12]     Uploaded resume
+[08:11:12]     Clicked submit
+[08:11:12]     Field: GitHub = https://github.com/suhteevah
+[08:11:12]     Uploaded resume
+[08:11:13]     Textarea filled with cover letter
+[08:11:14]     Clicked Apply button
+[08:11:14]     Clicked submit
+[08:11:15]     Clicked submit
+[08:11:15]     Uploaded resume
+[08:11:16]     Clicked Apply button
+[08:11:18]     Field: What excites you about Deepgram? = I am excited about the Solutions Archite
+[08:11:18]     Field: Which additional languages do you speak, = I am excited about the Solutions Archite
+[08:11:18]     Field: What is the most impressive thing you’ve = I am excited about the Solutions Archite
+[08:11:18]     Uploaded resume
+[08:11:19]     Clicked submit
+[08:11:21]     Clicked submit
+[08:11:27]     Clicked Apply button
+[08:11:28]     Uploaded resume
+[08:11:28]     Clicked Apply button
+[08:11:29]     Uploaded resume
+[08:11:29]     Clicked Apply button
+[08:11:30]     Textarea filled with cover letter
+[08:11:30]     Checked: I acknowledge that I have opened, read, 
+[08:11:30]     Checked: I confirm I have read the above.
+[08:11:31]     Uploaded resume
+[08:11:31]     Textarea filled with cover letter
+[08:11:31]     Clicked submit
+[08:11:35]     Clicked Apply button
+[08:11:35]     Clicked submit
+[08:11:36]     Clicked Apply button
+[08:11:37]     Field: What is the most impressive thing you’ve = I am excited about the Customer Success 
+[08:11:37]     Uploaded resume
+[08:11:37]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:11:37]     Clicked submit
+[08:11:38]     Uploaded resume
+[08:11:39]     Textarea filled with cover letter
+[08:11:40]     Clicked submit
+[08:11:41]     Clicked submit
+[08:11:47]     Clicked Apply button
+[08:11:48]     Field: Additional Information = I am excited about the Integrated Produc
+[08:11:48]     Uploaded resume
+[08:11:49]     Clicked Apply button
+[08:11:50]     Checked: I acknowledge that I have opened, read, 
+[08:11:50]     Checked: I confirm I have read the above.
+[08:11:50]     Field: Replit Profile URL = https://github.com/suhteevah
+[08:11:51]     Field: Linkedin Profile URL = https://www.linkedin.com/in/matt-michels
+[08:11:51]     Clicked submit
+[08:11:51]     Uploaded resume
+[08:11:52]     Clicked Apply button
+[08:11:53]     Uploaded resume
+[08:11:54]     Clicked submit
+[08:11:54]     Clicked Apply button
+[08:11:55]     Clicked Apply button
+[08:11:56]     Uploaded resume
+[08:11:56]     Clicked submit
+[08:11:56]     Field: What excites you about Deepgram? = I am excited about the Engineering Manag
+[08:11:57]     Field: What is the most impressive thing you’ve = I am excited about the Engineering Manag
+[08:11:57]     Uploaded resume
+[08:11:57]     Textarea filled with cover letter
+[08:11:59]     Clicked submit
+[08:12:00]     Clicked submit
+[08:12:05]     Clicked Apply button
+[08:12:06]     Field: Linkedin = https://www.linkedin.com/in/matt-michels
+[08:12:06]     Field: Cover letter = I am excited about the Member of Enginee
+[08:12:06]     Uploaded resume
+[08:12:08]     Clicked Apply button
+[08:12:08]     Clicked submit
+[08:12:09]     Field: What excites you about Deepgram? = I am excited about the Research Staff, V
+[08:12:09]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:12:09]     Uploaded resume
+[08:12:10]     Clicked Apply button
+[08:12:11]     Uploaded resume
+[08:12:12]     Clicked submit
+[08:12:12]     Textarea filled with cover letter
+[08:12:13]     Checked: I acknowledge that I have opened, read, 
+[08:12:13]     Checked: I confirm I have read the above.
+[08:12:13]     Clicked Apply button
+[08:12:14]     Clicked submit
+[08:12:14]     Uploaded resume
+[08:12:14]     Clicked Apply button
+[08:12:15]     Field: Describe a time you moved an organizatio = I am excited about the IT Manager role a
+[08:12:15]     Field: What is the most impressive thing you’ve = I am excited about the IT Manager role a
+[08:12:16]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:12:16]     Checked: I acknowledge that I have opened, read, 
+[08:12:16]     Checked: I confirm I have read the above.
+[08:12:16]     Uploaded resume
+[08:12:17]     Clicked submit
+[08:12:19]     Clicked submit
+[08:12:22]     Clicked Apply button
+[08:12:23]     Field: Linkedin = https://www.linkedin.com/in/matt-michels
+[08:12:23]     Field: Cover letter = I am excited about the Member of Enginee
+[08:12:23]     Uploaded resume
+[08:12:26]     Clicked submit
+[08:12:26]     Clicked Apply button
+[08:12:27]     Field: What excites you about Deepgram? = I am excited about the Research Staff, D
+[08:12:27]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:12:27]     Uploaded resume
+[08:12:28]     Clicked Apply button
+[08:12:29]     Field: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[08:12:29]     Field: Website = https://github.com/suhteevah
+[08:12:30]     Uploaded resume
+[08:12:30]     Clicked submit
+[08:12:31]     Checked: I acknowledge that I have opened, read, 
+[08:12:31]     Clicked Apply button
+[08:12:32]     Field: Additional Information = I am drawn to the Software Engineer, Fle
+[08:12:32]     Clicked submit
+[08:12:33]     Uploaded resume
+[08:12:34]     Clicked Apply button
+[08:12:34]     Checked: I acknowledge that I have opened, read, 
+[08:12:34]     Checked: I confirm I have read the above.
+[08:12:35]     Uploaded resume
+[08:12:36]     Clicked submit
+[08:12:37]     Clicked submit
+[08:12:40]     Clicked Apply button
+[08:12:40]     Field: Linkedin = https://www.linkedin.com/in/matt-michels
+[08:12:41]     Field: Cover letter = I am excited about the Solutions Archite
+[08:12:41]     Uploaded resume
+[08:12:43]     Clicked submit
+[08:12:44]     Clicked Apply button
+[08:12:45]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:12:45]     Uploaded resume
+[08:12:47]     Clicked Apply button
+[08:12:48]     Field: Additional Information = I am excited about the Senior Software E
+[08:12:48]     Clicked submit
+[08:12:48]     Uploaded resume
+[08:12:50]     Checked: I acknowledge that I have opened, read, 
+[08:12:50]     Checked: I confirm I have read the above.
+[08:12:51]     Clicked Apply button
+[08:12:51]     Clicked submit
+[08:12:51]     Clicked Apply button
+[08:12:51]     Field: Additional Information = I am drawn to the Software Engineer, Fro
+[08:12:52]     Uploaded resume
+[08:12:52]     Field: What excites you about Deepgram? = I am excited about the Customer Success 
+[08:12:52]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:12:52]     Uploaded resume
+[08:12:53]     Checked: I acknowledge that I have opened, read, 
+[08:12:53]     Checked: I confirm I have read the above.
+[08:12:54]     Clicked submit
+[08:12:55]     Clicked submit
+[08:12:58]     Clicked Apply button
+[08:12:59]     Field: Linkedin = https://www.linkedin.com/in/matt-michels
+[08:12:59]     Field: Cover letter = I am excited about the Member of Enginee
+[08:12:59]     Uploaded resume
+[08:13:02]     Clicked submit
+[08:13:02]     Clicked Apply button
+[08:13:03]     Field: What excites you about Deepgram? = I am excited about the Senior Website Ma
+[08:13:03]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:13:04]     Uploaded resume
+[08:13:05]     Clicked Apply button
+[08:13:06]     Field: Preferred name (if applicable) = Matt
+[08:13:06]     Field: Linkedin = https://www.linkedin.com/in/matt-michels
+[08:13:06]     Clicked submit
+[08:13:06]     Field: How did you hear about this job? = Job board
+[08:13:06]     Uploaded resume
+[08:13:09]     Clicked Apply button
+[08:13:09]     Clicked submit
+[08:13:09]     Clicked Apply button
+[08:13:10]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:13:10]     Uploaded resume
+[08:13:10]     Field: What excites you about Deepgram? = I am excited about the GTM Enablement Ma
+[08:13:11]     Uploaded resume
+[08:13:12]     Textarea filled with cover letter
+[08:13:12]     Checked: I acknowledge that I have opened, read, 
+[08:13:12]     Checked: I confirm I have read the above.
+[08:13:13]     Clicked submit
+[08:13:13]     Clicked submit
+[08:13:15]     Clicked Apply button
+[08:13:16]     Field: Linkedin = https://www.linkedin.com/in/matt-michels
+[08:13:16]     Field: Cover letter = I am excited about the Founding Forward 
+[08:13:17]     Uploaded resume
+[08:13:19]     Clicked submit
+[08:13:20]     Clicked Apply button
+[08:13:21]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:13:22]     Uploaded resume
+[08:13:23]     Clicked Apply button
+[08:13:23]     Textarea filled with cover letter
+[08:13:24]     Field: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[08:13:24]     Field: GitHub Link = https://github.com/suhteevah
+[08:13:24]     Field: Website = https://github.com/suhteevah
+[08:13:24]     Clicked submit
+[08:13:24]     Uploaded resume
+[08:13:27]     Clicked submit
+[08:13:27]     Clicked Apply button
+[08:13:28]     Clicked Apply button
+[08:13:28]     Field: What excites you about Deepgram? = I am excited about the Revenue Operation
+[08:13:29]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:13:29]     Field: Additional Information = I am drawn to the Software Engineer, GPU
+[08:13:29]     Uploaded resume
+[08:13:29]     Uploaded resume
+[08:13:31]     Checked: I acknowledge that I have opened, read, 
+[08:13:31]     Checked: I confirm I have read the above.
+[08:13:31]     Clicked submit
+[08:13:32]     Clicked submit
+[08:13:33]     Clicked Apply button
+[08:13:33]     Field: Linkedin = https://www.linkedin.com/in/matt-michels
+[08:13:34]     Field: Cover letter = I am excited about the Member of Enginee
+[08:13:34]     Uploaded resume
+[08:13:36]     Clicked submit
+[08:13:38]     Clicked Apply button
+[08:13:38]     Field: Why are you interested in applying to th = I am excited about the Member of Technic
+[08:13:39]     Uploaded resume
+[08:13:41]     Clicked Apply button
+[08:13:41]     Clicked submit
+[08:13:41]     Field: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[08:13:42]     Uploaded resume
+[08:13:45]     Clicked submit
+[08:13:46]     Clicked Apply button
+[08:13:46]     Clicked Apply button
+[08:13:46]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:13:47]     Uploaded resume
+[08:13:47]     Field: What excites you about Deepgram? = I am excited about the Model Evaluation 
+[08:13:47]     Uploaded resume
+[08:13:48]     Textarea filled with cover letter
+[08:13:48]     Checked: I acknowledge that I have opened, read, 
+[08:13:49]     Checked: I confirm I have read the above.
+[08:13:50]     Clicked submit
+[08:13:50]     Clicked submit
+[08:13:50]     Clicked Apply button
+[08:13:50]     Field: Linkedin = https://www.linkedin.com/in/matt-michels
+[08:13:51]     Field: Cover letter = I am drawn to the Member of Engineering 
+[08:13:51]     Uploaded resume
+[08:13:53]     Clicked submit
+[08:13:55]     Clicked Apply button
+[08:13:55]     Field: Why are you interested in applying to th = I am excited about the Member of Technic
+[08:13:55]     Uploaded resume
+[08:13:58]     Clicked submit
+[08:13:58]     Clicked Apply button
+[08:13:59]     Field: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[08:13:59]     Field: GitHub Link = https://github.com/suhteevah
+[08:14:00]     Field: Website = https://github.com/suhteevah
+[08:14:00]     Uploaded resume
+[08:14:02]     Clicked submit
+[08:14:04]     Clicked Apply button
+[08:14:04]     Clicked Apply button
+[08:14:04]     Field: What excites you about Deepgram? = I am excited about the Audio Engineer ro
+[08:14:05]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:14:05]     Field: Additional Information = I am drawn to the Software Engineer, Cac
+[08:14:05]     Uploaded resume
+[08:14:05]     Uploaded resume
+[08:14:07]     Checked: I acknowledge that I have opened, read, 
+[08:14:07]     Checked: I confirm I have read the above.
+[08:14:07]     Clicked Apply button
+[08:14:07]     Clicked submit
+[08:14:08]     Clicked submit
+[08:14:08]     Field: Linkedin = https://www.linkedin.com/in/matt-michels
+[08:14:08]     Field: Cover letter = I am excited about the Member of Enginee
+[08:14:08]     Uploaded resume
+[08:14:11]     Clicked submit
+[08:14:12]     Clicked Apply button
+[08:14:12]     Field: Why are you interested in applying to th = I am excited about the Member of Technic
+[08:14:12]     Uploaded resume
+[08:14:15]     Clicked submit
+[08:14:17]     Clicked Apply button
+[08:14:18]     Field: GitHub Profile URL = https://github.com/suhteevah
+[08:14:18]     Uploaded resume
+[08:14:20]     Textarea filled with cover letter
+[08:14:21]     Clicked submit
+[08:14:22]     Clicked Apply button
+[08:14:22]     Clicked Apply button
+[08:14:23]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:14:23]     Field: Additional Information = I am drawn to the Software Engineer, Clo
+[08:14:23]     Uploaded resume
+[08:14:23]     Uploaded resume
+[08:14:24]     Clicked Apply button
+[08:14:24]     Textarea filled with cover letter
+[08:14:25]     Checked: I acknowledge that I have opened, read, 
+[08:14:25]     Checked: I confirm I have read the above.
+[08:14:25]     Field: Linkedin = https://www.linkedin.com/in/matt-michels
+[08:14:25]     Field: Cover letter = I am excited about the Member of Enginee
+[08:14:25]     Uploaded resume
+[08:14:25]     Clicked submit
+[08:14:26]     Clicked submit
+[08:14:28]     Clicked submit
+[08:14:29]     Clicked Apply button
+[08:14:29]     Uploaded resume
+[08:14:31]     Textarea filled with cover letter
+[08:14:32]     Clicked submit
+[08:14:36]     Clicked Apply button
+[08:14:37]     Field: GitHub Profile URL = https://github.com/suhteevah
+[08:14:37]     Uploaded resume
+[08:14:40]     Clicked submit
+[08:14:40]     Clicked Apply button
+[08:14:41]     Field: Additional Information = I am excited about the Software Engineer
+[08:14:41]     Uploaded resume
+[08:14:42]     Clicked Apply button
+[08:14:43]     Field: If you prefer, please share your pronoun = No
+[08:14:43]     Field: Location = Chico, CA, United States
+[08:14:43]     Checked: I acknowledge that I have opened, read, 
+[08:14:43]     Checked: I confirm I have read the above.
+[08:14:43]     Field: Current or Most Recent Company = Ridge Cell Repair LLC
+[08:14:43]     Field: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[08:14:44]     Uploaded resume
+[08:14:44]     Clicked submit
+[08:14:45]     Textarea filled with cover letter
+[08:14:46]     Clicked submit
+[08:14:46]     Clicked Apply button
+[08:14:47]     Field: Tell us about you and why you're excited = I am excited about the Staff Security En
+[08:14:47]     Uploaded resume
+[08:14:49]     Textarea filled with cover letter
+[08:14:50]     Clicked submit
+[08:14:54]     Clicked Apply button
+[08:14:55]     Field: GitHub Profile URL = https://github.com/suhteevah
+[08:14:55]     Uploaded resume
+[08:14:56]     Textarea filled with cover letter
+[08:14:57]     Clicked submit
+[08:14:59]     Clicked Apply button
+[08:14:59]     Field: Additional Information = I am drawn to the Software Engineer, Inf
+[08:15:00]     Uploaded resume
+[08:15:00]     Clicked Apply button
+[08:15:01]     Uploaded resume
+[08:15:01]     Checked: I confirm I have read the above.
+[08:15:02]     Clicked submit
+[08:15:04]     Clicked submit
+[08:15:04]     Clicked Apply button
+[08:15:05]     Field: Tell us about you and why you're excited = I am drawn to the Senior Frontend Engine
+[08:15:05]     Uploaded resume
+[08:15:07]     Textarea filled with cover letter
+[08:15:09]     Clicked submit
+[08:15:10]     Clicked Apply button
+[08:15:10]     Field: Current Legal Address = Chico, CA
+[08:15:11]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:15:11]     Uploaded resume
+[08:15:13]     Clicked submit
+[08:15:14]     Clicked Apply button
+[08:15:15]     Field: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[08:15:16]     Uploaded resume
+[08:15:17]     Clicked Apply button
+[08:15:18]     Uploaded resume
+[08:15:18]     Clicked Apply button
+[08:15:18]     Clicked submit
+[08:15:19]     Field: In a few words, please share why you are = I am excited about the Technical Content
+[08:15:19]     Field: Preferred Name = Matt
+[08:15:19]     Field: Location = Chico, CA, United States
+[08:15:19]     Textarea filled with cover letter
+[08:15:19]     Field: Current or Most Recent Company = Ridge Cell Repair LLC
+[08:15:20]     Checked: I acknowledge that I have opened, read, 
+[08:15:20]     Field: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[08:15:20]     Checked: I confirm I have read the above.
+[08:15:20]     Field: Website = https://github.com/suhteevah
+[08:15:20]     Field: If you prefer, please share your pronoun = No
+[08:15:20]     Uploaded resume
+[08:15:21]     Clicked submit
+[08:15:23]     Clicked Apply button
+[08:15:23]     Clicked submit
+[08:15:24]     Uploaded resume
+[08:15:26]     Checked: I agree
+[08:15:26]     Clicked submit
+[08:15:28]     Clicked Apply button
+[08:15:29]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:15:29]     Uploaded resume
+[08:15:31]     Textarea filled with cover letter
+[08:15:32]     Clicked submit
+[08:15:32]     Clicked Apply button
+[08:15:33]     Field: Tell us about a time you made a high-imp = I am excited about the Staff Software En
+[08:15:33]     Uploaded resume
+[08:15:35]     Clicked Apply button
+[08:15:36]     Clicked submit
+[08:15:36]     Field: Additional Information = I am drawn to the Software Engineer, Dat
+[08:15:36]     Uploaded resume
+[08:15:37]     Clicked Apply button
+[08:15:38]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:15:38]     Checked: I acknowledge that I have opened, read, 
+[08:15:38]     Uploaded resume
+[08:15:38]     Checked: I confirm I have read the above.
+[08:15:39]     Clicked submit
+[08:15:41]     Clicked Apply button
+[08:15:41]     Clicked submit
+[08:15:41]     Uploaded resume
+[08:15:43]     Checked: I agree
+[08:15:44]     Clicked submit
+[08:15:46]     Clicked Apply button
+[08:15:47]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:15:47]     Uploaded resume
+[08:15:49]     Textarea filled with cover letter
+[08:15:50]     Clicked Apply button
+[08:15:50]     Clicked submit
+[08:15:50]     Field: Do you have any previous experience work = I am excited about the Customer Support 
+[08:15:51]     Field: Yearly Compensation Range (In US$) = $150,000 USD
+[08:15:51]     Uploaded resume
+[08:15:53]     Clicked submit
+[08:15:54]     Clicked Apply button
+[08:15:55]     Clicked Apply button
+[08:15:55]     Uploaded resume
+[08:15:55]     Field: Website = https://github.com/suhteevah
+[08:15:56]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:15:56]     Uploaded resume
+[08:15:56]     Textarea filled with cover letter
+[08:15:56]     Checked: I acknowledge that I have opened, read, 
+[08:15:57]     Checked: I confirm I have read the above.
+[08:15:57]     Clicked submit
+[08:15:58]     Clicked Apply button
+[08:15:58]     Clicked submit
+[08:15:58]     Uploaded resume
+[08:16:01]     Clicked submit
+[08:16:04]     Clicked Apply button
+[08:16:05]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:16:05]     Uploaded resume
+[08:16:06]     Textarea filled with cover letter
+[08:16:07]     Clicked Apply button
+[08:16:07]     Clicked submit
+[08:16:08]     Field: Additional information = I am excited about the AI / ML Solutions
+[08:16:08]     Field: GitHub = https://github.com/suhteevah
+[08:16:08]     Uploaded resume
+[08:16:11]     Clicked submit
+[08:16:12]     Clicked Apply button
+[08:16:13]     Clicked Apply button
+[08:16:13]     Field: Additional Information = I am drawn to the Full Stack Software En
+[08:16:13]     Uploaded resume
+[08:16:13]     Uploaded resume
+[08:16:15]     Clicked Apply button
+[08:16:15]     Checked: I acknowledge that I have opened, read, 
+[08:16:15]     Checked: I confirm I have read the above.
+[08:16:15]     Textarea filled with cover letter
+[08:16:15]     Uploaded resume
+[08:16:16]     Clicked submit
+[08:16:16]     Clicked submit
+[08:16:18]     Clicked submit
+[08:16:21]     Clicked Apply button
+[08:16:22]     Field: Pronouns = he/him
+[08:16:22]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:16:23]     Uploaded resume
+[08:16:25]     Clicked Apply button
+[08:16:25]     Clicked submit
+[08:16:25]     Field: Replit Profile URL = https://github.com/suhteevah
+[08:16:26]     Field: Linkedin Profile URL = https://www.linkedin.com/in/matt-michels
+[08:16:26]     Uploaded resume
+[08:16:29]     Clicked submit
+[08:16:30]     Clicked Apply button
+[08:16:30]     Uploaded resume
+[08:16:31]     Clicked Apply button
+[08:16:31]     Field: Additional Information = I am drawn to the Software Engineer, Ful
+[08:16:32]     Uploaded resume
+[08:16:32]     Textarea filled with cover letter
+[08:16:32]     Clicked Apply button
+[08:16:33]     Clicked submit
+[08:16:33]     Field: Please share your portfolio = https://github.com/suhteevah
+[08:16:33]     Uploaded resume
+[08:16:33]     Checked: I acknowledge that I have opened, read, 
+[08:16:33]     Checked: I confirm I have read the above.
+[08:16:34]     Clicked submit
+[08:16:35]     Clicked submit
+[08:16:39]     Clicked Apply button
+[08:16:40]     Field: Current Legal Address = Chico, CA
+[08:16:40]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:16:41]     Uploaded resume
+[08:16:42]     Clicked Apply button
+[08:16:43]     Field: Expected Compensation = $150,000 USD
+[08:16:43]     Clicked submit
+[08:16:43]     Uploaded resume
+[08:16:45]     Textarea filled with cover letter
+[08:16:46]     Clicked submit
+[08:16:47]     Clicked Apply button
+[08:16:48]     Uploaded resume
+[08:16:49]     Clicked Apply button
+[08:16:49]     Textarea filled with cover letter
+[08:16:49]     Field: Additional Information = I am drawn to the Software Engineer, Mon
+[08:16:50]     Uploaded resume
+[08:16:50]     Clicked Apply button
+[08:16:50]     Clicked submit
+[08:16:50]     Uploaded resume
+[08:16:51]     Checked: I acknowledge that I have opened, read, 
+[08:16:52]     Checked: I confirm I have read the above.
+[08:16:52]     Clicked submit
+[08:16:53]     Clicked submit
+[08:16:58]     Clicked Apply button
+[08:16:59]     Field: Additional Information = I am excited about the Community Engagem
+[08:16:59]     Uploaded resume
+[08:17:00]     Clicked Apply button
+[08:17:00]     Checked: I acknowledge that I have opened, read, 
+[08:17:01]     Checked: I confirm I have read the above.
+[08:17:01]     Field: Expected Compensation = $150,000 USD
+[08:17:01]     Field: Why would you like to work with us and i = I am excited about the Support Engineer 
+[08:17:01]     Field: LinkedIn profile = https://www.linkedin.com/in/matt-michels
+[08:17:01]     Uploaded resume
+[08:17:01]     Clicked submit
+[08:17:04]     Clicked submit
+[08:17:04]     Clicked Apply button
+[08:17:05]     Field: Tell us about you and why you're excited = I am excited about the Developer Support
+[08:17:05]     Field: Linkedin Profile Link = https://www.linkedin.com/in/matt-michels
+[08:17:05]     Uploaded resume
+[08:17:07]     Clicked Apply button
+[08:17:08]     Field: Please share your portfolio = https://github.com/suhteevah
+[08:17:08]     Clicked submit
+[08:17:08]     Uploaded resume
+[08:17:08]     Clicked Apply button
+[08:17:09]     Field: Additional Information = I am drawn to the Software Engineer, Cha
+[08:17:09]     Uploaded resume
+[08:17:10]     Clicked submit
+[08:17:11]     Checked: I acknowledge that I have opened, read, 
+[08:17:11]     Checked: I confirm I have read the above.
+[08:17:12]     Clicked submit
+[08:17:16]     Clicked Apply button
+[08:17:17]     Field: Where can we learn more about you, such  = https://www.linkedin.com/in/matt-michels
+[08:17:17]     Uploaded resume
+[08:17:19]     Checked: I acknowledge that I have opened, read, 
+[08:17:19]     Checked: I confirm I have read the above.
+[08:17:19]     Clicked Apply button
+[08:17:19]     Field: Expected Compensation = $150,000 USD
+[08:17:20]     Field: LinkedIn profile = https://www.linkedin.com/in/matt-michels
+[08:17:20]     Clicked submit
+[08:17:20]     Uploaded resume
+[08:17:21]     Textarea filled with cover letter
+[08:17:22]     Clicked Apply button
+[08:17:22]     Clicked submit
+[08:17:23]     Field: Tell us about you and why you're excited = I am drawn to the Distributed Systems En
+[08:17:23]     Uploaded resume
+[08:17:24]     Clicked Apply button
+[08:17:25]     Field: Please share your portfolio = https://github.com/suhteevah
+[08:17:25]     Uploaded resume
+[08:17:26]     Clicked submit
+[08:17:27]     Clicked Apply button
+[08:17:28]     Clicked submit
+[08:17:28]     Uploaded resume
+[08:17:29]     Textarea filled with cover letter
+[08:17:29]     Checked: I acknowledge that I have opened, read, 
+[08:17:29]     Checked: I confirm I have read the above.
+[08:17:30]     Clicked submit
+[08:17:34]     Clicked Apply button
+[08:17:35]     Field: Additional Information = I am excited about the Datacenter Networ
+[08:17:35]     Uploaded resume
+[08:17:36]     Clicked Apply button
+[08:17:37]     Field: Country of Residence = United States
+[08:17:37]     Field: Expected Compensation = $150,000 USD
+[08:17:37]     Checked: I acknowledge that I have opened, read, 
+[08:17:37]     Checked: I confirm I have read the above.
+[08:17:37]     Field: LinkedIn profile = https://www.linkedin.com/in/matt-michels
+[08:17:37]     Uploaded resume
+[08:17:38]     Clicked submit
+[08:17:39]     Textarea filled with cover letter
+[08:17:39]     Clicked Apply button
+[08:17:40]     Clicked submit
+[08:17:40]     Uploaded resume
+[08:17:41]     Textarea filled with cover letter
+[08:17:42]     Clicked Apply button
+[08:17:42]     Clicked submit
+[08:17:43]     Uploaded resume
+[08:17:45]     Clicked Apply button
+[08:17:45]     Clicked submit
+[08:17:46]     Uploaded resume
+[08:17:47]     Textarea filled with cover letter
+[08:17:47]     Checked: I acknowledge that I have opened, read, 
+[08:17:47]     Checked: I confirm I have read the above.
+[08:17:48]     Clicked submit
+[08:17:53]     Clicked Apply button
+[08:17:53]     Uploaded resume
+[08:17:54]     Clicked Apply button
+[08:17:55]     Field: Expected Salary = $150,000 USD
+[08:17:55]     Textarea filled with cover letter
+[08:17:55]     Field: Describe your Postgres experience = I am excited about the Multigres Enginee
+[08:17:55]     Checked: I confirm I have read the above.
+[08:17:55]     Uploaded resume
+[08:17:56]     Clicked submit
+[08:17:56]     Clicked Apply button
+[08:17:57]     Uploaded resume
+[08:17:58]     Clicked submit
+[08:17:58]     Textarea filled with cover letter
+[08:17:59]     Clicked submit
+[08:18:00]     Clicked Apply button
+[08:18:00]     Uploaded resume
+[08:18:02]     Textarea filled with cover letter
+[08:18:03]     Clicked submit
+[08:18:03]     Clicked Apply button
+[08:18:04]     Uploaded resume
+[08:18:05]     Textarea filled with cover letter
+[08:18:06]     Checked: I acknowledge that I have opened, read, 
+[08:18:06]     Checked: I confirm I have read the above.
+[08:18:07]     Clicked submit
+[08:18:11]     Clicked Apply button
+[08:18:11]     Clicked Apply button
+[08:18:12]     Field: Additional Information = I am excited about the AI Deployment Man
+[08:18:12]     Uploaded resume
+[08:18:12]     Uploaded resume
+[08:18:13]     Clicked Apply button
+[08:18:13]     Checked: I acknowledge that I have opened, read, 
+[08:18:13]     Checked: I confirm I have read the above.
+[08:18:14]     Uploaded resume
+[08:18:14]     Clicked submit
+[08:18:15]     Clicked submit
+[08:18:15]     Textarea filled with cover letter
+[08:18:16]     Clicked submit
+[08:18:17]     Clicked Apply button
+[08:18:18]     Uploaded resume
+[08:18:19]     Textarea filled with cover letter
+[08:18:20]     Clicked submit
+[08:18:21]     Clicked Apply button
+[08:18:22]     Uploaded resume
+[08:18:23]     Textarea filled with cover letter
+[08:18:24]     Checked: I acknowledge that I have opened, read, 
+[08:18:24]     Checked: I confirm I have read the above.
+[08:18:25]     Clicked submit
+[08:18:29]     Clicked Apply button
+[08:18:29]     Clicked Apply button
+[08:18:29]     Field: Passport Country = United States
+[08:18:29]     Uploaded resume
+[08:18:30]     Uploaded resume
+[08:18:30]     Clicked Apply button
+[08:18:30]     Uploaded resume
+[08:18:31]     Textarea filled with cover letter
+[08:18:31]     Textarea filled with cover letter
+[08:18:31]     Checked: I confirm I have read the above.
+[08:18:32]     Clicked submit
+[08:18:32]     Textarea filled with cover letter
+[08:18:32]     Clicked submit
+[08:18:33]     Clicked submit
+[08:18:34]     Clicked Apply button
+[08:18:35]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:18:35]     Uploaded resume
+[08:18:37]     Textarea filled with cover letter
+[08:18:38]     Clicked submit
+[08:18:40]     Clicked Apply button
+[08:18:41]     Field: LinkedIn = https://www.linkedin.com/in/matt-michels
+[08:18:41]     Uploaded resume
+[08:18:43]     Textarea filled with cover letter
+[08:18:43]     Checked: I acknowledge that I have opened, read, 
+[08:18:43]     Checked: I confirm I have read the above.
+[08:18:44]     Clicked submit
+[08:18:46]     Clicked Apply button
+[08:18:46]     Field: Github Profile = https://github.com/suhteevah
+[08:18:46]     Field: Linkedin = https://www.linkedin.com/in/matt-michels
+[08:18:47]     Field: Where  did you hear about this vacancy? = Chico, CA, United States
+[08:18:47]     Uploaded resume
+[08:18:50]     Clicked submit
+[08:18:52]     Clicked Apply button
+[08:18:53]     Uploaded resume
+[08:18:54]     Textarea filled with cover letter
+[08:18:55]     Clicked submit
+[08:18:58]     Clicked Apply button
+[08:18:59]     Field: Additional Information = I am excited about the Full Stack Softwa
+[08:18:59]     Uploaded resume
+[08:19:01]     Checked: I acknowledge that I have opened, read, 
+[08:19:01]     Checked: I confirm I have read the above.
+[08:19:02]     Clicked submit
+[08:19:03]     Clicked Apply button
+[08:19:04]     Field: Passport Country = United States
+[08:19:04]     Uploaded resume
+[08:19:07]     Clicked submit
+[08:19:16]     Clicked Apply button
+[08:19:17]     Field: Additional Information = I am excited about the Full Stack Softwa
+[08:19:17]     Uploaded resume
+[08:19:19]     Checked: I acknowledge that I have opened, read, 
+[08:19:19]     Checked: I confirm I have read the above.
+[08:19:20]     Clicked submit

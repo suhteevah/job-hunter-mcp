@@ -1,0 +1,104 @@
+=== MEGA SWARM SCRAPE 2026-03-20T21:18:31.384135+00:00 ===
+[14:18:31] ======================================================================
+[14:18:31] MEGA SWARM SCRAPE — 260 company boards
+[14:18:31]   Greenhouse boards: 164
+[14:18:31]   Ashby boards: 96
+[14:18:31]   Max workers: 150
+[14:18:31] ======================================================================
+[14:18:40]   Airtable (greenhouse): 52 jobs, 30 NEW
+[14:18:44]   DeepMind (greenhouse): 99 jobs, 99 NEW
+[14:18:47]   Grafana Labs (greenhouse): 142 jobs, 141 NEW
+[14:18:50]   Verkada (greenhouse): 317 jobs, 317 NEW
+[14:18:51]   MongoDB (greenhouse): 410 jobs, 353 NEW
+[14:18:52]   Reddit (greenhouse): 150 jobs, 62 NEW
+[14:18:52]   Runway (greenhouse): 36 jobs, 36 NEW
+[14:18:53]   Samsara (greenhouse): 454 jobs, 192 NEW
+[14:18:54]   Twilio (greenhouse): 138 jobs, 22 NEW
+[14:18:54]   CircleCI (greenhouse): 11 jobs, 11 NEW
+[14:18:55]   Pinterest (greenhouse): 123 jobs, 123 NEW
+[14:18:55]   Coursera (greenhouse): 17 jobs, 17 NEW
+[14:18:55]   Netlify (greenhouse): 2 jobs, 1 NEW
+[14:18:55]   Lattice (greenhouse): 10 jobs, 10 NEW
+[14:18:55]   Khan Academy (greenhouse): 34 jobs, 33 NEW
+[14:18:56]   Fivetran (greenhouse): 177 jobs, 177 NEW
+[14:18:56]   Make (greenhouse): 33 jobs, 33 NEW
+[14:18:56]   LaunchDarkly (greenhouse): 42 jobs, 42 NEW
+[14:18:57]   Stripe (greenhouse): 515 jobs, 414 NEW
+[14:18:57]   OnBoard Meetings (greenhouse): 6 jobs, 5 NEW
+[14:18:58]   Scale AI (greenhouse): 163 jobs, 107 NEW
+[14:18:58]   Bitwarden (greenhouse): 18 jobs, 18 NEW
+[14:18:58]   Asana (greenhouse): 163 jobs, 163 NEW
+[14:18:59]   Postman (greenhouse): 104 jobs, 104 NEW
+[14:19:00]   Elastic (greenhouse): 218 jobs, 195 NEW
+[14:19:00]   Blockchain.com (greenhouse): 46 jobs, 46 NEW
+[14:19:00]   Instacart (greenhouse): 134 jobs, 120 NEW
+[14:19:00]   Tailscale (greenhouse): 44 jobs, 28 NEW
+[14:19:00]   Starburst (greenhouse): 27 jobs, 27 NEW
+[14:19:01]   Mercury (greenhouse): 52 jobs, 52 NEW
+[14:19:01]   Faire (greenhouse): 74 jobs, 74 NEW
+[14:19:04]   Databricks (greenhouse): 828 jobs, 605 NEW
+[14:19:04]   PagerDuty (greenhouse): 43 jobs, 21 NEW
+[14:19:04]   Descript (greenhouse): 20 jobs, 20 NEW
+[14:19:04]   Chainguard (greenhouse): 56 jobs, 30 NEW
+[14:19:05]   Justworks (greenhouse): 108 jobs, 108 NEW
+[14:19:06]   Okta (greenhouse): 366 jobs, 366 NEW
+[14:19:07]   Epic Games (greenhouse): 170 jobs, 170 NEW
+[14:19:08]   CoreWeave (greenhouse): 270 jobs, 186 NEW
+[14:19:08]   New Relic (greenhouse): 41 jobs, 41 NEW
+[14:19:08]   Together AI (greenhouse): 48 jobs, 48 NEW
+[14:19:09]   Duolingo (greenhouse): 87 jobs, 87 NEW
+[14:19:09]   Orca Security (greenhouse): 1 jobs, 1 NEW
+[14:19:09]   Flexport (greenhouse): 148 jobs, 148 NEW
+[14:19:10]   Amplitude (greenhouse): 50 jobs, 50 NEW
+[14:19:11]   Airbnb (greenhouse): 258 jobs, 221 NEW
+[14:19:11]   Riot Games (greenhouse): 168 jobs, 168 NEW
+[14:19:12]   Lyft (greenhouse): 168 jobs, 166 NEW
+[14:19:12]   ZipRecruiter (greenhouse): 36 jobs, 22 NEW
+[14:19:13]   Alchemy (greenhouse): 20 jobs, 20 NEW
+[14:19:13]   SingleStore (greenhouse): 22 jobs, 22 NEW
+[14:19:13]   Nuro (greenhouse): 110 jobs, 35 NEW
+[14:19:18]   Anthropic (greenhouse): 437 jobs, 322 NEW
+[14:19:19] 
+======================================================================
+[14:19:19] MEGA SWARM SCRAPE COMPLETE
+[14:19:19] ======================================================================
+[14:19:19] Duration: 48s (0.8min)
+[14:19:19] Boards scraped: 78 success, 182 empty/failed
+[14:19:19] Total jobs found: 10058
+[14:19:19] New jobs inserted: 5909
+[14:19:19] Viable (fit>=60): 10 (Ashby: 0, Greenhouse: 0)
+[14:19:19] Total DB jobs: 8875
+[14:19:19] Rate: 12487 jobs/min
+[14:19:19] ======================================================================
+[14:19:19] 
+Top companies by NEW jobs:
+[14:19:19]   Databricks (greenhouse): +605 new (828 total)
+[14:19:19]   Stripe (greenhouse): +414 new (515 total)
+[14:19:19]   Okta (greenhouse): +366 new (366 total)
+[14:19:19]   MongoDB (greenhouse): +353 new (410 total)
+[14:19:19]   Anthropic (greenhouse): +322 new (437 total)
+[14:19:19]   Verkada (greenhouse): +317 new (317 total)
+[14:19:19]   Airbnb (greenhouse): +221 new (258 total)
+[14:19:19]   Elastic (greenhouse): +195 new (218 total)
+[14:19:19]   Samsara (greenhouse): +192 new (454 total)
+[14:19:19]   CoreWeave (greenhouse): +186 new (270 total)
+[14:19:19]   Fivetran (greenhouse): +177 new (177 total)
+[14:19:19]   Epic Games (greenhouse): +170 new (170 total)
+[14:19:19]   Riot Games (greenhouse): +168 new (168 total)
+[14:19:19]   Lyft (greenhouse): +166 new (168 total)
+[14:19:19]   Asana (greenhouse): +163 new (163 total)
+[14:19:19]   Flexport (greenhouse): +148 new (148 total)
+[14:19:19]   Grafana Labs (greenhouse): +141 new (142 total)
+[14:19:19]   Pinterest (greenhouse): +123 new (123 total)
+[14:19:19]   Instacart (greenhouse): +120 new (134 total)
+[14:19:19]   Justworks (greenhouse): +108 new (108 total)
+[14:19:19]   Scale AI (greenhouse): +107 new (163 total)
+[14:19:19]   Postman (greenhouse): +104 new (104 total)
+[14:19:19]   DeepMind (greenhouse): +99 new (99 total)
+[14:19:19]   Duolingo (greenhouse): +87 new (87 total)
+[14:19:19]   Faire (greenhouse): +74 new (74 total)
+[14:19:19]   Reddit (greenhouse): +62 new (150 total)
+[14:19:19]   Mercury (greenhouse): +52 new (52 total)
+[14:19:19]   Amplitude (greenhouse): +50 new (50 total)
+[14:19:19]   Together AI (greenhouse): +48 new (48 total)
+[14:19:19]   Blockchain.com (greenhouse): +46 new (46 total)

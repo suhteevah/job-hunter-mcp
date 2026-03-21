@@ -2,7 +2,10 @@
   "mcpServers": {
     "wraith": {
       "command": "J:\\openclaw-browser\\target\\release\\openclaw-browser.exe",
-      "args": ["serve", "--transport", "stdio"]
+      "args": ["serve", "--transport", "stdio"],
+      "env": {
+        "WRAITH_FLARESOLVERR": "http://localhost:8191"
+      }
     }
   }
 }

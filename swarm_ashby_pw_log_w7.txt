@@ -1,0 +1,77 @@
+=== ASHBY PW SWARM W7 2026-03-20T15:09:09.451476+00:00 ===
+[08:09:09] ============================================================
+[08:09:09] ASHBY PLAYWRIGHT SWARM — Worker 7
+[08:09:09] ============================================================
+[08:09:09] Total Ashby jobs: 163
+[08:09:09] Batch: 33 (from=33, limit=33)
+[08:09:12] [34] OpenAI — Product Manager, API Agents (score=66.0)
+[08:09:28]   >>> SUCCESS: Confirmation detected <<<
+[08:09:31] [35] OpenAI — Full Stack Software Engineer - OpenAI for Finance (score=66.0)
+[08:09:47]   >>> SUCCESS: Confirmation detected <<<
+[08:09:50] [36] Baseten — Software Engineer - Infrastructure (score=66.0)
+[08:10:05]   >>> SUCCESS: Confirmation detected <<<
+[08:10:08] [37] Baseten — Software Engineer - Training Infrastructure (score=66.0)
+[08:10:23]   >>> SUCCESS: Confirmation detected <<<
+[08:10:26] [38] Baseten — Software Engineer - Model APIs (score=66.0)
+[08:10:41]   >>> SUCCESS: Confirmation detected <<<
+[08:10:44] [39] Sentry — Developer Support Engineer (Agentic Ops & AI) (score=66.0)
+[08:11:00]   >>> SUCCESS: Confirmation detected <<<
+[08:11:03] [40] Anyscale — Member of Technical Staff, Field Eng (score=65.0)
+[08:11:19]   >>> SUCCESS: Confirmation detected <<<
+[08:11:22] [41] Pinecone — Senior Research Scientist (score=65.0)
+[08:11:39]   >>> SUCCESS: Confirmation detected <<<
+[08:11:42] [42] Replit — Staff Site Reliability Engineer (score=65.0)
+[08:11:58]   >>> SUCCESS: Confirmation detected <<<
+[08:12:01] [43] Deepgram — Research Staff, Voice AI Foundations (score=65.0)
+[08:12:16]   >>> SUCCESS: Confirmation detected <<<
+[08:12:16] --- W7 Progress: 10/33 OK=10 FAIL=0 ---
+[08:12:19] [44] Deepgram — Research Staff, Data Science (score=65.0)
+[08:12:34]   >>> SUCCESS: Confirmation detected <<<
+[08:12:37] [45] Deepgram — Senior Social Media Manager (score=65.0)
+[08:12:52]   >>> SUCCESS: Confirmation detected <<<
+[08:12:55] [46] Deepgram — Senior Website Manager (score=65.0)
+[08:13:10]   >>> SUCCESS: Confirmation detected <<<
+[08:13:13] [47] Deepgram — Staff Product Analyst (score=65.0)
+[08:13:28]   >>> SUCCESS: Confirmation detected <<<
+[08:13:31] [48] Reka — Member of Technical Staff (ML) (score=65.0)
+[08:13:45]   >>> SUCCESS: Confirmation detected <<<
+[08:13:48] [49] Reka — Member of Technical Staff (Applied AI) (score=65.0)
+[08:14:02]   >>> SUCCESS: Confirmation detected <<<
+[08:14:05] [50] Reka — Member of Technical Staff (GPU Performance Enginee (score=65.0)
+[08:14:19]   >>> SUCCESS: Confirmation detected <<<
+[08:14:22] [51] Railway — Senior Full-Stack Engineer - Product (score=65.0)
+[08:14:36]   >>> SUCCESS: Confirmation detected <<<
+[08:14:39] [52] LiveKit — Staff Security Engineer (score=65.0)
+[08:14:54]   >>> SUCCESS: Confirmation detected <<<
+[08:14:57] [53] LiveKit — Senior Frontend Engineer, LiveKit Cloud (score=65.0)
+[08:15:13]   >>> SUCCESS: Confirmation detected <<<
+[08:15:13] --- W7 Progress: 20/33 OK=20 FAIL=0 ---
+[08:15:16] [54] Perplexity AI — Senior iOS Software Engineer  (score=63.0)
+[08:15:31]   >>> SUCCESS: Confirmation detected <<<
+[08:15:34] [55] Perplexity AI — Senior/Staff Web Platform Engineer (score=63.0)
+[08:15:48]   >>> SUCCESS: Confirmation detected <<<
+[08:15:51] [56] LangChain — Senior Fullstack Engineer,  AI Observability & Eva (score=63.0)
+[08:16:05]   >>> SUCCESS: Confirmation detected <<<
+[08:16:08] [57] LangChain — Senior Backend Software Engineer, Observability &  (score=63.0)
+[08:16:22]   >>> SUCCESS: Confirmation detected <<<
+[08:16:25] [58] LangChain — Senior Backend Engineer, Enterprise Readiness & Id (score=63.0)
+[08:16:39]   >>> SUCCESS: Confirmation detected <<<
+[08:16:42] [59] LangChain — Senior Fullstack Engineer, Growth & Monetization (score=63.0)
+[08:16:57]   >>> SUCCESS: Confirmation detected <<<
+[08:17:00] [60] LangChain — Senior Backend Engineer, LangSmith Deployments (score=63.0)
+[08:17:14]   >>> SUCCESS: Confirmation detected <<<
+[08:17:17] [61] LangChain — Senior Frontend Platform Engineer, Design Systems (score=63.0)
+[08:17:32]   >>> SUCCESS: Confirmation detected <<<
+[08:17:35] [62] Pinecone — Senior/Staff Software Engineer, Database Team (score=63.0)
+[08:17:49]   >>> SUCCESS: Confirmation detected <<<
+[08:17:52] [63] Cohere — Member of Technical Staff, Agents Modeling (score=63.0)
+[08:18:07]   >>> SUCCESS: Confirmation detected <<<
+[08:18:07] --- W7 Progress: 30/33 OK=30 FAIL=0 ---
+[08:18:10] [64] Harvey AI — Senior Software Engineer, Frontend (score=63.0)
+[08:18:24]   >>> SUCCESS: Confirmation detected <<<
+[08:18:27] [65] Harvey AI — Senior Software Engineer, Backend (score=63.0)
+[08:18:42]   >>> SUCCESS: Confirmation detected <<<
+[08:18:45] [66] Harvey AI — Staff Software Engineer, Product Security (score=63.0)
+[08:18:59]   >>> SUCCESS: Confirmation detected <<<
+[08:19:00] 
+W7 DONE: 33 success, 0 fail, 9.9min

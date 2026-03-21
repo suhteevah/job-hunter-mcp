@@ -1,0 +1,35 @@
+=== ASHBY API SWARM 2026-03-20T14:53:48.603503+00:00 ===
+[07:53:48] ======================================================================
+[07:53:48] ASHBY API SWARM — Pure HTTP, No Browser
+[07:53:48] ======================================================================
+[07:53:48] Found 168 Ashby jobs (score >= 60.0)
+[07:53:48] This batch: 5 jobs (resume_from=0, limit=5)
+[07:53:48] Delay between apps: 2.0s
+[07:53:48] 
+[07:53:48] [1/5] Render — Software Engineer, Growth (score=68.0)
+[07:53:49]     API info failed: HTTP 401
+[07:53:49]   FAILED: Could not fetch job info
+[07:53:51] [2/5] Railway — Infrastructure Engineer (score=68.0)
+[07:53:51]     API info failed: HTTP 401
+[07:53:51]   FAILED: Could not fetch job info
+[07:53:53] [3/5] LiveKit — Software Engineer (score=68.0)
+[07:53:54]     API info failed: HTTP 401
+[07:53:54]   FAILED: Could not fetch job info
+[07:53:56] [4/5] LiveKit — Data Engineer (score=68.0)
+[07:53:56]     API info failed: HTTP 401
+[07:53:56]   FAILED: Could not fetch job info
+[07:53:58] [5/5] LiveKit — Software Engineer, Data (score=68.0)
+[07:53:59]     API info failed: HTTP 401
+[07:53:59]   FAILED: Could not fetch job info
+[07:54:01] 
+======================================================================
+[07:54:01] ASHBY API SWARM COMPLETE
+[07:54:01] ======================================================================
+[07:54:01] Duration: 13s (0.2min)
+[07:54:01] Success:  0
+[07:54:01] Failed:   5
+[07:54:01] Blocked:  0
+[07:54:01] 
+[07:54:01] ======================================================================
+[07:54:01] Results: J:\job-hunter-mcp\swarm_ashby_results.md
+[07:54:01] Log: J:\job-hunter-mcp\swarm_ashby_log.txt

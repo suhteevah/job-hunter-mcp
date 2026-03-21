@@ -1,0 +1,101 @@
+=== MEGA SWARM STARTED 2026-03-20T09:11:18.626883+00:00 ===
+[02:11:18] ======================================================================
+[02:11:18] MEGA SWARM — Overnight Autonomous Application Dispatcher
+[02:11:18] ======================================================================
+[02:11:18] Loaded 1404 viable jobs (score >= 60.0)
+[02:11:18] 
+Classification:
+[02:11:18]   Greenhouse API:  1195
+[02:11:18]   Ashby API:       199
+[02:11:18]   Lever (Wraith):  10
+[02:11:18] 
+[02:11:18] ======================================================================
+[02:11:18] PHASE 1: Greenhouse API — 3 jobs
+[02:11:18] ======================================================================
+
+[02:11:18] [GH 1/3] WITHIN — AI Engineer (score=85.0)
+[02:11:20]   FAILED: HTTP 404: <!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title></title>
+  <meta http-equiv="X
+[02:11:22] [GH 2/3] Reddit — Staff Software Engineer, Ads API (score=81.0)
+[02:11:23]   FAILED: HTTP 404: <!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title></title>
+  <meta http-equiv="X
+[02:11:24] [GH 3/3] Stripe — Senior Staff Product Designer, Agentic Commerce (score=81.0)
+[02:11:25]   FAILED: HTTP 404: <!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title></title>
+  <meta http-equiv="X
+[02:11:25] 
+======================================================================
+[02:11:25] PHASE 2: Ashby API — 199 jobs
+[02:11:25] ======================================================================
+
+[02:11:25] [ASH 1/199] Harvey AI — Staff Software Engineer, Site Reliability Engineer (score=71.0)
+[02:11:33]   FAILED: Submit returned no data
+[02:11:35] [ASH 2/199] Harvey AI — Staff Software Engineer, Full Stack (score=71.0)
+[02:11:42]   FAILED: Submit returned no data
+[02:11:44] [ASH 3/199] Harvey AI — Mid/Senior/Staff Software Engineer, Agents (score=71.0)
+[02:11:48]   FAILED: 502 Server Error: Bad Gateway for url: https://jobs.ashbyhq.com/api/non-user-graphql
+[02:11:50] [ASH 4/199] OpenAI — Senior Software Engineer, Infrastructure  (score=71.0)
+[02:11:57]   FAILED: Submit returned no data
+[02:11:59] [ASH 5/199] Sentry — Senior Software Engineer (C/C++), SDK (score=71.0)
+[02:12:08]   FAILED: Submit returned no data
+[02:12:10] [ASH 6/199] Sentry — Senior Software Engineer (Android), SDK (score=71.0)
+[02:12:18]   FAILED: Submit returned no data
+[02:12:20] [ASH 7/199] Sentry — Senior Software Engineer (iOS), SDK (score=71.0)
+[02:12:29]   FAILED: Submit returned no data
+[02:12:31] [ASH 8/199] Supabase — Platform Engineer: Kubernetes (score=68.0)
+[02:12:37]   FAILED: Submit returned no data
+[02:12:39] [ASH 9/199] Supabase — Platform Engineer: General Compute (score=68.0)
+[02:12:46]   FAILED: Submit returned no data
+[02:12:48] [ASH 10/199] Supabase — Software Engineer - Support Tooling (APAC/AMER) (score=68.0)
+[02:12:54]   FAILED: Submit returned no data
+[02:12:56] [ASH 11/199] Supabase — Platform Engineer: Data (score=68.0)
+[02:13:03]   FAILED: Submit returned no data
+[02:13:05] [ASH 12/199] Supabase — SDK Engineer - Go (score=68.0)
+[02:13:12]   FAILED: Submit returned no data
+[02:13:14] [ASH 13/199] Supabase — SDK Engineer - Flutter (score=68.0)
+[02:13:22]   FAILED: Submit returned no data
+[02:13:24] [ASH 14/199] Supabase — SDK Engineer - C# (score=68.0)
+[02:13:32]   FAILED: Submit returned no data
+[02:13:34] [ASH 15/199] Supabase — SDK Engineer - Kotlin (score=68.0)
+[02:13:41]   FAILED: Submit returned no data
+[02:13:43] [ASH 16/199] Deepgram — Backend Software Engineer - Active Learning Team (score=68.0)
+[02:13:50]   FAILED: Submit returned no data
+[02:13:52] [ASH 17/199] Deepgram — Research Engineer, Machine Learning Systems (score=68.0)
+[02:13:58]   FAILED: Submit returned no data
+[02:14:00] [ASH 18/199] Deepgram — Backend Engineer- Inference Services (score=68.0)
+[02:14:06]   FAILED: Submit returned no data
+[02:14:08] [ASH 19/199] Deepgram — Site Reliability Engineer - AI & ML Infrastructure (score=68.0)
+[02:14:15]   FAILED: Submit returned no data
+[02:14:17] [ASH 20/199] Cursor — Software Engineer, Security (score=68.0)
+[02:14:22]   FAILED: Submit returned no data
+[02:14:24] [ASH 21/199] Cursor — Software Engineer, Bugbot (score=68.0)
+[02:14:30]   FAILED: Submit returned no data
+[02:14:32] [ASH 22/199] Cursor — Software Engineer, Enterprise Platform (score=68.0)
+[02:14:38]   FAILED: Submit returned no data
+[02:14:40] [ASH 23/199] Cursor — Software Engineer, Billing (score=68.0)
+[02:14:45]   FAILED: Submit returned no data
+[02:14:47] [ASH 24/199] OpenAI — Datacenter Hardware Operations Technician, AI Comp (score=68.0)
+[02:14:54]   FAILED: Submit returned no data
+[02:14:56] [ASH 25/199] OpenAI — Security Engineer, Infrastructure Security (score=68.0)
+[02:15:03]   FAILED: Submit returned no data
+[02:15:05] [ASH 26/199] OpenAI — Infrastructure Delivery & Operational Partner Lead (score=68.0)
+[02:15:12]   FAILED: Submit returned no data
+[02:15:14] [ASH 27/199] Poolside — Member of Engineering (Agent Harness) (score=68.0)
+[02:15:18]   FAILED: Submit returned no data
+[02:15:20] [ASH 28/199] Poolside — Member of Engineering (Pre-training / Data Enginee (score=68.0)
+[02:15:25]   FAILED: Submit returned no data
+[02:15:27] [ASH 29/199] Render — Software Engineer, Product (score=68.0)
+[02:15:34]   FAILED: Submit returned no data
+[02:15:36] [ASH 30/199] Render — Software Engineer, Security (score=68.0)
+[02:15:43]   FAILED: Submit returned no data
+[02:15:45] [ASH 31/199] Render — Software Engineer, Billing (score=68.0)
+[02:15:53]   FAILED: Submit returned no data
+[02:15:55] [ASH 32/199] Render — Software Engineer, Growth (score=68.0)

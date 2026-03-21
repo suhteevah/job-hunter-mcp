@@ -1,0 +1,77 @@
+=== ASHBY PW SWARM W9 2026-03-20T15:09:16.671449+00:00 ===
+[08:09:16] ============================================================
+[08:09:16] ASHBY PLAYWRIGHT SWARM — Worker 9
+[08:09:16] ============================================================
+[08:09:16] Total Ashby jobs: 163
+[08:09:16] Batch: 33 (from=99, limit=33)
+[08:09:19] [100] Supabase — Database Support Engineer (AMER) (score=60.0)
+[08:09:33]   >>> SUCCESS: Confirmation detected <<<
+[08:09:36] [101] Supabase — Database Support Engineer (EMEA) (score=60.0)
+[08:09:51]   >>> SUCCESS: Confirmation detected <<<
+[08:09:54] [102] Supabase — Database Support Engineer (APAC) (score=60.0)
+[08:10:09]   >>> SUCCESS: Confirmation detected <<<
+[08:10:12] [103] Supabase — Data Platform Reliability Engineer - Postgres (score=60.0)
+[08:10:28]   >>> SUCCESS: Confirmation detected <<<
+[08:10:31] [104] Supabase — Elixir Engineer: Observability (score=60.0)
+[08:10:47]   >>> SUCCESS: Confirmation detected <<<
+[08:10:50] [105] Deepgram — Solutions Architect - Europe (score=60.0)
+[08:11:06]   >>> SUCCESS: Confirmation detected <<<
+[08:11:09] [106] Deepgram — Solutions Architect - India (score=60.0)
+[08:11:25]   >>> SUCCESS: Confirmation detected <<<
+[08:11:28] [107] Deepgram — Customer Success Engineer (Americas) (score=60.0)
+[08:11:45]   >>> SUCCESS: Confirmation detected <<<
+[08:11:48] [108] Deepgram — Engineering Manager, Active Learning (score=60.0)
+[08:12:04]   >>> SUCCESS: Confirmation detected <<<
+[08:12:07] [109] Deepgram — IT Manager (score=60.0)
+[08:12:23]   >>> SUCCESS: Confirmation detected <<<
+[08:12:23] --- W9 Progress: 10/33 OK=10 FAIL=0 ---
+[08:12:26] [110] Deepgram — Technical Program Manager, Research (score=60.0)
+[08:12:41]   >>> SUCCESS: Confirmation detected <<<
+[08:12:44] [111] Deepgram — Customer Success Engineer (APAC) (score=60.0)
+[08:12:59]   >>> SUCCESS: Confirmation detected <<<
+[08:13:02] [112] Deepgram — GTM Enablement Manager (score=60.0)
+[08:13:17]   >>> SUCCESS: Confirmation detected <<<
+[08:13:20] [113] Deepgram — Revenue Operations Analyst (score=60.0)
+[08:13:36]   >>> SUCCESS: Confirmation detected <<<
+[08:13:39] [114] Deepgram — Model Evaluation QA Lead (score=60.0)
+[08:13:54]   >>> SUCCESS: Confirmation detected <<<
+[08:13:57] [115] Deepgram — Audio Engineer (score=60.0)
+[08:14:11]   >>> SUCCESS: Confirmation detected <<<
+[08:14:14] [116] Deepgram — Talent Researcher (score=60.0)
+[08:14:29]   >>> SUCCESS: Confirmation detected <<<
+[08:14:32] [117] Cursor — Technical Support Engineer (score=60.0)
+[08:14:37]   FAILED: Job no longer available
+[08:14:40] [118] Cursor — Technical Support Engineering Manager (score=60.0)
+[08:14:44]   FAILED: Job no longer available
+[08:14:47] [119] Cursor — Campus Lead (score=60.0)
+[08:14:52]   FAILED: Job no longer available
+[08:14:52] --- W9 Progress: 20/33 OK=17 FAIL=3 ---
+[08:14:55] [120] Cursor — Forward Deployed Engineer (score=60.0)
+[08:15:00]   FAILED: Job no longer available
+[08:15:03] [121] Harvey AI — Technical User Operations Specialist - Weekend Cov (score=60.0)
+[08:15:17]   >>> SUCCESS: Confirmation detected <<<
+[08:15:20] [122] Harvey AI — Content Specialist, Customer Education (score=60.0)
+[08:15:36]   >>> SUCCESS: Confirmation detected <<<
+[08:15:39] [123] Harvey AI —  User Operations Specialist (score=60.0)
+[08:15:54]   >>> SUCCESS: Confirmation detected <<<
+[08:15:57] [124] Harvey AI — Certifications & Credential Manager, Customer Educ (score=60.0)
+[08:16:11]   >>> SUCCESS: Confirmation detected <<<
+[08:16:14] [125] Harvey AI — Manager, Commercial Legal (score=60.0)
+[08:16:29]   >>> SUCCESS: Confirmation detected <<<
+[08:16:32] [126] Harvey AI — Data Operations Analyst (score=60.0)
+[08:16:47]   >>> SUCCESS: Confirmation detected <<<
+[08:16:50] [127] OpenAI — Community Engagement Lead - Stargate (score=60.0)
+[08:17:05]   >>> SUCCESS: Confirmation detected <<<
+[08:17:09] [128] OpenAI — Enterprise Security Engineer (score=60.0)
+[08:17:24]   >>> SUCCESS: Confirmation detected <<<
+[08:17:27] [129] OpenAI — Datacenter Networking Technician, AI Compute Deplo (score=60.0)
+[08:17:42]   >>> SUCCESS: Confirmation detected <<<
+[08:17:42] --- W9 Progress: 30/33 OK=26 FAIL=4 ---
+[08:17:45] [130] OpenAI — AI Deployment Engineer, Startups (score=60.0)
+[08:18:00]   >>> SUCCESS: Confirmation detected <<<
+[08:18:03] [131] OpenAI — AI Deployment Manager - US Remote (score=60.0)
+[08:18:18]   >>> SUCCESS: Confirmation detected <<<
+[08:18:21] [132] OpenAI — Product Partnerships Lead, India (score=60.0)
+[08:18:36]   >>> SUCCESS: Confirmation detected <<<
+[08:18:37] 
+W9 DONE: 29 success, 4 fail, 9.3min
