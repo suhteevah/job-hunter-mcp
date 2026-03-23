@@ -1,0 +1,13 @@
+[12:08:51] MEGA PIPELINE started at 2026-03-22T12:08:51.594584
+[12:08:51] Args: {'scrape': False, 'rescore': True, 'apply': False, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[12:08:51] 
+======================================================================
+[12:08:51] PHASE 2: RESCORE — Fetching full descriptions
+[12:08:51] ======================================================================
+[12:08:53] Jobs to rescore: 4338
+[12:08:55] 
+RESCORE DONE in 4s — 0 rescored, 0 promoted to viable, 0 demoted
+[12:08:55] 
+======================================================================
+[12:08:55] MEGA PIPELINE COMPLETE — 0.1min total
+[12:08:55] ======================================================================

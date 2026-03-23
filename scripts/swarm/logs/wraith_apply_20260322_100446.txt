@@ -1,0 +1,114 @@
+[10:04:46] ======================================================================
+[10:04:46] WRAITH CDP APPLY SWARM
+[10:04:46] ======================================================================
+[10:04:46]   lever: 24 jobs
+[10:04:46] Total: 24 jobs
+[10:04:46] Starting Wraith MCP client...
+[10:04:50] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[10:04:50] 
+[1/24] LEVER | Plaid — Engineering Manager - Machine Learning Infrastruct (score=66.0)
+[10:04:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:05:01] 
+[2/24] LEVER | Plaid — Senior Data Engineer - Data Engineering (score=63.0)
+[10:05:09]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:05:12] 
+[3/24] LEVER | Plaid — Senior Machine Learning Engineer - Fraud (Research (score=63.0)
+[10:05:19]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:05:23] 
+[4/24] LEVER | Plaid — Senior Machine Learning Engineer - Payments (score=63.0)
+[10:05:30]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:05:33] 
+[5/24] LEVER | Plaid — Senior Software Engineer - AI Applications (score=63.0)
+[10:05:44]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[10:05:47] 
+[6/24] LEVER | Plaid — Senior Software Engineer - Backend (score=63.0)
+[10:05:54]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[10:05:58] 
+[7/24] LEVER | Plaid — Senior Software Engineer - Network Enablement (App (score=63.0)
+[10:06:06]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[10:06:09] 
+[8/24] LEVER | Plaid — Staff Software Engineer - AI Applications (score=63.0)
+[10:06:16]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[10:06:19] 
+[9/24] LEVER | Plaid — Staff Software Engineer - Money Movement (score=63.0)
+[10:06:27]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:06:30] 
+[10/24] LEVER | Plaid — Staff Software Engineer - Online Storage (score=63.0)
+[10:06:38]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:06:38] --- Progress: 10/24 | OK=10 FAIL=0 CODE=0 | 1.8min ---
+[10:06:41] 
+[11/24] LEVER | Plaid — Data Engineer  - Data Engineering (score=58.0)
+[10:06:48]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[10:06:51] 
+[12/24] LEVER | Plaid — Software Engineer (score=58.0)
+[10:06:59]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[10:07:02] 
+[13/24] LEVER | Plaid — Software Engineer - Platform (score=58.0)
+[10:07:10]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:07:13] 
+[14/24] LEVER | Plaid — Senior Credit Risk Manager - Payments (score=55.0)
+[10:07:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:07:23] 
+[15/24] LEVER | Plaid — Senior Data Scientist - Data Foundations & AI (score=55.0)
+[10:07:31]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:07:34] 
+[16/24] LEVER | Plaid — Senior Data Scientist - Payments (score=55.0)
+[10:07:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:07:50] 
+[17/24] LEVER | Plaid — Senior Data Scientist - Payments ACH (score=55.0)
+[10:07:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:08:01] 
+[18/24] LEVER | Plaid — Senior Developer Relations Engineer - Customer Gro (score=55.0)
+[10:08:10]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:08:13] 
+[19/24] LEVER | Plaid — Senior Product Manager (score=55.0)
+[10:08:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:08:24] 
+[20/24] LEVER | Plaid — Staff Product Manager - AI Foundations (score=55.0)
+[10:08:32]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[10:08:32] --- Progress: 20/24 | OK=20 FAIL=0 CODE=0 | 3.7min ---
+[10:08:35] 
+[21/24] LEVER | Plaid — Staff Product Manager - Fraud (score=55.0)
+[10:08:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:08:46] 
+[22/24] LEVER | Plaid — Staff Technical Program Manager - FinOps (score=55.0)
+[10:08:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:08:57] 
+[23/24] LEVER | Jobgether — Remote AI Engineer (score=45.0)
+[10:09:07]   FAILED: Job no longer available
+[10:09:10] 
+[24/24] LEVER | Jobgether — Agentic AI Engineer (score=40.0)
+[10:09:11]   FAILED: Job no longer available
+[10:09:11] 
+======================================================================
+[10:09:11] WRAITH APPLY SWARM DONE — 4.3min
+[10:09:11]   Success: 22
+[10:09:11]   Failed: 2
+[10:09:11]   Needs code: 0
+[10:09:11]   Rate: 5.5 apps/min
+[10:09:11] ======================================================================

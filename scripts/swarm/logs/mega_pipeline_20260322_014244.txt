@@ -1,0 +1,186 @@
+[01:42:44] MEGA PIPELINE started at 2026-03-22T01:42:44.460723
+[01:42:44] Args: {'scrape': False, 'rescore': False, 'apply': False, 'all': True, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 2.5, 'workers': 100}
+[01:42:44] 
+======================================================================
+[01:42:44] PHASE 1: MEGA SCRAPE
+[01:42:44] ======================================================================
+[01:42:44] Boards: 164 GH + 96 Ashby + 44 Lever = 304 total
+[01:42:44] Workers: 100
+[01:44:50]   +555 new  Cloudflare (greenhouse) [556 total]
+[01:45:04]   +  2 new  Anthropic (greenhouse) [437 total]
+[01:45:13]   +  2 new  Fivetran (greenhouse) [177 total]
+[01:45:13] 
+SCRAPE DONE in 149s
+[01:45:13]   Found: 10156 jobs across 80 boards
+[01:45:13]   New inserted: 559
+[01:45:13]   Viable (fit>=60, new): 72
+[01:45:13]   Total DB: 9637
+[01:45:13] 
+Top by new jobs:
+[01:45:13]   Cloudflare                +555 (greenhouse)
+[01:45:13]   Anthropic                 +2 (greenhouse)
+[01:45:13]   Fivetran                  +2 (greenhouse)
+[01:45:13] 
+======================================================================
+[01:45:13] PHASE 2: RESCORE — Fetching full descriptions
+[01:45:13] ======================================================================
+[01:45:13] Jobs to rescore: 4897
+[01:46:05] 
+RESCORE DONE in 52s — 559 rescored, 0 promoted to viable, 0 demoted
+[01:46:06] 
+======================================================================
+[01:46:06] PHASE 3: APPLY 
+[01:46:06] ======================================================================
+[01:46:07]   greenhouse: 45 jobs
+[01:46:07] Total: 45 jobs across 1 platforms
+[01:46:20] 
+[1/45] GREENHOUSE | Airtable — AI Analytics Engineer (AI & Analytics Platform) (score=75.0)
+[01:46:41]   FAILED: Validation: How are you using AI today in your current role? If applicable, show us your last AI experiment.*; How are y
+[01:46:44] 
+[2/45] GREENHOUSE | Scale AI — DevOps Engineer, GPS (score=75.0)
+[01:46:56]   FAILED: Validation: Are you ready to go on business trips every quarter?
+*; Are you ready to go on business trips every quarter?
+[01:46:59] 
+[3/45] GREENHOUSE | Flexport — Senior Software Engineer, AI Platform (score=75.0)
+[01:47:15]   FAILED: Validation: How did you first hear about Flexport?*; Select...; This field is required.
+[01:47:17] 
+[4/45] GREENHOUSE | Flexport — Software Engineer II, AI Platform (score=75.0)
+[01:47:30]   FAILED: Validation: How did you first hear about Flexport?*; Select...; This field is required.
+[01:47:33] 
+[5/45] GREENHOUSE | Scale AI — Applied AI Engineer, Enterprise (score=74.0)
+[01:47:46]   FAILED: Validation: Select...; This field is required.; Are you legally authorized to work in the country where the job is locat
+[01:47:48] 
+[6/45] GREENHOUSE | Chainguard — Staff Software Engineer (Libraries Platform) (score=74.0)
+[01:48:00]   FAILED: Validation: Select...; This field is required.
+[01:48:02] 
+[7/45] GREENHOUSE | Anthropic — Applied AI Engineer (Startups) (score=71.0)
+[01:48:15]   >>> SUCCESS: Confirmation detected <<<
+[01:48:18] 
+[8/45] GREENHOUSE | Anthropic — Applied AI Engineer (score=71.0)
+[01:48:30]   >>> SUCCESS: Confirmation detected <<<
+[01:48:33] 
+[9/45] GREENHOUSE | Anthropic — Applied AI Engineer (score=71.0)
+[01:48:45]   >>> SUCCESS: Confirmation detected <<<
+[01:48:48] 
+[10/45] GREENHOUSE | Anthropic — Applied AI Engineer (Startups) (score=71.0)
+[01:49:00]   >>> SUCCESS: Confirmation detected <<<
+[01:49:00] --- Progress: 10 done | OK=4 FAIL=6 CODE=0 | 2.9min ---
+[01:49:03] 
+[11/45] GREENHOUSE | Grafana Labs — Senior Software Engineer - Grafana k6 | Spain | Re (score=70.0)
+[01:49:18]   FAILED: Validation: Are you located in Spain?*; Select...; This field is required.
+[01:49:21] 
+[12/45] GREENHOUSE | Anthropic — Software Engineer, UI Platform (score=69.0)
+[01:49:34]   >>> SUCCESS: Confirmation detected <<<
+[01:49:37] 
+[13/45] GREENHOUSE | Anthropic — Design Engineer, AI Capability Development (Educat (score=69.0)
+[01:49:50]   >>> SUCCESS: Confirmation detected <<<
+[01:49:52] 
+[14/45] GREENHOUSE | Anthropic — Applied AI Engineer, Beneficial Deployments (score=68.0)
+[01:50:05]   >>> SUCCESS: Confirmation detected <<<
+[01:50:07] 
+[15/45] GREENHOUSE | Anthropic — Applied AI Engineer, Life Sciences (Beneficial Dep (score=68.0)
+[01:50:21]   >>> SUCCESS: Confirmation detected <<<
+[01:50:23] 
+[16/45] GREENHOUSE | Together AI — Senior Software Engineer - Together Cloud Platform (score=68.0)
+[01:50:37]   FAILED: Validation: Are you willing to work four days per week in our San Francisco office?*; Are you willing to work four days 
+[01:50:39] 
+[17/45] GREENHOUSE | Grafana Labs — Staff Backend Engineer - Adaptive Telemetry | Spai (score=66.0)
+[01:50:56]   FAILED: Validation: Are you located in the UK, Ireland, Spain, Sweden or Germany?*; Select...; This field is required.
+[01:50:59] 
+[18/45] GREENHOUSE | Khan Academy — Senior Platform Engineer I, AI Evaluation (24 mont (score=66.0)
+[01:51:14]   FAILED: Validation: How did you hear about this opportunity?*; Select...; This field is required.
+[01:51:17] 
+[19/45] GREENHOUSE | Together AI — Staff Engineer, Distributed Storage and HPC & AI I (score=66.0)
+[01:51:31]   FAILED: Validation: Are you willing to work four days per week in our San Francisco office? *; Are you willing to work four days
+[01:51:33] 
+[20/45] GREENHOUSE | Gusto — Security Software Engineer, Product and AI (score=65.0)
+[01:51:49]   FAILED: Validation: How did you hear about this opportunity? (select all that apply) *; This field is required.; Are you legally
+[01:51:49] --- Progress: 20 done | OK=8 FAIL=12 CODE=0 | 5.7min ---
+[01:51:51] 
+[21/45] GREENHOUSE | Airtable — AI Analytics Engineer (Marketing Analytics) (score=65.0)
+[01:52:04]   FAILED: Validation: How are you using AI today in your current role? If applicable, show us your last AI experiment.*; How are y
+[01:52:07] 
+[22/45] GREENHOUSE | Grafana Labs — Backend Software Engineer - Mimir Ingest | Germany (score=65.0)
+[01:52:22]   FAILED: Validation: Are you located in Spain, UK, Sweden, Germany or Ireland?*; Select...; This field is required.
+[01:52:24] 
+[23/45] GREENHOUSE | Grafana Labs — Backend Software Engineer - Mimir Ingest | Sweden  (score=65.0)
+[01:52:40]   FAILED: Validation: Are you located in the UK, Spain, Sweden, Ireland or Germany?*; Select...; This field is required.
+[01:52:42] 
+[24/45] GREENHOUSE | Grafana Labs — Backend Software Engineer - Mimir Ingest | UK | Re (score=65.0)
+[01:52:57]   FAILED: Validation: Are you located in Spain, UK, Sweden, Germany or Ireland?*; Select...; This field is required.
+[01:53:00] 
+[25/45] GREENHOUSE | Scale AI — Software Engineer, Enterprise (score=65.0)
+[01:53:12]   FAILED: Validation: What is your core technical stack?*; What is your core technical stack?*; This field is required.
+[01:53:14] 
+[26/45] GREENHOUSE | New Relic — Senior Software Engineer - Database Platform (score=65.0)
+[01:53:28]   FAILED: Validation: Current country of residence*; Select...; This field is required.
+[01:53:30] 
+[27/45] GREENHOUSE | Scale AI — Software Engineer, Enterprise AI (score=64.0)
+[01:53:43]   FAILED: Validation: Why Scale AI?*; Why Scale AI?*; This field is required.
+[01:53:45] 
+[28/45] GREENHOUSE | Anthropic — Software Engineer, Platform (score=63.0)
+[01:53:58]   >>> SUCCESS: Confirmation detected <<<
+[01:54:01] 
+[29/45] GREENHOUSE | Anthropic — Support Operations Specialist, AI Agent Management (score=63.0)
+[01:54:14]   >>> SUCCESS: Confirmation detected <<<
+[01:54:16] 
+[30/45] GREENHOUSE | Grafana Labs — Senior Backend Engineer | Mimir OSS | Spain | Remo (score=63.0)
+[01:54:31]   FAILED: Validation: Are you located in the European Union?*; Select...; This field is required.
+[01:54:31] --- Progress: 30 done | OK=10 FAIL=20 CODE=0 | 8.4min ---
+[01:54:34] 
+[31/45] GREENHOUSE | Khan Academy — Senior Fullstack Engineer I, Content Platform (24  (score=63.0)
+[01:54:48]   FAILED: Validation: Legal name (First and Last)*; Legal name (First and Last)*; This field is required.
+[01:54:51] 
+[32/45] GREENHOUSE | Grafana Labs —  Software Engineer - Platform InfraCore | USA | Re (score=62.0)
+[01:55:06]   FAILED: Validation: Are you located in and plan to work from the USA?*; Select...; This field is required.
+[01:55:08] 
+[33/45] GREENHOUSE | Postman — Member of Technical Staff,  AI Platform & Architec (score=62.0)
+[01:55:21]   FAILED: Validation: Postman we value in person collaboration. We are in office 5 days a week for all roles based out of our hubs
+[01:55:23] 
+[34/45] GREENHOUSE | Amplitude — Software Engineer II, AI Security (score=62.0)
+[01:55:48]   FAILED: Validation: This is a hybrid role out of our San Francisco office with the expectation of coming in 2 days a week (Tuesd
+[01:55:50] 
+[35/45] GREENHOUSE | Remote People — Senior AI Engineer (score=61.0)
+[01:56:04]     Got code: mTDFwPSm
+[01:56:04]   NEEDS CODE
+[01:56:07] 
+[36/45] GREENHOUSE | Anthropic — Infrastructure Engineer, Sandboxing (score=61.0)
+[01:56:19]   >>> SUCCESS: Confirmation detected <<<
+[01:56:22] 
+[37/45] GREENHOUSE | Vercel — Software Engineer, AI Gateway (score=61.0)
+[01:56:34]   FAILED: Validation: Are you currently based in any of these countries? Please note these are the only countries where we are acc
+[01:56:37] 
+[38/45] GREENHOUSE | Descript — Senior Software Engineer, Agent  (score=61.0)
+[01:56:49]   FAILED: Validation: This field is required.; Are you legally authorized to work in the United States? *; Select...
+[01:56:52] 
+[39/45] GREENHOUSE | New Relic — Senior Software Engineer - Full Stack (score=61.0)
+[01:57:04]   FAILED: Validation: Current country of residence*; Select...; This field is required.
+[01:57:06] 
+[40/45] GREENHOUSE | New Relic — Software Engineer 2 (score=61.0)
+[01:57:19]   FAILED: Validation: Current country of residence*; Select...; This field is required.
+[01:57:19] --- Progress: 40 done | OK=11 FAIL=28 CODE=1 | 11.2min ---
+[01:57:22] 
+[41/45] GREENHOUSE | Anthropic — Security Software Engineer, Detection & Response P (score=60.0)
+[01:57:34]   >>> SUCCESS: Confirmation detected <<<
+[01:57:36] 
+[42/45] GREENHOUSE | Grafana Labs — Senior Engineering Manager - Platform Metal | Spai (score=60.0)
+[01:57:51]   FAILED: Validation: Are you located in the UK, Sweden, Germany, Ireland or Spain?*; Select...; This field is required.
+[01:57:53] 
+[43/45] GREENHOUSE | Justworks — Senior Security Engineer (AI Security) (score=60.0)
+[01:58:08]   FAILED: Validation: Select...; This field is required.; Are you currently authorized to work in the U.S. on a full-time basis?*
+[01:58:11] 
+[44/45] GREENHOUSE | Anthropic — Security Architect, Applied AI  (score=60.0)
+[01:58:23]   >>> SUCCESS: Confirmation detected <<<
+[01:58:26] 
+[45/45] GREENHOUSE | Anthropic — Solutions Architect, Applied AI (Government Techno (score=60.0)
+[01:58:38]   >>> SUCCESS: Confirmation detected <<<
+[01:58:38] 
+APPLY DONE in 12.5min
+[01:58:38]   Success: 14
+[01:58:38]   Failed: 30
+[01:58:38]   Needs code: 1
+[01:58:38]   Rate: 3.6 apps/min
+[01:58:38] 
+======================================================================
+[01:58:38] MEGA PIPELINE COMPLETE — 15.9min total
+[01:58:38] ======================================================================

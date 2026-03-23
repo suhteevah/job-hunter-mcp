@@ -1,0 +1,49 @@
+[12:08:41] ======================================================================
+[12:08:41] WRAITH CDP APPLY SWARM
+[12:08:41] ======================================================================
+[12:08:41]   ashby: 10 jobs
+[12:08:41] Total: 10 jobs
+[12:08:41] Starting Wraith MCP client...
+[12:08:45] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[12:08:45] 
+[1/10] ASHBY | Cursor — Software Engineer, Client Infrastructure (score=76.0)
+[12:08:51]   FAILED: Job no longer available
+[12:08:54] 
+[2/10] ASHBY | Supabase — Platform Engineer: Kubernetes (score=68.0)
+[12:08:59]   FAILED: Job no longer available
+[12:09:02] 
+[3/10] ASHBY | Cursor — Software Engineer, Security (score=68.0)
+[12:09:07]   FAILED: Job no longer available
+[12:09:11] 
+[4/10] ASHBY | Cursor — Software Engineer, Bugbot (score=68.0)
+[12:09:16]   FAILED: Job no longer available
+[12:09:19] 
+[5/10] ASHBY | Cursor — Software Engineer, Enterprise Platform (score=68.0)
+[12:09:24]   FAILED: Job no longer available
+[12:09:27] 
+[6/10] ASHBY | Cursor — Software Engineer, Billing (score=68.0)
+[12:09:35]   FAILED: Submit button not found
+[12:09:38] 
+[7/10] ASHBY | Cursor — Technical Support Engineer (score=60.0)
+[12:09:43]   FAILED: Job no longer available
+[12:09:46] 
+[8/10] ASHBY | Cursor — Technical Support Engineering Manager (score=60.0)
+[12:09:52]   FAILED: Job no longer available
+[12:09:55] 
+[9/10] ASHBY | Cursor — Campus Lead (score=60.0)
+[12:10:00]   FAILED: Job no longer available
+[12:10:03] 
+[10/10] ASHBY | Cursor — Forward Deployed Engineer (score=60.0)
+[12:10:09]   FAILED: Job no longer available
+[12:10:09] --- Progress: 10/10 | OK=0 FAIL=10 CODE=0 | 1.4min ---
+[12:10:09] 
+======================================================================
+[12:10:09] WRAITH APPLY SWARM DONE — 1.4min
+[12:10:09]   Success: 0
+[12:10:09]   Failed: 10
+[12:10:09]   Needs code: 0
+[12:10:09]   Rate: 7.1 apps/min
+[12:10:09] ======================================================================

@@ -1,0 +1,329 @@
+[10:03:01] ======================================================================
+[10:03:01] WRAITH CDP APPLY SWARM
+[10:03:01] ======================================================================
+[10:03:01]   ashby: 50 jobs
+[10:03:01]   greenhouse: 50 jobs
+[10:03:01] Total: 100 jobs
+[10:03:01] Starting Wraith MCP client...
+[10:03:05] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[10:03:05] 
+[1/100] ASHBY | LiveKit — Senior Software Engineer, Agents (Python) (score=89.0)
+[10:03:09]   FAILED: Submit button not found
+[10:03:12] 
+[2/100] GREENHOUSE | WITHIN — AI Engineer (score=85.0)
+[10:03:31]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:03:34] 
+[3/100] ASHBY | Pinecone — Senior Software Engineer, Search & Retrieval Infra (score=81.0)
+[10:03:38]   FAILED: Submit button not found
+[10:03:41] 
+[4/100] GREENHOUSE | Reddit — Staff Software Engineer, Ads API (score=81.0)
+[10:03:46]   FAILED: Submit button not found
+[10:03:49] 
+[5/100] ASHBY | LiveKit — Senior Software Engineer, Agent Platform (score=81.0)
+[10:03:53]   FAILED: Submit button not found
+[10:03:56] 
+[6/100] GREENHOUSE | Stripe — Senior Staff Product Designer, Agentic Commerce (score=81.0)
+[10:04:01]   FAILED: Submit button not found
+[10:04:04] 
+[7/100] ASHBY | Deepgram — Backend Software Engineer - Engine Team (Voice Age (score=76.0)
+[10:04:08]   FAILED: Submit button not found
+[10:04:11] 
+[8/100] GREENHOUSE | Samsara — Senior Software Engineer, AI Platform (score=81.0)
+[10:04:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:04:24] 
+[9/100] ASHBY | Cursor — Software Engineer, Client Infrastructure (score=76.0)
+[10:04:28]   FAILED: Submit button not found
+[10:04:31] 
+[10/100] GREENHOUSE | Samsara — Senior Software Engineer I - Agent Foundations (score=81.0)
+[10:04:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:04:41] --- Progress: 10/100 | OK=3 FAIL=7 CODE=0 | 1.6min ---
+[10:04:44] 
+[11/100] ASHBY | OpenAI — Software Engineer, Full Stack (People Innovation) (score=76.0)
+[10:04:48]   FAILED: Submit button not found
+[10:04:51] 
+[12/100] GREENHOUSE | Samsara — Senior Software Engineer - Safety - GenAI  (score=81.0)
+[10:05:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:05:04] 
+[13/100] ASHBY | OpenAI — Software Engineer, Trusted Computing and Cryptogra (score=76.0)
+[10:05:09]   FAILED: Submit button not found
+[10:05:12] 
+[14/100] GREENHOUSE | Datadog — Staff AI Engineer - MCP Services (score=81.0)
+[10:05:16]   FAILED: Submit button not found
+[10:05:19] 
+[15/100] ASHBY | OpenAI — Software Engineer, Infrastructure Security (score=76.0)
+[10:05:24]   FAILED: Submit button not found
+[10:05:27] 
+[16/100] GREENHOUSE | Samsara — Software Engineer II, AI Platform (score=76.0)
+[10:05:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:05:39] 
+[17/100] ASHBY | Render — Software Engineer, Infrastructure (score=76.0)
+[10:05:43]   FAILED: Submit button not found
+[10:05:47] 
+[18/100] GREENHOUSE | Airtable — AI Analytics Engineer (AI & Analytics Platform) (score=75.0)
+[10:05:57]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:06:00] 
+[19/100] ASHBY | Cohere — Applied AI Engineer – Agentic Workflows (score=74.0)
+[10:06:04]   FAILED: Submit button not found
+[10:06:07] 
+[20/100] GREENHOUSE | Scale AI — DevOps Engineer, GPS (score=75.0)
+[10:06:17]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:06:17] --- Progress: 20/100 | OK=7 FAIL=13 CODE=0 | 3.2min ---
+[10:06:20] 
+[21/100] ASHBY | OpenAI — Software Engineer, Agent Infrastructure (score=74.0)
+[10:06:25]   FAILED: Submit button not found
+[10:06:28] 
+[22/100] GREENHOUSE | Flexport — Senior Software Engineer, AI Platform (score=75.0)
+[10:06:39]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:06:42] 
+[23/100] ASHBY | OpenAI — Full Stack Software Engineer - Enterprise Agents (score=74.0)
+[10:06:46]   FAILED: Submit button not found
+[10:06:49] 
+[24/100] GREENHOUSE | Flexport — Software Engineer II, AI Platform (score=75.0)
+[10:07:02]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:07:06] 
+[25/100] ASHBY | Pinecone — Senior Software Engineer, Experience Platform (score=73.0)
+[10:07:10]   FAILED: Submit button not found
+[10:07:13] 
+[26/100] GREENHOUSE | Stripe — Software Engineer, Machine Learning Infrastructure (score=74.0)
+[10:07:17]   FAILED: Submit button not found
+[10:07:20] 
+[27/100] ASHBY | Deepgram — Research Staff, LLMs (score=73.0)
+[10:07:25]   FAILED: Submit button not found
+[10:07:28] 
+[28/100] GREENHOUSE | Scale AI — Applied AI Engineer, Enterprise (score=74.0)
+[10:07:38]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:07:41] 
+[29/100] ASHBY | Deepgram — Senior Software Engineer,  Mobile - Saga Team (score=73.0)
+[10:07:45]   FAILED: Submit button not found
+[10:07:48] 
+[30/100] GREENHOUSE | Chainguard — Staff Software Engineer (Libraries Platform) (score=74.0)
+[10:08:05]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:08:05] --- Progress: 30/100 | OK=11 FAIL=19 CODE=0 | 5.0min ---
+[10:08:08] 
+[31/100] ASHBY | LiveKit — Senior Software Engineer, Telephony (score=73.0)
+[10:08:13]   FAILED: Submit button not found
+[10:08:16] 
+[32/100] GREENHOUSE | Reddit — Staff Software Engineer (score=73.0)
+[10:08:30]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:08:34] 
+[33/100] ASHBY | LiveKit — Senior Backend Engineer, Billing & Monetization (score=73.0)
+[10:08:38]   FAILED: Submit button not found
+[10:08:41] 
+[34/100] GREENHOUSE | Reddit — Staff Software Engineer, Ads Business Manager (score=73.0)
+[10:08:54]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:08:57] 
+[35/100] ASHBY | LiveKit — Senior Infrastructure Engineer (score=73.0)
+[10:09:02]   FAILED: Submit button not found
+[10:09:05] 
+[36/100] GREENHOUSE | Reddit — Staff Software Engineer, Ads Growth (score=73.0)
+[10:09:20]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:09:23] 
+[37/100] ASHBY | Perplexity AI — Staff Backend Software Engineer - API Platform  (score=71.0)
+[10:09:27]   FAILED: Submit button not found
+[10:09:30] 
+[38/100] GREENHOUSE | Reddit — Staff Software Engineer, Ads Safety (score=73.0)
+[10:09:46]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:09:49] 
+[39/100] ASHBY | Perplexity AI — Staff Full Stack Software Engineer  (score=71.0)
+[10:09:53]   FAILED: Submit button not found
+[10:09:56] 
+[40/100] GREENHOUSE | Reddit — Staff Software Engineer, Identity  (score=73.0)
+[10:10:01]   FAILED: Submit button not found
+[10:10:01] --- Progress: 40/100 | OK=15 FAIL=25 CODE=0 | 6.9min ---
+[10:10:04] 
+[41/100] ASHBY | Cohere — Staff Software Engineer, Inference Infrastructure (score=71.0)
+[10:10:09]   FAILED: Submit button not found
+[10:10:12] 
+[42/100] GREENHOUSE | Twilio — Senior Engineer, Security Automation (score=73.0)
+[10:10:22]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:10:26] 
+[43/100] ASHBY | Harvey AI — Senior Software Engineer, Full Stack (score=71.0)
+[10:10:30]   FAILED: Submit button not found
+[10:10:33] 
+[44/100] GREENHOUSE | Discord — Staff Software Engineer, Design Systems (score=73.0)
+[10:10:50]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:10:53] 
+[45/100] ASHBY | Harvey AI — Senior Software Engineer, Core Infrastructure (score=71.0)
+[10:10:58]   FAILED: Submit button not found
+[10:11:01] 
+[46/100] GREENHOUSE | Discord — Staff Software Engineer, Player Experience (score=73.0)
+[10:11:20]   >>> SUCCESS: Wraith verified: likely success <<<
+[10:11:25] 
+[47/100] ASHBY | Harvey AI — Staff Software Engineer, Core Infrastructure (score=71.0)
+[10:11:30]   FAILED: Submit button not found
+[10:11:33] 
+[48/100] GREENHOUSE | Samsara — Senior Data Platform Engineer (score=73.0)
+[10:11:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:11:48] 
+[49/100] ASHBY | Harvey AI — Senior Software Engineer, Site Reliability Enginee (score=71.0)
+[10:11:53]   FAILED: Submit button not found
+[10:11:56] 
+[50/100] GREENHOUSE | Samsara — Senior Machine Learning Engineer (score=73.0)
+[10:12:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:12:06] --- Progress: 50/100 | OK=20 FAIL=30 CODE=0 | 9.0min ---
+[10:12:09] 
+[51/100] ASHBY | Harvey AI — Staff Software Engineer, Site Reliability Engineer (score=71.0)
+[10:12:14]   FAILED: Submit button not found
+[10:12:17] 
+[52/100] GREENHOUSE | Samsara — Senior Marketing AI Data Engineer (score=73.0)
+[10:12:29]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:12:32] 
+[53/100] ASHBY | Harvey AI — Staff Software Engineer, Full Stack (score=71.0)
+[10:12:37]   FAILED: Submit button not found
+[10:12:41] 
+[54/100] GREENHOUSE | Samsara — Senior Mobile Software Engineer - BLE / Connectivi (score=73.0)
+[10:12:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:12:55] 
+[55/100] ASHBY | Harvey AI — Mid/Senior/Staff Software Engineer, Agents (score=71.0)
+[10:13:00]   FAILED: Submit button not found
+[10:13:03] 
+[56/100] GREENHOUSE | Samsara — Senior Software Engineer - Compliance Team (score=73.0)
+[10:13:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:13:17] 
+[57/100] ASHBY | OpenAI — Senior Software Engineer, Infrastructure  (score=71.0)
+[10:13:21]   FAILED: Submit button not found
+[10:13:25] 
+[58/100] GREENHOUSE | Samsara — Senior Software Engineer - Connected Asset Mainten (score=73.0)
+[10:13:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:13:38] 
+[59/100] ASHBY | Sentry — Senior Software Engineer (C/C++), SDK (score=71.0)
+[10:13:43]   FAILED: Submit button not found
+[10:13:46] 
+[60/100] GREENHOUSE | Samsara — Senior Software Engineer - Connectivity (score=73.0)
+[10:13:58]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:13:58] --- Progress: 60/100 | OK=25 FAIL=35 CODE=0 | 10.9min ---
+[10:14:01] 
+[61/100] ASHBY | Sentry — Senior Software Engineer (Android), SDK (score=71.0)
+[10:14:06]   FAILED: Submit button not found
+[10:14:09] 
+[62/100] GREENHOUSE | Samsara — Senior Software Engineer - Enterprise Management (score=73.0)
+[10:14:19]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:14:23] 
+[63/100] ASHBY | Sentry — Senior Software Engineer (iOS), SDK (score=71.0)
+[10:14:27]   FAILED: Submit button not found
+[10:14:30] 
+[64/100] GREENHOUSE | Samsara — Senior Software Engineer, Fleet Safety (score=73.0)
+[10:14:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:14:43] 
+[65/100] ASHBY | Supabase — Platform Engineer: Kubernetes (score=68.0)
+[10:14:47]   FAILED: Submit button not found
+[10:14:50] 
+[66/100] GREENHOUSE | Samsara — Senior Software Engineer - Fleet Security (score=73.0)
+[10:15:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:15:03] 
+[67/100] ASHBY | Supabase — Platform Engineer: General Compute (score=68.0)
+[10:15:07]   FAILED: Submit button not found
+[10:15:11] 
+[68/100] GREENHOUSE | Samsara — Senior Software Engineer, Full-Stack - Vehicle Dat (score=73.0)
+[10:15:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:15:24] 
+[69/100] ASHBY | Supabase — Software Engineer - Support Tooling (APAC/AMER) (score=68.0)
+[10:15:29]   FAILED: Submit button not found
+[10:15:32] 
+[70/100] GREENHOUSE | Samsara — Senior Software Engineer I - External Platform (score=73.0)
+[10:15:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:15:42] --- Progress: 70/100 | OK=30 FAIL=40 CODE=0 | 12.6min ---
+[10:15:45] 
+[71/100] ASHBY | Supabase — Platform Engineer: Data (score=68.0)
+[10:15:50]   FAILED: Submit button not found
+[10:15:53] 
+[72/100] GREENHOUSE | Samsara — Senior Software Engineer II - External Platform (score=73.0)
+[10:16:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:16:06] 
+[73/100] ASHBY | Supabase — SDK Engineer - Go (score=68.0)
+[10:16:11]   FAILED: Submit button not found
+[10:16:15] 
+[74/100] GREENHOUSE | Samsara — Senior Software Engineer II, Fleet Safety (score=73.0)
+[10:16:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:16:28] 
+[75/100] ASHBY | Supabase — SDK Engineer - Flutter (score=68.0)
+[10:16:33]   FAILED: Submit button not found
+[10:16:36] 
+[76/100] GREENHOUSE | Samsara — Senior Software Engineer I/II - Mobile Platform (score=73.0)
+[10:16:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:16:49] 
+[77/100] ASHBY | Supabase — SDK Engineer - C# (score=68.0)
+[10:16:54]   FAILED: Submit button not found
+[10:16:57] 
+[78/100] GREENHOUSE | Samsara — Senior Software Engineer II - Route Planning (score=73.0)
+[10:17:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:17:11] 
+[79/100] ASHBY | Supabase — SDK Engineer - Kotlin (score=68.0)
+[10:17:15]   FAILED: Submit button not found
+[10:17:19] 
+[80/100] GREENHOUSE | Samsara — Senior Software Engineer II - Safety  (score=73.0)
+[10:17:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:17:28] --- Progress: 80/100 | OK=35 FAIL=45 CODE=0 | 14.4min ---
+[10:17:31] 
+[81/100] ASHBY | Deepgram — Backend Software Engineer - Active Learning Team (score=68.0)
+[10:17:36]   FAILED: Submit button not found
+[10:17:39] 
+[82/100] GREENHOUSE | Samsara — Senior Software Engineer II,  Smart Trailer & Conn (score=73.0)
+[10:17:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:17:52] 
+[83/100] ASHBY | Deepgram — Research Engineer, Machine Learning Systems (score=68.0)
+[10:17:56]   FAILED: Submit button not found
+[10:17:59] 
+[84/100] GREENHOUSE | Samsara — Senior Software Engineer I,  Smart Trailer & Conne (score=73.0)
+[10:18:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:18:12] 
+[85/100] ASHBY | Deepgram — Backend Engineer- Inference Services (score=68.0)
+[10:18:17]   FAILED: Submit button not found
+[10:18:20] 
+[86/100] GREENHOUSE | Samsara — Senior Software Engineer - Route Execution (score=73.0)
+[10:18:29]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:18:32] 
+[87/100] ASHBY | Deepgram — Site Reliability Engineer - AI & ML Infrastructure (score=68.0)
+[10:18:37]   FAILED: Submit button not found
+[10:18:40] 
+[88/100] GREENHOUSE | Samsara — Senior Software Engineer, Safety (score=73.0)
+[10:18:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:18:52] 
+[89/100] ASHBY | Cursor — Software Engineer, Security (score=68.0)
+[10:18:57]   FAILED: Submit button not found
+[10:19:00] 
+[90/100] GREENHOUSE | Samsara — Sr. AI/Machine Learning Engineer - Supply Chain (score=73.0)
+[10:19:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:19:10] --- Progress: 90/100 | OK=40 FAIL=50 CODE=0 | 16.1min ---
+[10:19:13] 
+[91/100] ASHBY | Cursor — Software Engineer, Bugbot (score=68.0)
+[10:19:17]   FAILED: Submit button not found
+[10:19:21] 
+[92/100] GREENHOUSE | Samsara — Sr. Automation Engineer (Infra) (score=73.0)
+[10:19:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:19:34] 
+[93/100] ASHBY | Cursor — Software Engineer, Enterprise Platform (score=68.0)
+[10:19:38]   FAILED: Submit button not found
+[10:19:41] 
+[94/100] GREENHOUSE | Samsara — Sr. Software Engineer II - Connected Equipment (score=73.0)
+[10:19:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:19:54] 
+[95/100] ASHBY | Cursor — Software Engineer, Billing (score=68.0)
+[10:19:59]   FAILED: Submit button not found
+[10:20:02] 
+[96/100] GREENHOUSE | Samsara — Sr. Software Engineer - Safety Event Detection (score=73.0)
+[10:20:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:20:17] 
+[97/100] ASHBY | OpenAI — Datacenter Hardware Operations Technician, AI Comp (score=68.0)
+[10:20:22]   FAILED: Submit button not found
+[10:20:25] 
+[98/100] GREENHOUSE | Samsara — Staff Machine Learning Engineer (score=73.0)
+[10:20:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:20:38] 
+[99/100] ASHBY | OpenAI — Security Engineer, Infrastructure Security (score=68.0)
+[10:20:42]   FAILED: Submit button not found
+[10:20:45] 
+[100/100] GREENHOUSE | Samsara — Staff Software Engineer (score=73.0)
+[10:20:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[10:20:57] --- Progress: 100/100 | OK=45 FAIL=55 CODE=0 | 17.9min ---
+[10:20:58] 
+======================================================================
+[10:20:58] WRAITH APPLY SWARM DONE — 17.9min
+[10:20:58]   Success: 45
+[10:20:58]   Failed: 55
+[10:20:58]   Needs code: 0
+[10:20:58]   Rate: 5.6 apps/min
+[10:20:58] ======================================================================

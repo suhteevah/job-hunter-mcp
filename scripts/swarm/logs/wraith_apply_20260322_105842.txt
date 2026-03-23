@@ -1,0 +1,428 @@
+[10:58:42] ======================================================================
+[10:58:42] WRAITH CDP APPLY SWARM
+[10:58:42] ======================================================================
+[10:58:43]   ashby: 100 jobs
+[10:58:43] Total: 100 jobs
+[10:58:43] Starting Wraith MCP client...
+[10:58:47] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[10:58:47] 
+[1/100] ASHBY | OpenAI — Full-Stack Software Engineer, Social Products (score=58.0)
+[10:59:08]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[10:59:12] 
+[2/100] ASHBY | OpenAI — Strategy & Operations, Rapid Response Program Mana (score=58.0)
+[10:59:34]   FAILED: Submit button not found
+[10:59:37] 
+[3/100] ASHBY | OpenAI — Site Reliability Engineer, Frontier Systems Infras (score=58.0)
+[11:00:03]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:00:06] 
+[4/100] ASHBY | OpenAI — Software Engineer, Productivity (score=58.0)
+[11:00:26]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:00:29] 
+[5/100] ASHBY | OpenAI — Software Engineer, Hardware (score=58.0)
+[11:00:48]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:00:51] 
+[6/100] ASHBY | OpenAI — Offensive Security Engineer, Agent Security (score=58.0)
+[11:01:09]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:01:13] 
+[7/100] ASHBY | OpenAI — Forward Deployed Software Engineer - NYC (score=58.0)
+[11:01:44]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:01:47] 
+[8/100] ASHBY | OpenAI — Software Engineer, Distributed Data Systems (Sora) (score=58.0)
+[11:02:05]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:02:08] 
+[9/100] ASHBY | OpenAI — Hardware Development Infrastructure Engineer (score=58.0)
+[11:02:29]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:02:34] 
+[10/100] ASHBY | OpenAI — Backend Software Engineer - B2B Applications (score=58.0)
+[11:02:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:02:52] --- Progress: 10/100 | OK=9 FAIL=1 CODE=0 | 4.1min ---
+[11:02:55] 
+[11/100] ASHBY | OpenAI — System Software Engineer, Consumer Devices (score=58.0)
+[11:03:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:03:54]   DB error: database is locked
+[11:03:57] 
+[12/100] ASHBY | OpenAI — Connectivity Software Engineer (score=58.0)
+[11:04:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:04:17] 
+[13/100] ASHBY | OpenAI — Frontend Software Engineer - B2B Applications (score=58.0)
+[11:04:36]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:05:00] 
+[14/100] ASHBY | OpenAI — Camera ISP Software Engineer, Consumer Devices (score=58.0)
+[11:05:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:05:24] 
+[15/100] ASHBY | OpenAI — Trust & Safety Operations Analyst, Ads (score=58.0)
+[11:05:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:05:43] 
+[16/100] ASHBY | OpenAI — Software Engineer, Monetization AI/ML (score=58.0)
+[11:06:04]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:06:08] 
+[17/100] ASHBY | OpenAI — Software Engineer, Monetization Product & Platform (score=58.0)
+[11:06:32]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:06:35] 
+[18/100] ASHBY | OpenAI — Software Engineer, Codex for Teams (score=58.0)
+[11:06:55]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:06:59] 
+[19/100] ASHBY | OpenAI — Software Engineer, Codex Cloud (score=58.0)
+[11:07:16]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:07:20] 
+[20/100] ASHBY | OpenAI — Fullstack Engineer, Safety Engineering (score=58.0)
+[11:07:38]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:07:38] --- Progress: 20/100 | OK=19 FAIL=1 CODE=0 | 8.9min ---
+[11:07:41] 
+[21/100] ASHBY | OpenAI — Full Stack Engineer, Health AI (score=58.0)
+[11:07:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:08:01] 
+[22/100] ASHBY | OpenAI — Software Engineer, Full-Stack — Developer Experien (score=58.0)
+[11:08:17]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:08:20] 
+[23/100] ASHBY | OpenAI — iOS Software Engineer, ChatGPT Engineering (score=58.0)
+[11:08:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:08:46] 
+[24/100] ASHBY | OpenAI — Engineering Manager, Identity Infrastructure (score=58.0)
+[11:09:05]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:09:08] 
+[25/100] ASHBY | OpenAI — Backend Engineer, Consumer Devices (score=58.0)
+[11:09:32]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:09:36] 
+[26/100] ASHBY | OpenAI — Software Engineer, Platform Systems (score=58.0)
+[11:09:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:09:58] 
+[27/100] ASHBY | OpenAI — People Data Automation Analyst (score=58.0)
+[11:10:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:10:18] 
+[28/100] ASHBY | OpenAI — Software Engineer - Sensing, Consumer Devices (score=58.0)
+[11:10:36]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:10:39] 
+[29/100] ASHBY | OpenAI — Engineering Manager, API Experience (score=58.0)
+[11:11:03]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:11:06] 
+[30/100] ASHBY | OpenAI — Software Engineer, Encryption (score=58.0)
+[11:11:32]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:11:34] --- Progress: 30/100 | OK=29 FAIL=1 CODE=0 | 12.8min ---
+[11:11:38] 
+[31/100] ASHBY | OpenAI — Backend Software Engineer, ChatGPT Engineering (score=58.0)
+[11:12:06]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:12:09] 
+[32/100] ASHBY | OpenAI — Machine Learning Engineer, Distributed Data System (score=58.0)
+[11:12:26]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:12:30] 
+[33/100] ASHBY | OpenAI — Backend Software Engineer - B2B Connectors  (score=58.0)
+[11:12:50]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:12:54] 
+[34/100] ASHBY | OpenAI — Component and Product Quality Engineer, Interconne (score=58.0)
+[11:13:12]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:13:15] 
+[35/100] ASHBY | OpenAI — Platform Engineer, Forward Deployed Engineering (F (score=58.0)
+[11:13:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:13:37] 
+[36/100] ASHBY | OpenAI — Research Engineer / Machine Learning Engineer - Ap (score=58.0)
+[11:13:57]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[11:14:00] 
+[37/100] ASHBY | OpenAI — Software Engineer, Codex App (score=58.0)
+[11:14:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:14:23] 
+[38/100] ASHBY | OpenAI — Frontend Software Engineer, Codex App (score=58.0)
+[11:14:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:14:43] 
+[39/100] ASHBY | OpenAI — Platform Engineer, Forward Deployed Engineering (F (score=58.0)
+[11:15:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:15:05] 
+[40/100] ASHBY | OpenAI — Platform Engineering Manager, Forward Deployed Eng (score=58.0)
+[11:15:26]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:15:26] --- Progress: 40/100 | OK=39 FAIL=1 CODE=0 | 16.7min ---
+[11:15:30] 
+[41/100] ASHBY | OpenAI — iOS Engineer, ChatGPT Mobile Infrastructure (score=58.0)
+[11:15:51]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:15:55] 
+[42/100] ASHBY | OpenAI — Android Engineer, ChatGPT Mobile Infrastructure (score=58.0)
+[11:16:17]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:16:20] 
+[43/100] ASHBY | OpenAI — Software Engineer, Ads Monetization, Revenue Platf (score=58.0)
+[11:16:37]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:16:40] 
+[44/100] ASHBY | OpenAI — Forward Deployed Software Engineer - Seattle (score=58.0)
+[11:16:59]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:17:03] 
+[45/100] ASHBY | OpenAI — Data Scientist, API  (score=58.0)
+[11:17:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:17:27] 
+[46/100] ASHBY | OpenAI — Recruiting Infrastructure Manager  (score=58.0)
+[11:17:48]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:17:52] 
+[47/100] ASHBY | OpenAI — Software Engineer, Delivery / CD (score=58.0)
+[11:18:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:18:17] 
+[48/100] ASHBY | OpenAI — Software Engineer - Human Alignment, Consumer Devi (score=58.0)
+[11:18:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:18:36] 
+[49/100] ASHBY | OpenAI — Software Engineer, Localization (score=58.0)
+[11:18:55]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:18:58] 
+[50/100] ASHBY | OpenAI — Rack Product Engineer, AI Rack Infrastructure - St (score=58.0)
+[11:19:26]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:19:26] --- Progress: 50/100 | OK=49 FAIL=1 CODE=0 | 20.7min ---
+[11:19:29] 
+[51/100] ASHBY | Baseten — Software Engineer - Core Product (score=58.0)
+[11:19:50]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:19:54] 
+[52/100] ASHBY | Baseten — Software Engineer - Model Performance (score=58.0)
+[11:20:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:20:15] 
+[53/100] ASHBY | Baseten — Forward Deployed SRE (score=58.0)
+[11:20:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:20:39] 
+[54/100] ASHBY | Baseten — Site Reliability Engineer (SRE) (score=58.0)
+[11:20:57]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:21:01] 
+[55/100] ASHBY | Baseten — Software Engineer - GPU Kernels (score=58.0)
+[11:21:19]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:21:22] 
+[56/100] ASHBY | Baseten — Software Engineer - Enterprise Platform (score=58.0)
+[11:21:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:21:44] 
+[57/100] ASHBY | Baseten — Engineering Manager - Forward Deployed Engineering (score=58.0)
+[11:22:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:22:05] 
+[58/100] ASHBY | Baseten — Software Engineer - Training Product (score=58.0)
+[11:22:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:22:24] 
+[59/100] ASHBY | Baseten — Software Engineer, Model Performance Tooling (score=58.0)
+[11:22:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:22:45] 
+[60/100] ASHBY | Baseten — Software Engineer - New Products (score=58.0)
+[11:23:03]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:23:03] --- Progress: 60/100 | OK=59 FAIL=1 CODE=0 | 24.3min ---
+[11:23:06] 
+[61/100] ASHBY | Baseten — Software Engineer - AI Enablement (score=58.0)
+[11:23:22]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:23:25] 
+[62/100] ASHBY | Baseten — Software Engineer — GPU Networking & Distributed S (score=58.0)
+[11:23:41]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:23:44] 
+[63/100] ASHBY | Baseten — Infrastructure Ops Engineer (score=58.0)
+[11:24:00]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:24:03] 
+[64/100] ASHBY | Baseten — Data Engineer (score=58.0)
+[11:24:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:24:23] 
+[65/100] ASHBY | Beam — Software Engineer (score=58.0)
+[11:24:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:24:43] 
+[66/100] ASHBY | Sentry — Software Engineer, Ingest (score=58.0)
+[11:25:00]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:25:03] 
+[67/100] ASHBY | Anyscale — Senior / Staff Product Manager - Ray Data (score=55.0)
+[11:25:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:25:24] 
+[68/100] ASHBY | LangChain — Senior Frontend Engineer, AI Observability & Evals (score=55.0)
+[11:25:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:25:45] 
+[69/100] ASHBY | LangChain — Senior Technical Support Engineer (score=55.0)
+[11:26:01]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:26:04] 
+[70/100] ASHBY | LangChain — Senior IT Support Engineer (score=55.0)
+[11:26:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:26:22] --- Progress: 70/100 | OK=69 FAIL=1 CODE=0 | 27.6min ---
+[11:26:25] 
+[71/100] ASHBY | Pinecone — Staff Developer Advocate  (score=55.0)
+[11:26:41]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:26:44] 
+[72/100] ASHBY | Deepgram — Staff Developer Advocate (score=55.0)
+[11:27:00]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:27:04] 
+[73/100] ASHBY | Deepgram — Senior Forward-Deployed Engineer, Federal (score=55.0)
+[11:27:21]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[11:27:24] 
+[74/100] ASHBY | Cohere — Senior Member of Technical Staff, Multimodal AI (score=55.0)
+[11:27:41]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:27:44] 
+[75/100] ASHBY | Cohere — Member of Technical Staff, Search (score=55.0)
+[11:28:01]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:28:04] 
+[76/100] ASHBY | Cohere — Member of Technical Staff, Model Efficiency (score=55.0)
+[11:28:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:28:24] 
+[77/100] ASHBY | Cohere — Staff Research Engineer, Model Efficiency (score=55.0)
+[11:28:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:28:45] 
+[78/100] ASHBY | Cohere — Member of Technical Staff, MLE (score=55.0)
+[11:29:00]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:29:04] 
+[79/100] ASHBY | Cohere — Member of Technical Staff, Senior/Staff MLE (score=55.0)
+[11:29:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:29:24] 
+[80/100] ASHBY | Harvey AI — Senior Product Operations Manager (score=55.0)
+[11:29:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:29:43] --- Progress: 80/100 | OK=79 FAIL=1 CODE=0 | 30.9min ---
+[11:29:46] 
+[81/100] ASHBY | Harvey AI — Staff Product Manager, Vault (score=55.0)
+[11:30:05]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:30:08] 
+[82/100] ASHBY | Harvey AI — Staff Product Manager (score=55.0)
+[11:30:26]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:30:30] 
+[83/100] ASHBY | Harvey AI — Senior Forward Deployed Engineer (score=55.0)
+[11:30:44]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:30:47] 
+[84/100] ASHBY | Harvey AI — Senior Product Operations Manager, Evaluation (score=55.0)
+[11:31:04]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:31:07] 
+[85/100] ASHBY | Harvey AI — Senior Data Scientist, GTM (score=55.0)
+[11:31:23]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:31:26] 
+[86/100] ASHBY | Harvey AI — Staff Product Manager, Data & Retrieval (score=55.0)
+[11:31:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:31:43] 
+[87/100] ASHBY | Harvey AI — Senior Technical User Operations Specialist (score=55.0)
+[11:31:57]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:32:00] 
+[88/100] ASHBY | Harvey AI — Senior Manager, People Operations (score=55.0)
+[11:32:16]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:32:20] 
+[89/100] ASHBY | Harvey AI — Staff Product Manager, In-House (score=55.0)
+[11:32:36]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:32:39] 
+[90/100] ASHBY | OpenAI — Senior Support Engineer - San Francisco (score=55.0)
+[11:32:56]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:32:56] --- Progress: 90/100 | OK=89 FAIL=1 CODE=0 | 34.2min ---
+[11:32:59] 
+[91/100] ASHBY | OpenAI — Senior Global Security Investigator (score=55.0)
+[11:33:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:33:18] 
+[92/100] ASHBY | OpenAI — Senior Technical Sourcer, Scaling  (score=55.0)
+[11:33:34]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:33:37] 
+[93/100] ASHBY | OpenAI — Senior Research Engineer/Scientist - On-Device Tra (score=55.0)
+[11:33:55]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:33:58] 
+[94/100] ASHBY | OpenAI — Senior Manager, Financial Risk Management (score=55.0)
+[11:34:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:34:18] 
+[95/100] ASHBY | OpenAI — Senior Manager, CapEx Accounting (score=55.0)
+[11:34:34]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:34:37] 
+[96/100] ASHBY | OpenAI — Senior Manager, Technical Accounting (M&A) (score=55.0)
+[11:34:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:34:56] 
+[97/100] ASHBY | OpenAI — Senior Legal Solutions Architect (score=55.0)
+[11:35:12]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:35:16] 
+[98/100] ASHBY | OpenAI — Senior Manager, Procurement Help Desk (score=55.0)
+[11:35:32]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:35:35] 
+[99/100] ASHBY | OpenAI — Senior Manager, Revenue Risk & Compliance (FRM) (score=55.0)
+[11:35:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:35:57] 
+[100/100] ASHBY | OpenAI — Senior Manager, Ads Revenue (score=55.0)
+[11:36:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[11:36:13] --- Progress: 100/100 | OK=99 FAIL=1 CODE=0 | 37.4min ---
+[11:36:13] 
+======================================================================
+[11:36:13] WRAITH APPLY SWARM DONE — 37.4min
+[11:36:13]   Success: 99
+[11:36:13]   Failed: 1
+[11:36:13]   Needs code: 0
+[11:36:13]   Rate: 2.7 apps/min
+[11:36:13] ======================================================================

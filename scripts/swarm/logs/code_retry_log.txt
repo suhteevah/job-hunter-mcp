@@ -1,0 +1,157 @@
+=== SECURITY CODE RETRY 2026-03-20T21:20:31.632065+00:00 ===
+[14:20:31] Found 154 jobs needing security codes
+[14:20:32] [1/50] GitLab — Major Account Executive - Texas  (board=gitlab)
+[14:20:46]     Country = United States
+[14:20:46]     Uploaded resume
+[14:20:48]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-mi
+[14:20:54]     EEOC: are you subject to any employment a = I agree
+[14:20:56]     EEOC: will you now or in the future requi = Decline
+[14:20:57]     EEOC: have you previously worked at or co = Decline
+[14:20:58]     EEOC: what is your current country of res = Decline
+[14:20:58]     Found 3 unfilled React Selects
+[14:21:28]     EEOC MISS:  (id=iti-0__search-input)
+[14:21:33]     EEOC: what is your current country of res = Decline
+[14:21:37]     EEOC: what is your current country of res = Decline
+[14:21:39]     Clicked submit
+[14:21:43]     Security code requested — fetching from Gmail (waiting up to 45s)...
+[14:21:43]     Polling Gmail for GitLab code (max 90s, baseline=17681)...
+[14:21:44]     1 new msgs (fetching 17682:17682)
+[14:21:44]     Got code: DhO7LUS3 (attempt 1)
+[14:21:45]     Entering code: DhO7LUS3
+[14:21:45]     JS result: CLICKED:submit application
+[14:21:50]   >>> SUCCESS: Confirmed after code DhO7LUS3 <<<
+[14:21:55] [2/50] GitLab — Manager, Customer Success Engineer, EMEA (board=gitlab)
+[14:22:00]     Country = United States
+[14:22:00]     Uploaded resume
+[14:22:02]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-mi
+[14:22:09]     EEOC: please choose the country in which  = Decline
+[14:22:10]     EEOC: are you subject to any employment a = I agree
+[14:22:11]     EEOC: will you now or in the future requi = Decline
+[14:22:13]     EEOC: what is your current country of res = Decline
+[14:22:13]     Found 3 unfilled React Selects
+[14:22:43]     EEOC MISS:  (id=iti-0__search-input)
+[14:22:47]     EEOC: what is your current country of res = Decline
+[14:22:51]     EEOC: what is your current country of res = Decline
+[14:22:53]     Clicked submit
+[14:22:57]     Security code requested — fetching from Gmail (waiting up to 45s)...
+[14:22:57]     Polling Gmail for GitLab code (max 90s, baseline=17684)...
+[14:22:58]     1 new msgs (fetching 17685:17685)
+[14:22:58]     Got code: R3QakFnD (attempt 1)
+[14:22:59]     Entering code: R3QakFnD
+[14:22:59]     JS result: CLICKED:submit application
+[14:23:04]   >>> SUCCESS: Confirmed after code R3QakFnD <<<
+[14:23:09] [3/50] GitLab — Manager, Ecosystem Sales - EMEA South (board=gitlab)
+[14:23:14]     Country = United States
+[14:23:14]     Uploaded resume
+[14:23:16]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-mi
+[14:23:21]     EEOC: are you subject to any employment a = I agree
+[14:23:23]     EEOC: will you now or in the future requi = Decline
+[14:23:24]     EEOC: what is your current country of res = Decline
+[14:23:24]     Found 3 unfilled React Selects
+[14:23:54]     EEOC MISS:  (id=iti-0__search-input)
+[14:23:58]     EEOC: what is your current country of res = Decline
+[14:24:03]     EEOC: what is your current country of res = Decline
+[14:24:05]     Clicked submit
+[14:24:09]     Security code requested — fetching from Gmail (waiting up to 45s)...
+[14:24:09]     Polling Gmail for GitLab code (max 90s, baseline=17685)...
+[14:24:10]     2 new msgs (fetching 17686:17687)
+[14:24:10]     Got code: xPERMz90 (attempt 1)
+[14:24:10]     Entering code: xPERMz90
+[14:24:10]     JS result: CLICKED:submit application
+[14:24:15]   >>> SUCCESS: Confirmed after code xPERMz90 <<<
+[14:24:20] [4/50] GitLab — Manager, Global Sales Development Operations (board=gitlab)
+[14:24:25]     Country = United States
+[14:24:26]     Uploaded resume
+[14:24:27]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-mi
+[14:24:38]     EEOC: are you based in the us or canada?* = Decline
+[14:24:39]     EEOC: will you now or in the future requi = Decline
+[14:24:41]     EEOC: do you have experience designing an = Decline
+[14:24:42]     EEOC: do you have hands-on experience man = Decline
+[14:24:43]     EEOC: are you subject to any employment a = I agree
+[14:24:45]     EEOC: have you previously worked at or co = Decline
+[14:24:46]     EEOC: what is your current country of res = Decline
+[14:24:46]     Found 3 unfilled React Selects
+[14:25:16]     EEOC MISS:  (id=iti-0__search-input)
+[14:25:20]     EEOC: what is your current country of res = Decline
+[14:25:24]     EEOC: what is your current country of res = Decline
+[14:25:26]     Clicked submit
+[14:25:30]     Security code requested — fetching from Gmail (waiting up to 45s)...
+[14:25:30]     Polling Gmail for GitLab code (max 90s, baseline=17688)...
+[14:25:31]     1 new msgs (fetching 17689:17689)
+[14:25:32]     Got code: L1ZZMip4 (attempt 1)
+[14:25:32]     Entering code: L1ZZMip4
+[14:25:32]     JS result: CLICKED:submit application
+[14:25:37]   >>> SUCCESS: Confirmed after code L1ZZMip4 <<<
+[14:25:42] [5/50] GitLab — Manager, Solutions Architects - West (board=gitlab)
+[14:25:47]     Country = United States
+[14:25:48]     Uploaded resume
+[14:25:49]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-mi
+[14:25:52]     Q: What city/town and state/province d = Chico, CA, United States
+[14:25:57]     EEOC: this role is only open to candidate = Decline
+[14:25:58]     EEOC: what is your current country of res = Decline
+[14:26:00]     EEOC: will you now or in the future requi = Decline
+[14:26:01]     EEOC: are you subject to any employment a = I agree
+[14:26:02]     EEOC: have you previously worked at or co = Decline
+[14:26:02]     Found 3 unfilled React Selects
+[14:26:32]     EEOC MISS:  (id=iti-0__search-input)
+[14:26:37]     EEOC: have you previously worked at or co = Decline
+[14:26:41]     EEOC: have you previously worked at or co = Decline
+[14:26:43]     Clicked submit
+[14:26:47]     Security code requested — fetching from Gmail (waiting up to 45s)...
+[14:26:47]     Polling Gmail for GitLab code (max 90s, baseline=17691)...
+[14:26:48]     1 new msgs (fetching 17692:17692)
+[14:26:48]     Got code: TmdvwU7u (attempt 1)
+[14:26:48]     Entering code: TmdvwU7u
+[14:26:48]     JS result: CLICKED:submit application
+[14:26:53]   >>> SUCCESS: Confirmed after code TmdvwU7u <<<
+[14:26:58] [6/50] GitLab — New Business Account Executive - DACH (board=gitlab)
+[14:27:03]     Country = United States
+[14:27:04]     Uploaded resume
+[14:27:05]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-mi
+[14:27:12]     EEOC: are you subject to any employment a = I agree
+[14:27:13]     EEOC: will you now or in the future requi = Decline
+[14:27:14]     EEOC: have you previously worked at or co = Decline
+[14:27:16]     EEOC: what is your current country of res = Decline
+[14:27:16]     Found 3 unfilled React Selects
+[14:27:46]     EEOC MISS:  (id=iti-0__search-input)
+[14:27:50]     EEOC: what is your current country of res = Decline
+[14:27:54]     EEOC: what is your current country of res = Decline
+[14:27:56]     Clicked submit
+[14:28:00]     Security code requested — fetching from Gmail (waiting up to 45s)...
+[14:28:00]     Polling Gmail for GitLab code (max 90s, baseline=17693)...
+[14:28:01]     1 new msgs (fetching 17694:17694)
+[14:28:02]     Got code: BVfWFdzR (attempt 1)
+[14:28:02]     Entering code: BVfWFdzR
+[14:28:02]     JS result: CLICKED:submit application
+[14:28:07]   >>> SUCCESS: Confirmed after code BVfWFdzR <<<
+[14:28:12] [7/50] GitLab — New Business Account Executive - East (board=gitlab)
+[14:28:17]     Country = United States
+[14:28:19]     Uploaded resume
+[14:28:20]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-mi
+[14:28:29]     EEOC: please choose the country in which  = Decline
+[14:28:30]     EEOC: are you subject to any employment a = I agree
+[14:28:32]     EEOC: will you now or in the future requi = Decline
+[14:28:33]     EEOC: have you previously worked at or co = Decline
+[14:28:34]     EEOC: what is your current country of res = Decline
+[14:28:34]     Found 3 unfilled React Selects
+[14:29:04]     EEOC MISS:  (id=iti-0__search-input)
+[14:29:09]     EEOC: what is your current country of res = Decline
+[14:29:13]     EEOC: what is your current country of res = Decline
+[14:29:15]     Clicked submit
+[14:29:19]     Security code requested — fetching from Gmail (waiting up to 45s)...
+[14:29:19]     Polling Gmail for GitLab code (max 90s, baseline=17696)...
+[14:29:20]     1 new msgs (fetching 17697:17697)
+[14:29:21]     Got code: He6umHWe (attempt 1)
+[14:29:21]     Entering code: He6umHWe
+[14:29:21]     JS result: CLICKED:submit application
+[14:29:26]   >>> SUCCESS: Confirmed after code He6umHWe <<<
+[14:29:31] [8/50] GitLab — New Business Account Executive - Korea (board=gitlab)
+[14:29:36]     Country = United States
+[14:29:36]     Uploaded resume
+[14:29:38]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-mi
+[14:29:46]     EEOC: are you subject to any employment a = I agree
+[14:29:47]     EEOC: will you now or in the future requi = Decline
+[14:29:48]     EEOC: have you previously worked at or co = Decline
+[14:29:50]     EEOC: what is your current country of res = Decline
+[14:29:51]     EEOC: are you based in korea?* = Decline
+[14:29:51]     Found 3 unfilled React Selects

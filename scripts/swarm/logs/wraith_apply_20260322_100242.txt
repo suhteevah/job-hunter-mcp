@@ -1,0 +1,173 @@
+[10:02:42] ======================================================================
+[10:02:42] WRAITH CDP APPLY SWARM
+[10:02:42] ======================================================================
+[10:02:42]   ashby: 50 jobs
+[10:02:42] Total: 50 jobs
+[10:02:42] Starting Wraith MCP client...
+[10:02:45] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[10:02:45] 
+[1/50] ASHBY | Perplexity AI — Backend Software Engineer - Mobile  (score=58.0)
+[10:02:50]   FAILED: Submit button not found
+[10:02:54] 
+[2/50] ASHBY | Perplexity AI — AI Engineer, Applied ML (score=58.0)
+[10:02:58]   FAILED: Submit button not found
+[10:03:01] 
+[3/50] ASHBY | Perplexity AI — Software Engineer - Security (score=58.0)
+[10:03:06]   FAILED: Submit button not found
+[10:03:09] 
+[4/50] ASHBY | Perplexity AI — Tech Lead Manager - Agents (score=58.0)
+[10:03:13]   FAILED: Submit button not found
+[10:03:16] 
+[5/50] ASHBY | Perplexity AI — Software Engineer - Acceleration (score=58.0)
+[10:03:20]   FAILED: Submit button not found
+[10:03:23] 
+[6/50] ASHBY | Perplexity AI — Backend Software Engineer  (score=58.0)
+[10:03:28]   FAILED: Submit button not found
+[10:03:31] 
+[7/50] ASHBY | ElevenLabs — Forward Deployed Engineer - Software Engineer (score=58.0)
+[10:03:35]   FAILED: Submit button not found
+[10:03:38] 
+[8/50] ASHBY | ElevenLabs — Automations Engineer (score=58.0)
+[10:03:43]   FAILED: Submit button not found
+[10:03:46] 
+[9/50] ASHBY | Anyscale — Software Engineer (Ray Data) (score=58.0)
+[10:03:50]   FAILED: Submit button not found
+[10:03:53] 
+[10/50] ASHBY | Anyscale — Software Engineer (Ray Core) (score=58.0)
+[10:03:58]   FAILED: Submit button not found
+[10:03:58] --- Progress: 10/50 | OK=0 FAIL=10 CODE=0 | 1.2min ---
+[10:04:01] 
+[11/50] ASHBY | LangChain — Python OSS Engineer  (score=58.0)
+[10:04:05]   FAILED: Submit button not found
+[10:04:08] 
+[12/50] ASHBY | LangChain — Talent Systems and Recruiting Automation Lead (score=58.0)
+[10:04:12]   FAILED: Submit button not found
+[10:04:15] 
+[13/50] ASHBY | LangChain — Software Engineering Manager, AI Observability & E (score=58.0)
+[10:04:20]   FAILED: Submit button not found
+[10:04:23] 
+[14/50] ASHBY | LangChain — Education Engineer, Fullstack (score=58.0)
+[10:04:27]   FAILED: Submit button not found
+[10:04:30] 
+[15/50] ASHBY | LangChain — FullStack Engineer,  Observability & Evals Platfor (score=58.0)
+[10:04:35]   FAILED: Submit button not found
+[10:04:38] 
+[16/50] ASHBY | LangChain — Education Engineer, Machine Learning (score=58.0)
+[10:04:42]   FAILED: Submit button not found
+[10:04:45] 
+[17/50] ASHBY | LangChain — Software Engineering Manager, AI Observability & E (score=58.0)
+[10:04:49]   FAILED: Submit button not found
+[10:04:52] 
+[18/50] ASHBY | Deepgram — Software Engineer - Deepgram for Restaurants (score=58.0)
+[10:04:57]   FAILED: Submit button not found
+[10:05:00] 
+[19/50] ASHBY | Mem — Sr. Software Engineer (score=58.0)
+[10:05:04]   FAILED: Submit button not found
+[10:05:07] 
+[20/50] ASHBY | Harvey AI — Software Engineer, Developer Experience (DevEx) (score=58.0)
+[10:05:12]   FAILED: Submit button not found
+[10:05:12] --- Progress: 20/50 | OK=0 FAIL=20 CODE=0 | 2.4min ---
+[10:05:15] 
+[21/50] ASHBY | Harvey AI — Infrastructure Security Engineer (score=58.0)
+[10:05:19]   FAILED: Submit button not found
+[10:05:22] 
+[22/50] ASHBY | Harvey AI — Technical Program Manager, Security & Trust (score=58.0)
+[10:05:27]   FAILED: Submit button not found
+[10:05:30] 
+[23/50] ASHBY | OpenAI — Technical Program Manager, Compute Infrastructure (score=58.0)
+[10:05:34]   FAILED: Submit button not found
+[10:05:38] 
+[24/50] ASHBY | OpenAI — Software Engineer, Scaled Abuse (score=58.0)
+[10:05:42]   FAILED: Submit button not found
+[10:05:45] 
+[25/50] ASHBY | OpenAI — Software Engineer, Developer Productivity (score=58.0)
+[10:05:50]   FAILED: Submit button not found
+[10:05:53] 
+[26/50] ASHBY | OpenAI — Software Engineer, Data Acquisition  (score=58.0)
+[10:05:58]   FAILED: Submit button not found
+[10:06:01] 
+[27/50] ASHBY | OpenAI — Data Engineer, Analytics (score=58.0)
+[10:06:06]   FAILED: Submit button not found
+[10:06:09] 
+[28/50] ASHBY | OpenAI — Software Engineer, Observability (score=58.0)
+[10:06:14]   FAILED: Submit button not found
+[10:06:17] 
+[29/50] ASHBY | OpenAI — Software Engineer, Backend - Sora (score=58.0)
+[10:06:22]   FAILED: Submit button not found
+[10:06:25] 
+[30/50] ASHBY | OpenAI — Software Engineer, Collective Communication (score=58.0)
+[10:06:29]   FAILED: Submit button not found
+[10:06:29] --- Progress: 30/50 | OK=0 FAIL=30 CODE=0 | 3.7min ---
+[10:06:32] 
+[31/50] ASHBY | OpenAI — Research Engineer, Applied AI Engineering (score=58.0)
+[10:06:37]   FAILED: Submit button not found
+[10:06:40] 
+[32/50] ASHBY | OpenAI — Software Engineer, Financial Engineering (score=58.0)
+[10:06:45]   FAILED: Submit button not found
+[10:06:48] 
+[33/50] ASHBY | OpenAI — Software Engineer, Real Time (score=58.0)
+[10:06:53]   FAILED: Submit button not found
+[10:06:56] 
+[34/50] ASHBY | OpenAI — Software Engineer, Integrity Foundations (score=58.0)
+[10:07:00]   FAILED: Submit button not found
+[10:07:03] 
+[35/50] ASHBY | OpenAI — Software Engineer, Youth Well-Being (score=58.0)
+[10:07:09]   FAILED: Submit button not found
+[10:07:12] 
+[36/50] ASHBY | OpenAI — Software Engineer, Fleet Management (score=58.0)
+[10:07:17]   FAILED: Submit button not found
+[10:07:20] 
+[37/50] ASHBY | OpenAI — Software Engineer, Frontier Systems - Power Manage (score=58.0)
+[10:07:24]   FAILED: Submit button not found
+[10:07:27] 
+[38/50] ASHBY | OpenAI — Software Engineer, Model Inference (score=58.0)
+[10:07:32]   FAILED: Submit button not found
+[10:07:35] 
+[39/50] ASHBY | OpenAI — Software Engineer, Compute - Storage (score=58.0)
+[10:07:39]   FAILED: Submit button not found
+[10:07:42] 
+[40/50] ASHBY | OpenAI — Forward Deployed Software Engineer - SF (score=58.0)
+[10:07:47]   FAILED: Submit button not found
+[10:07:47] --- Progress: 40/50 | OK=0 FAIL=40 CODE=0 | 5.0min ---
+[10:07:50] 
+[41/50] ASHBY | OpenAI — Software Engineer, Reliability  (score=58.0)
+[10:07:55]   FAILED: Submit button not found
+[10:07:58] 
+[42/50] ASHBY | OpenAI — Machine Learning Engineer, Integrity (score=58.0)
+[10:08:03]   FAILED: Submit button not found
+[10:08:06] 
+[43/50] ASHBY | OpenAI — Software Engineer, Gov (score=58.0)
+[10:08:10]   FAILED: Submit button not found
+[10:08:13] 
+[44/50] ASHBY | OpenAI — Software Engineer, Frontier Systems (score=58.0)
+[10:08:18]   FAILED: Submit button not found
+[10:08:21] 
+[45/50] ASHBY | OpenAI — Researcher, Trustworthy AI (score=58.0)
+[10:08:26]   FAILED: Submit button not found
+[10:08:29] 
+[46/50] ASHBY | OpenAI — Full Stack Engineer, Fleet Scheduling (score=58.0)
+[10:08:34]   FAILED: Submit button not found
+[10:08:37] 
+[47/50] ASHBY | OpenAI — TLM, Machine Learning, Integrity (score=58.0)
+[10:08:41]   FAILED: Submit button not found
+[10:08:44] 
+[48/50] ASHBY | OpenAI — Recruiting Manager, Applied AI Engineering (score=58.0)
+[10:08:49]   FAILED: Submit button not found
+[10:08:52] 
+[49/50] ASHBY | OpenAI — Technical Program Manager, Trustworthy AI (score=58.0)
+[10:08:57]   FAILED: Submit button not found
+[10:09:00] 
+[50/50] ASHBY | OpenAI — Software Engineer, Backend (Cooperative AI) (score=58.0)
+[10:09:05]   FAILED: Submit button not found
+[10:09:05] --- Progress: 50/50 | OK=0 FAIL=50 CODE=0 | 6.3min ---
+[10:09:05] 
+======================================================================
+[10:09:05] WRAITH APPLY SWARM DONE — 6.3min
+[10:09:05]   Success: 0
+[10:09:05]   Failed: 50
+[10:09:05]   Needs code: 0
+[10:09:05]   Rate: 7.9 apps/min
+[10:09:05] ======================================================================
