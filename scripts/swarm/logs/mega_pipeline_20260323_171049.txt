@@ -1,0 +1,65 @@
+[17:10:49] MEGA PIPELINE started at 2026-03-23T17:10:49.551554
+[17:10:49] Args: {'scrape': False, 'rescore': False, 'apply': True, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 50.0, 'limit': 100, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[17:10:49] 
+======================================================================
+[17:10:49] PHASE 3: APPLY 
+[17:10:49] ======================================================================
+[17:10:49]   ashby: 10 jobs
+[17:10:49]   greenhouse: 5 jobs
+[17:10:49] Total: 15 jobs across 2 platforms
+[17:10:50] 
+[1/15] ASHBY | OpenAI — System Software Engineer, Consumer Devices (score=58.0)
+[17:11:13]   >>> SUCCESS: Confirmation detected <<<
+[17:11:16] 
+[2/15] GREENHOUSE | ClickHouse — Senior Software Engineer (Typescript / Backend) -  (score=57.0)
+[17:11:28]   FAILED: Validation: Will you require sponsorship or transfer of sponsorship to obtain or extend your right to work in your curre
+[17:11:31] 
+[3/15] ASHBY | OpenAI — Industrial Builds, Senior Project Manager, Design  (score=55.0)
+[17:11:45]   >>> SUCCESS: Confirmation detected <<<
+[17:11:48] 
+[4/15] GREENHOUSE | ClickHouse — Full Stack Software Engineer - Control Plane (score=56.0)
+[17:11:59]   FAILED: Validation: Are you authorized to work in the United States without future visa sponsorship?*; Select...; This field is 
+[17:12:02] 
+[5/15] ASHBY | OpenAI — Senior Manager, People Compliance  (score=55.0)
+[17:12:17]   >>> SUCCESS: Confirmation detected <<<
+[17:12:20] 
+[6/15] GREENHOUSE | ClickHouse — Full Stack Software Engineer - Control Plane (score=56.0)
+[17:12:31]   FAILED: Validation: Are you authorized to work in Germany without any future visa sponsorship?*; Select...; This field is requir
+[17:12:34] 
+[7/15] ASHBY | OpenAI — Senior Producer,  Global Events (score=55.0)
+[17:12:48]   >>> SUCCESS: Confirmation detected <<<
+[17:12:51] 
+[8/15] GREENHOUSE | Anthropic — Solutions Architect, Applied AI (score=54.0)
+[17:13:03]   >>> SUCCESS: Confirmation detected <<<
+[17:13:06] 
+[9/15] ASHBY | Baseten — Senior Compensation Manager (score=55.0)
+[17:13:20]   >>> SUCCESS: Confirmation detected <<<
+[17:13:23] 
+[10/15] GREENHOUSE | Discord — Software Engineer, Data Platform (score=51.0)
+[17:13:36]   FAILED: Validation: Are you legally authorized to work in the United States for our Company?*; Select...; This field is required
+[17:13:36] --- Progress: 10 done | OK=6 FAIL=4 CODE=0 | 2.8min ---
+[17:13:39] 
+[11/15] ASHBY | Baseten — Senior Manager, People Operations (score=55.0)
+[17:13:53]   >>> SUCCESS: Confirmation detected <<<
+[17:13:56] 
+[12/15] ASHBY | Coder — Senior Strategic Partner Development Manager (score=55.0)
+[17:14:10]   >>> SUCCESS: Confirmation detected <<<
+[17:14:13] 
+[13/15] ASHBY | Sentry — Senior Developer Experience Engineer (score=55.0)
+[17:14:28]   >>> SUCCESS: Confirmation detected <<<
+[17:14:31] 
+[14/15] ASHBY | Sentry — Senior Solutions Engineer  (score=55.0)
+[17:14:45]   >>> SUCCESS: Confirmation detected <<<
+[17:14:48] 
+[15/15] ASHBY | Sentry — Senior Data Scientist (score=55.0)
+[17:15:02]   >>> SUCCESS: Confirmation detected <<<
+[17:15:02] 
+APPLY DONE in 4.2min
+[17:15:02]   Success: 11
+[17:15:02]   Failed: 4
+[17:15:02]   Needs code: 0
+[17:15:02]   Rate: 3.6 apps/min
+[17:15:02] 
+======================================================================
+[17:15:02] MEGA PIPELINE COMPLETE — 4.2min total
+[17:15:02] ======================================================================

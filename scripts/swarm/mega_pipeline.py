@@ -1,12 +1,13 @@
 """
-MEGA PIPELINE — Unified Scrape + Score + Apply
-================================================
+MEGA PIPELINE — Unified Scrape + Score + Apply (Wraith-Only)
+=============================================================
 Single entry point for the entire job hunting pipeline.
+Zero Playwright dependency — all browser automation via Wraith CDP/native.
 
 Phases:
   1. SCRAPE  — Hit Greenhouse/Ashby/Lever APIs, insert to DB
   2. RESCORE — Fetch full descriptions for title-only scored jobs, rescore
-  3. APPLY   — Playwright-based apply for Ashby + Greenhouse, track results
+  3. APPLY   — Wraith CDP for Greenhouse+Ashby, Wraith native for Lever
 
 Usage:
   python mega_pipeline.py --scrape              # scrape only
@@ -36,6 +37,8 @@ from html.parser import HTMLParser
 from urllib.parse import urlparse
 
 import requests
+
+from wraith_mcp_client import WraithMCPClient
 
 # ═══════════════════════════════════════════════════════════════════════
 # CONFIG
@@ -211,7 +214,6 @@ LEVER_BOARDS = {
     "huggingface": "Hugging Face",
 }
 
-# Board token lookup for wrapped Greenhouse URLs
 KNOWN_GH_BOARDS = {
     "samsara": "samsara", "databricks": "databricks", "stripe": "stripe",
     "datadog": "datadog", "coreweave": "coreweave", "cockroach labs": "cockroachlabs",
@@ -431,7 +433,6 @@ def scrape_ashby_board(slug: str, company: str) -> list:
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"})
         if resp.status_code != 200:
             return []
-        # Try __NEXT_DATA__ first
         json_match = re.search(r'<script[^>]*id="__NEXT_DATA__"[^>]*>(.*?)</script>', resp.text, re.DOTALL)
         if json_match:
             try:
@@ -454,7 +455,6 @@ def scrape_ashby_board(slug: str, company: str) -> list:
                 return results
             except json.JSONDecodeError:
                 pass
-        # Fallback: regex extract links
         job_links = re.findall(rf'href="/{re.escape(slug)}/([a-f0-9-]{{36}})"[^>]*>([^<]+)', resp.text)
         results = []
         for job_id, title in job_links:
@@ -605,7 +605,6 @@ def strip_html(html: str) -> str:
 
 
 def rescore_worker(job: dict) -> dict:
-    """Fetch full description from Greenhouse API and rescore."""
     url = job["url"]
     m = re.search(r'boards(?:-api)?\.greenhouse\.io/([^/]+)/jobs/(\d+)', url)
     if not m:
@@ -740,124 +739,109 @@ def generate_cover_letter(company: str, title: str) -> str:
 
 
 # ═══════════════════════════════════════════════════════════════════════
-# FORM HELPERS
+# WRAITH FORM INTELLIGENCE — Parse snapshot, fill fields
 # ═══════════════════════════════════════════════════════════════════════
 
-def answer_for_label(label: str, company: str, title: str) -> str:
-    ll = label.lower()
+def parse_snapshot_refs(snapshot: str) -> list:
+    """Parse Wraith snapshot into list of {ref, tag, text, type, name, value} dicts."""
+    elements = []
+    for line in snapshot.split("\n"):
+        m = re.match(r'^(@\w+)\s+\[(\w+)\]\s+(.*)', line.strip())
+        if m:
+            ref, tag, text = m.group(1), m.group(2), m.group(3).strip().strip('"')
+            elements.append({"ref": ref, "tag": tag, "text": text})
+    return elements
+
+
+def guess_field_answer(text: str, company: str, title: str) -> str:
+    """Given a field label/placeholder, return the best answer."""
+    ll = text.lower()
+    if "first name" in ll or "first_name" in ll:
+        return APPLICANT["first_name"]
+    if "last name" in ll or "last_name" in ll:
+        return APPLICANT["last_name"]
+    if "full name" in ll or (ll.strip() == "name"):
+        return APPLICANT["name"]
+    if "email" in ll:
+        return APPLICANT["email"]
+    if "phone" in ll or "mobile" in ll or "cell" in ll:
+        return APPLICANT["phone"]
     if "linkedin" in ll:
         return APPLICANT["linkedin"]
     if "github" in ll or "portfolio" in ll or "website" in ll or "url" in ll:
         return APPLICANT["github"]
-    if "salary" in ll or "compensation" in ll or "pay" in ll or "expectation" in ll:
-        return "$150,000 USD"
-    if "location" in ll or "city" in ll or "based" in ll or "where" in ll:
+    if "location" in ll or "city" in ll or "where" in ll or "based" in ll:
         return APPLICANT["location"]
-    if "year" in ll and ("experience" in ll or "ai" in ll or "ml" in ll or "python" in ll or "software" in ll):
-        return "10"
-    if "preferred" in ll and "name" in ll:
-        return APPLICANT["first_name"]
-    if "refer" in ll and "name" not in ll:
-        return "No"
-    if "how did you" in ll and ("find" in ll or "hear" in ll):
-        return "Job board"
     if "current" in ll and "company" in ll:
         return APPLICANT["current_company"]
-    if any(x in ll for x in ["facebook", "instagram", "twitter", "social media"]):
-        return "N/A"
-    if "cover" in ll or "additional" in ll or "anything else" in ll:
-        return generate_cover_letter(company, title)
-    if "why" in ll and ("interest" in ll or "excite" in ll or "join" in ll or "work" in ll or "apply" in ll):
-        return generate_cover_letter(company, title)
-    if "tell us" in ll or "about your" in ll or "background" in ll or "describe" in ll:
-        return generate_cover_letter(company, title)
-    if "what excites" in ll or "motivation" in ll or "passion" in ll:
-        return generate_cover_letter(company, title)
-    if "notice" in ll or "start date" in ll or "available" in ll:
-        return "Immediately"
+    if "salary" in ll or "compensation" in ll or "expectation" in ll:
+        return "$150,000 USD"
+    if "year" in ll and ("experience" in ll or "ai" in ll or "python" in ll or "software" in ll):
+        return "10"
+    if "how did you" in ll and ("hear" in ll or "find" in ll):
+        return "Job board"
+    if "authorized" in ll or "authorization" in ll or "eligible" in ll or "lawfully" in ll:
+        return "Yes"
+    if "sponsor" in ll or "visa" in ll:
+        return "No"
     if "country" in ll or "residence" in ll:
         return "United States"
     if "state" in ll or "province" in ll:
         return "California"
     if "zip" in ll or "postal" in ll:
         return "95928"
-    if "pronoun" in ll:
-        return "he/him"
     if "address" in ll:
         return "Chico, CA"
-    if any(x in ll for x in ["phone", "mobile", "cell"]):
-        return APPLICANT["phone"]
-    # Work authorization questions (text field variant)
-    if "authorized" in ll or "authorization" in ll or "legally" in ll or "eligible" in ll or "lawfully" in ll:
-        return "Yes"
-    if "sponsor" in ll or "visa" in ll or "immigration" in ll:
+    if "notice" in ll or "start date" in ll or "available" in ll:
+        return "Immediately"
+    if "refer" in ll and "name" not in ll:
         return "No"
-    if "business trip" in ll or "travel" in ll or "relocat" in ll or "willing to" in ll:
+    if "pronoun" in ll:
+        return "he/him"
+    if "education" in ll or "degree" in ll or "school" in ll:
+        return "Butte College — Associates level coursework in Computer Science"
+    if "business trip" in ll or "travel" in ll or "relocat" in ll or "willing" in ll:
         return "Yes"
     if "clearance" in ll:
         return "No"
-    # AI/tech questions — answer with relevant experience
-    if any(x in ll for x in ["how are you using ai", "ai experiment", "ai today", "ai tool"]):
-        return (
-            "I use AI daily in my work — I've built 10+ production MCP servers, a 27K-line Rust browser "
-            "automation framework with AI agent orchestration, and deployed LLM-powered RAG pipelines. "
-            "My latest experiment is an autonomous job application agent using Claude + browser automation."
-        )
-    if any(x in ll for x in ["project", "achievement", "accomplishment", "proud of"]):
-        return (
-            "Built a weather prediction trading bot achieving 20x returns with 4 beta testers, "
-            "a 27K-line Rust browser automation framework (Wraith), and distributed AI inference "
-            "infrastructure serving multiple models across heterogeneous GPU hardware."
-        )
-    if "education" in ll or "degree" in ll or "school" in ll or "university" in ll:
-        return "Butte College — Associates level coursework in Computer Science"
     if "race" in ll or "gender" in ll or "ethnic" in ll or "veteran" in ll or "disability" in ll:
         return "Decline to self-identify"
-    # Catch-all: if the field is required and we don't know, give a short relevant answer
-    # rather than leaving blank (which causes validation failures)
-    if any(x in ll for x in ["required", "*"]):
+    if any(x in ll for x in ["how are you using ai", "ai experiment", "ai tool"]):
+        return ("I use AI daily — built 10+ production MCP servers, a 27K-line Rust browser automation "
+                "framework with AI agent orchestration, and deployed LLM-powered RAG pipelines.")
+    if any(x in ll for x in ["project", "achievement", "accomplishment", "proud of"]):
+        return ("Built a weather prediction trading bot achieving 20x returns, "
+                "a 27K-line Rust browser automation framework (Wraith), and distributed AI inference "
+                "infrastructure serving multiple models across heterogeneous GPU hardware.")
+    if any(x in ll for x in ["cover letter", "additional", "anything else", "why", "tell us", "about your",
+                              "motivation", "excite", "interest", "passion", "background", "describe",
+                              "what excites"]):
+        return generate_cover_letter(company, title)
+    if any(x in ll for x in ["facebook", "instagram", "twitter", "social media"]):
+        return "N/A"
+    if any(x in ll for x in ["required", "*"]) and not any(x in ll for x in ["name", "email", "phone"]):
         return "Yes"
     return ""
 
 
-def pick_select_value(label: str, options: list) -> str:
-    ll = label.lower()
-    if "authorized" in ll or "authorization" in ll or "lawfully" in ll or "eligible" in ll:
-        for opt in options:
-            ol = opt.lower()
-            if "do not require" in ol or ("authorized" in ol and "do not" in ol):
-                return opt
-        for opt in options:
-            if "yes" in opt.lower() and "not" not in opt.lower():
-                return opt
-    if "sponsor" in ll or "visa" in ll or "immigration" in ll:
-        for opt in options:
-            ol = opt.lower()
-            if ol == "no" or "will not" in ol or "do not" in ol or "not require" in ol:
-                return opt
-    if any(kw in ll for kw in ["agree", "privacy", "consent", "acknowledge"]):
-        for opt in options:
-            if any(x in opt.lower() for x in ["agree", "yes", "i agree"]):
-                return opt
-    if any(kw in ll for kw in ["ml", "machine learning", "ai", "deploy", "production"]):
-        for opt in options:
-            if any(x in opt.lower() for x in ["yes", "personally", "owned", "production"]):
-                return opt
-        return options[-1] if options else ""
-    if any(kw in ll for kw in ["gender", "race", "veteran", "disability", "ethnicity"]):
-        for opt in options:
-            if "decline" in opt.lower() or "prefer not" in opt.lower():
-                return opt
-        return options[-1] if options else ""
-    if any(kw in ll for kw in ["remote", "hybrid", "office", "on-site", "relocation"]):
-        for opt in options:
-            if "yes" in opt.lower():
-                return opt
-    if any(kw in ll for kw in ["how did you hear", "where did you", "source"]):
-        for opt in options:
-            if any(x in opt.lower() for x in ["job board", "website", "online", "other"]):
-                return opt
-    return options[0] if options else ""
+def guess_select_answer(text: str) -> str:
+    """Return best keyword to type into a dropdown given its label."""
+    ll = text.lower()
+    if "authorized" in ll or "authorization" in ll or "eligible" in ll or "lawfully" in ll:
+        return "Yes"
+    if "sponsor" in ll or "visa" in ll:
+        return "No"
+    if "country" in ll or "residence" in ll:
+        return "United States"
+    if "how did you hear" in ll or "source" in ll:
+        return "Job board"
+    if "gender" in ll or "race" in ll or "veteran" in ll or "disability" in ll or "ethnicity" in ll:
+        return "Decline"
+    if "remote" in ll or "hybrid" in ll or "relocation" in ll:
+        return "Yes"
+    if "agree" in ll or "consent" in ll or "acknowledge" in ll:
+        return "agree"
+    return "Yes"
 
 
 # ═══════════════════════════════════════════════════════════════════════
@@ -872,9 +856,9 @@ def fetch_security_code(company: str, platform: str = "greenhouse", max_wait: in
         mail.login(GMAIL_USER, GMAIL_APP_PASSWORD)
         mail.select("inbox")
         if platform == "greenhouse":
-            search_q = f'(FROM "greenhouse" SUBJECT "security code" UNSEEN)'
+            search_q = '(FROM "greenhouse" SUBJECT "security code" UNSEEN)'
         else:
-            search_q = f'(FROM "ashby" SUBJECT "verification" UNSEEN)'
+            search_q = '(FROM "ashby" SUBJECT "verification" UNSEEN)'
         for attempt in range(max_wait // 3):
             status, data = mail.search(None, search_q)
             if status == "OK" and data[0]:
@@ -908,474 +892,389 @@ def fetch_security_code(company: str, platform: str = "greenhouse", max_wait: in
 
 
 # ═══════════════════════════════════════════════════════════════════════
-# PHASE 3: APPLY — Ashby (Playwright)
+# PHASE 3: APPLY — Greenhouse via Wraith CDP
 # ═══════════════════════════════════════════════════════════════════════
 
-def apply_ashby(page, url: str, company: str, title: str) -> dict:
-    try:
-        page.goto(url, wait_until="networkidle", timeout=30000)
-    except Exception:
-        try:
-            page.goto(url, wait_until="domcontentloaded", timeout=15000)
-        except Exception as e:
-            return {"success": False, "error": f"Load timeout: {e}"}
+def apply_greenhouse_cdp(wraith: WraithMCPClient, url: str, company: str, title: str) -> dict:
+    """Apply to a Greenhouse job using Wraith CDP."""
+    # Convert custom career page URLs to standard Greenhouse embed URLs
+    gh_jid_match = re.search(r'gh_jid=(\d+)', url)
+    if gh_jid_match and 'greenhouse.io' not in url:
+        jid = gh_jid_match.group(1)
+        url = f"https://boards.greenhouse.io/embed/job_app?token={jid}"
+        log(f"  Converted to embed URL: {url[:60]}")
+    elif 'job-boards.greenhouse.io' in url:
+        jid_match = re.search(r'/jobs/(\d+)', url)
+        if jid_match:
+            jid = jid_match.group(1)
+            url = f"https://boards.greenhouse.io/embed/job_app?token={jid}"
+    elif 'boards.greenhouse.io' in url and '/embed/' not in url:
+        jid_match = re.search(r'/jobs/(\d+)', url)
+        if jid_match:
+            jid = jid_match.group(1)
+            url = f"https://boards.greenhouse.io/embed/job_app?token={jid}"
 
-    time.sleep(3)
-    page_text = (page.text_content("body") or "").lower()
-    if "not found" in page_text or "no longer" in page_text or "expired" in page_text:
+    snap = wraith.navigate_cdp(url)
+    if "not found" in snap.lower() or "no longer" in snap.lower():
         return {"success": False, "error": "Job no longer available"}
 
-    # Click Apply button if present
-    try:
-        apply_btn = page.query_selector(
-            'button:has-text("Apply"), a:has-text("Apply"), '
-            '[data-testid*="apply"], button[class*="apply"]')
-        if apply_btn and apply_btn.is_visible():
-            apply_btn.scroll_into_view_if_needed()
-            apply_btn.click()
-            time.sleep(2)
-    except Exception:
-        pass
+    time.sleep(2)
+    snap = wraith.snapshot()
+    elements = parse_snapshot_refs(snap)
 
     cover_letter = generate_cover_letter(company, title)
 
-    # Fill by CSS selectors
-    field_fills = [
-        ('input[name*="name" i]:not([name*="last"]):not([name*="company"]), input[placeholder*="Full name" i], input[placeholder*="Name" i]', APPLICANT["name"]),
-        ('input[name*="first_name" i], input[placeholder*="First" i]', APPLICANT["first_name"]),
-        ('input[name*="last_name" i], input[placeholder*="Last" i]', APPLICANT["last_name"]),
-        ('input[type="email"], input[name*="email" i], input[placeholder*="Email" i]', APPLICANT["email"]),
-        ('input[type="tel"], input[name*="phone" i], input[placeholder*="Phone" i]', APPLICANT["phone"]),
-        ('input[name*="linkedin" i], input[placeholder*="LinkedIn" i]', APPLICANT["linkedin"]),
-        ('input[name*="github" i], input[placeholder*="GitHub" i], input[name*="portfolio" i]', APPLICANT["github"]),
-        ('input[name*="location" i], input[placeholder*="Location" i], input[placeholder*="City" i]', APPLICANT["location"]),
-        ('input[name*="company" i]:not([name*="name"]), input[placeholder*="Current company" i]', APPLICANT["current_company"]),
-    ]
-    for selector, value in field_fills:
-        try:
-            el = page.query_selector(selector)
-            if el and el.is_visible():
-                el.fill(value)
-                time.sleep(0.2)
-        except Exception:
-            pass
-
-    # Fill by label association
-    try:
-        label_pairs = page.evaluate('''() => {
-            const results = [];
-            document.querySelectorAll('label').forEach(label => {
-                let input = null;
-                const forId = label.getAttribute('for');
-                if (forId) input = document.getElementById(forId);
-                if (!input) input = label.querySelector('input, textarea, select');
-                if (!input) {
-                    const next = label.nextElementSibling;
-                    if (next) input = next.matches('input,textarea,select') ? next : next.querySelector('input,textarea,select');
-                }
-                if (input && input.offsetParent !== null) {
-                    results.push({
-                        label: label.textContent.trim().substring(0, 100),
-                        id: input.id || '', name: input.name || '',
-                        tag: input.tagName.toLowerCase(), type: input.type || '',
-                        value: input.value || '', placeholder: input.placeholder || ''
-                    });
-                }
-            });
-            return results;
-        }''')
-        for pair in label_pairs:
-            if pair["value"]:
-                continue
-            selector = f"#{pair['id']}" if pair["id"] else f"[name='{pair['name']}']" if pair["name"] else None
-            if not selector:
-                continue
-            if pair["tag"] in ("input", "textarea") and pair["type"] not in ("file", "checkbox", "radio", "hidden"):
-                answer = answer_for_label(pair["label"], company, title)
-                if answer:
-                    try:
-                        el = page.query_selector(selector)
-                        if el and el.is_visible():
-                            el.fill(answer)
-                            time.sleep(0.2)
-                    except Exception:
-                        pass
-    except Exception:
-        pass
+    # Fill all input fields
+    for el in elements:
+        if el["tag"] in ("input", "textarea"):
+            answer = guess_field_answer(el["text"], company, title)
+            if answer:
+                wraith.fill(el["ref"], answer)
+                time.sleep(0.3)
 
     # Upload resume
-    try:
-        file_input = page.query_selector('input[type="file"]')
-        if file_input and os.path.exists(RESUME_PATH):
-            file_input.set_input_files(RESUME_PATH)
-            time.sleep(1.5)
-    except Exception:
-        pass
+    for el in elements:
+        if el["tag"] == "input" and "file" in el["text"].lower():
+            wraith.upload_file(el["ref"], RESUME_PATH)
+            time.sleep(1)
+            break
+    else:
+        snap2 = wraith.snapshot()
+        for line in snap2.split("\n"):
+            if "file" in line.lower() and "resume" in line.lower():
+                m = re.match(r'^(@\w+)', line.strip())
+                if m:
+                    wraith.upload_file(m.group(1), RESUME_PATH)
+                    time.sleep(1)
+                    break
 
-    # Fill textareas (cover letter)
-    try:
-        textareas = page.query_selector_all('textarea')
-        for ta in textareas:
-            if ta.is_visible() and not ta.input_value():
-                ta.fill(cover_letter)
-                break
-    except Exception:
-        pass
+    # Handle select dropdowns
+    snap3 = wraith.snapshot()
+    elements3 = parse_snapshot_refs(snap3)
+    for el in elements3:
+        if el["tag"] == "select":
+            answer = guess_select_answer(el["text"])
+            if answer:
+                wraith.select(el["ref"], answer)
+                time.sleep(0.3)
+
+    # Handle React Select custom dropdowns (combobox-like divs)
+    for el in elements3:
+        if el["tag"] in ("div", "span", "combobox") and any(x in el["text"].lower() for x in
+                ["select...", "choose", "country", "authorized", "hear about", "source",
+                 "sponsor", "visa", "gender", "race", "veteran", "disability"]):
+            answer = guess_select_answer(el["text"])
+            if answer:
+                wraith.custom_dropdown(el["ref"], answer)
+                time.sleep(0.5)
+
+    # Fill cover letter textarea if not already filled
+    snap4 = wraith.snapshot()
+    for el in parse_snapshot_refs(snap4):
+        if el["tag"] == "textarea" and not el["text"]:
+            wraith.fill(el["ref"], cover_letter)
+            time.sleep(0.3)
+            break
+
+    time.sleep(0.5)
+
+    # Find and click submit button
+    snap5 = wraith.snapshot()
+    submit_ref = None
+    for el in parse_snapshot_refs(snap5):
+        if el["tag"] == "button" and any(x in el["text"].lower() for x in
+                ["submit", "apply", "send application"]):
+            submit_ref = el["ref"]
+            break
+
+    if not submit_ref:
+        return {"success": False, "error": "Submit button not found"}
+
+    wraith.click(submit_ref)
+    time.sleep(4)
+
+    # Check result
+    verify = wraith.verify_submission()
+    verify_lower = verify.lower()
+
+    if "confirmed" in verify_lower or "success" in verify_lower:
+        return {"success": True, "msg": "Wraith verified: confirmed"}
+    if "likely" in verify_lower:
+        return {"success": True, "msg": "Wraith verified: likely success"}
+
+    snap_final = wraith.snapshot()
+    snap_lower = snap_final.lower()
+
+    if "security code" in snap_lower or "verification code" in snap_lower:
+        code = fetch_security_code(company, "greenhouse")
+        if code:
+            log(f"    Got code: {code}")
+            for el in parse_snapshot_refs(snap_final):
+                if el["tag"] == "input" and any(x in el["text"].lower() for x in ["code", "verify"]):
+                    wraith.fill(el["ref"], code)
+                    time.sleep(0.5)
+                    snap6 = wraith.snapshot()
+                    for el2 in parse_snapshot_refs(snap6):
+                        if el2["tag"] == "button" and any(x in el2["text"].lower() for x in ["verify", "submit"]):
+                            wraith.click(el2["ref"])
+                            time.sleep(4)
+                            v2 = wraith.verify_submission()
+                            if "confirmed" in v2.lower() or "success" in v2.lower() or "likely" in v2.lower():
+                                return {"success": True, "msg": "Confirmed after verification code"}
+                            break
+                    break
+        return {"success": False, "error": "NEEDS_VERIFICATION_CODE", "needs_code": True}
+
+    if any(x in snap_lower for x in ["thank you", "submitted", "received", "confirmation", "successfully"]):
+        return {"success": True, "msg": "Confirmation text detected"}
+
+    if "already applied" in snap_lower or "already submitted" in snap_lower:
+        return {"success": False, "error": "Already applied", "already": True}
+
+    # Check for validation errors
+    if any(x in snap_lower for x in ["this field is required", "please fill", "validation"]):
+        # Try to extract what failed
+        errors = []
+        for el in parse_snapshot_refs(snap_final):
+            if any(x in el["text"].lower() for x in ["required", "please", "invalid", "error"]):
+                errors.append(el["text"][:60])
+        return {"success": False, "error": f"Validation: {'; '.join(errors[:3])}" if errors else "Validation error"}
+
+    return {"success": False, "error": "No confirmation after submit"}
+
+
+# ═══════════════════════════════════════════════════════════════════════
+# PHASE 3: APPLY — Ashby via Wraith CDP
+# ═══════════════════════════════════════════════════════════════════════
+
+def apply_ashby_cdp(wraith: WraithMCPClient, url: str, company: str, title: str) -> dict:
+    """Apply to an Ashby job using Wraith CDP."""
+    snap = wraith.navigate_cdp(url)
+    if "not found" in snap.lower() or "no longer" in snap.lower() or "expired" in snap.lower():
+        return {"success": False, "error": "Job no longer available"}
+
+    time.sleep(3)
+    snap = wraith.snapshot()
+
+    # Click "Apply" button if present
+    for el in parse_snapshot_refs(snap):
+        if el["tag"] in ("button", "a") and "apply" in el["text"].lower():
+            wraith.click(el["ref"])
+            time.sleep(2)
+            snap = wraith.snapshot()
+            break
+
+    cover_letter = generate_cover_letter(company, title)
+    elements = parse_snapshot_refs(snap)
+
+    # Fill all input fields
+    for el in elements:
+        if el["tag"] in ("input", "textarea"):
+            answer = guess_field_answer(el["text"], company, title)
+            if not answer and el["tag"] == "textarea":
+                answer = cover_letter
+            if answer:
+                wraith.fill(el["ref"], answer)
+                time.sleep(0.3)
+
+    # Upload resume
+    for el in elements:
+        if el["tag"] == "input" and ("file" in el["text"].lower() or "resume" in el["text"].lower()):
+            wraith.upload_file(el["ref"], RESUME_PATH)
+            time.sleep(1)
+            break
 
     # Handle selects
-    try:
-        for sel in page.query_selector_all('select'):
-            if sel.is_visible():
-                label_el = page.evaluate('''(el) => {
-                    const l = el.closest('label') || document.querySelector('label[for="'+el.id+'"]');
-                    return l ? l.textContent.trim().substring(0,80) : '';
-                }''', sel)
-                options = sel.evaluate('''(el) => Array.from(el.options).map(o => ({value:o.value, text:o.text}))''')
-                opt_texts = [o["text"] for o in options if o["value"]]
-                if opt_texts:
-                    choice = pick_select_value(label_el, opt_texts)
-                    if choice:
-                        matching = next((o for o in options if o["text"] == choice), None)
-                        if matching:
-                            sel.select_option(value=matching["value"])
-                            time.sleep(0.2)
-    except Exception:
-        pass
+    snap2 = wraith.snapshot()
+    for el in parse_snapshot_refs(snap2):
+        if el["tag"] == "select":
+            answer = guess_select_answer(el["text"])
+            if answer:
+                wraith.select(el["ref"], answer)
+                time.sleep(0.3)
 
-    # Handle checkboxes
-    try:
-        for cb in page.query_selector_all('input[type="checkbox"]'):
-            if cb.is_visible() and not cb.is_checked():
-                lbl = page.evaluate('''(el) => {
-                    const l = el.closest('label') || document.querySelector('label[for="'+el.id+'"]');
-                    return l ? l.textContent.trim().substring(0,80) : '';
-                }''', cb)
-                if any(kw in lbl.lower() for kw in ["agree", "consent", "acknowledge", "privacy", "terms", "confirm"]):
-                    cb.check()
-    except Exception:
-        pass
+    # Handle checkboxes (consent/agree)
+    for el in parse_snapshot_refs(snap2):
+        if el["tag"] == "input" and any(x in el["text"].lower() for x in ["agree", "consent", "acknowledge", "terms"]):
+            wraith.click(el["ref"])
+            time.sleep(0.2)
 
     time.sleep(0.5)
 
     # Submit
-    try:
-        submit_btn = page.query_selector(
-            'button[type="submit"], input[type="submit"], '
-            'button:has-text("Submit"), button:has-text("Apply"), '
-            'button:has-text("Send Application")')
-        if not submit_btn or not submit_btn.is_visible():
-            submit_btn = page.query_selector('form button:last-of-type, [class*="submit"] button')
-        if submit_btn and submit_btn.is_visible():
-            submit_btn.scroll_into_view_if_needed()
-            time.sleep(0.3)
-            submit_btn.click()
-        else:
-            return {"success": False, "error": "Submit button not found"}
-    except Exception as e:
-        return {"success": False, "error": f"Submit failed: {e}"}
+    snap3 = wraith.snapshot()
+    submit_ref = None
+    for el in parse_snapshot_refs(snap3):
+        if el["tag"] == "button" and any(x in el["text"].lower() for x in ["submit", "apply", "send"]):
+            submit_ref = el["ref"]
+            break
 
+    if not submit_ref:
+        return {"success": False, "error": "Submit button not found"}
+
+    wraith.click(submit_ref)
     time.sleep(4)
-    return check_result(page, company, "ashby")
 
+    verify = wraith.verify_submission()
+    verify_lower = verify.lower()
 
-def check_result(page, company: str, platform: str) -> dict:
-    try:
-        page_text = (page.text_content("body") or "").lower()
-        page_url = page.url
+    if "confirmed" in verify_lower or "success" in verify_lower or "likely" in verify_lower:
+        return {"success": True, "msg": f"Wraith verified: {verify[:50]}"}
 
-        if "security code" in page_text or "verification code" in page_text or "verify your email" in page_text:
-            code = fetch_security_code(company, platform)
-            if code:
-                log(f"    Got code: {code}")
-                code_input = page.query_selector(
-                    'input[name*="code"], input[name*="verify"], '
-                    'input[placeholder*="code"], input[type="text"]:not([value])')
-                if code_input and code_input.is_visible():
-                    code_input.fill(code)
+    snap_final = wraith.snapshot()
+    snap_lower = snap_final.lower()
+
+    if any(x in snap_lower for x in ["thank you", "submitted", "received", "confirmation", "successfully"]):
+        return {"success": True, "msg": "Confirmation text detected"}
+
+    if "already applied" in snap_lower:
+        return {"success": False, "error": "Already applied", "already": True}
+
+    if "verification" in snap_lower or "security code" in snap_lower:
+        code = fetch_security_code(company, "ashby")
+        if code:
+            log(f"    Got code: {code}")
+            for el in parse_snapshot_refs(snap_final):
+                if el["tag"] == "input":
+                    wraith.fill(el["ref"], code)
                     time.sleep(0.5)
-                    verify_btn = page.query_selector('button:has-text("Verify"), button:has-text("Submit"), button[type="submit"]')
-                    if verify_btn:
-                        verify_btn.click()
-                        time.sleep(4)
-                        t2 = (page.text_content("body") or "").lower()
-                        if any(x in t2 for x in ["thank", "submitted", "received", "confirmation", "successfully"]):
-                            return {"success": True, "msg": "Confirmed after verification"}
-            return {"success": False, "error": "NEEDS_VERIFICATION_CODE", "needs_code": True}
+                    snap6 = wraith.snapshot()
+                    for el2 in parse_snapshot_refs(snap6):
+                        if el2["tag"] == "button" and any(x in el2["text"].lower() for x in ["verify", "submit"]):
+                            wraith.click(el2["ref"])
+                            time.sleep(4)
+                            v2 = wraith.verify_submission()
+                            if any(x in v2.lower() for x in ["confirmed", "success", "likely"]):
+                                return {"success": True, "msg": "Confirmed after verification"}
+                            break
+                    break
+        return {"success": False, "error": "NEEDS_VERIFICATION_CODE", "needs_code": True}
 
-        if any(x in page_text for x in [
-            "thank you", "application has been", "submitted",
-            "received your application", "confirmation",
-            "we have received", "successfully", "thanks for applying",
-            "thanks for your interest"
-        ]):
-            return {"success": True, "msg": "Confirmation detected"}
-
-        if "already applied" in page_text or "already submitted" in page_text:
-            return {"success": False, "error": "Already applied", "already": True}
-
-        errors = page.query_selector_all('[class*="error"], [role="alert"], [class*="invalid"]')
-        err_texts = [e.text_content().strip() for e in errors if e.text_content().strip() and len(e.text_content().strip()) < 200]
-        if err_texts:
-            return {"success": False, "error": f"Validation: {'; '.join(err_texts[:3])[:150]}"}
-
-        if any(x in page_url.lower() for x in ["confirmation", "thank", "success"]):
-            return {"success": True, "msg": "Redirected to confirmation"}
-
-        return {"success": False, "error": "No confirmation after submit"}
-    except Exception as e:
-        return {"success": False, "error": f"Result check: {e}"}
+    return {"success": False, "error": "No confirmation after submit"}
 
 
 # ═══════════════════════════════════════════════════════════════════════
-# PHASE 3: APPLY — Greenhouse (Playwright)
+# PHASE 3: APPLY — Lever via Wraith native
 # ═══════════════════════════════════════════════════════════════════════
 
-def extract_gh_board_and_id(url: str, company: str) -> tuple:
-    m = re.search(r'(?:boards|job-boards)\.(?:eu\.)?greenhouse\.io/([^/]+)/jobs/(\d+)', url)
-    if m:
-        return m.group(1), m.group(2)
-    m = re.search(r'gh_jid=(\d+)', url)
-    if m:
-        job_id = m.group(1)
-        cl = company.lower().strip()
-        board = KNOWN_GH_BOARDS.get(cl, cl.replace(" ", "").replace(".", ""))
-        return board, job_id
-    return None, None
+def apply_lever_native(wraith: WraithMCPClient, url: str, company: str, title: str) -> dict:
+    """Apply to a Lever job using Wraith native renderer (server-rendered HTML)."""
+    apply_url = url.rstrip("/") + "/apply"
+    snap = wraith.navigate(apply_url)
 
+    if "not found" in snap.lower() or "no longer" in snap.lower() or "page not found" in snap.lower():
+        return {"success": False, "error": "Job no longer available"}
 
-def apply_greenhouse(page, board: str, job_id: str, company: str, title: str) -> dict:
-    form_url = f"https://boards.greenhouse.io/{board}/jobs/{job_id}"
-    try:
-        page.goto(form_url, wait_until="networkidle", timeout=30000)
-    except Exception:
-        try:
-            page.goto(form_url, wait_until="domcontentloaded", timeout=15000)
-        except Exception as e:
-            return {"success": False, "error": f"Load timeout: {e}"}
+    time.sleep(2)
+    snap = wraith.snapshot()
+    elements = parse_snapshot_refs(snap)
 
-    try:
-        page.wait_for_selector("#application-form", timeout=15000)
-    except Exception:
-        text = page.text_content("body") or ""
-        if "not found" in text.lower() or "no longer" in text.lower():
-            return {"success": False, "error": "Job no longer available"}
-        return {"success": False, "error": "Form did not render"}
+    if not elements:
+        snap = wraith.navigate(url)
+        time.sleep(2)
+        snap = wraith.snapshot()
+        for el in parse_snapshot_refs(snap):
+            if el["tag"] in ("a", "button") and "apply" in el["text"].lower():
+                wraith.click(el["ref"])
+                time.sleep(2)
+                snap = wraith.snapshot()
+                elements = parse_snapshot_refs(snap)
+                break
 
-    time.sleep(1.5)
+    if not elements:
+        return {"success": False, "error": "No form elements found"}
+
     cover_letter = generate_cover_letter(company, title)
 
-    # Standard ID fills
-    for fid, val in {"first_name": APPLICANT["first_name"], "last_name": APPLICANT["last_name"],
-                     "email": APPLICANT["email"]}.items():
-        try:
-            el = page.query_selector(f"#{fid}")
-            if el and el.is_visible():
-                el.fill(val)
-        except Exception:
-            pass
+    # Fill text inputs
+    for el in elements:
+        if el["tag"] in ("input", "textarea"):
+            answer = guess_field_answer(el["text"], company, title)
+            if not answer and el["tag"] == "textarea":
+                answer = cover_letter
+            if answer:
+                wraith.fill(el["ref"], answer)
+                time.sleep(0.3)
 
-    # Phone
-    try:
-        el = page.query_selector("#phone, input[type='tel']")
-        if el and el.is_visible():
-            el.fill(APPLICANT["phone"])
-    except Exception:
-        pass
+    # Upload resume
+    for el in elements:
+        if el["tag"] == "input" and any(x in el["text"].lower() for x in ["file", "resume", "cv", "upload"]):
+            wraith.upload_file(el["ref"], RESUME_PATH)
+            time.sleep(1)
+            break
 
-    # Country dropdown (React Select)
-    try:
-        el = page.query_selector("#country")
-        if el and el.is_visible():
-            el.click()
-            time.sleep(0.3)
-            el.fill("United States")
-            time.sleep(0.5)
-            us_opt = page.query_selector("[class*='option']:has-text('United States')")
-            if us_opt:
-                us_opt.click()
-            else:
-                page.keyboard.press("Enter")
-            time.sleep(0.3)
-    except Exception:
-        pass
+    # Handle native selects
+    snap2 = wraith.snapshot()
+    for el in parse_snapshot_refs(snap2):
+        if el["tag"] == "select":
+            answer = guess_select_answer(el["text"])
+            if answer:
+                wraith.select(el["ref"], answer)
+                time.sleep(0.3)
 
-    # Location autocomplete
-    try:
-        el = page.query_selector("#candidate-location")
-        if el and el.is_visible():
-            el.click()
+    # Handle radio buttons (yes/no work auth, etc.)
+    for el in parse_snapshot_refs(snap2):
+        if el["tag"] == "input" and el["text"].lower().strip() in ("yes", "true"):
+            wraith.click(el["ref"])
             time.sleep(0.2)
-            el.fill("Chico")
-            time.sleep(1.0)
-            suggestion = page.query_selector("[class*='option'], [class*='suggestion'], [role='option']")
-            if suggestion and suggestion.is_visible():
-                suggestion.click()
-            else:
-                page.keyboard.press("Enter")
-            time.sleep(0.3)
-    except Exception:
-        pass
 
-    # Resume upload
-    try:
-        file_input = page.query_selector("#resume, input[type='file']")
-        if file_input and os.path.exists(RESUME_PATH):
-            file_input.set_input_files(RESUME_PATH)
-            time.sleep(1.5)
-    except Exception:
-        pass
-
-    # Cover letter upload or text
-    try:
-        cl_file = page.query_selector("#cover_letter[type='file']")
-        if cl_file:
-            pass  # Skip file-based cover letter
-        else:
-            cl_text = page.query_selector("#cover_letter, textarea[name*='cover']")
-            if cl_text and cl_text.is_visible():
-                cl_text.fill(cover_letter)
-    except Exception:
-        pass
-
-    # LinkedIn field
-    try:
-        for sel in ['input[name*="linkedin" i]', 'input[placeholder*="LinkedIn" i]',
-                    'input[id*="linkedin" i]', 'input[autocomplete="url"]']:
-            el = page.query_selector(sel)
-            if el and el.is_visible() and not el.input_value():
-                el.fill(APPLICANT["linkedin"])
-                break
-    except Exception:
-        pass
-
-    # Custom question fields — scan labels
-    try:
-        label_pairs = page.evaluate('''() => {
-            const results = [];
-            document.querySelectorAll('label').forEach(label => {
-                let input = null;
-                const forId = label.getAttribute('for');
-                if (forId) input = document.getElementById(forId);
-                if (!input) input = label.querySelector('input, textarea, select');
-                if (!input) {
-                    const next = label.nextElementSibling;
-                    if (next) input = next.matches('input,textarea,select') ? next : next.querySelector('input,textarea,select');
-                }
-                if (input && input.offsetParent !== null) {
-                    results.push({
-                        label: label.textContent.trim().substring(0, 100),
-                        id: input.id || '', name: input.name || '',
-                        tag: input.tagName.toLowerCase(), type: input.type || '',
-                        value: input.value || ''
-                    });
-                }
-            });
-            return results;
-        }''')
-        for pair in label_pairs:
-            if pair["value"]:
-                continue
-            sel = f"#{pair['id']}" if pair["id"] else f"[name='{pair['name']}']" if pair["name"] else None
-            if not sel:
-                continue
-            if pair["tag"] == "select":
-                try:
-                    sel_el = page.query_selector(sel)
-                    if sel_el and sel_el.is_visible():
-                        options = sel_el.evaluate('''(el) => Array.from(el.options).map(o => ({value:o.value, text:o.text}))''')
-                        opt_texts = [o["text"] for o in options if o["value"]]
-                        if opt_texts:
-                            choice = pick_select_value(pair["label"], opt_texts)
-                            if choice:
-                                matching = next((o for o in options if o["text"] == choice), None)
-                                if matching:
-                                    sel_el.select_option(value=matching["value"])
-                except Exception:
-                    pass
-            elif pair["tag"] in ("input", "textarea") and pair["type"] not in ("file", "checkbox", "radio", "hidden"):
-                answer = answer_for_label(pair["label"], company, title)
-                if answer:
-                    try:
-                        el = page.query_selector(sel)
-                        if el and el.is_visible():
-                            el.fill(answer)
-                    except Exception:
-                        pass
-    except Exception:
-        pass
-
-    # Checkboxes
-    try:
-        for cb in page.query_selector_all('input[type="checkbox"]'):
-            if cb.is_visible() and not cb.is_checked():
-                lbl = page.evaluate('''(el) => {
-                    const l = el.closest('label') || document.querySelector('label[for="'+el.id+'"]');
-                    return l ? l.textContent.trim().substring(0,80) : '';
-                }''', cb)
-                if any(kw in lbl.lower() for kw in ["agree", "consent", "acknowledge", "privacy", "terms"]):
-                    cb.check()
-    except Exception:
-        pass
-
-    # EEO selects — decline
-    for eid in ["gender", "hispanic_ethnicity", "veteran_status", "disability_status", "race"]:
-        try:
-            el = page.query_selector(f"#{eid}")
-            if el and el.is_visible():
-                options = el.evaluate('''(el) => Array.from(el.options).map(o => ({value:o.value, text:o.text}))''')
-                for o in options:
-                    if "decline" in o["text"].lower() or "prefer not" in o["text"].lower():
-                        el.select_option(value=o["value"])
-                        break
-        except Exception:
-            pass
+    # Handle checkboxes (consent/agree)
+    for el in parse_snapshot_refs(snap2):
+        if el["tag"] == "input" and any(x in el["text"].lower() for x in ["agree", "consent", "acknowledge", "terms"]):
+            wraith.click(el["ref"])
+            time.sleep(0.2)
 
     time.sleep(0.5)
 
     # Submit
-    try:
-        submit_btn = page.query_selector(
-            '#submit_app, button[type="submit"], input[type="submit"], '
-            'button:has-text("Submit Application"), button:has-text("Submit")')
-        if submit_btn and submit_btn.is_visible():
-            # Enable if disabled (Greenhouse sometimes disables submit)
-            page.evaluate('''(el) => { el.disabled = false; el.removeAttribute('disabled'); }''', submit_btn)
-            submit_btn.scroll_into_view_if_needed()
-            time.sleep(0.3)
-            submit_btn.click()
-        else:
-            return {"success": False, "error": "Submit button not found"}
-    except Exception as e:
-        return {"success": False, "error": f"Submit failed: {e}"}
+    snap3 = wraith.snapshot()
+    submit_ref = None
+    for el in parse_snapshot_refs(snap3):
+        if el["tag"] in ("button", "input") and any(x in el["text"].lower() for x in ["submit", "apply", "send"]):
+            submit_ref = el["ref"]
+            break
 
+    if not submit_ref:
+        return {"success": False, "error": "Submit button not found"}
+
+    wraith.click(submit_ref)
     time.sleep(4)
-    return check_result(page, company, "greenhouse")
+
+    verify = wraith.verify_submission()
+    verify_lower = verify.lower()
+
+    if "confirmed" in verify_lower or "success" in verify_lower or "likely" in verify_lower:
+        return {"success": True, "msg": f"Wraith verified: {verify[:50]}"}
+
+    snap_final = wraith.snapshot()
+    snap_lower = snap_final.lower()
+
+    if any(x in snap_lower for x in ["thank you", "submitted", "received", "confirmation",
+                                      "successfully", "thanks for applying"]):
+        return {"success": True, "msg": "Confirmation text detected"}
+
+    if "already applied" in snap_lower or "already submitted" in snap_lower:
+        return {"success": False, "error": "Already applied", "already": True}
+
+    return {"success": False, "error": "No confirmation after submit"}
 
 
 # ═══════════════════════════════════════════════════════════════════════
-# PHASE 3: APPLY — Main orchestrator
+# PHASE 3: APPLY — Main orchestrator (Wraith-only)
 # ═══════════════════════════════════════════════════════════════════════
 
 def run_apply(platform: str = None, min_score: float = 60.0, limit: int = 0,
               resume_from: int = 0, delay: float = 3.0, retry_failed: bool = False):
-    from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
-
     log(f"\n{'='*70}")
-    log(f"PHASE 3: APPLY {'(retry failed)' if retry_failed else ''}")
+    log(f"PHASE 3: APPLY {'(retry failed)' if retry_failed else ''} [Wraith CDP]")
     log(f"{'='*70}")
     start = time.time()
 
     status = "apply_failed" if retry_failed else "new"
-
-    # Get jobs per platform
-    platforms_to_run = []
-    if platform:
-        platforms_to_run = [platform]
-    else:
-        platforms_to_run = ["ashby", "greenhouse"]  # Lever apply uses Wraith, not Playwright
+    platforms = [platform] if platform else ["ashby", "greenhouse", "lever"]
 
     all_jobs = {}
-    for p in platforms_to_run:
+    for p in platforms:
         jobs = get_viable_jobs(platform=p, min_score=min_score, status=status)
         if jobs:
             all_jobs[p] = jobs
@@ -1388,94 +1287,90 @@ def run_apply(platform: str = None, min_score: float = 60.0, limit: int = 0,
     total_jobs = sum(len(v) for v in all_jobs.values())
     log(f"Total: {total_jobs} jobs across {len(all_jobs)} platforms")
 
+    # Start Wraith
+    log("Starting Wraith MCP client...")
+    wraith = WraithMCPClient()
+    wraith.start()
+    time.sleep(2)
+
+    engine = wraith.engine_status()
+    log(f"Engine: {engine[:100]}")
+
     successes = 0
     failures = 0
     needs_code_count = 0
     job_num = 0
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(
-            headless=True,
-            args=["--disable-blink-features=AutomationControlled", "--disable-dev-shm-usage", "--no-sandbox"])
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-            viewport={"width": 1920, "height": 1080}, locale="en-US")
-        page = context.new_page()
+    # Interleave platforms for variety
+    interleaved = []
+    max_len = max(len(v) for v in all_jobs.values())
+    for i in range(max_len):
+        for plat in platforms:
+            if plat in all_jobs and i < len(all_jobs[plat]):
+                interleaved.append((plat, all_jobs[plat][i]))
 
-        # Interleave platforms for variety (reduces rate-limit risk)
-        interleaved = []
-        max_len = max(len(v) for v in all_jobs.values())
-        for i in range(max_len):
-            for plat in platforms_to_run:
-                if plat in all_jobs and i < len(all_jobs[plat]):
-                    interleaved.append((plat, all_jobs[plat][i]))
+    batch = interleaved[resume_from:]
+    if limit > 0:
+        batch = batch[:limit]
 
-        batch = interleaved[resume_from:]
-        if limit > 0:
-            batch = batch[:limit]
+    for i, (plat, job) in enumerate(batch):
+        job_num = i + 1 + resume_from
+        log(f"\n[{job_num}/{len(batch)}] {plat.upper()} | {job['company']} — {job['title'][:50]} (score={job['fit_score']})")
 
-        for i, (plat, job) in enumerate(batch):
-            job_num = i + 1 + resume_from
-            log(f"\n[{job_num}/{len(batch)}] {plat.upper()} | {job['company']} — {job['title'][:50]} (score={job['fit_score']})")
+        try:
+            if plat == "ashby":
+                result = apply_ashby_cdp(wraith, job["url"], job["company"], job["title"])
+            elif plat == "greenhouse":
+                result = apply_greenhouse_cdp(wraith, job["url"], job["company"], job["title"])
+            elif plat == "lever":
+                result = apply_lever_native(wraith, job["url"], job["company"], job["title"])
+            else:
+                log(f"  SKIP: unsupported platform {plat}")
+                continue
 
-            try:
-                if plat == "ashby":
-                    result = apply_ashby(page, job["url"], job["company"], job["title"])
-                elif plat == "greenhouse":
-                    board, jid = extract_gh_board_and_id(job["url"], job["company"])
-                    if not board or not jid:
-                        log(f"  SKIP: Can't extract board/id from {job['url'][:60]}")
-                        update_job_status(job["id"], "apply_failed")
-                        failures += 1
-                        continue
-                    result = apply_greenhouse(page, board, jid, job["company"], job["title"])
-                else:
-                    log(f"  SKIP: {plat} not supported for Playwright apply")
-                    continue
+            cl = generate_cover_letter(job["company"], job["title"])
 
-                cl = generate_cover_letter(job["company"], job["title"])
-
-                if result.get("success"):
-                    log(f"  >>> SUCCESS: {result.get('msg', '')} <<<")
-                    successes += 1
-                    update_job_status(job["id"], "applied", cover_letter=cl)
-                elif result.get("needs_code"):
-                    log(f"  NEEDS CODE")
-                    needs_code_count += 1
-                    update_job_status(job["id"], "needs_code")
-                elif result.get("already"):
-                    log(f"  Already applied")
-                    update_job_status(job["id"], "applied")
-                else:
-                    log(f"  FAILED: {result.get('error', '')[:120]}")
-                    failures += 1
-                    update_job_status(job["id"], "apply_failed")
-            except Exception as e:
-                log(f"  EXCEPTION: {e}")
+            if result.get("success"):
+                log(f"  >>> SUCCESS: {result.get('msg', '')} <<<")
+                successes += 1
+                update_job_status(job["id"], "applied", cover_letter=cl)
+                wraith.dedup_record(job["url"], job["company"], job["title"], plat)
+            elif result.get("needs_code"):
+                log(f"  NEEDS CODE")
+                needs_code_count += 1
+                update_job_status(job["id"], "needs_code")
+            elif result.get("already"):
+                log(f"  Already applied")
+                update_job_status(job["id"], "applied")
+            else:
+                log(f"  FAILED: {result.get('error', '')[:120]}")
                 failures += 1
                 update_job_status(job["id"], "apply_failed")
-                try:
-                    page.close()
-                except Exception:
-                    pass
-                page = context.new_page()
+        except Exception as e:
+            log(f"  EXCEPTION: {e}")
+            traceback.print_exc()
+            failures += 1
+            update_job_status(job["id"], "apply_failed")
 
-            # Progress report every 10
-            if job_num % 10 == 0:
-                elapsed = time.time() - start
-                log(f"--- Progress: {job_num} done | OK={successes} FAIL={failures} CODE={needs_code_count} | {elapsed/60:.1f}min ---")
+        # Progress report every 10
+        if job_num % 10 == 0:
+            elapsed = time.time() - start
+            log(f"--- Progress: {job_num} done | OK={successes} FAIL={failures} CODE={needs_code_count} | {elapsed/60:.1f}min ---")
 
-            if i < len(batch) - 1:
-                time.sleep(delay)
+        if i < len(batch) - 1:
+            time.sleep(delay)
 
-        browser.close()
+    # Shutdown Wraith
+    wraith.stop()
 
     elapsed = time.time() - start
     log(f"\nAPPLY DONE in {elapsed/60:.1f}min")
     log(f"  Success: {successes}")
     log(f"  Failed: {failures}")
     log(f"  Needs code: {needs_code_count}")
-    log(f"  Rate: {(successes + failures + needs_code_count) / (elapsed/60):.1f} apps/min")
+    total_attempted = successes + failures + needs_code_count
+    if elapsed > 0 and total_attempted > 0:
+        log(f"  Rate: {total_attempted / (elapsed/60):.1f} apps/min")
 
 
 # ═══════════════════════════════════════════════════════════════════════
@@ -1490,22 +1385,18 @@ def show_stats():
     print(f"JOB HUNTER STATS — {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print(f"{'='*60}")
 
-    # Status breakdown
     rows = c.execute("SELECT status, COUNT(*) FROM jobs GROUP BY status ORDER BY COUNT(*) DESC").fetchall()
     print(f"\n  Status Distribution:")
     for r in rows:
         print(f"    {r[0]:20s} {r[1]:>6d}")
-
     total = c.execute("SELECT COUNT(*) FROM jobs").fetchone()[0]
     print(f"    {'TOTAL':20s} {total:>6d}")
 
-    # Platform breakdown
     rows = c.execute("SELECT source, COUNT(*) FROM jobs WHERE status='applied' GROUP BY source ORDER BY COUNT(*) DESC").fetchall()
     print(f"\n  Applied by Platform:")
     for r in rows:
         print(f"    {r[0]:20s} {r[1]:>6d}")
 
-    # Viable unapplied
     rows = c.execute("SELECT source, COUNT(*) FROM jobs WHERE status='new' AND fit_score >= 60 GROUP BY source ORDER BY COUNT(*) DESC").fetchall()
     print(f"\n  Viable Unapplied (fit>=60):")
     for r in rows:
@@ -1513,7 +1404,6 @@ def show_stats():
     viable = c.execute("SELECT COUNT(*) FROM jobs WHERE status='new' AND fit_score >= 60").fetchone()[0]
     print(f"    {'TOTAL':20s} {viable:>6d}")
 
-    # Score brackets for new
     rows = c.execute("""
         SELECT CASE WHEN fit_score >= 80 THEN '80+'
                     WHEN fit_score >= 60 THEN '60-79'
@@ -1526,7 +1416,6 @@ def show_stats():
     for r in rows:
         print(f"    {r[0]:20s} {r[1]:>6d}")
 
-    # Top scorers
     rows = c.execute("""
         SELECT company, title, fit_score, source FROM jobs
         WHERE status='new' AND fit_score >= 70
@@ -1548,14 +1437,14 @@ def show_stats():
 def main():
     global LOG_PATH
 
-    parser = argparse.ArgumentParser(description="Mega Pipeline — Scrape + Score + Apply")
+    parser = argparse.ArgumentParser(description="Mega Pipeline — Scrape + Score + Apply (Wraith-Only)")
     parser.add_argument("--scrape", action="store_true", help="Run scrape phase")
     parser.add_argument("--rescore", action="store_true", help="Fetch descriptions + rescore")
     parser.add_argument("--apply", action="store_true", help="Run apply phase")
     parser.add_argument("--all", action="store_true", help="Run all phases")
     parser.add_argument("--stats", action="store_true", help="Show current stats")
     parser.add_argument("--retry-failed", action="store_true", help="Retry apply_failed jobs")
-    parser.add_argument("--platform", type=str, default=None, help="Filter apply to platform (ashby/greenhouse)")
+    parser.add_argument("--platform", type=str, default=None, help="Filter apply to platform (ashby/greenhouse/lever)")
     parser.add_argument("--min-score", type=float, default=60.0, help="Minimum fit score")
     parser.add_argument("--limit", type=int, default=0, help="Max jobs to apply to (0=all)")
     parser.add_argument("--resume-from", type=int, default=0, help="Skip first N jobs")
@@ -1563,7 +1452,6 @@ def main():
     parser.add_argument("--workers", type=int, default=100, help="Max concurrent scrape workers")
     args = parser.parse_args()
 
-    # Setup logging
     os.makedirs(LOG_DIR, exist_ok=True)
     ts = datetime.now().strftime("%Y%m%d_%H%M%S")
     LOG_PATH = os.path.join(LOG_DIR, f"mega_pipeline_{ts}.txt")
