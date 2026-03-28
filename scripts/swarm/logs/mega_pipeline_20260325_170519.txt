@@ -1,0 +1,100 @@
+[17:05:19] MEGA PIPELINE started at 2026-03-25T17:05:19.561723
+[17:05:19] Args: {'scrape': False, 'rescore': False, 'apply': True, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 50, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[17:05:19] 
+======================================================================
+[17:05:19] PHASE 3: APPLY  [Wraith CDP]
+[17:05:19] ======================================================================
+[17:05:19]   greenhouse: 137 jobs
+[17:05:19]   lever: 9 jobs
+[17:05:19] Total: 146 jobs across 2 platforms
+[17:05:19] Starting Wraith MCP client...
+[17:05:23] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[17:05:23] 
+[1/50] GREENHOUSE | reddit — Backend Engineer, Feeds Experience (score=64.0)
+[17:05:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:05:39] 
+[2/50] LEVER | veeva — Senior AI Data Engineer (score=60.0)
+[17:05:50]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:05:53] 
+[3/50] GREENHOUSE | Anthropic — Staff+ Software Security Engineer (score=64.0)
+[17:06:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:06:12] 
+[4/50] LEVER | veeva — Senior AI Data Engineer (score=60.0)
+[17:06:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:06:24] 
+[5/50] GREENHOUSE | Discord — Senior Software Engineer, Platform as a Service (score=64.0)
+[17:06:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:06:43] 
+[6/50] LEVER | veeva — Senior AI Data Engineer (score=60.0)
+[17:06:51]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:06:54] 
+[7/50] GREENHOUSE | Discord — Senior Software Engineer, Platform Security (score=64.0)
+[17:07:01]   FAILED: Submit button not found
+[17:07:04] 
+[8/50] LEVER | veeva — Senior AI Data Engineer (score=60.0)
+[17:07:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:07:15] 
+[9/50] GREENHOUSE | DeepMind — Research Engineer, Agentic Safety (score=64.0)
+[17:07:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:07:30] 
+[10/50] LEVER | veeva — Senior AI Data Engineer (score=60.0)
+[17:07:37]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:07:37] --- Progress: 10 done | OK=9 FAIL=1 CODE=0 | 2.3min ---
+[17:07:40] 
+[11/50] GREENHOUSE | DeepMind — Staff AI Product Designer, GeminiApp Device Experi (score=64.0)
+[17:07:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:07:55] 
+[12/50] LEVER | veeva — Senior AI Data Engineer (score=60.0)
+[17:08:03]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:08:06] 
+[13/50] GREENHOUSE | DeepMind — Staff AI Product Designer, Gemini Universal Assist (score=64.0)
+[17:08:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:08:20] 
+[14/50] LEVER | veeva — Senior AI Data Engineer (score=60.0)
+[17:08:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:08:31] 
+[15/50] GREENHOUSE | Verkada — Packaging Program Manager - Taiwan (score=64.0)
+[17:08:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:08:46] 
+[16/50] LEVER | veeva — Senior AI Data Engineer (score=60.0)
+[17:08:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:08:56] 
+[17/50] GREENHOUSE | Verkada — Senior Test Engineer, Cameras (score=64.0)
+[17:09:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:09:11] 
+[18/50] LEVER | veeva — Senior AI Data Engineer (score=60.0)
+[17:09:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:09:23] 
+[19/50] GREENHOUSE | Verkada — Solutions Engineer (score=64.0)
+[17:09:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:09:38] 
+[20/50] GREENHOUSE | Verkada — Solutions Engineer (score=64.0)
+[17:09:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:09:50] --- Progress: 20 done | OK=19 FAIL=1 CODE=0 | 4.5min ---
+[17:09:53] 
+[21/50] GREENHOUSE | Verkada — Solutions Engineer (score=64.0)
+[17:10:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:10:08] 
+[22/50] GREENHOUSE | Verkada — Solutions Engineer (score=64.0)
+[17:10:23]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:10:26] 
+[23/50] GREENHOUSE | Verkada — Solutions Engineer  (score=64.0)
+[17:10:33]   FAILED: Submit button not found
+[17:10:36] 
+[24/50] GREENHOUSE | Verkada — Solutions Engineer - NYC (score=64.0)
+[17:10:47]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:10:50] 
+[25/50] GREENHOUSE | Verkada — Staff Frontend Engineer, Growth (score=64.0)
+[17:11:04]   >>> SUCCESS: Wraith verified: confirmed <<<

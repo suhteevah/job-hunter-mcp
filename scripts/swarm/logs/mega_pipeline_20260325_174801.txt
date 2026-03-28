@@ -1,0 +1,961 @@
+[17:48:01] MEGA PIPELINE started at 2026-03-25T17:48:01.461477
+[17:48:01] Args: {'scrape': False, 'rescore': False, 'apply': True, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 272, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[17:48:01] 
+======================================================================
+[17:48:01] PHASE 3: APPLY  [Wraith CDP]
+[17:48:01] ======================================================================
+[17:48:01]   greenhouse: 71 jobs
+[17:48:01]   lever: 176 jobs
+[17:48:01] Total: 247 jobs across 2 platforms
+[17:48:01] Starting Wraith MCP client...
+[17:48:05] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[17:48:05] 
+[1/247] GREENHOUSE | Verkada — Enterprise Solutions Engineer, Greater Vancouver A (score=62.0)
+[17:48:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:48:19] 
+[2/247] LEVER | veeva — Associate Consultant (Spain) (score=60.0)
+[17:48:29]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:48:32] 
+[3/247] GREENHOUSE | Verkada — Federal Solutions Engineer (score=62.0)
+[17:48:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:48:46] 
+[4/247] LEVER | veeva — Associate Lead - OpenData Clinical (Remote) (score=60.0)
+[17:48:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:48:57] 
+[5/247] GREENHOUSE | Verkada — Global Solutions Engineer (score=62.0)
+[17:49:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:49:11] 
+[6/247] LEVER | veeva — Associate Lead - OpenData Clinical (Remote) (score=60.0)
+[17:49:12]   FAILED: Job no longer available
+[17:49:15] 
+[7/247] GREENHOUSE | Verkada — Senior Backend Engineer - Intercom (score=62.0)
+[17:49:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:49:30] 
+[8/247] LEVER | veeva — Business Consultant - Commercial Content (Remote) (score=60.0)
+[17:49:38]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:49:41] 
+[9/247] GREENHOUSE | Verkada — Staff Frontend Engineer - Mapping & Spatial Platfo (score=62.0)
+[17:49:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:49:55] 
+[10/247] LEVER | veeva — Business Consultant - Commercial Content (Remote) (score=60.0)
+[17:50:04]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:50:04] --- Progress: 10 done | OK=9 FAIL=1 CODE=0 | 2.0min ---
+[17:50:07] 
+[11/247] GREENHOUSE | Postman — Senior Engineer, Backend - Workspaces (score=62.0)
+[17:50:20]   FAILED: Submit button not found
+[17:50:23] 
+[12/247] LEVER | veeva — Business Consultant - Commercial Content (Remote) (score=60.0)
+[17:50:31]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:50:35] 
+[13/247] GREENHOUSE | Together AI — Backend Engineer  (score=62.0)
+[17:50:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:50:58] 
+[14/247] LEVER | veeva — Business Consultant - R&D (Remote) (score=60.0)
+[17:51:07]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:51:11] 
+[15/247] GREENHOUSE | Anthropic — Senior Software Security Engineer (score=62.0)
+[17:51:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:51:27] 
+[16/247] LEVER | veeva — Business Consultant - R&D (Remote) (score=60.0)
+[17:51:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:51:39] 
+[17/247] GREENHOUSE | Cloudflare — Software Engineer Intern (Summer 2026) (score=62.0)
+[17:51:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:51:54] 
+[18/247] LEVER | veeva — Business Consultant - R&D (Remote) (score=60.0)
+[17:52:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:52:05] 
+[19/247] GREENHOUSE | Cloudflare — Software Engineer Intern (Summer 2026) (score=62.0)
+[17:52:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:52:21] 
+[20/247] LEVER | veeva — Consultant - Clinical Operations (Remote - Europe) (score=60.0)
+[17:52:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:52:28] --- Progress: 20 done | OK=18 FAIL=2 CODE=0 | 4.5min ---
+[17:52:31] 
+[21/247] GREENHOUSE | Cloudflare — Software Engineer Intern (Summer 2026) - Austin, T (score=62.0)
+[17:52:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:52:47] 
+[22/247] LEVER | veeva — Consultant - Clinical Operations (Remote - Europe) (score=60.0)
+[17:52:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:52:58] 
+[23/247] GREENHOUSE | ClickHouse — Senior Infrastructure Engineer - Postgres (score=62.0)
+[17:53:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:53:12] 
+[24/247] LEVER | veeva — Consultant - Pharmacovigilance/Safety Systems Impl (score=60.0)
+[17:53:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:53:24] 
+[25/247] GREENHOUSE | vercel — Software Engineer, Accounts (score=61.0)
+[17:53:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:53:39] 
+[26/247] LEVER | veeva — Consultant - Veeva Clinical Operations - Managed S (score=60.0)
+[17:53:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:53:55] 
+[27/247] GREENHOUSE | Anthropic — Machine Learning Systems Engineer, Research Tools (score=61.0)
+[17:54:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:54:17] 
+[28/247] LEVER | veeva — Consultant - Veeva Clinical Operations - Managed S (score=60.0)
+[17:54:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:54:27] 
+[29/247] GREENHOUSE | Anthropic — Senior Software Security Engineer (score=61.0)
+[17:54:47]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:54:50] 
+[30/247] LEVER | veeva — Consultant - Veeva RIM - Managed Services (Remote) (score=60.0)
+[17:55:23]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:55:23] --- Progress: 30 done | OK=28 FAIL=2 CODE=0 | 7.4min ---
+[17:55:26] 
+[31/247] GREENHOUSE | DeepMind — Research Scientist, AI-powered Scientific Discover (score=61.0)
+[17:55:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:55:52] 
+[32/247] LEVER | veeva — Consultant - Veeva RIM - Managed Services (Remote) (score=60.0)
+[17:56:00]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:56:03] 
+[33/247] GREENHOUSE | DeepMind — Senior AI Product Designer, Generative Media, Gemi (score=61.0)
+[17:56:21]   FAILED: Submit button not found
+[17:56:24] 
+[34/247] LEVER | veeva — Consultant - Veeva Safety - Managed Services (Remo (score=60.0)
+[17:56:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:56:36] 
+[35/247] GREENHOUSE | DeepMind — Staff AI Product Designer, GeminiApp (score=61.0)
+[17:56:47]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:56:50] 
+[36/247] LEVER | veeva — Consultant - Veeva Safety - Managed Services (Remo (score=60.0)
+[17:56:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:57:01] 
+[37/247] GREENHOUSE | DeepMind — Staff AI Product Designer, Gemini Assistant (score=61.0)
+[17:57:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:57:16] 
+[38/247] LEVER | veeva — Content Application Consultant (Remote) (score=60.0)
+[17:57:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:57:28] 
+[39/247] GREENHOUSE | DeepMind — Staff AI Product Designer, Growth & Discovery, Gem (score=61.0)
+[17:57:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:57:45] 
+[40/247] LEVER | veeva — Data Operations Lead - OpenData (Remote) (score=60.0)
+[17:57:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:57:54] --- Progress: 40 done | OK=37 FAIL=3 CODE=0 | 9.9min ---
+[17:57:57] 
+[41/247] GREENHOUSE | Verkada — Embedded Automated Test & Test System Engineer (score=61.0)
+[17:58:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:58:17] 
+[42/247] LEVER | veeva — Data Operations Lead - OpenData (Remote) (score=60.0)
+[17:58:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:58:28] 
+[43/247] GREENHOUSE | Verkada — Software Engineering Manager, Data Protection Plat (score=61.0)
+[17:58:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:58:43] 
+[44/247] LEVER | veeva — Director - Study Training Strategy (score=60.0)
+[18:00:17]   FAILED: No form elements found
+[18:00:20] 
+[45/247] GREENHOUSE | Verkada — Solutions Engineer, London (score=61.0)
+[18:00:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:00:35] 
+[46/247] LEVER | veeva — Engagement Manager - Events Business Consulting (R (score=60.0)
+[18:00:57]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:01:00] 
+[47/247] GREENHOUSE | Postman — Staff Security Engineer (score=61.0)
+[18:01:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:01:14] 
+[48/247] LEVER | veeva — Engagement Manager - R&D (Remote) (score=60.0)
+[18:01:22]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:01:25] 
+[49/247] GREENHOUSE | Faire — Senior Staff Data Engineer - Platform Data and Ana (score=61.0)
+[18:01:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:01:40] 
+[50/247] LEVER | veeva — Engagement Manager - R&D (Remote) (score=60.0)
+[18:01:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:01:48] --- Progress: 50 done | OK=46 FAIL=4 CODE=0 | 13.8min ---
+[18:01:51] 
+[51/247] GREENHOUSE | Faire — Senior Staff Data Engineer - Platform Data and Ana (score=61.0)
+[18:02:04]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:02:07] 
+[52/247] LEVER | veeva — Engagement Manager - R&D (Remote) (score=60.0)
+[18:02:18]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:02:21] 
+[53/247] GREENHOUSE | Descript — Product Manager, API & Platform (score=61.0)
+[18:02:33]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:02:36] 
+[54/247] LEVER | veeva — Implementation Consultant - Commercial (Remote or  (score=60.0)
+[18:02:56]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:03:00] 
+[55/247] GREENHOUSE | Together AI — Engineering Manager / Tech Lead  (score=61.0)
+[18:03:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:03:42] 
+[56/247] LEVER | veeva — Implementation Consultant - Commercial (Remote or  (score=60.0)
+[18:03:50]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:03:53] 
+[57/247] GREENHOUSE | Together AI — Senior Network Engineer (score=61.0)
+[18:04:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:04:09] 
+[58/247] LEVER | veeva — Implementation Consultant - Commercial (Remote or  (score=60.0)
+[18:04:17]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:04:20] 
+[59/247] GREENHOUSE | SingleStore — Senior Site Reliability Engineer (score=61.0)
+[18:04:26]   FAILED: Submit button not found
+[18:04:29] 
+[60/247] LEVER | veeva — Lead - Link Key People (Remote) (score=60.0)
+[18:04:37]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:04:37] --- Progress: 60 done | OK=55 FAIL=5 CODE=0 | 16.6min ---
+[18:04:40] 
+[61/247] GREENHOUSE | SingleStore — Site Reliability Engineer (score=61.0)
+[18:04:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:04:54] 
+[62/247] LEVER | veeva — Lead - Link Key People (Remote) (score=60.0)
+[18:05:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:05:23] 
+[63/247] GREENHOUSE | SingleStore — Support Engineer | West Coast (score=61.0)
+[18:05:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:05:39] 
+[64/247] LEVER | veeva — Lead - Link Key People (Remote) (score=60.0)
+[18:05:48]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:05:51] 
+[65/247] GREENHOUSE | Anthropic — Cloud Service Provider Accounting Manager (score=61.0)
+[18:06:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:06:05] 
+[66/247] LEVER | veeva — Lead - OpenData (Remote) (score=60.0)
+[18:06:12]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:06:15] 
+[67/247] GREENHOUSE | Anthropic — ML/Research Engineer, Safeguards (score=61.0)
+[18:06:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:06:30] 
+[68/247] LEVER | veeva — Lead Consultant (Remote) (score=60.0)
+[18:06:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:06:43] 
+[69/247] GREENHOUSE | Anthropic — Research Engineer/Research Scientist, Audio (score=61.0)
+[18:06:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:06:57] 
+[70/247] LEVER | veeva — Lead Consultant/Program Lead (Remote) (score=60.0)
+[18:08:31]   FAILED: No form elements found
+[18:08:31] --- Progress: 70 done | OK=64 FAIL=6 CODE=0 | 20.5min ---
+[18:08:34] 
+[71/247] GREENHOUSE | Anthropic — Research Engineer / Scientist, Societal Impacts (score=61.0)
+[18:08:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:08:48] 
+[72/247] LEVER | veeva — Lead Consultant/Program Lead (Remote) (score=60.0)
+[18:09:16]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:09:19] 
+[73/247] GREENHOUSE | Cloudflare — Senior Specialist Solutions Engineer, Zero Trust - (score=61.0)
+[18:09:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:09:34] 
+[74/247] LEVER | veeva — Lead Consultant/Program Lead (Remote) (score=60.0)
+[18:09:46]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:09:49] 
+[75/247] GREENHOUSE | discord — Senior Security Software Engineer, Detection and R (score=60.0)
+[18:10:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:10:03] 
+[76/247] LEVER | veeva — Managed Services Consultant - Commercial Vault (Re (score=60.0)
+[18:10:10]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:10:14] 
+[77/247] GREENHOUSE | figma — Product Designer, AI Models (score=60.0)
+[18:10:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:10:28] 
+[78/247] LEVER | veeva — Managed Services Consultant - Life Sciences (Remot (score=60.0)
+[18:12:02]   FAILED: No form elements found
+[18:12:05] 
+[79/247] GREENHOUSE | zscaler — Director, AI Strategy (Engineering Operations) (score=60.0)
+[18:12:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:12:20] 
+[80/247] LEVER | veeva — Managed Services Consultant - Quality (Remote) (score=60.0)
+[18:12:48]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:12:48] --- Progress: 80 done | OK=73 FAIL=7 CODE=0 | 24.8min ---
+[18:12:51] 
+[81/247] GREENHOUSE | zscaler — Staff DevOps Engineer- Federal (score=60.0)
+[18:13:02]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:13:06] 
+[82/247] LEVER | veeva — Managed Services Consultant - Quality (Remote) (score=60.0)
+[18:13:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:13:16] 
+[83/247] GREENHOUSE | Scale AI — Engineering Manager, AgentOps (score=60.0)
+[18:13:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:13:49] 
+[84/247] LEVER | veeva — Manager Data Extraction - OpenData EMEA (Remote) (score=60.0)
+[18:13:57]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:14:00] 
+[85/247] GREENHOUSE | Scale AI — Forward Deployed Engineer, GenAI  (score=60.0)
+[18:14:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:14:30] 
+[86/247] LEVER | veeva — Manager Data Extraction - OpenData EMEA (Remote) (score=60.0)
+[18:14:45]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:14:48] 
+[87/247] GREENHOUSE | Vercel — Software Engineer, Dashboard (score=60.0)
+[18:14:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:15:02] 
+[88/247] LEVER | veeva — Manager Data Extraction - OpenData EMEA (Remote) (score=60.0)
+[18:15:12]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:15:15] 
+[89/247] GREENHOUSE | DeepMind — Security Lead, Agentic Red Team  (score=60.0)
+[18:15:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:15:29] 
+[90/247] LEVER | veeva — Master Class - Business Consultant - Life Sciences (score=60.0)
+[18:15:37]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[18:15:37] --- Progress: 90 done | OK=83 FAIL=7 CODE=0 | 27.6min ---
+[18:15:40] 
+[91/247] GREENHOUSE | Grafana Labs — Engineering Manager - Adaptive Telemetry | Canada  (score=60.0)
+[18:15:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:15:55] 
+[92/247] LEVER | veeva — Master Class - Business Consultant - Life Sciences (score=60.0)
+[18:16:04]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[18:16:07] 
+[93/247] GREENHOUSE | Grafana Labs — Engineering Manager - Adaptive Telemetry | USA | R (score=60.0)
+[18:16:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:16:21] 
+[94/247] LEVER | veeva — Master Class - Business Consultant - Life Sciences (score=60.0)
+[18:16:31]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[18:16:34] 
+[95/247] GREENHOUSE | Grafana Labs — Senior Product Marketing Manager | Spain | Remote (score=60.0)
+[18:16:40]   FAILED: Submit button not found
+[18:16:43] 
+[96/247] LEVER | veeva — Master Class - Business Consultant - Life Sciences (score=60.0)
+[18:16:51]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[18:16:54] 
+[97/247] GREENHOUSE | Verkada — Associate Solutions Engineering Program Manager (score=60.0)
+[18:17:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:17:08] 
+[98/247] LEVER | veeva — MDM Technical Architect (Remote) (score=60.0)
+[18:17:16]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:17:19] 
+[99/247] GREENHOUSE | Verkada — Embedded Software Engineer (score=60.0)
+[18:17:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:17:33] 
+[100/247] LEVER | veeva — MDM Technical Architect (Remote) (score=60.0)
+[18:17:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:17:42] --- Progress: 100 done | OK=92 FAIL=8 CODE=0 | 29.7min ---
+[18:17:45] 
+[101/247] GREENHOUSE | Verkada — Embedded Software Engineer - Access Control (score=60.0)
+[18:17:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:17:59] 
+[102/247] LEVER | veeva — MDM Technical Architect (Remote) (score=60.0)
+[18:18:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:18:14] 
+[103/247] GREENHOUSE | Verkada — Enterprise Solutions Engineering Manager, Canada (score=60.0)
+[18:18:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:18:35] 
+[104/247] LEVER | veeva — Post-Implementation Consultant - CRM Suite (Remote (score=60.0)
+[18:18:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:18:46] 
+[105/247] GREENHOUSE | Verkada — Linux Embedded Software Engineer (score=60.0)
+[18:18:58]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:19:01] 
+[106/247] LEVER | veeva — Post-Implementation Consultant - CRM Suite (Remote (score=60.0)
+[18:19:08]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:19:11] 
+[107/247] GREENHOUSE | Verkada — Senior Software Engineer, Business Systems (score=60.0)
+[18:19:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:19:25] 
+[108/247] LEVER | veeva — Post-Implementation Consultant - CRM Suite (Remote (score=60.0)
+[18:19:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:19:36] 
+[109/247] GREENHOUSE | Verkada — Senior-Staff Software Engineer, Tooling (score=60.0)
+[18:19:47]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:19:50] 
+[110/247] LEVER | veeva — Principal Business Consultant - R&D - Clinical (Re (score=60.0)
+[18:20:00]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:20:00] --- Progress: 110 done | OK=102 FAIL=8 CODE=0 | 32.0min ---
+[18:20:03] 
+[111/247] GREENHOUSE | Verkada — Software Engineer - Imaging Systems (score=60.0)
+[18:20:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:20:17] 
+[112/247] LEVER | veeva — Principal Business Consultant - R&D - Clinical (Re (score=60.0)
+[18:20:25]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:20:28] 
+[113/247] GREENHOUSE | Verkada — Staff Embedded Software Engineer - Camera Firmware (score=60.0)
+[18:20:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:20:42] 
+[114/247] LEVER | veeva — Principal Business Consultant - R&D - Regulatory ( (score=60.0)
+[18:20:49]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:20:52] 
+[115/247] GREENHOUSE | Reddit — Senior Business Engineer - Ads (score=60.0)
+[18:21:04]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:21:07] 
+[116/247] LEVER | veeva — Principal Business Consultant - R&D - Regulatory ( (score=60.0)
+[18:21:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:21:17] 
+[117/247] GREENHOUSE | Reddit — Staff Software Engineer, Ads API (score=60.0)
+[18:21:24]   FAILED: Submit button not found
+[18:21:27] 
+[118/247] LEVER | veeva — Principal Business Consultant - R&D - Regulatory ( (score=60.0)
+[18:21:48]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:21:51] 
+[119/247] GREENHOUSE | Scale AI — AI Research Engineer, Enterprise Evaluations (score=60.0)
+[18:22:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:22:06] 
+[120/247] LEVER | veeva — QA Engineer for Mobile (Remote) (score=60.0)
+[18:22:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:22:15] --- Progress: 120 done | OK=111 FAIL=9 CODE=0 | 34.2min ---
+[18:22:18] 
+[121/247] GREENHOUSE | Postman — Senior Software Engineer (Fullstack) - Ecosystems (score=60.0)
+[18:22:29]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:22:32] 
+[122/247] LEVER | veeva — QA Engineer for Mobile (Remote) (score=60.0)
+[18:22:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:22:43] 
+[123/247] GREENHOUSE | Blockchain.com — Consolidations Accountant (score=60.0)
+[18:22:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:22:57] 
+[124/247] LEVER | veeva — QA Engineer for Mobile (Remote) (score=60.0)
+[18:23:04]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:23:07] 
+[125/247] GREENHOUSE | Blockchain.com — Data Analyst (score=60.0)
+[18:23:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:23:21] 
+[126/247] LEVER | veeva — Senior Architect - Commercial Life Sciences (Remot (score=60.0)
+[18:23:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:23:36] 
+[127/247] GREENHOUSE | Blockchain.com — Head of Business Intelligence (score=60.0)
+[18:23:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:23:53] 
+[128/247] LEVER | veeva — Senior Architect - Commercial Life Sciences (Remot (score=60.0)
+[18:24:01]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:24:04] 
+[129/247] GREENHOUSE | Amplitude — Senior Customer Success Architect  (score=60.0)
+[18:24:10]   FAILED: Submit button not found
+[18:24:13] 
+[130/247] LEVER | veeva — Senior Architect - Commercial Life Sciences (Remot (score=60.0)
+[18:24:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:24:21] --- Progress: 130 done | OK=120 FAIL=10 CODE=0 | 36.3min ---
+[18:24:24] 
+[131/247] GREENHOUSE | SingleStore — Database Performance Engineer (score=60.0)
+[18:24:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:24:38] 
+[132/247] LEVER | veeva — Senior Business Consultant - R&D (Remote) (score=60.0)
+[18:24:46]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:24:49] 
+[133/247] GREENHOUSE | Anthropic — Enterprise Account Executive, Federal Civilian Sal (score=60.0)
+[18:25:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:25:03] 
+[134/247] LEVER | veeva — Senior Business Consultant - R&D (Remote) (score=60.0)
+[18:25:27]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:25:30] 
+[135/247] GREENHOUSE | Cloudflare — Software Engineer- AI (score=60.0)
+[18:25:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:25:45] 
+[136/247] LEVER | veeva — Senior Business Consultant - R&D (Remote) (score=60.0)
+[18:25:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:25:55] 
+[137/247] GREENHOUSE | Cloudflare — Software Engineer, Workers Builds & Automation (score=60.0)
+[18:26:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:26:12] 
+[138/247] LEVER | veeva — Senior Consultant - Clinical Operations (Remote) (score=60.0)
+[18:26:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:26:23] 
+[139/247] GREENHOUSE | Robinhood — Senior Software Developer, Backend Platform (score=60.0)
+[18:26:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:26:44] 
+[140/247] LEVER | veeva — Senior Consultant - Clinical Operations (Remote) (score=60.0)
+[18:26:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:26:52] --- Progress: 140 done | OK=130 FAIL=10 CODE=0 | 38.8min ---
+[18:26:55] 
+[141/247] GREENHOUSE | Robinhood — Software Backend Engineer, Credit Cards & Banking  (score=60.0)
+[18:27:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:27:09] 
+[142/247] LEVER | veeva — Senior Consultant - Commercial Architecture (Remot (score=60.0)
+[18:27:17]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:27:20] 
+[143/247] LEVER | veeva — Senior Consultant - Commercial Architecture (Remot (score=60.0)
+[18:27:37]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:27:40] 
+[144/247] LEVER | veeva — Senior Consultant - Commercial Architecture (Remot (score=60.0)
+[18:27:49]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:27:52] 
+[145/247] LEVER | veeva — Senior Consultant - Events Business Consulting (Re (score=60.0)
+[18:28:01]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:28:04] 
+[146/247] LEVER | veeva — Senior Consultant - Master Data Management (Remote (score=60.0)
+[18:28:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:28:16] 
+[147/247] LEVER | veeva — Senior Consultant - MedTech QMS Complaints (score=60.0)
+[18:28:25]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:28:28] 
+[148/247] LEVER | veeva — Senior Consultant - MedTech QMS Complaints (score=60.0)
+[18:28:36]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:28:40] 
+[149/247] LEVER | veeva — Senior Consultant - Pharmacovigilance/Safety Syste (score=60.0)
+[18:28:57]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:29:00] 
+[150/247] LEVER | veeva — Senior Consultant - Regulatory Operations Software (score=60.0)
+[18:29:08]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:29:08] --- Progress: 150 done | OK=140 FAIL=10 CODE=0 | 41.1min ---
+[18:29:11] 
+[151/247] LEVER | veeva — Senior Consultant - Regulatory Operations Software (score=60.0)
+[18:29:19]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:29:22] 
+[152/247] LEVER | veeva — Senior Consultant - Regulatory Operations Software (score=60.0)
+[18:29:29]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:29:32] 
+[153/247] LEVER | veeva — Senior Consultant - Veeva Clinical Operations - Ma (score=60.0)
+[18:29:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:29:43] 
+[154/247] LEVER | veeva — Senior Consultant - Veeva Clinical Operations - Ma (score=60.0)
+[18:29:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:29:55] 
+[155/247] LEVER | veeva — Senior Consultant - Veeva RIM - Managed Services ( (score=60.0)
+[18:30:03]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:30:06] 
+[156/247] LEVER | veeva — Senior Consultant - Veeva RIM - Managed Services ( (score=60.0)
+[18:30:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:30:17] 
+[157/247] LEVER | veeva — Senior Consultant - Veeva Safety - Managed Service (score=60.0)
+[18:30:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:30:28] 
+[158/247] LEVER | veeva — Senior Consultant - Veeva Safety - Managed Service (score=60.0)
+[18:30:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:30:38] 
+[159/247] LEVER | veeva — Senior Consultant (Remote - Denmark) (score=60.0)
+[18:30:46]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:30:49] 
+[160/247] LEVER | veeva — Senior Content Application Consultant (Remote) (score=60.0)
+[18:30:57]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:30:57] --- Progress: 160 done | OK=150 FAIL=10 CODE=0 | 42.9min ---
+[18:31:00] 
+[161/247] LEVER | veeva — Senior Frontend Engineer - React (Remote) (score=60.0)
+[18:31:08]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:31:11] 
+[162/247] LEVER | veeva — Senior Frontend Engineer - React (Remote) (score=60.0)
+[18:31:19]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:31:22] 
+[163/247] LEVER | veeva — Senior Frontend Engineer - React (Remote) (score=60.0)
+[18:31:30]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:31:33] 
+[164/247] LEVER | veeva — Senior Implementation Consultant - RIMS (Remote) (score=60.0)
+[18:31:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:31:43] 
+[165/247] LEVER | veeva — Senior Implementation Consultant - RIMS (Remote) (score=60.0)
+[18:31:51]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:31:54] 
+[166/247] LEVER | veeva — Senior Implementation Consultant - RIMS (Remote) (score=60.0)
+[18:32:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:32:05] 
+[167/247] LEVER | veeva — Senior Implementation Consultant – Pharmacovigilan (score=60.0)
+[18:32:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:32:27] 
+[168/247] LEVER | veeva — Senior Implementation Consultant – Pharmacovigilan (score=60.0)
+[18:32:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:32:38] 
+[169/247] LEVER | veeva — Senior Implementation Consultant – Pharmacovigilan (score=60.0)
+[18:32:46]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:32:49] 
+[170/247] LEVER | veeva — Senior Migration Consultant - R&D (Remote) (score=60.0)
+[18:32:56]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:32:56] --- Progress: 170 done | OK=160 FAIL=10 CODE=0 | 44.9min ---
+[18:32:59] 
+[171/247] LEVER | veeva — Senior Migration Consultant - R&D (Remote) (score=60.0)
+[18:33:09]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:33:12] 
+[172/247] LEVER | veeva — Senior Product Manager - Campaign Manager (score=60.0)
+[18:33:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:33:31] 
+[173/247] LEVER | veeva — Senior Product Manager - Campaign Manager (score=60.0)
+[18:33:46]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:33:50] 
+[174/247] LEVER | veeva — Senior Product Manager - Campaign Manager (score=60.0)
+[18:33:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:34:01] 
+[175/247] LEVER | veeva — Senior Search Developer (Remote) (score=60.0)
+[18:34:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:34:15] 
+[176/247] LEVER | veeva — Senior Search Developer (Remote) (score=60.0)
+[18:34:31]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:34:34] 
+[177/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:34:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:34:45] 
+[178/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:34:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:34:57] 
+[179/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:35:05]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:35:08] 
+[180/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:35:17]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:35:17] --- Progress: 180 done | OK=170 FAIL=10 CODE=0 | 47.3min ---
+[18:35:20] 
+[181/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:35:29]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:35:32] 
+[182/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:35:39]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:35:42] 
+[183/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:35:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:35:55] 
+[184/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:36:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:36:06] 
+[185/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:36:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:36:16] 
+[186/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:36:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:36:27] 
+[187/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:36:34]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:36:37] 
+[188/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:36:45]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:36:48] 
+[189/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:36:56]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:36:59] 
+[190/247] LEVER | veeva — Senior Software Engineer - SRE (score=60.0)
+[18:37:07]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:37:07] --- Progress: 190 done | OK=180 FAIL=10 CODE=0 | 49.1min ---
+[18:37:10] 
+[191/247] LEVER | veeva — Senior Sustaining Engineer (score=60.0)
+[18:37:18]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:37:21] 
+[192/247] LEVER | veeva — Site Reliability Engineer (score=60.0)
+[18:37:29]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:37:32] 
+[193/247] LEVER | veeva — Sustaining Engineer (score=60.0)
+[18:37:39]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:37:42] 
+[194/247] LEVER | veeva — Sustaining Engineer (score=60.0)
+[18:37:50]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:37:53] 
+[195/247] LEVER | veeva — Technical Consultant - Consumer Products (Remote) (score=60.0)
+[18:38:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:38:15] 
+[196/247] LEVER | veeva — Technical Consultant - R&D (Remote) (score=60.0)
+[18:38:22]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:38:25] 
+[197/247] LEVER | veeva — Technical Consultant - RTSM (Remote) (score=60.0)
+[18:38:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:38:36] 
+[198/247] LEVER | veeva — Technical Consultant - RTSM (Remote) (score=60.0)
+[18:38:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:38:46] 
+[199/247] LEVER | veeva — Technical Consultant - RTSM (Remote) (score=60.0)
+[18:38:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:38:57] 
+[200/247] LEVER | brillio-2 — AWS Senior Data Specialist - R01558801 (score=60.0)
+[18:39:05]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:39:05] --- Progress: 200 done | OK=190 FAIL=10 CODE=0 | 51.1min ---
+[18:39:08] 
+[201/247] LEVER | brillio-2 — Azure Kubernetes Architect - R01530963 (score=60.0)
+[18:39:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:39:18] 
+[202/247] LEVER | brillio-2 — Fullstack Engineer - React  Java - R01527438 (score=60.0)
+[18:39:26]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:39:29] 
+[203/247] LEVER | brillio-2 — Senior Tech Specialist, Network - R01557256 (score=60.0)
+[18:39:41]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:39:44] 
+[204/247] LEVER | smart-working-solutions — Senior Ruby on Rails Engineer (Remote, Full-Time)  (score=60.0)
+[18:39:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:39:57] 
+[205/247] LEVER | smart-working-solutions — Senior Security Engineer (Remote, Full-Time) [AS21 (score=60.0)
+[18:40:05]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:40:08] 
+[206/247] LEVER | smart-working-solutions — Senior Security Engineer (Remote, Full-Time), Indi (score=60.0)
+[18:40:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:40:18] 
+[207/247] LEVER | latitudeinc — Accounting Specialist/ Bookkeeper (score=60.0)
+[18:40:26]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:40:29] 
+[208/247] LEVER | latitudeinc — AudioVisual Field Technician (score=60.0)
+[18:40:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:40:45] 
+[209/247] LEVER | latitudeinc — AV Systems Engineer (score=60.0)
+[18:40:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:40:56] 
+[210/247] LEVER | latitudeinc — Billing Associate (score=60.0)
+[18:41:04]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:41:04] --- Progress: 210 done | OK=200 FAIL=10 CODE=0 | 53.1min ---
+[18:41:07] 
+[211/247] LEVER | latitudeinc — C++ Software Engineer (Cleared) (score=60.0)
+[18:41:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:41:18] 
+[212/247] LEVER | latitudeinc — Civil Project Engineer (score=60.0)
+[18:41:44]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:41:47] 
+[213/247] LEVER | latitudeinc — Collections Analyst (score=60.0)
+[18:41:55]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:41:58] 
+[214/247] LEVER | latitudeinc — Controls / Design Engineer (score=60.0)
+[18:42:05]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:42:08] 
+[215/247] LEVER | latitudeinc — Desktop and Network Support (score=60.0)
+[18:42:16]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:42:19] 
+[216/247] LEVER | latitudeinc — Electrical Engineer - Power Systems Engineer (score=60.0)
+[18:42:27]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:42:30] 
+[217/247] LEVER | latitudeinc — Electrical Estimator (Journey Electrician License  (score=60.0)
+[18:42:49]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:42:52] 
+[218/247] LEVER | latitudeinc — Electrical Security Technician (MD or VA Licensed) (score=60.0)
+[18:42:59]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:43:03] 
+[219/247] LEVER | latitudeinc — Electrical Security Technician (MD or VA Licensed) (score=60.0)
+[18:43:10]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:43:14] 
+[220/247] LEVER | latitudeinc — Electrical Service Technician (Lighting)- Journeym (score=60.0)
+[18:43:37]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:43:37] --- Progress: 220 done | OK=210 FAIL=10 CODE=0 | 55.6min ---
+[18:43:40] 
+[221/247] LEVER | latitudeinc — Electrician (Flexible Work Schedule) (score=60.0)
+[18:43:48]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:43:51] 
+[222/247] LEVER | latitudeinc — Electromechanical Assembler (score=60.0)
+[18:43:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:44:01] 
+[223/247] LEVER | latitudeinc — Human Resources & Bookkeeping Specialist (score=60.0)
+[18:44:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:44:14] 
+[224/247] LEVER | latitudeinc — Maintenance Supervisor (Industrial Maintenance Exp (score=60.0)
+[18:44:22]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:44:25] 
+[225/247] LEVER | latitudeinc — Maintenance Supervisor (Industrial/Manufacturing I (score=60.0)
+[18:44:32]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:44:36] 
+[226/247] LEVER | latitudeinc — Maintenance Technician (score=60.0)
+[18:44:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:44:46] 
+[227/247] LEVER | latitudeinc — Maintenance Technician (Inudstrial/Manufacturing) (score=60.0)
+[18:44:55]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:44:58] 
+[228/247] LEVER | latitudeinc — Mechanic (Manufacturing Industry) (score=60.0)
+[18:45:23]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:45:26] 
+[229/247] LEVER | latitudeinc — Mid-Level Accountant (Proficiency with Excel and Q (score=60.0)
+[18:45:34]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:45:37] 
+[230/247] LEVER | latitudeinc — Senior Network Technician (score=60.0)
+[18:45:45]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:45:45] --- Progress: 230 done | OK=220 FAIL=10 CODE=0 | 57.7min ---
+[18:45:48] 
+[231/247] LEVER | latitudeinc — Senior Systems Administrator (VMWare)- Top Secret  (score=60.0)
+[18:45:55]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:45:58] 
+[232/247] LEVER | latitudeinc — Service Desk Technician (score=60.0)
+[18:46:07]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:46:10] 
+[233/247] LEVER | latitudeinc — Software Engineer – Java (TS/SCI Cleared) (score=60.0)
+[18:46:18]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:46:21] 
+[234/247] LEVER | latitudeinc — Sr. Network Technician (Temp Contract) (score=60.0)
+[18:46:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:46:31] 
+[235/247] LEVER | latitudeinc — Staff Accountant (score=60.0)
+[18:46:39]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:46:42] 
+[236/247] LEVER | latitudeinc — Staff Accountant (QuickBooks)- Hybrid Flexibility (score=60.0)
+[18:46:50]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:46:53] 
+[237/247] LEVER | latitudeinc — Systems Admin (score=60.0)
+[18:47:00]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:47:03] 
+[238/247] LEVER | latitudeinc — Systems Engineer (Cleared) (score=60.0)
+[18:47:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:47:14] 
+[239/247] LEVER | latitudeinc — TS/SCI Software Engineer (score=60.0)
+[18:47:22]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:47:25] 
+[240/247] LEVER | latitudeinc — Web Application Developer (score=60.0)
+[18:47:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:47:47] --- Progress: 240 done | OK=230 FAIL=10 CODE=0 | 59.8min ---
+[18:47:50] 
+[241/247] LEVER | latitudeinc — Web Application Developer (Fully Onsite) (score=60.0)
+[18:47:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:48:01] 
+[242/247] LEVER | latitudeinc — Web Application Developer (Fully Onsite) (score=60.0)
+[18:48:09]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:48:12] 
+[243/247] LEVER | latitudeinc — Windows System Engineer (score=60.0)
+[18:48:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:48:23] 
+[244/247] LEVER | SymmetrySystems — Channel Sales Director - Remote (TX) (score=60.0)
+[18:48:30]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:48:33] 
+[245/247] LEVER | SymmetrySystems — Enterprise Account Executive (Remote) - TOLA (score=60.0)
+[18:48:41]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:48:44] 
+[246/247] LEVER | SymmetrySystems — Enterprise Account Executive (Remote) - West Coast (score=60.0)
+[18:48:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:48:55] 
+[247/247] LEVER | SymmetrySystems — Product Security Engineer (score=60.0)
+[18:49:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:49:13] 
+APPLY DONE in 61.2min
+[18:49:13]   Success: 237
+[18:49:13]   Failed: 10
+[18:49:13]   Needs code: 0
+[18:49:13]   Rate: 4.0 apps/min
+[18:49:13] 
+======================================================================
+[18:49:13] MEGA PIPELINE COMPLETE — 61.2min total
+[18:49:13] ======================================================================
