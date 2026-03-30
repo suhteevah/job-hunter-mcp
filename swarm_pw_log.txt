@@ -1,0 +1,610 @@
+=== GREENHOUSE PLAYWRIGHT SWARM 2026-03-30T03:12:03.038270+00:00 ===
+[20:12:03] ======================================================================
+[20:12:03] GREENHOUSE PLAYWRIGHT SWARM — Overnight Mode
+[20:12:03] ======================================================================
+[20:12:03] Found 448 Greenhouse jobs (score >= 40.0)
+[20:12:03] Submittable (have board+id): 448
+[20:12:03] No board token: 0
+[20:12:03] This batch: 50 jobs (resume_from=0, limit=50)
+[20:12:03] Delay between apps: 3.0s
+[20:12:03] Headless: True
+[20:12:03] 
+[20:12:03]   Board verified: discord
+[20:12:04]   Board verified: anthropic
+[20:12:05]   Board verified: figma
+[20:12:05]   Board verified: twilio
+[20:12:06]   Board verified: scaleai
+[20:12:07]   Board verified: vercel
+[20:12:08]   Board FAILED: grafanalabs
+[20:12:08]   Board verified: verkada
+[20:12:09]   Board verified: runwayml
+[20:12:10]   Board verified: launchdarkly
+[20:12:10]   Board verified: postman
+[20:12:11]   Board verified: blockchain
+[20:12:12]   Board verified: starburst
+[20:12:13]   Board verified: mercury
+[20:12:13]   Board verified: togetherai
+[20:12:14]   Board verified: cloudflare
+[20:12:14] 
+Launching browser...
+[20:12:24] Browser ready. Starting applications...
+
+[20:12:24] [1/50] Discord — Software Engineer - Realtime Infrastructure (score=58.0, board=discord)
+[20:12:37]     Country = United States
+[20:12:39]     Location = Chico (autocomplete)
+[20:12:40]     Uploaded resume
+[20:12:41]     Uploaded cover letter file
+[20:12:41]     Q: Why do you want to work at Discord? = I am drawn to the Software Engineer - Re
+[20:12:41]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:12:41]     Q: Website = https://github.com/suhteevah
+[20:12:41]     Q: How did you hear about this job? = Job board
+[20:12:44]     Q: Are you legally authorized to work in th = Yes
+[20:12:45]     Q: Are you currently located in the US? = Yes
+[20:12:46]     Q: Are you currently based in or willing to = Yes
+[20:12:48]     Select question_34530027002: are you legally authorized to work in th = 
+[20:12:49]     Select question_34530028002: are you currently located in the us?* = 
+[20:12:50]     Select question_34530029002: are you currently based in or willing to = 
+[20:12:52]     Clicked submit
+[20:12:56]   FAILED: Validation: Gender*; Select...; This field is required.
+[20:12:59] [2/50] Discord — Senior Software Engineer, Developer Success (score=57.0, board=discord)
+[20:13:04]     Country = United States
+[20:13:05]     Location = Chico (autocomplete)
+[20:13:06]     Uploaded resume
+[20:13:07]     Uploaded cover letter file
+[20:13:07]     Q: Why do you want to work at Discord? = I am excited about the Senior Software E
+[20:13:07]     Q: Do you play video games? If so, what vid = N/A
+[20:13:07]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:13:07]     Q: Website = https://github.com/suhteevah
+[20:13:07]     Q: How did you hear about this job? = Job board
+[20:13:09]     Q: Are you legally authorized to work in th = Yes
+[20:13:10]     Q: Are you currently located in the US? = Yes
+[20:13:12]     Q: Are you currently based in or willing to = Yes
+[20:13:13]     Select question_35156994002: are you legally authorized to work in th = 
+[20:13:14]     Select question_35156995002: are you currently located in the us?* = 
+[20:13:15]     Select question_35156996002: are you currently based in or willing to = 
+[20:13:16]     Clicked submit
+[20:13:20]   FAILED: Validation: Gender*; Select...; This field is required.
+[20:13:23] [3/50] Discord — Staff Software Engineer - Safety Experience (score=56.0, board=discord)
+[20:13:28]     Country = United States
+[20:13:30]     Location = Chico (autocomplete)
+[20:13:30]     Uploaded resume
+[20:13:31]     Uploaded cover letter file
+[20:13:32]     Q: Why do you want to work at Discord? = I am excited about the Staff Software En
+[20:13:32]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:13:32]     Q: Website = https://github.com/suhteevah
+[20:13:32]     Q: How did you hear about this job? = Job board
+[20:13:34]     Q: Are you legally authorized to work in th = Yes
+[20:13:36]     Q: Are you currently located in the US? = Yes
+[20:13:37]     Q: Are you currently based in or willing to = Yes
+[20:13:38]     Select question_34644993002: are you legally authorized to work in th = 
+[20:13:40]     Select question_34644994002: are you currently located in the us?* = 
+[20:13:41]     Select question_34644995002: are you currently based in or willing to = 
+[20:13:42]     Clicked submit
+[20:13:46]   FAILED: Validation: Gender*; Select...; This field is required.
+[20:13:49] [4/50] Anthropic — Senior Data Center Capacity Delivery Manager (score=55.0, board=anthropic)
+[20:13:55]     Country = United States
+[20:13:55]     Uploaded resume
+[20:13:58]     Q: (Optional) Personal Preferences = No
+[20:13:58]     Q: Website = https://github.com/suhteevah
+[20:13:59]     Q: Are you open to working in-person in one = Yes
+[20:14:01]     Q: AI Policy for Application = Yes
+[20:14:01]     Q: Why Anthropic? = N/A
+[20:14:02]     Q: Do you require visa sponsorship?  = No
+[20:14:03]     Q: Will you now or will you in the future r = No
+[20:14:03]     Q: Additional Information = I am excited about the Senior Data Cente
+[20:14:03]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:14:05]     Q: Are you open to relocation for this role = Yes
+[20:14:05]     Q: What is the address from which you plan  = Chico, CA
+[20:14:06]     Q: Have you ever interviewed at Anthropic b = Yes
+[20:14:08]     Select question_15110650008: are you open to working in-person in one = 
+[20:14:09]     Select question_15110653008: ai policy for application* = 
+[20:14:10]     Select question_15110655008: do you require visa sponsorship? * = 
+[20:14:11]     Select question_15110656008: will you now or will you in the future r = 
+[20:14:13]     Select question_15110659008: are you open to relocation for this role = 
+[20:14:14]     Select question_15110661008: have you ever interviewed at anthropic b = 
+[20:14:15]     Clicked submit
+[20:14:19]   NEEDS SECURITY CODE — check Gmail
+[20:14:22] [5/50] Anthropic — Senior Marketing Events Manager, Partners (score=55.0, board=anthropic)
+[20:14:28]     Country = United States
+[20:14:28]     Uploaded resume
+[20:14:41]     Select question_14818836008: are you open to working in-person in one = 
+[20:14:42]     Select question_14818839008: ai policy for application* = 
+[20:14:44]     Select question_14818841008: do you require visa sponsorship? * = 
+[20:14:45]     Select question_14818842008: will you now or will you in the future r = 
+[20:14:46]     Select question_14818845008: are you open to relocation for this role = 
+[20:14:48]     Select question_14818847008: have you ever interviewed at anthropic b = 
+[20:14:48]     Clicked submit
+[20:14:53]   FAILED: Validation: Why Anthropic?*; Why Anthropic?*; This field is required.
+[20:14:56] [6/50] figma — Product Designer - Design, Dev, & AI Tools (score=54.0, board=figma)
+[20:15:17]   EXCEPTION: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://boards.greenhouse.io/figma/jobs/5711468004
+Call log:
+  - navigating to "https://boards.greenhouse.io/figma/jobs/5711468004", waiting until "networkidle"
+
+[20:15:17]   Traceback (most recent call last):
+  File "J:\job-hunter-mcp\scripts\swarm\swarm_greenhouse_playwright.py", line 833, in run_swarm
+    result = apply_with_playwright(page, board, gh_id, job["company"]
+[20:15:20] [7/50] twilio — Software Engineer (score=54.0, board=twilio)
+[20:15:41]   EXCEPTION: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://boards.greenhouse.io/twilio/jobs/7647708
+Call log:
+  - navigating to "https://boards.greenhouse.io/twilio/jobs/7647708", waiting until "networkidle"
+
+[20:15:41]   Traceback (most recent call last):
+  File "J:\job-hunter-mcp\scripts\swarm\swarm_greenhouse_playwright.py", line 833, in run_swarm
+    result = apply_with_playwright(page, board, gh_id, job["company"]
+[20:15:44] [8/50] Anthropic — Software Engineer, ML Networking (score=54.0, board=anthropic)
+[20:16:05]   EXCEPTION: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://boards.greenhouse.io/anthropic/jobs/4926242008
+Call log:
+  - navigating to "https://boards.greenhouse.io/anthropic/jobs/4926242008", waiting until "networkidle"
+
+[20:16:05]   Traceback (most recent call last):
+  File "J:\job-hunter-mcp\scripts\swarm\swarm_greenhouse_playwright.py", line 833, in run_swarm
+    result = apply_with_playwright(page, board, gh_id, job["company"]
+[20:16:08] [9/50] Scale AI — Analytics Lead, GenAI Marketplace (score=54.0, board=scaleai)
+[20:16:23]   EXCEPTION: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://boards.greenhouse.io/scaleai/jobs/4631695005
+Call log:
+  - navigating to "https://boards.greenhouse.io/scaleai/jobs/4631695005", waiting until "networkidle"
+
+[20:16:23]   Traceback (most recent call last):
+  File "J:\job-hunter-mcp\scripts\swarm\swarm_greenhouse_playwright.py", line 833, in run_swarm
+    result = apply_with_playwright(page, board, gh_id, job["company"]
+[20:16:26] [10/50] Scale AI — Machine Learning Research Scientist / Engineer, Re (score=54.0, board=scaleai)
+[20:16:26]   EXCEPTION: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://boards.greenhouse.io/scaleai/jobs/4605596005
+Call log:
+  - navigating to "https://boards.greenhouse.io/scaleai/jobs/4605596005", waiting until "networkidle"
+
+[20:16:26]   Traceback (most recent call last):
+  File "J:\job-hunter-mcp\scripts\swarm\swarm_greenhouse_playwright.py", line 833, in run_swarm
+    result = apply_with_playwright(page, board, gh_id, job["company"]
+[20:16:29] [11/50] Discord — Senior Software Engineer - SEO (score=54.0, board=discord)
+[20:16:31]   EXCEPTION: Page.goto: net::ERR_NETWORK_CHANGED at https://boards.greenhouse.io/discord/jobs/8362697002
+Call log:
+  - navigating to "https://boards.greenhouse.io/discord/jobs/8362697002", waiting until "networkidle"
+
+[20:16:31]   Traceback (most recent call last):
+  File "J:\job-hunter-mcp\scripts\swarm\swarm_greenhouse_playwright.py", line 833, in run_swarm
+    result = apply_with_playwright(page, board, gh_id, job["company"]
+[20:16:34] [12/50] Vercel — Product Manager - Agent Platform (score=54.0, board=vercel)
+[20:16:39]     Country = United States
+[20:16:40]     Uploaded resume
+[20:16:41]     Uploaded cover letter file
+[20:16:43]     Q: Are you currently based in any of these  = United States
+[20:16:44]     Q: Will you require Visa Sponsorship now, o = No
+[20:16:45]     Q: Your authorization to work in the countr = I am authorized to work in the country b
+[20:16:46]     Q: Do you live in one of the following stat = Yes
+[20:16:47]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:16:47]     Q: Twitter = N/A
+[20:16:47]     Q: Github = https://github.com/suhteevah
+[20:16:47]     Q: Website = https://github.com/suhteevah
+[20:16:48]     Q: By submitting my application, I acknowle = Acknowledge/Confirm
+[20:16:50]     Q: Please double-check all the information  = I have reviewed and confirmed that all t
+[20:16:51]     Select question_15466800004: are you currently based in any of these  = 
+[20:16:52]     Select question_15466801004: will you require visa sponsorship now, o = 
+[20:16:54]     Select question_15466802004: your authorization to work in the countr = 
+[20:16:55]     Select question_15466803004: do you live in one of the following stat = 
+[20:16:56]     Select question_15466808004: by submitting my application, i acknowle = I agree
+[20:16:57]     Select question_15466809004: please double-check all the information  = 
+[20:16:58]     Clicked submit
+[20:17:02]   NEEDS SECURITY CODE — check Gmail
+[20:17:05] [13] SKIP (bad board=grafanalabs) Grafana Labs — Commercial Solutions Engineer | Germany | Remote 
+[20:17:05] [14] SKIP (bad board=grafanalabs) Grafana Labs — Event Manager | EST or CST USA | Remote 
+[20:17:05] [15] SKIP (bad board=grafanalabs) Grafana Labs — Manager, Solutions Engineering | Texas | Remote
+[20:17:05] [16] SKIP (bad board=grafanalabs) Grafana Labs — Manager, Solutions Engineering | West Coast | Remo
+[20:17:05] [17] SKIP (bad board=grafanalabs) Grafana Labs — Senior Solutions Engineer | Germany | Remote
+[20:17:05] [18] SKIP (bad board=grafanalabs) Grafana Labs — Senior Solutions Engineer | Sweden | Remote 
+[20:17:05] [19] SKIP (bad board=grafanalabs) Grafana Labs — Senior Solutions Engineer | Tokyo, Japan | Remote
+[20:17:05] [20] SKIP (bad board=grafanalabs) Grafana Labs — Senior Solutions Engineer | UK | Remote
+[20:17:05] [21] SKIP (bad board=grafanalabs) Grafana Labs — Staff Product Designer, Grafana Datasources | Germ
+[20:17:05] [22] SKIP (bad board=grafanalabs) Grafana Labs — Staff Product Designer, Grafana Datasources | Irel
+[20:17:05] [23] SKIP (bad board=grafanalabs) Grafana Labs — Staff Product Designer, Grafana Datasources | Swed
+[20:17:05] [24] SKIP (bad board=grafanalabs) Grafana Labs — Staff Product Designer, Grafana Datasources | UK |
+[20:17:05] [25/50] Verkada — Computer Vision Software Engineer - University Gra (score=54.0, board=verkada)
+[20:17:10]     Country = United States
+[20:17:12]     Location = Chico (autocomplete)
+[20:17:12]     Uploaded resume
+[20:17:17]     Q: Preferred First Name = Matt
+[20:17:17]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:17:19]     Q: When do you graduate? = Sept - Dec 2025
+[20:17:20]     Q: What is your GPA? = 3.6 - 4.0
+[20:17:22]     Select question_11243754007: when do you graduate?* = 
+[20:17:23]     Select question_11243755007: what is your gpa?* = 
+[20:17:25]     Clicked submit
+[20:17:29]   FAILED: Validation: School*; Select...; School is required.
+[20:17:29] 
+--- Progress: 25/50 | OK=0 FAIL=23 DUP=0 | 4.6/min ---
+
+[20:17:32] [26/50] Verkada — Embedded Linux Software Engineer (score=54.0, board=verkada)
+[20:17:37]     Country = United States
+[20:17:38]     Location = Chico (autocomplete)
+[20:17:39]     Uploaded resume
+[20:17:40]     Uploaded cover letter file
+[20:17:41]     Q: Have you worked directly on low-level Li = Yes
+[20:17:43]     Q: Do you have professional experience with = Yes
+[20:17:44]     Q: Are you able to work from our San Mateo  = Yes
+[20:17:44]     Q: Please provide a link to your LinkedIn p = https://www.linkedin.com/in/matt-michels
+[20:17:45]     Select question_11262975007: have you worked directly on low-level li = 
+[20:17:47]     Select question_11262976007: do you have professional experience with = 
+[20:17:48]     Select question_11262977007: are you able to work from our san mateo  = 
+[20:17:49]     Clicked submit
+[20:17:53]   FAILED: Validation: Gender*; Select...; This field is required.
+[20:17:56] [27/50] Verkada — Software Engineering Manager - Alarms (score=54.0, board=verkada)
+[20:18:03]     Country = United States
+[20:18:04]     Location = Chico (autocomplete)
+[20:18:04]     Uploaded resume
+[20:18:05]     Uploaded cover letter file
+[20:18:06]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:18:06]     Q: Website = https://github.com/suhteevah
+[20:18:07]     Clicked submit
+[20:18:11]   FAILED: Validation: Gender*; Select...; This field is required.
+[20:18:14] [28/50] Runway — Creative Support Specialist (contract) (score=54.0, board=runwayml)
+[20:18:20]     Country = United States
+[20:18:20]     Uploaded resume
+[20:18:22]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:18:22]     Q: Please provide a brief description of yo = N/A
+[20:18:24]     Q: Are you open to working a shifted schedu = Yes
+[20:18:24]     Q: Can you work 40 hours a week for at leas = N/A
+[20:18:24]     Q: When could you start at the soonest? = N/A
+[20:18:25]     Q: Are you currently based in the U.S., Can = Yes
+[20:18:27]     Q: Are you currently authorized to work in  = Yes
+[20:18:27]     Q: What are your preferred pronouns? = No
+[20:18:27]     Q: So we can pronounce it correctly, what i = he/him
+[20:18:28]     Select question_7492283005: are you open to working a shifted schedu = 
+[20:18:29]     Select question_7491862005: are you currently based in the u.s., can = 
+[20:18:31]     Select question_7491863005: are you currently authorized to work in  = 
+[20:18:31]     Clicked submit
+[20:18:36]   FAILED: Validation: Please add the screenshot of your custom workflow. [See the job description above for more instructions.]*; 
+[20:18:39] [29/50] LaunchDarkly — Senior Solutions Engineer - East Coast (score=54.0, board=launchdarkly)
+[20:18:43]     Country = United States
+[20:18:44]     Uploaded resume
+[20:18:45]     Uploaded cover letter file
+[20:18:45]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:18:47]     Q: Are you legally authorized to work in th = Yes
+[20:18:48]     Q: Do you now, or will you in the future, r = No
+[20:18:48]     Q: Where is your permanent (City, State) wo = Chico, CA, United States
+[20:18:48]     Q: This position requires 20-30% travel to  = N/A
+[20:18:50]     Select question_28728918003: are you legally authorized to work in th = 
+[20:18:51]     Select question_28728919003: do you now, or will you in the future, r = 
+[20:18:53]     Clicked submit
+[20:18:57]   NEEDS SECURITY CODE — check Gmail
+[20:19:00] [30/50] LaunchDarkly — Staff Solutions Engineer (score=54.0, board=launchdarkly)
+[20:19:04]     Country = United States
+[20:19:05]     Uploaded resume
+[20:19:06]     Uploaded cover letter file
+[20:19:06]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:19:08]     Q: Are you legally authorized to work in th = Yes
+[20:19:09]     Q: Do you now, or will you in the future, r = No
+[20:19:09]     Q: Where is your permanent (City, State) wo = Chico, CA, United States
+[20:19:11]     Select question_29942315003: are you legally authorized to work in th = 
+[20:19:12]     Select question_29942316003: do you now, or will you in the future, r = 
+[20:19:13]     Clicked submit
+[20:19:17]   NEEDS SECURITY CODE — check Gmail
+[20:19:20] [31/50] Scale AI — Enterprise AI Delivery Operations Lead (score=54.0, board=scaleai)
+[20:19:25]     Country = United States
+[20:19:25]     Uploaded resume
+[20:19:26]     Uploaded cover letter file
+[20:19:27]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:19:27]     Q: Website = https://github.com/suhteevah
+[20:19:29]     Q: Are you open to working in person in our = Yes
+[20:19:30]     Q: Are you currently bound by any agreement = Yes
+[20:19:32]     Q: Are you legally authorized to work in th = Yes
+[20:19:33]     Q: Will you now or in the future require co = Yes
+[20:19:34]     Select question_8490866005: are you open to working in person in our = 
+[20:19:35]     Select question_8490867005: are you currently bound by any agreement = I agree
+[20:19:37]     Select question_8490869005: are you legally authorized to work in th = 
+[20:19:38]     Select question_8490870005: will you now or in the future require co = 
+[20:19:39]     Clicked submit
+[20:19:43]   NEEDS SECURITY CODE — check Gmail
+[20:19:46] [32/50] Scale AI — Support Specialist (score=54.0, board=scaleai)
+[20:19:51]     Country = United States
+[20:19:51]     Uploaded resume
+[20:19:53]     Q: When is the earliest you're available to = Immediately
+[20:19:53]     Q: Which of the following tools have you us = FAILED to select
+[20:19:54]     Q: Are you comfortable making decisions ind = Yes
+[20:19:55]     Q: Do you have experience working in high-v = Yes
+[20:19:55]     Q: In 2–3 sentences, describe the type of s = I am excited about the Support Specialis
+[20:19:57]     Q: As noted in the job posting, this role i = Yes
+[20:19:58]     Select question_8277903005: are you comfortable making decisions ind = 
+[20:19:59]     Select question_8277904005: do you have experience working in high-v = 
+[20:20:01]     Select question_8326214005: as noted in the job posting, this role i = 
+[20:20:02]     Clicked submit
+[20:20:06]   FAILED: Validation: Which of the following tools have you used in a support role? (Select all that apply) *; This field is requi
+[20:20:09] [33/50] Postman — Forward Deployed Engineer (score=54.0, board=postman)
+[20:20:14]     Country = United States
+[20:20:14]     Uploaded resume
+[20:20:15]     Uploaded cover letter file
+[20:20:17]     Q: Postman we value in person collaboration = Yes
+[20:20:17]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:20:19]     Q: Are you currently eligible to legally wo = Yes
+[20:20:20]     Q: If hired, do you now or in the future re = No
+[20:20:21]     Select question_22042653003: postman we value in person collaboration = 
+[20:20:22]     Select question_22042654003: are you currently eligible to legally wo = 
+[20:20:24]     Select question_22042656003: if hired, do you now or in the future re = 
+[20:20:25]     Clicked submit
+[20:20:29]   NEEDS SECURITY CODE — check Gmail
+[20:20:32] [34/50] Postman — Senior Forward Deployed Engineer (score=54.0, board=postman)
+[20:20:36]     Country = United States
+[20:20:37]     Uploaded resume
+[20:20:38]     Uploaded cover letter file
+[20:20:39]     Q: Postman we value in person collaboration = Yes
+[20:20:39]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:20:41]     Q: Are you currently eligible to legally wo = Yes
+[20:20:42]     Q: If hired, do you now or in the future re = No
+[20:20:43]     Select question_22039308003: postman we value in person collaboration = 
+[20:20:45]     Select question_22039306003: are you currently eligible to legally wo = 
+[20:20:46]     Select question_22039307003: if hired, do you now or in the future re = 
+[20:20:47]     Clicked submit
+[20:20:51]   NEEDS SECURITY CODE — check Gmail
+[20:20:54] [35/50] Postman — Senior Software Engineer - Client SDK (UI Platform (score=54.0, board=postman)
+[20:20:59]     Country = United States
+[20:20:59]     Uploaded resume
+[20:21:00]     Uploaded cover letter file
+[20:21:01]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:21:02]     Clicked submit
+[20:21:06]   NEEDS SECURITY CODE — check Gmail
+[20:21:09] [36/50] Blockchain.com — Business and Customer Operations Lead (score=54.0, board=blockchain)
+[20:21:14]     Country = United States
+[20:21:14]     Uploaded resume
+[20:21:15]     Uploaded cover letter file
+[20:21:15]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:21:15]     Q: Website = https://github.com/suhteevah
+[20:21:16]     Clicked submit
+[20:21:20]   NEEDS SECURITY CODE — check Gmail
+[20:21:23] [37/50] Blockchain.com — Quantitative Engineer (score=54.0, board=blockchain)
+[20:21:28]     Country = United States
+[20:21:28]     Uploaded resume
+[20:21:29]     Uploaded cover letter file
+[20:21:30]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:21:30]     Q: Website = https://github.com/suhteevah
+[20:21:32]     Q: This role requires working from our Sing = Yes
+[20:21:33]     Select question_63086621: this role requires working from our sing = 
+[20:21:34]     Clicked submit
+[20:21:38]   NEEDS SECURITY CODE — check Gmail
+[20:21:41] [38/50] Blockchain.com — Quantitative Engineer (score=54.0, board=blockchain)
+[20:21:46]     Country = United States
+[20:21:46]     Uploaded resume
+[20:21:47]     Uploaded cover letter file
+[20:21:48]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:21:48]     Q: Website = https://github.com/suhteevah
+[20:21:50]     Q: Do you have the legal right to work in t = Yes
+[20:21:51]     Q: This role requires working from our Lond = Yes
+[20:21:52]     Select question_57517348: do you have the legal right to work in t = 
+[20:21:54]     Select question_57517349: this role requires working from our lond = 
+[20:21:55]     Clicked submit
+[20:21:59]   NEEDS SECURITY CODE — check Gmail
+[20:22:02] [39/50] Starburst — Application Security Engineer (score=54.0, board=starburst)
+[20:22:06]     Country = United States
+[20:22:07]     Uploaded resume
+[20:22:08]     Uploaded cover letter file
+[20:22:08]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:22:09]     Q: Website = https://github.com/suhteevah
+[20:22:11]     Q:  Candidate Privacy Policy = Acknowledge/Confirm
+[20:22:12]     Q: How did you hear about us? = BuiltIn
+[20:22:13]     Q: What location do you intend to work out  = Alabama
+[20:22:15]     Q: Will you now or in the future require sp = No
+[20:22:16]     Select question_15015058008: candidate privacy policy* = I agree
+[20:22:17]     Select question_15015059008: how did you hear about us?* = Job Board
+[20:22:18]     Select question_15015060008: what location do you intend to work out  = 
+[20:22:20]     Select question_15015061008: will you now or in the future require sp = 
+[20:22:21]     Clicked submit
+[20:22:25]   NEEDS SECURITY CODE — check Gmail
+[20:22:28] [40/50] Mercury — Revenue Technology - Data Strategy & Operations Le (score=54.0, board=mercury)
+[20:22:32]     Country = United States
+[20:22:33]     Uploaded resume
+[20:22:34]     Uploaded cover letter file
+[20:22:34]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:22:34]     Q: Portfolio = https://github.com/suhteevah
+[20:22:34]     Q: Website = https://github.com/suhteevah
+[20:22:36]     Q: Will you now or at any time in the futur = No
+[20:22:36]     Q: From where do you intend to work? = Chico, CA, United States
+[20:22:38]     Select question_15442674004: will you now or at any time in the futur = 
+[20:22:39]     Clicked submit
+[20:22:43]   NEEDS SECURITY CODE — check Gmail
+[20:22:46] [41/50] Together AI — Program Manager, Data Center Delivery (score=54.0, board=togetherai)
+[20:22:51]     Country = United States
+[20:22:51]     Uploaded resume
+[20:22:52]     Uploaded cover letter file
+[20:22:52]     Q: Website = https://github.com/suhteevah
+[20:22:52]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:22:52]     Q: Are you willing to work four days per we = N/A
+[20:22:55]     Q: Are you legally authorized to work in th = Yes, I am currently legally authorized t
+[20:22:56]     Q: Will you now or in the future require co = Yes, I will require immigration sponsors
+[20:22:57]     Select question_11592229007: are you legally authorized to work in th = 
+[20:22:58]     Select question_11592230007: will you now or in the future require co = 
+[20:22:59]     Clicked submit
+[20:23:03]   NEEDS SECURITY CODE — check Gmail
+[20:23:06] [42/50] Anthropic — Product Designer (score=54.0, board=anthropic)
+[20:23:12]     Country = United States
+[20:23:12]     Uploaded resume
+[20:23:14]     Q: (Optional) Personal Preferences = No
+[20:23:14]     Q: Website = https://github.com/suhteevah
+[20:23:15]     Q: Are you open to working in-person in one = Yes
+[20:23:16]     Q: AI Policy for Application = Yes
+[20:23:16]     Q: Why Anthropic? = N/A
+[20:23:18]     Q: Do you require visa sponsorship?  = No
+[20:23:19]     Q: Will you now or will you in the future r = No
+[20:23:19]     Q: Additional Information = I am excited about the Product Designer 
+[20:23:19]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:23:20]     Q: Are you open to relocation for this role = Yes
+[20:23:20]     Q: What is the address from which you plan  = Chico, CA
+[20:23:22]     Q: Have you ever interviewed at Anthropic b = Yes
+[20:23:24]     Select question_15345573008: are you open to working in-person in one = 
+[20:23:25]     Select question_15345576008: ai policy for application* = 
+[20:23:26]     Select question_15345578008: do you require visa sponsorship? * = 
+[20:23:28]     Select question_15345579008: will you now or will you in the future r = 
+[20:23:29]     Select question_15345582008: are you open to relocation for this role = 
+[20:23:30]     Select question_15345584008: have you ever interviewed at anthropic b = 
+[20:23:31]     Clicked submit
+[20:23:35]   NEEDS SECURITY CODE — check Gmail
+[20:23:38] [43/50] Anthropic — Research Economist, Economic Research (score=54.0, board=anthropic)
+[20:23:44]     Country = United States
+[20:23:44]     Uploaded resume
+[20:23:45]     Q: (Optional) Personal Preferences = No
+[20:23:45]     Q: Website = https://github.com/suhteevah
+[20:23:48]     Q: Are you open to working in-person in one = Yes
+[20:23:49]     Q: AI Policy for Application = Yes
+[20:23:49]     Q: Why Anthropic? = N/A
+[20:23:50]     Q: Do you require visa sponsorship?  = No
+[20:23:52]     Q: Will you now or will you in the future r = No
+[20:23:52]     Q: Additional Information = I am excited about the Research Economis
+[20:23:52]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:23:53]     Q: Are you open to relocation for this role = Yes
+[20:23:53]     Q: What is the address from which you plan  = Chico, CA
+[20:23:54]     Q: Have you ever interviewed at Anthropic b = Yes
+[20:23:56]     Select question_14004472008: are you open to working in-person in one = 
+[20:23:57]     Select question_14004475008: ai policy for application* = 
+[20:23:58]     Select question_14004477008: do you require visa sponsorship? * = 
+[20:24:00]     Select question_14004478008: will you now or will you in the future r = 
+[20:24:01]     Select question_14004481008: are you open to relocation for this role = 
+[20:24:02]     Select question_14004483008: have you ever interviewed at anthropic b = 
+[20:24:03]     Clicked submit
+[20:24:07]   FAILED: Validation: Please provide a writing sample, preferably a job-market paper or other article that showcases your research
+[20:24:10] [44/50] Anthropic — Strategic Account Executive, Retail & Commercial B (score=54.0, board=anthropic)
+[20:24:16]     Country = United States
+[20:24:17]     Uploaded resume
+[20:24:19]     Q: Do you have experience working in or sel = Yes
+[20:24:19]     Q: Please describe your experience working  = I am excited about the Strategic Account
+[20:24:21]     Q: This role is based in office in New York = Yes, I am based in New York or San Franc
+[20:24:21]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:24:21]     Q: Why Anthropic? = N/A
+[20:24:21]     Q: What is the address from which you plan  = Chico, CA
+[20:24:23]     Q: Are you open to working in-person in one = Yes
+[20:24:25]     Q: AI Policy for Application = Yes
+[20:24:26]     Q: Do you require visa sponsorship?  = No
+[20:24:27]     Q: Will you now or will you in the future r = No
+[20:24:28]     Select question_14330035008: do you have experience working in or sel = 
+[20:24:30]     Select question_14330037008: this role is based in office in new york = 
+[20:24:31]     Select question_14330041008: are you open to working in-person in one = 
+[20:24:32]     Select question_14330042008: ai policy for application* = 
+[20:24:33]     Select question_14209545008: do you require visa sponsorship? * = 
+[20:24:35]     Select question_14209546008: will you now or will you in the future r = 
+[20:24:36]     Clicked submit
+[20:24:40]   NEEDS SECURITY CODE — check Gmail
+[20:24:43] [45/50] Cloudflare — Fullstack Software Engineer - Registrar  (score=54.0, board=cloudflare)
+[20:24:49]     Country = United States
+[20:24:51]     Location = Chico (autocomplete)
+[20:24:51]     Uploaded resume
+[20:24:52]     Uploaded cover letter file
+[20:24:52]     Q: Would you like to include your LinkedIn  = https://www.linkedin.com/in/matt-michels
+[20:24:52]     Q: How did you hear about this job? = Job board
+[20:24:54]     Q: Are you currently based in Lisbon or Lon = Yes
+[20:24:55]     Q: Do you now or will you in the future req = No
+[20:24:55]     Q: Please review and acknowledge Cloudflare = FAILED to select
+[20:24:57]     Select question_63780664: are you currently based in lisbon or lon = 
+[20:24:58]     Select question_63780665: do you now or will you in the future req = 
+[20:24:59]     Clicked submit
+[20:25:03]   FAILED: Validation: Please review and acknowledge Cloudflare's Candidate Privacy Policy (cloudflare.com/candidate-privacy-notice
+[20:25:06] [46/50] Cloudflare — Senior Customer Solutions Engineer (score=54.0, board=cloudflare)
+[20:25:11]     Country = United States
+[20:25:12]     Location = Chico (autocomplete)
+[20:25:13]     Uploaded resume
+[20:25:14]     Uploaded cover letter file
+[20:25:14]     Q: Would you like to include your LinkedIn  = https://www.linkedin.com/in/matt-michels
+[20:25:14]     Q: How did you hear about this job? = Job board
+[20:25:16]     Q: Do you currently live or are you willing = Yes
+[20:25:18]     Q: Do you now or will you in the future req = No
+[20:25:19]     Q: This role requires fluency in German. Ar = Yes
+[20:25:19]     Q: Please review and acknowledge Cloudflare = FAILED to select
+[20:25:20]     Select question_64083397: do you currently live or are you willing = 
+[20:25:22]     Select question_64083398: do you now or will you in the future req = 
+[20:25:23]     Select question_64083399: this role requires fluency in german. ar = 
+[20:25:24]     Clicked submit
+[20:25:28]   FAILED: Validation: Please review and acknowledge Cloudflare's Candidate Privacy Policy (cloudflare.com/candidate-privacy-notice
+[20:25:31] [47/50] Cloudflare — Senior Software Engineer (Full Stack) (score=54.0, board=cloudflare)
+[20:25:38]     Country = United States
+[20:25:40]     Location = Chico (autocomplete)
+[20:25:40]     Uploaded resume
+[20:25:41]     Uploaded cover letter file
+[20:25:42]     Q: Would you like to include your LinkedIn  = https://www.linkedin.com/in/matt-michels
+[20:25:42]     Q: How did you hear about this job? = Job board
+[20:25:44]     Q: Do you currently live or are you willing = I currently live in this job's location.
+[20:25:45]     Q: Do you now or will you in the future req = No
+[20:25:45]     Q: Please review and acknowledge Cloudflare = FAILED to select
+[20:25:47]     Select question_63034188: do you currently live or are you willing = 
+[20:25:48]     Select question_63034189: do you now or will you in the future req = 
+[20:25:49]     Clicked submit
+[20:25:53]   FAILED: Validation: Please review and acknowledge Cloudflare's Candidate Privacy Policy (cloudflare.com/candidate-privacy-notice
+[20:25:56] [48/50] vercel — Software Engineer, CDN Security (score=53.0, board=vercel)
+[20:26:01]     Country = United States
+[20:26:01]     Uploaded resume
+[20:26:02]     Uploaded cover letter file
+[20:26:04]     Q: Are you currently based in any of these  = United States
+[20:26:05]     Q: Will you require Visa Sponsorship now, o = No
+[20:26:06]     Q: Your authorization to work in the countr = I am authorized to work in the country b
+[20:26:08]     Q: Do you live in one of the following stat = Yes
+[20:26:08]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:26:08]     Q: Twitter = N/A
+[20:26:08]     Q: Github = https://github.com/suhteevah
+[20:26:08]     Q: Website = https://github.com/suhteevah
+[20:26:10]     Q: By submitting my application, I acknowle = Acknowledge/Confirm
+[20:26:11]     Q: Please double-check all the information  = I have reviewed and confirmed that all t
+[20:26:12]     Select question_12801018004: are you currently based in any of these  = 
+[20:26:14]     Select question_12801019004: will you require visa sponsorship now, o = 
+[20:26:15]     Select question_14151283004: your authorization to work in the countr = 
+[20:26:16]     Select question_12801020004: do you live in one of the following stat = 
+[20:26:18]     Select question_12801025004: by submitting my application, i acknowle = I agree
+[20:26:19]     Select question_12801026004: please double-check all the information  = 
+[20:26:20]     Clicked submit
+[20:26:24]   NEEDS SECURITY CODE — check Gmail
+[20:26:27] [49/50] Anthropic — Software Engineer, Safeguards (score=53.0, board=anthropic)
+[20:26:32]     Country = United States
+[20:26:32]     Uploaded resume
+[20:26:34]     Q: (Optional) Personal Preferences = No
+[20:26:34]     Q: Website = https://github.com/suhteevah
+[20:26:35]     Q: Are you open to working in-person in one = Yes
+[20:26:36]     Q: AI Policy for Application = Yes
+[20:26:36]     Q: Why Anthropic? = N/A
+[20:26:38]     Q: Do you require visa sponsorship?  = No
+[20:26:39]     Q: Will you now or will you in the future r = No
+[20:26:39]     Q: Additional Information = I am excited about the Software Engineer
+[20:26:39]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:26:40]     Q: Do you have at least 4 years of industry = Yes
+[20:26:41]     Q: How many years of industry experience do = 0
+[20:26:42]     Q: What is your preferred programming langu = No
+[20:26:43]     Q: Are you open to relocation for this role = Yes
+[20:26:43]     Q: What is the address from which you plan  = Chico, CA
+[20:26:44]     Q: Have you ever interviewed at Anthropic b = Yes
+[20:26:45]     Select question_13278471008: are you open to working in-person in one = 
+[20:26:47]     Select question_13278474008: ai policy for application* = 
+[20:26:48]     Select question_13278476008: do you require visa sponsorship? * = 
+[20:26:49]     Select question_13278477008: will you now or will you in the future r = 
+[20:26:51]     Select question_13310240008: do you have at least 4 years of industry = 
+[20:26:52]     Select question_13462041008: how many years of industry experience do = 
+[20:26:53]     Select question_13278480008: are you open to relocation for this role = 
+[20:26:55]     Select question_13278482008: have you ever interviewed at anthropic b = 
+[20:26:55]     Clicked submit
+[20:26:59]   NEEDS SECURITY CODE — check Gmail
+[20:27:02] [50/50] Discord — Data Engineer, Analytics (score=53.0, board=discord)
+[20:27:07]     Country = United States
+[20:27:09]     Location = Chico (autocomplete)
+[20:27:09]     Uploaded resume
+[20:27:10]     Uploaded cover letter file
+[20:27:11]     Q: Preferred First Name = Matt
+[20:27:11]     Q: LinkedIn Profile = https://www.linkedin.com/in/matt-michels
+[20:27:11]     Q: Website = https://github.com/suhteevah
+[20:27:11]     Q: How did you hear about this job? = Job board
+[20:27:13]     Q: Are you legally authorized to work in th = Yes
+[20:27:14]     Q: Are you currently located in the US? = Yes
+[20:27:15]     Q: Are you currently based in or willing to = Yes
+[20:27:16]     Q: Why do you want to work at Discord? = I am excited about the Data Engineer, An
+[20:27:16]     Q: Describe a data pipeline that you have d = I am excited about the Data Engineer, An
+[20:27:17]     Select question_34859522002: are you legally authorized to work in th = 
+[20:27:18]     Select question_34859523002: are you currently located in the us?* = 
+[20:27:19]     Select question_34859524002: are you currently based in or willing to = 
+[20:27:20]     Clicked submit
+[20:27:24]   FAILED: Validation: Gender*; Select...; This field is required.
+[20:27:25] 
+--- Progress: 50/50 | OK=0 FAIL=32 DUP=0 | 3.3/min ---
+
+[20:27:25] Saved 18 pending code jobs to J:\job-hunter-mcp\pending_security_codes.json
+[20:27:25] 
+======================================================================
+[20:27:25] GREENHOUSE SWARM COMPLETE
+[20:27:25] ======================================================================
+[20:27:25] Duration: 922s (15.4min, 0.3hr)
+[20:27:25] Success:  0
+[20:27:25] Needs Code: 18 (check Gmail)
+[20:27:25] Failed:   32
+[20:27:25] Already:  0
+[20:27:25] Rate:     0.0 apps/min
+[20:27:25] ======================================================================
+[20:27:25] Results: J:\job-hunter-mcp\swarm_pw_results.md
+[20:27:25] Log: J:\job-hunter-mcp\swarm_pw_log.txt

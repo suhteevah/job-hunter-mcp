@@ -1,0 +1,40 @@
+[19:56:28] MEGA PIPELINE started at 2026-03-29T19:56:28.599970
+[19:56:28] Args: {'scrape': True, 'rescore': False, 'apply': False, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[19:56:28] 
+======================================================================
+[19:56:28] PHASE 1: MEGA SCRAPE
+[19:56:28] ======================================================================
+[19:56:28] Boards: 164 GH + 96 Ashby + 44 Lever = 304 total
+[19:56:28] Workers: 100
+[19:56:40]   +  3 new  CircleCI (greenhouse) [12 total]
+[19:56:58]   + 43 new  Gusto (greenhouse) [78 total]
+[19:56:58]   +  3 new  Descript (greenhouse) [22 total]
+[19:57:02]   + 24 new  Riot Games (greenhouse) [175 total]
+[19:57:03]   +  7 new  Chainguard (greenhouse) [55 total]
+[19:57:05]   + 16 new  Postman (greenhouse) [103 total]
+[19:57:05]   +  3 new  Amplitude (greenhouse) [40 total]
+[19:57:06]   +  3 new  Justworks (greenhouse) [103 total]
+[19:57:07]   +  6 new  SingleStore (greenhouse) [25 total]
+[19:58:02]   +  9 new  Flexport (greenhouse) [131 total]
+[19:58:58] 
+SCRAPE DONE in 150s
+[19:58:58]   Found: 9984 jobs across 80 boards
+[19:58:58]   New inserted: 117
+[19:58:58]   Viable (fit>=60, new): 0
+[19:58:58]   Total DB: 13184
+[19:58:58] 
+Top by new jobs:
+[19:58:58]   Gusto                     +43 (greenhouse)
+[19:58:58]   Riot Games                +24 (greenhouse)
+[19:58:58]   Postman                   +16 (greenhouse)
+[19:58:58]   Flexport                  +9 (greenhouse)
+[19:58:58]   Chainguard                +7 (greenhouse)
+[19:58:58]   SingleStore               +6 (greenhouse)
+[19:58:58]   CircleCI                  +3 (greenhouse)
+[19:58:58]   Descript                  +3 (greenhouse)
+[19:58:58]   Amplitude                 +3 (greenhouse)
+[19:58:58]   Justworks                 +3 (greenhouse)
+[19:58:58] 
+======================================================================
+[19:58:58] MEGA PIPELINE COMPLETE — 2.5min total
+[19:58:58] ======================================================================

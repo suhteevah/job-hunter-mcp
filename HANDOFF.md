@@ -286,7 +286,7 @@ Key env: `GMAIL_APP_PASSWORD="yzpn qern vrax fvta"`
 | Wellfound | Not scraped, has public API | Startups |
 
 ## WRAITH (OPENCLAW-BROWSER) — CONFIG
-- **Binary**: `J:\openclaw-browser\target\release\openclaw-browser.exe` (rebuilt 2026-03-22)
+- **Binary**: `J:\wraith-browser\target\release\openclaw-browser.exe` (rebuilt 2026-03-22)
 - **Version**: 0.1.0
 - **CDP**: COMPILED AND WORKING (retested 2026-03-22 on Greenhouse + Ashby)
 - **MCP config**: `J:\job-hunter-mcp\.mcp.json` (FlareSolverr + CDP env vars)

@@ -1,0 +1,173 @@
+[20:31:53] ======================================================================
+[20:31:53] WRAITH CDP APPLY SWARM
+[20:31:53] ======================================================================
+[20:31:53]   greenhouse: 50 jobs
+[20:31:53] Total: 50 jobs
+[20:31:53] Starting Wraith MCP client...
+[20:31:57] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[20:31:57] 
+[1/50] GREENHOUSE | Grafana Labs — Commercial Solutions Engineer | Germany | Remote  (score=54.0)
+[20:32:04]   FAILED: Submit button not found
+[20:32:07] 
+[2/50] GREENHOUSE | Grafana Labs — Event Manager | EST or CST USA | Remote  (score=54.0)
+[20:32:13]   FAILED: Submit button not found
+[20:32:16] 
+[3/50] GREENHOUSE | Grafana Labs — Manager, Solutions Engineering | Texas | Remote (score=54.0)
+[20:32:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:32:31] 
+[4/50] GREENHOUSE | Grafana Labs — Manager, Solutions Engineering | West Coast | Remo (score=54.0)
+[20:32:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:32:46] 
+[5/50] GREENHOUSE | Grafana Labs — Senior Solutions Engineer | Germany | Remote (score=54.0)
+[20:32:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:33:01] 
+[6/50] GREENHOUSE | Grafana Labs — Senior Solutions Engineer | Sweden | Remote  (score=54.0)
+[20:33:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:33:15] 
+[7/50] GREENHOUSE | Grafana Labs — Senior Solutions Engineer | Tokyo, Japan | Remote (score=54.0)
+[20:33:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:33:29] 
+[8/50] GREENHOUSE | Grafana Labs — Senior Solutions Engineer | UK | Remote (score=54.0)
+[20:33:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:33:45] 
+[9/50] GREENHOUSE | Grafana Labs — Staff Product Designer, Grafana Datasources | Germ (score=54.0)
+[20:33:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:34:01] 
+[10/50] GREENHOUSE | Grafana Labs — Staff Product Designer, Grafana Datasources | Irel (score=54.0)
+[20:34:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:34:15] --- Progress: 10/50 | OK=8 FAIL=2 CODE=0 | 2.3min ---
+[20:34:18] 
+[11/50] GREENHOUSE | Grafana Labs — Staff Product Designer, Grafana Datasources | Swed (score=54.0)
+[20:34:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:34:33] 
+[12/50] GREENHOUSE | Grafana Labs — Staff Product Designer, Grafana Datasources | UK | (score=54.0)
+[20:34:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:34:49] 
+[13/50] GREENHOUSE | Discord — Senior Software Engineer - Safety Experience (score=53.0)
+[20:35:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:35:04] 
+[14/50] GREENHOUSE | Airtable — Data Engineer (score=53.0)
+[20:35:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:35:21] 
+[15/50] GREENHOUSE | DeepMind — Data Engineer, Core Analytics Team (score=53.0)
+[20:35:27]   FAILED: Submit button not found
+[20:35:30] 
+[16/50] GREENHOUSE | DeepMind — Product Manager, Growth & Discovery Platform, Gemi (score=53.0)
+[20:35:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:35:45] 
+[17/50] GREENHOUSE | DeepMind — Senior ML Software Engineer, GeminiApp Strategic U (score=53.0)
+[20:35:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:36:00] 
+[18/50] GREENHOUSE | DeepMind — Software Engineer, AI Studio iOS Mobile - New York (score=53.0)
+[20:36:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:36:16] 
+[19/50] GREENHOUSE | Verkada — Senior Backend Engineer - Search (score=53.0)
+[20:36:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:36:32] 
+[20/50] GREENHOUSE | Verkada — Senior Product Manager, Video Platform (score=53.0)
+[20:36:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:36:46] --- Progress: 20/50 | OK=17 FAIL=3 CODE=0 | 4.8min ---
+[20:36:49] 
+[21/50] GREENHOUSE | Runway — AI Engagement Manager (score=53.0)
+[20:37:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:37:04] 
+[22/50] GREENHOUSE | Twilio — Assistant Counsel, Government, Policy and Regulato (score=53.0)
+[20:37:10]   FAILED: Submit button not found
+[20:37:13] 
+[23/50] GREENHOUSE | OnBoard Meetings — Principal Software Engineer - AI  (score=53.0)
+[20:37:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:37:27] 
+[24/50] GREENHOUSE | Scale AI — Principal Architect (score=53.0)
+[20:37:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:37:42] 
+[25/50] GREENHOUSE | Postman — Senior Manager, Solutions Engineering (score=53.0)
+[20:37:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:37:59] 
+[26/50] GREENHOUSE | Tailscale — Software Engineer, Networking (score=53.0)
+[20:38:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:38:13] 
+[27/50] GREENHOUSE | Mercury — Senior Backend Engineer - Product (score=53.0)
+[20:38:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:38:29] 
+[28/50] GREENHOUSE | New Relic — Solutions Consultant II (score=53.0)
+[20:38:36]   FAILED: Submit button not found
+[20:38:39] 
+[29/50] GREENHOUSE | Anthropic — Research Scientist, Interpretability (score=53.0)
+[20:38:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:38:53] 
+[30/50] GREENHOUSE | Cloudflare — Product Manager, Workers for Platforms (score=53.0)
+[20:39:04]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:39:05] --- Progress: 30/50 | OK=25 FAIL=5 CODE=0 | 7.1min ---
+[20:39:08] 
+[31/50] GREENHOUSE | Robinhood — Quality Engineer, Options (score=53.0)
+[20:39:19]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:39:22] 
+[32/50] GREENHOUSE | Robinhood — Software Developer, Data Engineering (score=53.0)
+[20:39:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:39:38] 
+[33/50] GREENHOUSE | ClickHouse — Core Software Engineer (C++) - Remote (score=53.0)
+[20:39:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:39:55] 
+[34/50] GREENHOUSE | ClickHouse — Core Software Engineer (C++) - Remote (score=53.0)
+[20:40:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:40:10] 
+[35/50] GREENHOUSE | ClickHouse — Core Software Engineer (C++) - Remote (score=53.0)
+[20:40:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:40:25] 
+[36/50] GREENHOUSE | gitlab — Group PM / Principal Product Manager, AI Developer (score=52.0)
+[20:40:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:40:41] 
+[37/50] GREENHOUSE | Anthropic — Technical Program Manager, Safeguards (Infrastruct (score=52.0)
+[20:40:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:40:57] 
+[38/50] GREENHOUSE | Verkada — Demand Generation & Growth Marketing Manager, Chan (score=52.0)
+[20:41:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:41:12] 
+[39/50] GREENHOUSE | Verkada — Growth Manager, Brand (score=52.0)
+[20:41:23]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:41:26] 
+[40/50] GREENHOUSE | Verkada — Lead Embedded Engineer - Intercom (score=52.0)
+[20:41:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:41:40] --- Progress: 40/50 | OK=35 FAIL=5 CODE=0 | 9.7min ---
+[20:41:43] 
+[41/50] GREENHOUSE | Verkada — Product Manager, Business Systems & Analytics - Pe (score=52.0)
+[20:41:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:41:58] 
+[42/50] GREENHOUSE | Verkada — Sales Strategy and Operations Division Lead (score=52.0)
+[20:42:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:42:14] 
+[43/50] GREENHOUSE | Verkada — Senior Firmware Engineer (score=52.0)
+[20:42:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:42:30] 
+[44/50] GREENHOUSE | Verkada — Senior Frontend Engineer - Access Control (score=52.0)
+[20:42:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:42:44] 
+[45/50] GREENHOUSE | Verkada — Senior Product Counsel (score=52.0)
+[20:42:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:43:02] 
+[46/50] GREENHOUSE | Verkada — Solutions Engineering Manager, EMEA  (score=52.0)
+[20:43:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:43:18] 
+[47/50] GREENHOUSE | Verkada — Sr. Manager, Technical Programs (score=52.0)
+[20:43:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:43:33] 
+[48/50] GREENHOUSE | Verkada — Technical Support Engineer (score=52.0)
+[20:43:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:43:49] 
+[49/50] GREENHOUSE | Verkada — Technical Support Engineer - University Graduate 2 (score=52.0)
+[20:44:02]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:44:06] 
+[50/50] GREENHOUSE | Scale AI — Engineering Manager, Global Public Sector (score=52.0)
+[20:44:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:44:18] --- Progress: 50/50 | OK=45 FAIL=5 CODE=0 | 12.4min ---
+[20:44:18] 
+======================================================================
+[20:44:18] WRAITH APPLY SWARM DONE — 12.4min
+[20:44:18]   Success: 45
+[20:44:18]   Failed: 5
+[20:44:18]   Needs code: 0
+[20:44:18]   Rate: 4.0 apps/min
+[20:44:18] ======================================================================

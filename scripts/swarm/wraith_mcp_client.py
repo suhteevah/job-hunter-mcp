@@ -16,7 +16,7 @@ class WraithMCPClient:
     """Communicate with Wraith browser via MCP stdio protocol."""
 
     def __init__(self, binary_path=None, chrome_path=None, flaresolverr_url=None):
-        self.binary = binary_path or r"J:\openclaw-browser\target\release\openclaw-browser.exe"
+        self.binary = binary_path or r"J:\wraith-browser\target\release\openclaw-browser.exe"
         self.chrome = chrome_path or r"C:\Program Files\Google\Chrome\Application\chrome.exe"
         self.flaresolverr = flaresolverr_url or "http://localhost:8191"
         self.proc = None

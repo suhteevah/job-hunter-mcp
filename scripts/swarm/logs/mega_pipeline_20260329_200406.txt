@@ -1,0 +1,9 @@
+[20:04:06] MEGA PIPELINE started at 2026-03-29T20:04:06.878022
+[20:04:06] Args: {'scrape': False, 'rescore': False, 'apply': True, 'all': False, 'stats': False, 'retry_failed': False, 'platform': 'greenhouse', 'min_score': 40.0, 'limit': 50, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[20:04:06] 
+======================================================================
+[20:04:06] PHASE 3: APPLY  [Wraith CDP]
+[20:04:06] ======================================================================
+[20:04:06]   greenhouse: 448 jobs
+[20:04:06] Total: 448 jobs across 1 platforms
+[20:04:06] Starting Wraith MCP client...
