@@ -1,0 +1,662 @@
+[19:56:46] ======================================================================
+[19:56:46] WRAITH CDP APPLY SWARM
+[19:56:46] ======================================================================
+[19:56:46]   greenhouse: 200 jobs
+[19:56:46] Total: 200 jobs
+[19:56:46] Starting Wraith MCP client...
+[19:56:50] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[19:56:50] 
+[1/200] GREENHOUSE | Cloudflare — Data and Technology - Operations and AI Innovation (score=48.0)
+[19:57:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:57:06] 
+[2/200] GREENHOUSE | Fireworks AI —  Software Engineer, AI Infrastructure (score=48.0)
+[19:57:19]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:57:23] 
+[3/200] GREENHOUSE | Anthropic — Software Engineer, Human Data Interface (score=47.0)
+[19:57:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:57:38] 
+[4/200] GREENHOUSE | Twilio — Marketing Campaigns Intern (June start, Remote-UK) (score=47.0)
+[19:57:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:57:56] 
+[5/200] GREENHOUSE | Scale AI — AI Product Manager (score=47.0)
+[19:58:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:58:11] 
+[6/200] GREENHOUSE | Scale AI — Research Scientist, AI Controls and Monitoring (score=47.0)
+[19:58:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:58:27] 
+[7/200] GREENHOUSE | Blockchain.com — Product Analyst, Consumer (score=47.0)
+[19:58:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:58:45] 
+[8/200] GREENHOUSE | Blockchain.com — Sales Trader (score=47.0)
+[19:58:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:59:02] 
+[9/200] GREENHOUSE | Blockchain.com — US Market Lead (score=47.0)
+[19:59:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:59:18] 
+[10/200] GREENHOUSE | Blockchain.com — VIP Relationship Manager (score=47.0)
+[19:59:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:59:37] --- Progress: 10/200 | OK=10 FAIL=0 CODE=0 | 2.8min ---
+[19:59:40] 
+[11/200] GREENHOUSE | Blockchain.com — VIP Relationship Manager (score=47.0)
+[19:59:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:59:57] 
+[12/200] GREENHOUSE | Blockchain.com — VIP Relationship Manager (score=47.0)
+[20:00:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:00:15] 
+[13/200] GREENHOUSE | Faire — Senior Business Intelligence Analyst (score=47.0)
+[20:00:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:00:33] 
+[14/200] GREENHOUSE | Faire — Staff Product Manager, AI Discovery (score=47.0)
+[20:00:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:00:55] 
+[15/200] GREENHOUSE | New Relic — Associate Technical Success Manager (score=47.0)
+[20:01:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:01:12] 
+[16/200] GREENHOUSE | Anthropic — External Affairs, Brussels (score=47.0)
+[20:01:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:01:29] 
+[17/200] GREENHOUSE | Anthropic — Product Support Specialist (score=47.0)
+[20:01:37]   FAILED: Submit button not found
+[20:01:40] 
+[18/200] GREENHOUSE | Anthropic — Product Support Specialist (score=47.0)
+[20:01:49]   FAILED: Submit button not found
+[20:01:52] 
+[19/200] GREENHOUSE | Anthropic — Product Support Specialist (score=47.0)
+[20:02:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:02:09] 
+[20/200] GREENHOUSE | Anthropic — Product Support Specialist, Weekend Coverage (score=47.0)
+[20:02:18]   FAILED: Submit button not found
+[20:02:18] --- Progress: 20/200 | OK=17 FAIL=3 CODE=0 | 5.5min ---
+[20:02:21] 
+[21/200] GREENHOUSE | Anthropic — Product Support Specialist, Weekend Coverage (score=47.0)
+[20:02:29]   FAILED: Submit button not found
+[20:02:32] 
+[22/200] GREENHOUSE | Cloudflare — Frontend Software Engineer - Cloudforce One (score=47.0)
+[20:02:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:02:49] 
+[23/200] GREENHOUSE | gitlab — Principal Product Manager, AI Control Plane and Gu (score=46.0)
+[20:03:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:03:06] 
+[24/200] GREENHOUSE | Anthropic — Software Engineer, Account Abuse (score=46.0)
+[20:03:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:03:23] 
+[25/200] GREENHOUSE | Anthropic — Software Engineer, Cybersecurity Products (score=46.0)
+[20:03:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:03:41] 
+[26/200] GREENHOUSE | Khan Academy — Training Coordinator - Karnataka (score=46.0)
+[20:03:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:03:57] 
+[27/200] GREENHOUSE | Flexport — Software Engineer I, Customs (score=46.0)
+[20:04:10]   FAILED: Submit button not found
+[20:04:13] 
+[28/200] GREENHOUSE | datadog — Product Manager II - Semantic & Agentic Search AI (score=45.0)
+[20:04:13]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7555509
+[20:04:29]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:04:32] 
+[29/200] GREENHOUSE | stripe — AI/ML Engineering Manager, Payment Intelligence (score=45.0)
+[20:04:32]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7286376
+[20:04:49]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:04:52] 
+[30/200] GREENHOUSE | twilio — Software Engineer (score=45.0)
+[20:05:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:05:07] --- Progress: 30/200 | OK=25 FAIL=5 CODE=0 | 8.3min ---
+[20:05:10] 
+[31/200] GREENHOUSE | Anthropic — Product Manager, Claude Code (score=45.0)
+[20:05:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:05:29] 
+[32/200] GREENHOUSE | Discord — Senior MuleSoft Developer (score=45.0)
+[20:05:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:05:49] 
+[33/200] GREENHOUSE | Airtable — Web Developer (score=45.0)
+[20:06:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:06:09] 
+[34/200] GREENHOUSE | DeepMind — Internal Communications, Unit Manager for Science  (score=45.0)
+[20:06:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:06:26] 
+[35/200] GREENHOUSE | DeepMind — Research Engineer, Multimodal Generative AI (Image (score=45.0)
+[20:06:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:06:44] 
+[36/200] GREENHOUSE | DeepMind — Science & Frontier AI Research - Writer / Communic (score=45.0)
+[20:07:01]   FAILED: Submit button not found
+[20:07:05] 
+[37/200] GREENHOUSE | Reddit — Lead, Advertising Measurement (London)  (score=45.0)
+[20:07:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:07:23] 
+[38/200] GREENHOUSE | Reddit — Senior Technical Solutions Manager, Signals (score=45.0)
+[20:07:31]   FAILED: Submit button not found
+[20:07:34] 
+[39/200] GREENHOUSE | LaunchDarkly — Frontend Engineer, Guarded Releases (score=45.0)
+[20:07:41]   FAILED: Job no longer available
+[20:07:44] 
+[40/200] GREENHOUSE | LaunchDarkly — Mid-Market Acquisition Account Executive (score=45.0)
+[20:07:52]   FAILED: Submit button not found
+[20:07:52] --- Progress: 40/200 | OK=31 FAIL=9 CODE=0 | 11.0min ---
+[20:07:55] 
+[41/200] GREENHOUSE | Asana — Senior Engineering Manager, AI Agents (score=45.0)
+[20:07:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7586942
+[20:08:09]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:08:12] 
+[42/200] GREENHOUSE | Postman — Technical Trainer (score=45.0)
+[20:08:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:08:35] 
+[43/200] GREENHOUSE | Elastic — AI Automation Forward Deployment Engineer (score=45.0)
+[20:08:35]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7729037
+[20:08:50]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:08:53] 
+[44/200] GREENHOUSE | Instacart — AI Automation Lead II (score=45.0)
+[20:08:53]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7495340
+[20:09:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:09:13] 
+[45/200] GREENHOUSE | Tailscale — Security Software Engineer (score=45.0)
+[20:09:29]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:09:32] 
+[46/200] GREENHOUSE | Okta — Senior Engineer - AI and Automation (score=45.0)
+[20:09:32]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7457329
+[20:09:42]   FAILED: Submit button not found
+[20:09:45] 
+[47/200] GREENHOUSE | Epic Games — AI/ML Engineer (score=45.0)
+[20:09:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5831765004
+[20:10:01]   FAILED: Submit button not found
+[20:10:06] 
+[48/200] GREENHOUSE | Epic Games — AI/ML Engineer (score=45.0)
+[20:10:06]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5831763004
+[20:10:18]   FAILED: Submit button not found
+[20:10:21] 
+[49/200] GREENHOUSE | Flexport — Ocean Operations Associate, Mumbai (score=45.0)
+[20:10:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:10:41] 
+[50/200] GREENHOUSE | Anthropic — Compute Cost of Revenue Accountant (score=45.0)
+[20:11:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:11:09] --- Progress: 50/200 | OK=38 FAIL=12 CODE=0 | 14.3min ---
+[20:11:12] 
+[51/200] GREENHOUSE | Anthropic — Contracts Manager (score=45.0)
+[20:11:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:11:42] 
+[52/200] GREENHOUSE | Anthropic — Customer Marketing Lead, Digital Native Business (score=45.0)
+[20:11:56]   FAILED: Submit button not found
+[20:11:59] 
+[53/200] GREENHOUSE | Anthropic — Customer Success Manager (score=45.0)
+[20:12:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:12:18] 
+[54/200] GREENHOUSE | Anthropic — Data Center Hardware Operations Lead (score=45.0)
+[20:12:33]   FAILED: Submit button not found
+[20:12:36] 
+[55/200] GREENHOUSE | Anthropic — Enterprise Account Executive, State & Local Sales  (score=45.0)
+[20:12:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:12:54] 
+[56/200] GREENHOUSE | Anthropic — Geopolitics Analyst, Policy (score=45.0)
+[20:13:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:13:14] 
+[57/200] GREENHOUSE | Anthropic — Head of Enterprise Sales - India (score=45.0)
+[20:13:29]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:13:32] 
+[58/200] GREENHOUSE | Anthropic — Mid-Market Account Executive, Tech (score=45.0)
+[20:13:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:13:57] 
+[59/200] GREENHOUSE | Anthropic — Offensive Security Research Engineer, Safeguards (score=45.0)
+[20:14:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:14:30] 
+[60/200] GREENHOUSE | Anthropic — Research Engineer, Cybersecurity Reinforcement Lea (score=45.0)
+[20:15:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:15:07] --- Progress: 60/200 | OK=46 FAIL=14 CODE=0 | 18.3min ---
+[20:15:10] 
+[61/200] GREENHOUSE | Anthropic — Startup Partnerships - EMEA (score=45.0)
+[20:15:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:15:56] 
+[62/200] GREENHOUSE | Anthropic — Startup Partnerships - France & Southern Europe  (score=45.0)
+[20:16:24]   FAILED: Submit button not found
+[20:16:31] 
+[63/200] GREENHOUSE | Anthropic — Technical Program Manager, Security (score=45.0)
+[20:17:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:17:27] 
+[64/200] GREENHOUSE | Anthropic — Trade Compliance Counsel (score=45.0)
+[20:17:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:17:55] 
+[65/200] GREENHOUSE | Cloudflare — Marketing Events and Campaigns Intern (Summer 2026 (score=45.0)
+[20:19:29]   FAILED: No confirmation after submit
+[20:19:34] 
+[66/200] GREENHOUSE | Cloudflare — Marketing Events and Campaigns Intern (Summer 2026 (score=45.0)
+[20:20:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:20:20] 
+[67/200] GREENHOUSE | Cloudflare — Software Engineer - Network Platforms (score=45.0)
+[20:20:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:20:48] 
+[68/200] GREENHOUSE | Cloudflare — Software Engineer - Platforms & Productivity (score=45.0)
+[20:21:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:21:29] 
+[69/200] GREENHOUSE | SoFi — Risk Data AI/ML Engineer (score=45.0)
+[20:21:29]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7644234003
+[20:22:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:22:04] 
+[70/200] GREENHOUSE | Discord — Full-Stack Software Engineer, Ads (score=44.0)
+[20:22:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:22:30] --- Progress: 70/200 | OK=54 FAIL=16 CODE=0 | 25.7min ---
+[20:22:33] 
+[71/200] GREENHOUSE | Airtable — Sales Manager, Strategic Accounts (score=44.0)
+[20:23:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:23:14] 
+[72/200] GREENHOUSE | Twilio — Technical Account Manager 3 (score=44.0)
+[20:23:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:23:42] 
+[73/200] GREENHOUSE | Scale AI — Legal Fellow - Human Frontier Collective (UK) (score=44.0)
+[20:24:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:24:17] 
+[74/200] GREENHOUSE | Scale AI — Legal Fellow - Human Frontier Collective (US) (score=44.0)
+[20:24:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:25:04] 
+[75/200] GREENHOUSE | Scale AI — STEM Fellow - Human Frontier Collective (UK) (score=44.0)
+[20:25:33]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:25:38] 
+[76/200] GREENHOUSE | Scale AI — STEM Fellow - Human Frontier Collective (US) (score=44.0)
+[20:26:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:26:10] 
+[77/200] GREENHOUSE | Postman — Customer Success Engineer - APAC (score=44.0)
+[20:26:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:27:00] 
+[78/200] GREENHOUSE | Postman — Customer Success Engineer - West (score=44.0)
+[20:27:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:27:36] 
+[79/200] GREENHOUSE | Blockchain.com — Brand Design Lead (score=44.0)
+[20:28:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:28:07] 
+[80/200] GREENHOUSE | Blockchain.com — Growth & Community Lead (score=44.0)
+[20:28:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:28:38] --- Progress: 80/200 | OK=64 FAIL=16 CODE=0 | 31.8min ---
+[20:28:41] 
+[81/200] GREENHOUSE | Blockchain.com — Institutional Sales Associate (score=44.0)
+[20:29:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:29:11] 
+[82/200] GREENHOUSE | Blockchain.com — Senior Accountant (score=44.0)
+[20:29:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:29:38] 
+[83/200] GREENHOUSE | Blockchain.com — Talent Acquisition Coordinator (score=44.0)
+[20:30:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:30:23] 
+[84/200] GREENHOUSE | Blockchain.com — UK Market Lead (score=44.0)
+[20:30:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:30:51] 
+[85/200] GREENHOUSE | Blockchain.com — US Regulatory Compliance Manager  (score=44.0)
+[20:31:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:31:19] 
+[86/200] GREENHOUSE | Tailscale — Analytics Engineer, Data (score=44.0)
+[20:31:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:32:00] 
+[87/200] GREENHOUSE | Tailscale — Developer Advocate (Video) (score=44.0)
+[20:32:33]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:32:37] 
+[88/200] GREENHOUSE | Tailscale — Developer Advocate (Video) (score=44.0)
+[20:33:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:33:43] 
+[89/200] GREENHOUSE | Faire — Benefits Program Manager (score=44.0)
+[20:34:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:34:15] 
+[90/200] GREENHOUSE | Faire — Data Science Intern (score=44.0)
+[20:35:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:35:13] --- Progress: 90/200 | OK=74 FAIL=16 CODE=0 | 38.4min ---
+[20:35:16] 
+[91/200] GREENHOUSE | Together AI — Staff Strategic Sourcing Manager (Hardware) (score=44.0)
+[20:36:05]   FAILED: No confirmation after submit
+[20:36:10] 
+[92/200] GREENHOUSE | Anthropic — Certification Content & Systems Architect (score=44.0)
+[20:36:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:36:46] 
+[93/200] GREENHOUSE | Anthropic — External Affairs, Australia (score=44.0)
+[20:37:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:37:16] 
+[94/200] GREENHOUSE | Anthropic — Security Engineer, Detection & Response (score=44.0)
+[20:37:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:37:42] 
+[95/200] GREENHOUSE | Anthropic — Senior Security Engineer, Detection & Response (score=44.0)
+[20:38:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:38:11] 
+[96/200] GREENHOUSE | Anthropic — Strategic Account Executive, Digital Native Busine (score=44.0)
+[20:38:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:38:39] 
+[97/200] GREENHOUSE | Cloudflare — Senior Software Engineer, Network Performance & Re (score=44.0)
+[20:39:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:39:06] 
+[98/200] GREENHOUSE | Cloudflare — Senior Software Engineer - Traffic Management  (score=44.0)
+[20:39:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:39:34] 
+[99/200] GREENHOUSE | Cloudflare — Software Engineer, Developer Tools and Productivit (score=44.0)
+[20:40:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:40:19] 
+[100/200] GREENHOUSE | Cloudflare — Software Engineer - Load Balancing  (score=44.0)
+[20:40:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:40:43] --- Progress: 100/200 | OK=83 FAIL=17 CODE=0 | 43.9min ---
+[20:40:47] 
+[101/200] GREENHOUSE | Cloudflare — Software Engineer, Network Performance & Reliabili (score=44.0)
+[20:41:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:41:19] 
+[102/200] GREENHOUSE | Cloudflare — Software Engineer - Traffic Management  (score=44.0)
+[20:41:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:41:49] 
+[103/200] GREENHOUSE | Cloudflare — Software Engineer - Traffic Management  (score=44.0)
+[20:42:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:42:20] 
+[104/200] GREENHOUSE | Cloudflare — Specialist Solutions Engineer, Cloudflare One (score=44.0)
+[20:42:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:42:48] 
+[105/200] GREENHOUSE | databricks — AI Engineer - FDE (Forward Deployed Engineer) (score=43.0)
+[20:42:48]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8335860002
+[20:43:20]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:43:23] 
+[106/200] GREENHOUSE | databricks — AI Engineer - FDE (Forward Deployed Engineer) (score=43.0)
+[20:43:23]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8099751002
+[20:44:00]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:44:04] 
+[107/200] GREENHOUSE | datadog — Senior AI Engineer - APM Experiences (score=43.0)
+[20:44:04]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7415266
+[20:44:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:44:45] 
+[108/200] GREENHOUSE | datadog — Staff AI Engineer - Notebooks (score=43.0)
+[20:44:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7629288
+[20:45:12]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:45:15] 
+[109/200] GREENHOUSE | gusto — Sr. Staff Software Engineer, Benefits (score=43.0)
+[20:45:45]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:46:12] 
+[110/200] GREENHOUSE | Anthropic — Software Engineer, Growth (score=43.0)
+[20:46:51]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:46:52] --- Progress: 110/200 | OK=93 FAIL=17 CODE=0 | 50.0min ---
+[20:46:55] 
+[111/200] GREENHOUSE | Databricks — AI Engineer - FDE (Forward Deployed Engineer) - U. (score=43.0)
+[20:46:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8415203002
+[20:47:21]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:47:25] 
+[112/200] GREENHOUSE | Elastic — Elastic AI Engineer (score=43.0)
+[20:47:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7607148
+[20:47:49]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:47:52] 
+[113/200] GREENHOUSE | CoreWeave — Backend Software Engineer, Cloud Platform (score=43.0)
+[20:47:52]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=4442021006
+[20:48:20]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:48:25] 
+[114/200] GREENHOUSE | DeepMind — Technical Program Manager, Agentic Development Pla (score=43.0)
+[20:48:50]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:48:56] 
+[115/200] GREENHOUSE | Samsara — AI Engineer (score=43.0)
+[20:48:56]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7589442
+[20:49:25]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:49:47] 
+[116/200] GREENHOUSE | Make — Staff AI Engineer (JS/TS) (score=43.0)
+[20:49:47]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6628297003
+[20:50:14]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:50:22] 
+[117/200] GREENHOUSE | Elastic — Principal Software Engineer - Agent Builder - Work (score=43.0)
+[20:50:22]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7440799
+[20:50:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:50:57] 
+[118/200] GREENHOUSE | Blockchain.com — Director of Internal Audit & SOX Compliance (score=43.0)
+[20:51:39]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:51:45] 
+[119/200] GREENHOUSE | Tailscale — Product Manager, Billing (score=43.0)
+[20:52:15]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:52:18] 
+[120/200] GREENHOUSE | Mercury — Senior Software Engineering Educator - AI Enableme (score=43.0)
+[20:52:45]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:52:47] --- Progress: 120/200 | OK=103 FAIL=17 CODE=0 | 55.9min ---
+[20:52:50] 
+[121/200] GREENHOUSE | Databricks — AI Engineer - FDE (Forward Deployed Engineer) (score=43.0)
+[20:52:50]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8189900002
+[20:53:17]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:53:20] 
+[122/200] GREENHOUSE | Databricks — AI Engineer - FDE (Forward Deployed Engineer) (score=43.0)
+[20:53:20]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8395601002
+[20:53:46]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:53:50] 
+[123/200] GREENHOUSE | Databricks — AI Engineer - FDE (Forward Deployed Engineer) (score=43.0)
+[20:53:50]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8395599002
+[20:54:28]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:54:31] 
+[124/200] GREENHOUSE | Databricks — AI Engineer - FDE (Forward Deployed Engineer) (score=43.0)
+[20:54:31]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8330188002
+[20:55:09]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:55:13] 
+[125/200] GREENHOUSE | Databricks — AI Engineer - FDE (Forward Deployed Engineer) (score=43.0)
+[20:55:13]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8298792002
+[20:55:38]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:55:43] 
+[126/200] GREENHOUSE | Databricks — AI Engineer - FDE (Forward Deployed Engineer) (score=43.0)
+[20:55:43]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8024004002
+[20:56:18]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:56:22] 
+[127/200] GREENHOUSE | Databricks — AI Engineer - FDE (Forward Deployed Engineer) (score=43.0)
+[20:56:22]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8419885002
+[20:56:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:57:11] 
+[128/200] GREENHOUSE | Databricks — Senior Applied AI Engineer (score=43.0)
+[20:57:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8091041002
+[20:57:39]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:57:43] 
+[129/200] GREENHOUSE | Epic Games — Senior Gameplay AI Engineer  (score=43.0)
+[20:57:43]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5763797004
+[20:58:16]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:58:21] 
+[130/200] GREENHOUSE | Epic Games — Senior Gameplay AI Engineer  (score=43.0)
+[20:58:21]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5784341004
+[20:58:46]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:58:47] --- Progress: 130/200 | OK=113 FAIL=17 CODE=0 | 61.9min ---
+[20:58:50] 
+[131/200] GREENHOUSE | Epic Games — Senior Gameplay AI Engineer, Game Foundation (score=43.0)
+[20:58:50]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5741366004
+[20:59:14]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:59:18] 
+[132/200] GREENHOUSE | Flexport — Software Engineer Ⅱ, Forwarding Tech - Commerce (score=43.0)
+[20:59:43]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:59:52] 
+[133/200] GREENHOUSE | Flexport — Software Engineer Ⅱ, Forwarding Tech - Commerce (score=43.0)
+[21:00:16]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:00:22] 
+[134/200] GREENHOUSE | Anthropic — Developer Community Lead - EMEA (score=43.0)
+[21:00:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:00:56] 
+[135/200] GREENHOUSE | Anthropic — Transformative AI Research Economist, Economic Res (score=43.0)
+[21:01:35]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:02:37] 
+[136/200] GREENHOUSE | airbnb — Senior Fullstack Engineer, Trust  (score=42.0)
+[21:02:37]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7381159
+[21:03:13]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:03:16] 
+[137/200] GREENHOUSE | databricks — Sr Fullstack Engineer, Agentic Applications (score=42.0)
+[21:03:16]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8220814002
+[21:03:26]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:03:29] 
+[138/200] GREENHOUSE | databricks — Sr. Staff Fullstack Engineer, Agentic Applications (score=42.0)
+[21:03:29]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8220902002
+[21:03:39]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:03:42] 
+[139/200] GREENHOUSE | databricks — Staff Fullstack Engineer, Agentic Applications (score=42.0)
+[21:03:42]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8220836002
+[21:03:51]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:03:54] 
+[140/200] GREENHOUSE | twilio — Senior Software Engineer (score=42.0)
+[21:04:04]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:04:04] --- Progress: 140/200 | OK=123 FAIL=17 CODE=0 | 67.2min ---
+[21:04:07] 
+[141/200] GREENHOUSE | Reddit — Senior Manager, Large Customer Sales (Tech) (score=42.0)
+[21:04:16]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:04:19] 
+[142/200] GREENHOUSE | Reddit — Senior Manager, Large Customer Sales (Tech & Telco (score=42.0)
+[21:04:29]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:04:32] 
+[143/200] GREENHOUSE | Airtable — Senior Manager, Finance Systems (score=42.0)
+[21:04:41]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:04:45] 
+[144/200] GREENHOUSE | Airtable — Solutions Consultant (score=42.0)
+[21:04:55]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:04:58] 
+[145/200] GREENHOUSE | Reddit — Senior Client Partner, Global Strategic Accounts ( (score=42.0)
+[21:05:08]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:05:11] 
+[146/200] GREENHOUSE | Reddit — Senior Client Partner, Large Customer Sales (Sydne (score=42.0)
+[21:05:21]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:05:24] 
+[147/200] GREENHOUSE | Twilio — Principal Presales Engineer (score=42.0)
+[21:05:35]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:05:39] 
+[148/200] GREENHOUSE | Twilio — Principal Presales Engineer (score=42.0)
+[21:05:49]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:05:52] 
+[149/200] GREENHOUSE | Flexport — Area Manager (ICQA) (score=42.0)
+[21:06:02]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:06:05] 
+[150/200] GREENHOUSE | Flexport — Engineering Manager, Forwarding Tech - Commerce, P (score=42.0)
+[21:06:14]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:06:14] --- Progress: 150/200 | OK=133 FAIL=17 CODE=0 | 69.4min ---
+[21:06:17] 
+[151/200] GREENHOUSE | Anthropic — Business Development Representative (score=42.0)
+[21:06:27]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:06:30] 
+[152/200] GREENHOUSE | Anthropic — Business Development Representative (score=42.0)
+[21:06:40]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:06:43] 
+[153/200] GREENHOUSE | Anthropic — Campus Security Manager (score=42.0)
+[21:06:54]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:06:58] 
+[154/200] GREENHOUSE | Anthropic — Commercial Counsel, EMEA (score=42.0)
+[21:07:07]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:07:10] 
+[155/200] GREENHOUSE | Anthropic — Commercial Counsel, EMEA (score=42.0)
+[21:07:20]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:07:23] 
+[156/200] GREENHOUSE | Anthropic — Corporate Accountant, Accounting Operations (score=42.0)
+[21:07:33]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:07:36] 
+[157/200] GREENHOUSE | Anthropic — Crisis Management Specialist (score=42.0)
+[21:07:46]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:07:49] 
+[158/200] GREENHOUSE | Anthropic — [Expression of Interest] Research Scientist / Engi (score=42.0)
+[21:07:59]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:08:03] 
+[159/200] GREENHOUSE | Anthropic — Field Marketing Lead, Industries - EMEA (score=42.0)
+[21:08:12]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:08:15] 
+[160/200] GREENHOUSE | Anthropic — Financial Reporting Accountant (score=42.0)
+[21:08:25]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:08:25] --- Progress: 160/200 | OK=143 FAIL=17 CODE=0 | 71.6min ---
+[21:08:28] 
+[161/200] GREENHOUSE | Anthropic — Head of GTM Narrative  (score=42.0)
+[21:08:39]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:08:42] 
+[162/200] GREENHOUSE | Anthropic — Head of Partner Sales  (score=42.0)
+[21:08:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:08:56] 
+[163/200] GREENHOUSE | Anthropic — International GTM Onboarding Lead (score=42.0)
+[21:09:06]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:09:09] 
+[164/200] GREENHOUSE | Anthropic — International GTM Onboarding Lead (score=42.0)
+[21:09:20]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:09:23] 
+[165/200] GREENHOUSE | Anthropic — Manager, Sales Development (Startups & Commercial) (score=42.0)
+[21:09:35]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:09:38] 
+[166/200] GREENHOUSE | Anthropic — Policy Design Manager, Age-Appropriate Design (score=42.0)
+[21:10:03]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:10:10] 
+[167/200] GREENHOUSE | Anthropic — Product Marketing Manager, Consumer (score=42.0)
+[21:10:33]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:10:37] 
+[168/200] GREENHOUSE | Anthropic — Research Operations, Economic Research (score=42.0)
+[21:11:05]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:11:08] 
+[169/200] GREENHOUSE | Anthropic — Research Product Manager, Labs (score=42.0)
+[21:11:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:11:57] 
+[170/200] GREENHOUSE | Anthropic — Research Scientist, Societal Impacts (score=42.0)
+[21:12:24]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:12:26] --- Progress: 170/200 | OK=153 FAIL=17 CODE=0 | 75.6min ---
+[21:12:29] 
+[171/200] GREENHOUSE | Anthropic — Technical Program Manager, Marketing Technology (score=42.0)
+[21:12:58]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:13:04] 
+[172/200] GREENHOUSE | Cloudflare — Digital Solutions Engineer (score=42.0)
+[21:13:33]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:13:39] 
+[173/200] GREENHOUSE | Cloudflare — Inside Sales Representative, iGaming & Entertainme (score=42.0)
+[21:14:30]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:14:51] 
+[174/200] GREENHOUSE | Cloudflare — People Team Intern - HR Operations & AI Innovation (score=42.0)
+[21:16:10]   FAILED: No confirmation after submit
+[21:16:21] 
+[175/200] GREENHOUSE | Cloudflare — People Team Intern - HR Operations & AI Innovation (score=42.0)
+[21:16:53]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:16:56] 
+[176/200] GREENHOUSE | Cloudflare — People Team Intern - HR Operations & AI Innovation (score=42.0)
+[21:17:29]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:17:32] 
+[177/200] GREENHOUSE | Cloudflare — Senior Partner Marketing Manager - Greater China & (score=42.0)
+[21:18:27]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:18:30] 
+[178/200] GREENHOUSE | Cloudflare — Senior Solutions Engineer (score=42.0)
+[21:19:01]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:19:05] 
+[179/200] GREENHOUSE | Cloudflare — Senior Solutions Engineer (score=42.0)
+[21:19:43]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:21:01] 
+[180/200] GREENHOUSE | Cloudflare — Senior Territory Account Executive, Shanghai (score=42.0)
+[21:21:36]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:21:37] --- Progress: 180/200 | OK=162 FAIL=18 CODE=0 | 84.8min ---
+[21:21:40] 
+[181/200] GREENHOUSE | Cloudflare — Specialist Solutions Engineer (score=42.0)
+[21:22:17]   FAILED: Submit button not found
+[21:22:49] 
+[182/200] GREENHOUSE | airbnb — Senior Software Engineer, Aircover Claim Platform (score=41.0)
+[21:22:49]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7714490
+[21:23:13]   >>> SUCCESS: Wraith verified: likely success <<<
+[21:23:17] 
+[183/200] GREENHOUSE | airbnb — Senior Software Engineer,Trust Platform  (score=41.0)
+[21:23:17]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7684833
+[21:24:20]   FAILED: Submit button not found
+[21:24:23] 
+[184/200] GREENHOUSE | Scale AI — Senior Forward Deployed Data Scientist/Engineer (score=41.0)
+[21:25:01]   FAILED: Submit button not found
+[21:25:05] 
+[185/200] GREENHOUSE | Discord — Senior Software Engineer, Machine Learning (Commer (score=41.0)
+[21:25:28]   FAILED: Submit button not found
+[21:25:41] 
+[186/200] GREENHOUSE | Twilio — Counsel, Commercial (score=41.0)
+[21:26:02]   FAILED: Submit button not found
+[21:26:06] 
+[187/200] GREENHOUSE | LaunchDarkly — Director, North America Enterprise Acquisition (score=41.0)
+[21:26:27]   FAILED: Submit button not found
+[21:26:30] 
+[188/200] GREENHOUSE | Scale AI — Medical Fellow - Human Frontier Collective (UK) (score=41.0)
+[21:26:53]   FAILED: Submit button not found
+[21:26:57] 
+[189/200] GREENHOUSE | Scale AI — Medical Fellow - Human Frontier Collective (US) (score=41.0)
+[21:27:18]   FAILED: Submit button not found
+[21:27:22] 
+[190/200] GREENHOUSE | Postman — Engineering Manager, Liblab (score=41.0)
+[21:27:47]   FAILED: Submit button not found
+[21:27:47] --- Progress: 190/200 | OK=163 FAIL=27 CODE=0 | 91.0min ---
+[21:27:51] 
+[191/200] GREENHOUSE | Tailscale — People Business Partner (score=41.0)
+[21:28:10]   FAILED: Submit button not found
+[21:28:13] 
+[192/200] GREENHOUSE | Faire — Marketing Analytics Senior Lead (score=41.0)
+[21:28:49]   FAILED: Submit button not found
+[21:28:52] 
+[193/200] GREENHOUSE | Faire — Senior Accountant, GL (score=41.0)
+[21:29:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:29:21] 
+[194/200] GREENHOUSE | Faire — Senior Accounting Manager, GL  (score=41.0)
+[21:29:47]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:29:51] 
+[195/200] GREENHOUSE | Faire — Senior Finance Systems Analyst (score=41.0)
+[21:30:19]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:30:27] 
+[196/200] GREENHOUSE | Chainguard — Growth Marketing Manager (score=41.0)
+[21:30:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:31:06] 
+[197/200] GREENHOUSE | Chainguard — Salesforce Business Systems Analyst (score=41.0)
+[21:31:33]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:31:37] 
+[198/200] GREENHOUSE | New Relic — Growth Web Engineer  (score=41.0)
+[21:32:04]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:32:28] 
+[199/200] GREENHOUSE | Together AI — Sr. Manager, Capacity Planning (score=41.0)
+[21:32:56]   >>> SUCCESS: Wraith verified: confirmed <<<

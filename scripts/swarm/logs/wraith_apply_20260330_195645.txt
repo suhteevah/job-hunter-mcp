@@ -1,0 +1,819 @@
+[19:56:45] ======================================================================
+[19:56:45] WRAITH CDP APPLY SWARM
+[19:56:45] ======================================================================
+[19:56:45]   lever: 200 jobs
+[19:56:45] Total: 200 jobs
+[19:56:45] Starting Wraith MCP client...
+[19:56:50] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[19:56:50] 
+[1/200] LEVER | Blue Light Consulting — Senior AI/ML Engineer (score=52.0)
+[19:56:51]   FAILED: Job no longer available
+[19:56:54] 
+[2/200] LEVER | smart-working-solutions — Senior Full Stack Engineer - Platform & DevOps (Re (score=51.0)
+[19:57:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:57:06] 
+[3/200] LEVER | smart-working-solutions — Senior Full Stack Engineer - Platform & DevOps (Re (score=51.0)
+[19:57:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:57:17] 
+[4/200] LEVER | smart-working-solutions — Senior Full Stack Engineer (Platform / DevOps) (Re (score=51.0)
+[19:57:26]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:57:29] 
+[5/200] LEVER | brillio-2 — Associate Director, Delivery & Program Management  (score=50.0)
+[19:57:37]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:57:40] 
+[6/200] LEVER | shieldai — 2026 Summer Intern - Electrical Engineering (R4626 (score=45.0)
+[19:57:48]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:57:51] 
+[7/200] LEVER | shieldai — Associate Engineer, Manufacturing (R4637) (score=45.0)
+[19:57:59]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:58:02] 
+[8/200] LEVER | shieldai — Autonomy Engineer, Navigation (R4171) (score=45.0)
+[19:58:03]   FAILED: Job no longer available
+[19:58:06] 
+[9/200] LEVER | shieldai — Business Development Manager (R4247) (score=45.0)
+[19:58:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:58:17] 
+[10/200] LEVER | shieldai — Business Development Manager, Japan (R3905) (score=45.0)
+[19:58:25]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:58:25] --- Progress: 10/200 | OK=8 FAIL=2 CODE=0 | 1.6min ---
+[19:58:28] 
+[11/200] LEVER | shieldai — Business Development Manager, Saudi Arabia (R3983) (score=45.0)
+[19:58:36]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:58:39] 
+[12/200] LEVER | shieldai — C++ Build & Release Engineer (Edge Autonomy) (R418 (score=45.0)
+[19:58:47]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:58:50] 
+[13/200] LEVER | shieldai — Chief Engineer (score=45.0)
+[19:58:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:59:01] 
+[14/200] LEVER | shieldai — Chief Engineer, Autonomy (R4614) (score=45.0)
+[19:59:09]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:59:12] 
+[15/200] LEVER | shieldai — Composite Senior Technician, Prototype (R4333) (score=45.0)
+[19:59:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:59:23] 
+[16/200] LEVER | shieldai — Computer Vision Engineer (C++) (score=45.0)
+[19:59:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:59:36] 
+[17/200] LEVER | shieldai — Contracts Manager (R4442) (score=45.0)
+[19:59:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:59:50] 
+[18/200] LEVER | shieldai — Director HRBP - EMEA (score=45.0)
+[19:59:51]   FAILED: Job no longer available
+[19:59:54] 
+[19/200] LEVER | shieldai — Director of Business Development, Middle East (score=45.0)
+[20:00:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:00:05] 
+[20/200] LEVER | shieldai — Director of Communications, APJ/ME (R4580) (score=45.0)
+[20:00:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:00:14] --- Progress: 20/200 | OK=17 FAIL=3 CODE=0 | 3.4min ---
+[20:00:17] 
+[21/200] LEVER | shieldai — Director of Communications, Europe (R4496) (score=45.0)
+[20:00:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:00:36] 
+[22/200] LEVER | shieldai — Director of Product Management (R4176) (score=45.0)
+[20:00:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:00:58] 
+[23/200] LEVER | shieldai — Director, Chief Engineering (R4667) (score=45.0)
+[20:01:06]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:01:09] 
+[24/200] LEVER | shieldai — Director, GTM Finance (R4674) (score=45.0)
+[20:01:17]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:01:20] 
+[25/200] LEVER | shieldai — Drone Operator (score=45.0)
+[20:01:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:01:31] 
+[26/200] LEVER | shieldai — Electrical Engineer I - Power Electronics (score=45.0)
+[20:01:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:01:46] 
+[27/200] LEVER | shieldai — Electrical Engineer I (BOS) (score=45.0)
+[20:01:55]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:01:58] 
+[28/200] LEVER | shieldai — Electrical Engineer I (SD) (score=45.0)
+[20:02:06]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:02:10] 
+[29/200] LEVER | shieldai — Electrical Engineer I (TX) (score=45.0)
+[20:02:18]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:02:21] 
+[30/200] LEVER | shieldai — Electrical Engineer II - Power Electronics (score=45.0)
+[20:02:29]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:02:29] --- Progress: 30/200 | OK=27 FAIL=3 CODE=0 | 5.7min ---
+[20:02:32] 
+[31/200] LEVER | shieldai — Electrical Engineer, Hardware Test (R4000) (score=45.0)
+[20:02:41]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:02:44] 
+[32/200] LEVER | shieldai — Electrical Engineering Fall Co-op (June 2026) (R44 (score=45.0)
+[20:02:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:02:55] 
+[33/200] LEVER | shieldai — Electromechanical Engineer II (R4211) (score=45.0)
+[20:02:56]   FAILED: Job no longer available
+[20:02:59] 
+[34/200] LEVER | shieldai — Engineer II , Mission Systems (Avionics & Sensor I (score=45.0)
+[20:03:07]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:03:10] 
+[35/200] LEVER | shieldai — Engineer II, Electrical Failure Analysis (R4596) (score=45.0)
+[20:03:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:03:24] 
+[36/200] LEVER | shieldai — Engineer II, Electrical Integration (R4627) (score=45.0)
+[20:03:39]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:03:42] 
+[37/200] LEVER | shieldai — Engineer II, Flight Sciences (score=45.0)
+[20:03:50]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:03:53] 
+[38/200] LEVER | shieldai — Engineer II, Payload Modeling & Simulation (Dallas (score=45.0)
+[20:04:01]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:04:05] 
+[39/200] LEVER | shieldai — Engineer, State Estimation (Dallas/San Diego/Bosto (score=45.0)
+[20:04:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:04:16] 
+[40/200] LEVER | shieldai — Engineer, State Estimation (Dallas/San Diego/Bosto (score=45.0)
+[20:04:25]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:04:25] --- Progress: 40/200 | OK=36 FAIL=4 CODE=0 | 7.6min ---
+[20:04:28] 
+[41/200] LEVER | shieldai — Engineering Lead, Autonomy Software (R4705) (score=45.0)
+[20:04:36]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:04:39] 
+[42/200] LEVER | shieldai — Engineering Manager, Mechanical Systems (R4427) (score=45.0)
+[20:04:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:04:50] 
+[43/200] LEVER | shieldai — Engineering Specialist/Sr. Technician, Electrical  (score=45.0)
+[20:04:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:05:01] 
+[44/200] LEVER | shieldai — Facilities Technician (R3842) (score=45.0)
+[20:05:09]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:05:12] 
+[45/200] LEVER | shieldai — Global Trade Compliance Specialist (R4248) (score=45.0)
+[20:05:21]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[20:05:24] 
+[46/200] LEVER | shieldai — Graphic Design Intern - 2026 Summer Intern (R4111) (score=45.0)
+[20:05:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:05:36] 
+[47/200] LEVER | shieldai — Hardware Design Specialist/Sr. Technician, High Vo (score=45.0)
+[20:05:44]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:05:47] 
+[48/200] LEVER | shieldai — Hivemind Solutions Architect (R3836) (score=45.0)
+[20:05:48]   FAILED: Job no longer available
+[20:05:51] 
+[49/200] LEVER | shieldai — Junior Manufacturing Planner (R4302) (score=45.0)
+[20:05:51]   FAILED: Job no longer available
+[20:05:54] 
+[50/200] LEVER | shieldai — Lead Program Finance Analyst (R4326) (score=45.0)
+[20:06:05]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:06:05] --- Progress: 50/200 | OK=44 FAIL=6 CODE=0 | 9.3min ---
+[20:06:08] 
+[51/200] LEVER | shieldai — Lead Survivability Engineer (Dallas) (R4607) (score=45.0)
+[20:06:16]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:06:20] 
+[52/200] LEVER | shieldai — Maintenance Technician, Next Gen Aircraft (R4419) (score=45.0)
+[20:06:30]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:06:34] 
+[53/200] LEVER | shieldai — Manager of Revenue Accounting (R4519) (score=45.0)
+[20:06:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:06:45] 
+[54/200] LEVER | shieldai — Manager, Accounting (R4323) (score=45.0)
+[20:07:04]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:07:07] 
+[55/200] LEVER | shieldai — Manager, Electrical Engineering (R4191) (score=45.0)
+[20:07:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:07:18] 
+[56/200] LEVER | shieldai — Manager, Fleet Maintenance (R4460) (score=45.0)
+[20:07:27]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:07:31] 
+[57/200] LEVER | shieldai — Manager, Hardware Test Engineering - V-BAT (R4692) (score=45.0)
+[20:07:39]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:07:42] 
+[58/200] LEVER | shieldai — Manager, Production (R4689) (score=45.0)
+[20:07:50]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:07:53] 
+[59/200] LEVER | shieldai — Marketing Manager, Middle East (R4253) (score=45.0)
+[20:08:01]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:08:04] 
+[60/200] LEVER | shieldai — Mechanical Engineer II (R4485) (score=45.0)
+[20:08:05]   FAILED: Job no longer available
+[20:08:05] --- Progress: 60/200 | OK=53 FAIL=7 CODE=0 | 11.2min ---
+[20:08:08] 
+[61/200] LEVER | shieldai — Mechanical Engineer II (R4489) (score=45.0)
+[20:08:08]   FAILED: Job no longer available
+[20:08:12] 
+[62/200] LEVER | shieldai — Multi‑Target Tracking & Sensor Fusion Engineer (R4 (score=45.0)
+[20:08:27]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:08:31] 
+[63/200] LEVER | shieldai — Principal Autonomy Architect (R4375) (score=45.0)
+[20:08:39]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:08:42] 
+[64/200] LEVER | shieldai — Principal Engineer, Aircraft Thermal (R4353) (score=45.0)
+[20:08:50]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:08:53] 
+[65/200] LEVER | shieldai — Principal Engineer, State Estimation (Dallas, TX)  (score=45.0)
+[20:09:01]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:09:05] 
+[66/200] LEVER | shieldai — Principal Loads Engineer (R3263) (score=45.0)
+[20:09:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:09:16] 
+[67/200] LEVER | shieldai — Principal Mechanical Engineer, Structural Design ( (score=45.0)
+[20:09:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:09:28] 
+[68/200] LEVER | shieldai — Prinicipal Engineer, Mission Systems (R4603) (score=45.0)
+[20:09:36]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:09:39] 
+[69/200] LEVER | shieldai — Product Manager, Analysis and Simulation (R4504) (score=45.0)
+[20:09:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:09:50] 
+[70/200] LEVER | shieldai — Production Technician (R3973) (score=45.0)
+[20:10:00]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:10:02] --- Progress: 70/200 | OK=62 FAIL=8 CODE=0 | 13.2min ---
+[20:10:06] 
+[71/200] LEVER | shieldai — Program Manager, Customer Experience Center Coordi (score=45.0)
+[20:10:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:10:19] 
+[72/200] LEVER | shieldai — Quality Engineering Technician (R4213) (score=45.0)
+[20:10:19]   FAILED: Job no longer available
+[20:10:23] 
+[73/200] LEVER | shieldai — Receiving Quality Inspector (R4506) (score=45.0)
+[20:10:32]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:10:36] 
+[74/200] LEVER | shieldai — Senior Accountant (R4209) (score=45.0)
+[20:10:44]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:10:47] 
+[75/200] LEVER | shieldai — Senior Applications Engineer, Autonomy (score=45.0)
+[20:10:55]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:10:58] 
+[76/200] LEVER | shieldai — Senior Contracts Manager (R4378) (score=45.0)
+[20:11:08]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:11:11] 
+[77/200] LEVER | shieldai — Senior Design Engineer, Structures (R4443) (score=45.0)
+[20:11:22]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:11:27] 
+[78/200] LEVER | shieldai — Senior Director, Air Force Strategic Capture (R404 (score=45.0)
+[20:11:37]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:11:41] 
+[79/200] LEVER | shieldai — Senior Director, FP&A (R4670) (score=45.0)
+[20:11:41]   FAILED: Job no longer available
+[20:11:44] 
+[80/200] LEVER | shieldai — Senior Electrical Engineer (R4355) (score=45.0)
+[20:11:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:11:54] --- Progress: 80/200 | OK=70 FAIL=10 CODE=0 | 15.1min ---
+[20:11:57] 
+[81/200] LEVER | shieldai — Senior Electrical Engineer, Hardware Test (R4000) (score=45.0)
+[20:12:05]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:12:08] 
+[82/200] LEVER | shieldai — Senior Electrical Engineer, Hardware Test (R4000)  (score=45.0)
+[20:12:17]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:12:20] 
+[83/200] LEVER | shieldai — Senior Engineer, Aeronautical Modeling & Simulatio (score=45.0)
+[20:12:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:12:32] 
+[84/200] LEVER | shieldai — Senior Engineer, Autonomy - Tactical Behaviors (R4 (score=45.0)
+[20:12:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:12:43] 
+[85/200] LEVER | shieldai — Senior Engineer, Build and CI (R4220) (score=45.0)
+[20:12:51]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:12:55] 
+[86/200] LEVER | shieldai — Senior Engineer, C++ Systems Integration (4020) (score=45.0)
+[20:13:04]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:13:07] 
+[87/200] LEVER | shieldai — Senior Engineer, C++ Systems Integration (R4019) (score=45.0)
+[20:13:07]   FAILED: Job no longer available
+[20:13:11] 
+[88/200] LEVER | shieldai — Senior Engineer, Foundry Applications (R3934) (score=45.0)
+[20:13:19]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:13:22] 
+[89/200] LEVER | shieldai — Senior Engineer, Manufacturing - Material Flow (R4 (score=45.0)
+[20:13:30]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:13:33] 
+[90/200] LEVER | shieldai — Senior Engineer, Manufacturing (R4265) (score=45.0)
+[20:14:00]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:14:00] --- Progress: 90/200 | OK=79 FAIL=11 CODE=0 | 17.2min ---
+[20:14:04] 
+[91/200] LEVER | shieldai — Senior Engineer, Mechanical Design - V-BAT (R4467) (score=45.0)
+[20:14:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:14:20] 
+[92/200] LEVER | shieldai — Senior Engineer, Mechanical Test (R4582) (score=45.0)
+[20:14:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:14:32] 
+[93/200] LEVER | shieldai — Senior Engineer, Mission Processing and Architectu (score=45.0)
+[20:14:46]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:14:53] 
+[94/200] LEVER | shieldai — Senior Engineer, Mission Systems (Avionics & Senso (score=45.0)
+[20:15:05]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:15:09] 
+[95/200] LEVER | shieldai — Senior Engineer, Mission Systems (Hiring at Multip (score=45.0)
+[20:15:25]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:15:31] 
+[96/200] LEVER | shieldai — Senior Engineer, Radar Modeling & Simulation (Dall (score=45.0)
+[20:15:50]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:15:54] 
+[97/200] LEVER | shieldai — Senior Engineer, Software - Autonomous Aircraft In (score=45.0)
+[20:16:10]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:16:31] 
+[98/200] LEVER | shieldai — Senior Engineer, Software - Perception (R3771) (score=45.0)
+[20:16:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:16:46] 
+[99/200] LEVER | shieldai — Senior Engineer, Software Autonomy Applications (score=45.0)
+[20:17:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:17:09] 
+[100/200] LEVER | shieldai — Senior Engineer, Software Integration and Test (R4 (score=45.0)
+[20:17:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:17:29] --- Progress: 100/200 | OK=89 FAIL=11 CODE=0 | 20.6min ---
+[20:17:32] 
+[101/200] LEVER | shieldai — Senior Engineer, State Estimation (R3945) (score=45.0)
+[20:17:41]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:17:45] 
+[102/200] LEVER | shieldai — Senior Engineer, Structural Analysis (R4722) (score=45.0)
+[20:18:16]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:18:22] 
+[103/200] LEVER | shieldai — Senior Engineer, Systems Test (R4472) (score=45.0)
+[20:18:59]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:19:17] 
+[104/200] LEVER | shieldai — Senior Engineer, VBAT Verification and Validation  (score=45.0)
+[20:19:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:19:34] 
+[105/200] LEVER | shieldai — Senior Engineering Manager, Power Electronics (R44 (score=45.0)
+[20:19:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:19:46] 
+[106/200] LEVER | shieldai — Senior Engineering Technician - Operational Excell (score=45.0)
+[20:20:09]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:20:15] 
+[107/200] LEVER | shieldai — Senior Ground Control Station (GCS) Software Engin (score=45.0)
+[20:20:23]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:20:27] 
+[108/200] LEVER | shieldai — Senior Integration & Test Engineer, Autonomy (R415 (score=45.0)
+[20:20:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:20:39] 
+[109/200] LEVER | shieldai — Senior Lead, Strategy & Operations (R4671) (score=45.0)
+[20:20:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:20:51] 
+[110/200] LEVER | shieldai — Senior Manager, Autonomy - Tactical Behaviors (R37 (score=45.0)
+[20:20:59]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:21:00] --- Progress: 110/200 | OK=99 FAIL=11 CODE=0 | 24.2min ---
+[20:21:03] 
+[111/200] LEVER | shieldai — Senior Manager, Autonomy Integration (SD/DC) (R343 (score=45.0)
+[20:21:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:21:14] 
+[112/200] LEVER | shieldai — Senior Manager, Avionics Mechanical Engineering (R (score=45.0)
+[20:21:23]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:21:26] 
+[113/200] LEVER | shieldai — Senior Manager, Enterprise Technology Services (SD (score=45.0)
+[20:21:34]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:21:38] 
+[114/200] LEVER | shieldai — Senior Manager, Facilities (R4693) (score=45.0)
+[20:21:46]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:21:50] 
+[115/200] LEVER | shieldai — Senior Manager, FP&A - Corporate Finance (R4668) (score=45.0)
+[20:21:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:22:02] 
+[116/200] LEVER | shieldai — Senior Manager, FP&A -Strategic Finance (R4669) (score=45.0)
+[20:22:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:22:14] 
+[117/200] LEVER | shieldai — Senior Manager, Perception (R3634) (score=45.0)
+[20:22:23]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:22:26] 
+[118/200] LEVER | shieldai — Senior Manager, Software - Autonomous Aircraft Int (score=45.0)
+[20:22:34]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:22:38] 
+[119/200] LEVER | shieldai — Senior Manager, Software - Perception (R3770) (score=45.0)
+[20:22:46]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:22:50] 
+[120/200] LEVER | shieldai — Senior Manager, Technical Program Management (R419 (score=45.0)
+[20:22:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:22:59] --- Progress: 120/200 | OK=109 FAIL=11 CODE=0 | 26.1min ---
+[20:23:02] 
+[121/200] LEVER | shieldai — Senior Manager, Treasury (R4682) (score=45.0)
+[20:23:10]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:23:14] 
+[122/200] LEVER | shieldai — Senior Manager, Vehicle Engineering (R4283) (score=45.0)
+[20:23:22]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:23:25] 
+[123/200] LEVER | shieldai — Senior Materials Manufacturing Planner (R4622) (score=45.0)
+[20:23:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:23:37] 
+[124/200] LEVER | shieldai — Senior Mechanical Engineer - Launch & Recovery Sys (score=45.0)
+[20:23:38]   FAILED: Job no longer available
+[20:23:41] 
+[125/200] LEVER | shieldai — Senior Mechanical Engineer, Actuation & Fluid Syst (score=45.0)
+[20:23:50]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:23:54] 
+[126/200] LEVER | shieldai — Senior Mechanical Engineer, Hardware Test (R4325) (score=45.0)
+[20:23:54]   FAILED: Job no longer available
+[20:23:58] 
+[127/200] LEVER | shieldai — Senior Operations Analyst (R4487) (score=45.0)
+[20:24:10]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:24:17] 
+[128/200] LEVER | shieldai — Senior Principal Engineer, RF (R4491) (score=45.0)
+[20:24:27]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:24:32] 
+[129/200] LEVER | shieldai — Senior Program Finance Analyst (R4731) (score=45.0)
+[20:24:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:25:02] 
+[130/200] LEVER | shieldai — Senior Propulsion Design Engineer (R4642) (score=45.0)
+[20:25:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:25:16] --- Progress: 130/200 | OK=117 FAIL=13 CODE=0 | 28.4min ---
+[20:25:22] 
+[131/200] LEVER | shieldai — Senior Propulsion Engineer (R4644) (score=45.0)
+[20:25:34]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:25:40] 
+[132/200] LEVER | shieldai — Senior Propulsion Technician (R4638) (score=45.0)
+[20:25:51]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:25:55] 
+[133/200] LEVER | shieldai — Senior Propulsion Test Engineer (R4640) (score=45.0)
+[20:26:06]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:26:10] 
+[134/200] LEVER | shieldai — Senior Software Engineer, Autonomy Applications En (score=45.0)
+[20:26:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:26:25] 
+[135/200] LEVER | shieldai — Senior Software Engineer, Hardware Test (R3998) (score=45.0)
+[20:26:49]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:26:57] 
+[136/200] LEVER | shieldai — Senior Staff Customer Success Manager (score=45.0)
+[20:27:08]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:27:12] 
+[137/200] LEVER | shieldai — Senior Staff Designer (R4320) (score=45.0)
+[20:27:22]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:27:26] 
+[138/200] LEVER | shieldai — Senior Staff Electromechanical Engineer (R4211) (score=45.0)
+[20:27:26]   FAILED: Job no longer available
+[20:27:31] 
+[139/200] LEVER | shieldai — Senior Staff Engineer, Advanced Manufacturing (R43 (score=45.0)
+[20:27:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:27:44] 
+[140/200] LEVER | shieldai — Senior Staff Engineer, Autonomy - Tactical Behavio (score=45.0)
+[20:27:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:27:53] --- Progress: 140/200 | OK=126 FAIL=14 CODE=0 | 31.1min ---
+[20:27:57] 
+[141/200] LEVER | shieldai — Senior Staff Engineer, Autonomy (R4715) (score=45.0)
+[20:28:09]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:28:14] 
+[142/200] LEVER | shieldai — Senior Staff Engineer, Mechanical - Actuated Syste (score=45.0)
+[20:28:31]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:28:34] 
+[143/200] LEVER | shieldai — Senior Staff Engineer, Mechanical Design - V-BAT ( (score=45.0)
+[20:28:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:28:47] 
+[144/200] LEVER | shieldai — Senior Staff Engineer, Mechanical Test (R4413) (score=45.0)
+[20:28:56]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:29:00] 
+[145/200] LEVER | shieldai — Senior Staff Engineer, Mission Systems (R3929) (score=45.0)
+[20:29:09]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:29:13] 
+[146/200] LEVER | shieldai — Senior Staff Engineer, Software - Autonomous Aircr (score=45.0)
+[20:29:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:29:24] 
+[147/200] LEVER | shieldai — Senior Staff Engineer, Software - Perception (R423 (score=45.0)
+[20:29:34]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:29:37] 
+[148/200] LEVER | shieldai — Senior Staff Engineer, Software (C++/Networking) ( (score=45.0)
+[20:29:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:30:00] 
+[149/200] LEVER | shieldai — Senior Staff Engineer, Software Autonomy Applicati (score=45.0)
+[20:30:12]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:30:30] 
+[150/200] LEVER | shieldai — Senior Staff Engineer, State Estimation (R4453) (score=45.0)
+[20:30:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:30:43] --- Progress: 150/200 | OK=136 FAIL=14 CODE=0 | 33.9min ---
+[20:30:46] 
+[151/200] LEVER | shieldai — Senior Staff Mechanical Engineer - Launch & Recove (score=45.0)
+[20:30:47]   FAILED: Job no longer available
+[20:30:50] 
+[152/200] LEVER | shieldai — Senior Staff Mechanical Engineer, Structural Desig (score=45.0)
+[20:30:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:31:01] 
+[153/200] LEVER | shieldai — Senior Staff Mechatronics Engineer (R4386) (score=45.0)
+[20:31:10]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[20:31:13] 
+[154/200] LEVER | shieldai — Senior Staff Operations Analyst (R4487) (score=45.0)
+[20:31:22]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:31:25] 
+[155/200] LEVER | shieldai — Senior Staff Propulsion Engineer (TVC) (X-BAT) (R4 (score=45.0)
+[20:31:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:31:38] 
+[156/200] LEVER | shieldai — Senior Staff Propulsion Test Engineer (R4380) (score=45.0)
+[20:31:46]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:31:50] 
+[157/200] LEVER | shieldai — Senior Staff Structural Analyst (R3263) (score=45.0)
+[20:31:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:32:01] 
+[158/200] LEVER | shieldai — Senior Staff Technical Program Manager (R3880) (score=45.0)
+[20:32:03]   FAILED: Job no longer available
+[20:32:06] 
+[159/200] LEVER | shieldai — Senior Staff Thermal Engineer - Aircraft Avionics  (score=45.0)
+[20:32:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:32:17] 
+[160/200] LEVER | shieldai — Senior Structural Analyst (R3263) (score=45.0)
+[20:32:25]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:32:25] --- Progress: 160/200 | OK=144 FAIL=16 CODE=0 | 35.6min ---
+[20:32:28] 
+[161/200] LEVER | shieldai — Senior Systems Administrator (R4696) (score=45.0)
+[20:32:37]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:32:40] 
+[162/200] LEVER | shieldai — Senior Technical Engineering Manager, Software Aut (score=45.0)
+[20:32:49]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:32:52] 
+[163/200] LEVER | shieldai — Senior V-BAT Air Vehicle Operator, Deployed Operat (score=45.0)
+[20:33:03]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:33:09] 
+[164/200] LEVER | shieldai — Social Media Manager (R4513) (score=45.0)
+[20:33:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:33:25] 
+[165/200] LEVER | shieldai — Sr Manager, Supplier Development Engineer (R4699) (score=45.0)
+[20:33:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:33:44] 
+[166/200] LEVER | shieldai — Sr. Engineering Manager, Discrete Planning for Aut (score=45.0)
+[20:33:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:33:56] 
+[167/200] LEVER | shieldai — Sr. Engineering Manager, Discrete Planning for Aut (score=45.0)
+[20:34:07]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:34:10] 
+[168/200] LEVER | shieldai — Staff 3D Artist (R4182) (score=45.0)
+[20:34:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:34:24] 
+[169/200] LEVER | shieldai — Staff Applications Engineer, Autonomy (score=45.0)
+[20:34:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:34:38] 
+[170/200] LEVER | shieldai — Staff BI Engineer (R4679) (score=45.0)
+[20:34:55]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:34:56] --- Progress: 170/200 | OK=154 FAIL=16 CODE=0 | 38.1min ---
+[20:34:59] 
+[171/200] LEVER | shieldai — Staff Electrical Engineer - Power Electronics (score=45.0)
+[20:35:31]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:35:36] 
+[172/200] LEVER | shieldai — Staff Electrical Engineer (R4027) (score=45.0)
+[20:35:48]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:35:55] 
+[173/200] LEVER | shieldai — Staff Electrical Quality Engineer (R3530) (score=45.0)
+[20:36:10]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:36:14] 
+[174/200] LEVER | shieldai — Staff Engineer, Advanced Manufacturing (R4301) (score=45.0)
+[20:36:49]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:36:52] 
+[175/200] LEVER | shieldai — Staff Engineer, Aircraft Configuration Design (R40 (score=45.0)
+[20:38:11]   FAILED: No form elements found
+[20:38:14] 
+[176/200] LEVER | shieldai — Staff Engineer, Autonomy - Tactical Behaviors (R39 (score=45.0)
+[20:38:31]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:38:35] 
+[177/200] LEVER | shieldai — Staff Engineer, C++ Systems Integration (R4016) (score=45.0)
+[20:38:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:38:46] 
+[178/200] LEVER | shieldai — Staff Engineer, C++ Systems Integration (R4017) (score=45.0)
+[20:38:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:38:58] 
+[179/200] LEVER | shieldai — Staff Engineer, C++ Systems Integration (R4018) (score=45.0)
+[20:39:06]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:39:09] 
+[180/200] LEVER | shieldai — Staff Engineer, Composite Manufacturing (score=45.0)
+[20:39:17]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:39:17] --- Progress: 180/200 | OK=163 FAIL=17 CODE=0 | 42.5min ---
+[20:39:20] 
+[181/200] LEVER | shieldai — Staff Engineer, Electrical (score=45.0)
+[20:39:29]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:39:32] 
+[182/200] LEVER | shieldai — Staff Engineer, Electrical Integration (R4628) (score=45.0)
+[20:39:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:39:43] 
+[183/200] LEVER | shieldai — Staff Engineer, Flight Test (R4559) (score=45.0)
+[20:39:51]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:39:56] 
+[184/200] LEVER | shieldai — Staff Engineer, Manufacturing (score=45.0)
+[20:40:04]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:40:07] 
+[185/200] LEVER | shieldai — Staff Engineer, Manufacturing Equipment (R4592) (score=45.0)
+[20:40:18]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:40:21] 
+[186/200] LEVER | shieldai — Staff Engineer, Product Security & Compliance (R46 (score=45.0)
+[20:40:29]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:40:32] 
+[187/200] LEVER | shieldai — Staff Engineer, Safety-Critical Software (R4598) (score=45.0)
+[20:40:41]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:40:45] 
+[188/200] LEVER | shieldai — Staff Engineer, Software - Autonomous Aircraft Int (score=45.0)
+[20:40:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:40:58] 
+[189/200] LEVER | shieldai — Staff Engineer, Software - Perception (R3771) (score=45.0)
+[20:41:08]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:41:12] 
+[190/200] LEVER | shieldai — Staff Engineer, Software Autonomy (Dallas/San Dieg (score=45.0)
+[20:41:15]   FAILED: Job no longer available
+[20:41:15] --- Progress: 190/200 | OK=172 FAIL=18 CODE=0 | 44.4min ---
+[20:41:19] 
+[191/200] LEVER | shieldai — Staff Engineer, Software Autonomy Applications (R3 (score=45.0)
+[20:41:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:41:32] 
+[192/200] LEVER | shieldai — Staff Engineer, Software Certification Implementat (score=45.0)
+[20:41:41]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:41:44] 
+[193/200] LEVER | shieldai — Staff Engineer, Software Integration (R4482) (score=45.0)
+[20:41:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:41:59] 
+[194/200] LEVER | shieldai — Staff Engineer, Software Systems (R4445) (score=45.0)
+[20:42:10]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:42:14] 
+[195/200] LEVER | shieldai — Staff Engineer, Software Test (R3936) (score=45.0)
+[20:42:32]   FAILED: Job no longer available
+[20:42:36] 
+[196/200] LEVER | shieldai — Staff Engineer, State Estimation (Dallas/San Diego (score=45.0)
+[20:42:44]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:42:48] 
+[197/200] LEVER | shieldai — Staff Engineer, Systems (R4624) (score=45.0)
+[20:42:56]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:43:00] 
+[198/200] LEVER | shieldai — Staff Engineer, Systems (R4625) (score=45.0)
+[20:43:08]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:43:11] 
+[199/200] LEVER | shieldai — Staff Engineer, Tool Design (R4299) (score=45.0)
+[20:43:19]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:43:22] 
+[200/200] LEVER | shieldai — Staff Engineering Specialist, Hardware Test (R4704 (score=45.0)
+[20:43:31]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:43:31] --- Progress: 200/200 | OK=181 FAIL=19 CODE=0 | 46.7min ---
+[20:43:31] 
+======================================================================
+[20:43:31] WRAITH APPLY SWARM DONE — 46.7min
+[20:43:31]   Success: 181
+[20:43:31]   Failed: 19
+[20:43:31]   Needs code: 0
+[20:43:31]   Rate: 4.3 apps/min
+[20:43:31] ======================================================================

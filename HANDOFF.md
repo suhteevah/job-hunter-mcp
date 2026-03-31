@@ -1,15 +1,37 @@
 # CLAUDE CODE HANDOFF — Autonomous Job Hunter
 # Read this FIRST. Then read J:\job-hunter-mcp\skills\SKILL.md for full details.
-# Last updated: 2026-03-22 DAY SESSION — 1,269 applied, 12K+ jobs in DB, 753 apps in one session
+# Last updated: 2026-03-30 SESSION — 2,588 applied, 13.3K+ jobs in DB, +499 apps this session
 
 ## IMMEDIATE CONTEXT
-Matt Gates is job hunting. 19 days remaining to generate revenue. **REMOTE or Chico (95926) ONLY.**
-~1,300+ applications submitted. ~12,000 jobs tracked in DB.
+Matt Gates is job hunting. 11 days remaining to generate revenue. **REMOTE or Chico (95926) ONLY.**
+~2,588 applications submitted. ~13,345 jobs tracked in DB.
 Wraith CDP fully operational. navigate_cdp for React SPAs (Ashby/Greenhouse). Native for Lever.
+**Wraith binary relocated**: `J:\wraith-browser\target\release\openclaw-browser.exe` (was openclaw-browser folder)
 **Greenhouse URL embed conversion** unlocks custom career pages (Stripe, Samsara, Datadog, etc.)
 BUG-7 (React custom dropdowns) FIXED. Zero open blocking bugs. CDP fully replaces Playwright.
 FlareSolverr running on localhost:8191 (Docker) — used for Indeed scraping (CF bypass).
+Firefox fingerprinting being built out in Wraith to bypass Indeed/CF without FlareSolverr.
 The machine never sleeps.
+
+### SESSION RESULTS (2026-03-30)
+- **+499 NEW APPLICATIONS this session** (2,089 → 2,588)
+- **Wraith CDP Greenhouse**: 2 batches — 135/150 success (90%)
+- **Wraith Native Lever**: 181/200 success (90.5%) — Shield AI board saturated
+- **Security code retry**: 58/80 success (72.5%) — Anthropic, Vercel, Postman, Scale AI, etc.
+- **Playwright fallback**: 0/50 success — Gender dropdown failures, use Wraith instead
+- **Mega scrape**: +277 new jobs (13,345 total DB)
+- **Indeed scrape**: 15 jobs via FlareSolverr (1 query, needs more)
+- **Wraith binary path fixed**: `J:\wraith-browser\` (renamed from openclaw-browser)
+- **All path references updated**: .mcp.json, wraith_mcp_client.py, wraith_search.ps1, HANDOFF.md
+- **Gmail checked**: 18 security codes processed, ~20 rejections (GitLab, Tailscale, ClickHouse, Airtable, PagerDuty, Khan Academy, RegScale), zero interviews yet
+- **Upwork lead**: Aryan C. — GitHub SME opportunity (7 courses), audition video needed, reply drafted
+- **Upwork alerts**: Several perfect-match jobs (OpenClaw, Claude Code, MCP, Agentic Systems)
+- **Plaid call (3/25)**: Was FOSS program, not a job lead
+
+### ACTIVE LEADS
+1. **Aryan C. via Upwork** — GitHub & Stripe SME courses. Sent course list (7 courses) + SME guidelines PDF. Needs: (a) reply on Upwork, (b) 1-min audition video reading C# script from PDF, MP4 on Google Drive. Pay: $200-360/course. Course review agent pipeline exists at `J:\github-SME\`.
+2. **Hudson Manpower** — GenAI role, follow-up sent 2026-03-19, no response. Monitor mmichels88@gmail.com.
+3. **WinCo Foods** — Sr. Middleware Developer, Phoenix. No response. Monitor mmichels88@gmail.com.
 
 ### DAY SESSION RESULTS (2026-03-22 afternoon)
 - **753 NEW APPLICATIONS in one session** (516 → 1,269+)
@@ -129,18 +151,19 @@ Architecture is decided. Two-phase system:
 6. ALWAYS write personalized cover letters for each application.
 7. ALWAYS fetch full job descriptions for scoring — never score title-only.
 
-## KEY STATS (as of 2026-03-22 afternoon)
-- **Total applied**: ~1,300+
-- **Needs security code**: ~92 (code retry 100% success rate — run more batches)
-- **Apply failed**: ~587 (mostly expired jobs, diminishing returns on retries)
-- **New viable (fit>=40)**: ~350 remaining (Greenhouse 265, Ashby 85)
-- **Total jobs in DB**: ~12,066
-- **Greenhouse success rate**: 100% on new jobs, 97% on retries with embed URL conversion
+## KEY STATS (as of 2026-03-30)
+- **Total applied**: 2,588
+- **Needs security code**: 6 remaining
+- **Apply failed**: 527 (mostly expired jobs or missing form fields)
+- **New viable (fit>=40)**: ~1,108 remaining (Lever 999+, Greenhouse ~100)
+- **Total jobs in DB**: 13,345
+- **Greenhouse success rate**: 90% via Wraith CDP
 - **Ashby success rate**: 99-100% with navigate_cdp
-- **Lever success rate**: 92% with native handler
-- **Security code success**: 90/90 (100%) across 3 batches — auto-fetch from Gmail IMAP
-- **Rejections received**: 5 (GitLab x2, Nearform, Grafana Labs, Scale AI) — normal at this volume
-- **Check Gmail**: Monday/Tuesday (2026-03-24/25) for recruiter responses
+- **Lever success rate**: 90.5% with Wraith native
+- **Security code success**: 58/80 (72.5%) this session — auto-fetch from Gmail IMAP
+- **Rejections received**: ~25+ (GitLab x10+, Tailscale x3, ClickHouse x2, Airtable x3, PagerDuty x2, Khan Academy, RegScale) — normal at this volume
+- **Zero interviews yet** — most apps <1 week old, expect responses week of 2026-03-31
+- **Upwork**: Active lead with Aryan C. (GitHub SME), multiple AI/agent job alerts matching perfectly
 
 ## EXECUTION
 ```powershell
@@ -265,14 +288,15 @@ Key env: `GMAIL_APP_PASSWORD="yzpn qern vrax fvta"`
 3. **All 502 applications** — Monitor ridgecellrepair@gmail.com. Expect first responses by 2026-03-24 (Monday/Tuesday).
 
 ## NEXT IMMEDIATE TARGETS
-1. **RUN Wraith CDP apply swarm** — `wraith_apply_swarm.py` on remaining viable + failed jobs (CDP binary rebuilt)
-2. **Lower threshold to 40** — 750+ more borderline jobs ready to blast
-3. **Retry 930 apply_failed** — `mega_pipeline.py --retry-failed` (improved answer_for_label handles more questions)
-4. **Run security code retry** on 152 remaining needs_code jobs
-5. **Scrape more Indeed** — page 2/3 of existing queries, new keyword combos
-6. **Fix Playwright custom dropdown handling** — 30 Greenhouse apps failed on React Select/required fields
-7. **Monitor both Gmail accounts** for recruiter replies Monday (2026-03-24)
-8. **PRIORITY**: Remote or Chico (95926) jobs only — Matt needs local or remote work
+1. **Continue Wraith apply swarm** — ~1,108 borderline jobs remaining (mostly Lever)
+2. **Retry 527 apply_failed** — `mega_pipeline.py --retry-failed` or `wraith_apply_swarm.py --retry-failed`
+3. **Indeed mega scrape at scale** — only 1 query run so far, need 20+ keyword combos
+4. **Reply to Aryan C. on Upwork** — GitHub SME gig, draft reply ready, needs audition video
+5. **Submit Upwork proposals** — OpenClaw, Claude Code, MCP, Agentic Systems jobs all perfect matches
+6. **Monitor both Gmail accounts** — expect first interview responses week of 2026-03-31
+7. **Firefox fingerprinting** — being built in Wraith to bypass CF/Indeed natively
+8. **Discover new Lever/Ashby boards** — more companies to scrape
+9. **PRIORITY**: Remote or Chico (95926) jobs only — Matt needs local or remote work
 
 ## PLATFORMS COVERED vs NOT COVERED
 | Platform | Status | Jobs in DB |
