@@ -1,0 +1,15 @@
+[16:48:28] MEGA PIPELINE started at 2026-03-31T16:48:28.557645
+[16:48:28] Args: {'scrape': False, 'rescore': True, 'apply': False, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[16:48:28] 
+======================================================================
+[16:48:28] PHASE 2: RESCORE — Fetching full descriptions
+[16:48:28] ======================================================================
+[16:48:28] Jobs to rescore: 4833
+[16:48:35]   PROMOTED 40.0->61.0: Member of Technical Staff, AI Training Infrastruct
+[16:48:35]   PROMOTED 18.0->63.0: Software Engineer, Infrastructure [Early Career]
+[16:48:51] 
+RESCORE DONE in 23s — 287 rescored, 2 promoted to viable, 0 demoted
+[16:48:51] 
+======================================================================
+[16:48:51] MEGA PIPELINE COMPLETE — 0.4min total
+[16:48:51] ======================================================================

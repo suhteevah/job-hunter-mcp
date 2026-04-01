@@ -1,0 +1,111 @@
+[15:58:49] ======================================================================
+[15:58:49] WRAITH CDP APPLY SWARM
+[15:58:49] ======================================================================
+[15:58:49]   ashby: 10 jobs
+[15:58:49] Total: 10 jobs
+[15:58:49] Starting Wraith MCP client...
+[15:58:49] ======================================================================
+[15:58:49] WRAITH CDP APPLY SWARM
+[15:58:49] ======================================================================
+[15:58:49]   lever: 11 jobs
+[15:58:49] Total: 11 jobs
+[15:58:49] Starting Wraith MCP client...
+[15:58:52] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[15:58:52] 
+[1/10] ASHBY | Cursor — Software Engineer, Client Infrastructure (score=76.0)
+[15:58:53] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[15:58:54] 
+[1/11] LEVER | atmosera — Collaborative Engineer, GitHub Copilot (Remote - U (score=75.0)
+[15:59:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[15:59:03]   FAILED: Job no longer available
+[15:59:05] 
+[2/11] LEVER | britecore — Senior Product Manager (score=75.0)
+[15:59:06] 
+[2/10] ASHBY | Supabase — Platform Engineer: Kubernetes (score=68.0)
+[15:59:11]   FAILED: Job no longer available
+[15:59:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[15:59:14] 
+[3/10] ASHBY | Cursor — Software Engineer, Security (score=68.0)
+[15:59:16] 
+[3/11] LEVER | britecore — Senior Software Engineer (score=75.0)
+[15:59:17]   FAILED: Job no longer available
+[15:59:20] 
+[4/10] ASHBY | Cursor — Software Engineer, Bugbot (score=68.0)
+[15:59:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[15:59:27] 
+[4/11] LEVER | latitudeinc — Back End Software Engineer (Top Secret Cleared) (score=75.0)
+[15:59:28]   FAILED: Submit button not found
+[15:59:31] 
+[5/10] ASHBY | Cursor — Software Engineer, Enterprise Platform (score=68.0)
+[15:59:34]   FAILED: Job no longer available
+[15:59:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[15:59:37] 
+[6/10] ASHBY | Cursor — Software Engineer, Billing (score=68.0)
+[15:59:38] 
+[5/11] LEVER | shieldai — Fuel Systems Engineer (X-BAT) (score=60.0)
+[15:59:42]   FAILED: Job no longer available
+[15:59:45] 
+[7/10] ASHBY | Cursor — Technical Support Engineer (score=60.0)
+[15:59:45]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[15:59:48] 
+[6/11] LEVER | shieldai — Senior Communications Engineer (Hiring at Multiple (score=60.0)
+[15:59:50]   FAILED: Job no longer available
+[15:59:54] 
+[8/10] ASHBY | Cursor — Technical Support Engineering Manager (score=60.0)
+[15:59:56]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[15:59:58]   FAILED: Job no longer available
+[15:59:59] 
+[7/11] LEVER | nextech — Sr. Product Operations Lead (Remote - US) (score=60.0)
+[16:00:01] 
+[9/10] ASHBY | Cursor — Campus Lead (score=60.0)
+[16:00:07]   >>> SUCCESS: Wraith verified: {
+  "message": "Error indicators found on page. UR <<<
+[16:00:10] 
+[8/11] LEVER | veeva — Associate Lead - OpenData Clinical (Remote) (score=60.0)
+[16:00:11]   FAILED: Job no longer available
+[16:00:11]   FAILED: Job no longer available
+[16:00:14] 
+[10/10] ASHBY | Cursor — Forward Deployed Engineer (score=60.0)
+[16:00:14] 
+[9/11] LEVER | veeva — Director - Study Training Strategy (score=60.0)
+[16:00:21]   FAILED: Submit button not found
+[16:00:21] --- Progress: 10/10 | OK=0 FAIL=10 CODE=0 | 1.5min ---
+[16:00:21] 
+======================================================================
+[16:00:21] WRAITH APPLY SWARM DONE — 1.5min
+[16:00:21]   Success: 0
+[16:00:21]   Failed: 10
+[16:00:21]   Needs code: 0
+[16:00:21]   Rate: 6.8 apps/min
+[16:00:21] ======================================================================
+[16:00:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:00:25] 
+[10/11] LEVER | veeva — Lead Consultant/Program Lead (Remote) (score=60.0)
+[16:00:34]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:00:34] --- Progress: 10/11 | OK=9 FAIL=1 CODE=0 | 1.7min ---
+[16:00:37] 
+[11/11] LEVER | veeva — Managed Services Consultant - Life Sciences (Remot (score=60.0)
+[16:00:51]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:00:51] 
+======================================================================
+[16:00:51] WRAITH APPLY SWARM DONE — 1.9min
+[16:00:51]   Success: 10
+[16:00:51]   Failed: 1
+[16:00:51]   Needs code: 0
+[16:00:51]   Rate: 5.6 apps/min
+[16:00:51] ======================================================================

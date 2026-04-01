@@ -1,0 +1,299 @@
+[19:05:42] ======================================================================
+[19:05:42] WRAITH CDP APPLY SWARM
+[19:05:42] ======================================================================
+[19:05:42]   lever: 70 jobs
+[19:05:42] Total: 70 jobs
+[19:05:42] Starting Wraith MCP client...
+[19:05:45] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[19:05:45] 
+[1/70] LEVER | mistral — Applied AI Engineer, Fullstack Software Engineer - (score=100.0)
+[19:05:54]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:05:57] 
+[2/70] LEVER | mistral — Applied AI Engineer, Fullstack Software Engineer - (score=100.0)
+[19:06:05]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:06:08] 
+[3/70] LEVER | mistral — Applied AI Engineer, Senior/Staff Devops/SRE - EME (score=100.0)
+[19:06:15]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:06:18] 
+[4/70] LEVER | mistral — Applied AI Engineer, Senior/Staff Fullstack Softwa (score=100.0)
+[19:06:26]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:06:29] 
+[5/70] LEVER | mistral — Applied AI,  Senior/Staff Forward Deployed Machine (score=100.0)
+[19:06:37]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:06:40] 
+[6/70] LEVER | mistral — Applied AI, AI Engineer for Mistral (score=100.0)
+[19:06:48]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:06:51] 
+[7/70] LEVER | mistral — Applied AI, Forward Deployed Machine Learning Engi (score=100.0)
+[19:06:58]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:07:01] 
+[8/70] LEVER | mistral — Applied AI, Forward Deployed Machine Learning Engi (score=100.0)
+[19:07:09]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:07:12] 
+[9/70] LEVER | mistral — Applied AI, Forward Deployed Machine Learning Engi (score=100.0)
+[19:07:20]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:07:23] 
+[10/70] LEVER | mistral — Applied AI, Forward Deployed Machine Learning Engi (score=100.0)
+[19:07:31]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:07:31] --- Progress: 10/70 | OK=10 FAIL=0 CODE=0 | 1.8min ---
+[19:07:34] 
+[11/70] LEVER | mistral — Applied AI, Technical Lead - Forward Deployed AI E (score=100.0)
+[19:07:41]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:07:44] 
+[12/70] LEVER | mistral — Applied AI, Technical Lead, Forward Deployed AI En (score=100.0)
+[19:07:52]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:07:55] 
+[13/70] LEVER | mistral — Applied AI, Technical Lead, Forward Deployed AI En (score=100.0)
+[19:08:02]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:08:06] 
+[14/70] LEVER | metabase — Senior SRE/DevOps Engineer (score=90.0)
+[19:08:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:08:16] 
+[15/70] LEVER | mistral — Applied AI, Senior MLOps Engineer - NYC (score=85.0)
+[19:08:24]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:08:28] 
+[16/70] LEVER | jumpcloud — Full Stack Software Engineer - India (score=85.0)
+[19:08:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:08:38] 
+[17/70] LEVER | metabase — Software Engineer (Backend) (score=85.0)
+[19:08:46]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:08:49] 
+[18/70] LEVER | mistral — AI Engineer, Product (score=80.0)
+[19:08:57]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:09:00] 
+[19/70] LEVER | mistral — Applied AI, Evaluation Engineer (score=80.0)
+[19:09:07]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:09:10] 
+[20/70] LEVER | mistral — Machine Learning Engineer, Open-Source Software -  (score=80.0)
+[19:09:18]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:09:18] --- Progress: 20/70 | OK=20 FAIL=0 CODE=0 | 3.5min ---
+[19:09:21] 
+[21/70] LEVER | plaid — Senior Software Engineer - Backend (score=80.0)
+[19:09:29]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:09:32] 
+[22/70] LEVER | plaid — Senior Software Engineer - Backend (score=80.0)
+[19:09:40]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:09:43] 
+[23/70] LEVER | mistral — Software Engineer, Backend (London) (score=75.0)
+[19:09:51]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:09:54] 
+[24/70] LEVER | mistral — Software Engineer, Backend (Paris) (score=75.0)
+[19:10:01]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:10:05] 
+[25/70] LEVER | mistral — Software Engineer, Compute Infrastructure (score=75.0)
+[19:10:12]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:10:15] 
+[26/70] LEVER | mistral — Software Engineer, Deployment Infrastructure (score=75.0)
+[19:10:23]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:10:26] 
+[27/70] LEVER | mistral — Software Engineer, DevOps, Research Platform (score=75.0)
+[19:10:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:10:37] 
+[28/70] LEVER | jumpcloud — Senior Software Engineer, Devices - India (score=75.0)
+[19:10:44]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:10:47] 
+[29/70] LEVER | jumpcloud — Senior Software Engineer, Devices - Türkiye (score=75.0)
+[19:10:55]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:10:59] 
+[30/70] LEVER | jumpcloud — Principal Platform Software Engineer - India (score=70.0)
+[19:11:06]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:11:06] --- Progress: 30/70 | OK=30 FAIL=0 CODE=0 | 5.3min ---
+[19:11:09] 
+[31/70] LEVER | jumpcloud — Software Engineer - SaaS Platform & Asset Manageme (score=70.0)
+[19:11:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:11:27] 
+[32/70] LEVER | metabase — Software Engineer (Frontend) (score=70.0)
+[19:11:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:11:38] 
+[33/70] LEVER | mistral — CyberSecurity Team Lead, Infrastructure and Applic (score=65.0)
+[19:11:46]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:11:49] 
+[34/70] LEVER | mistral — Infrastructure Solution Architect - EMEA (score=65.0)
+[19:12:03]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:12:06] 
+[35/70] LEVER | mistral — Infrastructure Solution Architect - US (score=65.0)
+[19:12:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:12:17] 
+[36/70] LEVER | mistral — Research Platform Engineer - Paris/London (score=65.0)
+[19:12:25]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:12:28] 
+[37/70] LEVER | plaid — Senior Software Engineer - Fullstack (score=65.0)
+[19:12:36]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:12:39] 
+[38/70] LEVER | plaid — Senior Software Engineer - Fullstack (score=65.0)
+[19:12:46]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:12:49] 
+[39/70] LEVER | plaid — Staff Software Engineer - Europe (score=65.0)
+[19:13:19]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:13:22] 
+[40/70] LEVER | jumpcloud — Senior Software Engineer, ITDR - India (score=65.0)
+[19:13:30]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:13:30] --- Progress: 40/70 | OK=40 FAIL=0 CODE=0 | 7.7min ---
+[19:13:33] 
+[41/70] LEVER | neon — Staff Software Engineer (score=65.0)
+[19:13:41]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:13:44] 
+[42/70] LEVER | neon — Staff Software Engineer - Afirmativa para Mulheres (score=65.0)
+[19:13:51]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:13:54] 
+[43/70] LEVER | veeva — Associate Lead - OpenData Clinical (Remote) (score=60.0)
+[19:13:55]   FAILED: Job no longer available
+[19:13:58] 
+[44/70] LEVER | shieldai — Senior Staff Engineer, Electromechanical (score=60.0)
+[19:14:06]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:14:09] 
+[45/70] LEVER | shieldai — Senior Staff PLM Solutions Architect (score=60.0)
+[19:14:10]   FAILED: Job no longer available
+[19:14:13] 
+[46/70] LEVER | mistral — AI Developer Advocate (score=60.0)
+[19:14:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:14:23] 
+[47/70] LEVER | mistral — AI Scientist - Paris/London - Onsite or Hybrid or  (score=60.0)
+[19:14:31]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:14:34] 
+[48/70] LEVER | mistral — Software Engineer (Contractor) (score=60.0)
+[19:14:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:14:45] 
+[49/70] LEVER | mistral — Software Engineer,  Frontend (score=60.0)
+[19:14:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:14:55] 
+[50/70] LEVER | mistral — Software Engineer, Cloud Deployments (score=60.0)
+[19:15:03]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:15:03] --- Progress: 50/70 | OK=48 FAIL=2 CODE=0 | 9.3min ---
+[19:15:06] 
+[51/70] LEVER | mistral — Software Engineer, DevEx (score=60.0)
+[19:15:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:15:17] 
+[52/70] LEVER | mistral — Software Engineer, Enterprise Agents (score=60.0)
+[19:15:25]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:15:28] 
+[53/70] LEVER | mistral — Software Engineer, Knowledge and Search (score=60.0)
+[19:15:36]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:15:39] 
+[54/70] LEVER | mistral — Software Engineer, Mistral Vibe (score=60.0)
+[19:15:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:15:50] 
+[55/70] LEVER | mistral — Software Engineer, QA (score=60.0)
+[19:15:57]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:16:00] 
+[56/70] LEVER | plaid — Software Engineer (score=60.0)
+[19:16:08]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:16:11] 
+[57/70] LEVER | plaid — Software Engineer (score=60.0)
+[19:16:18]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:16:22] 
+[58/70] LEVER | jumpcloud — Business Development Representative - Mexico (score=60.0)
+[19:16:29]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:16:32] 
+[59/70] LEVER | neon — Software Engineer - Afirmativa para Pessoas com De (score=60.0)
+[19:16:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:16:43] 
+[60/70] LEVER | metabase — Analytics Engineer (score=60.0)
+[19:16:50]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:16:50] --- Progress: 60/70 | OK=58 FAIL=2 CODE=0 | 11.1min ---
+[19:16:53] 
+[61/70] LEVER | metabase — Go To Market Engineer (score=60.0)
+[19:17:01]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:17:04] 
+[62/70] LEVER | metabase — Open Source Community Advocate (score=60.0)
+[19:17:12]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:17:15] 
+[63/70] LEVER | metabase — Success Engineer (EU) (score=60.0)
+[19:17:23]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:17:26] 
+[64/70] LEVER | metabase — Success Engineer (Global) (score=60.0)
+[19:17:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:17:36] 
+[65/70] LEVER | metabase — Technical Sourcer (score=60.0)
+[19:17:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:17:55] 
+[66/70] LEVER | metabase — Technical Writer - Data Analytics (score=60.0)
+[19:17:55]   FAILED: Job no longer available
+[19:17:58] 
+[67/70] LEVER | metabase — VP-Marketing (score=60.0)
+[19:18:07]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:18:10] 
+[68/70] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[19:18:12]   FAILED: Job no longer available
+[19:18:15] 
+[69/70] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[19:18:18]   FAILED: Job no longer available
+[19:18:21] 
+[70/70] LEVER | palantir — Forward Deployed Software Engineer, New Grad - Com (score=60.0)
+[19:18:24]   FAILED: Job no longer available
+[19:18:24] --- Progress: 70/70 | OK=64 FAIL=6 CODE=0 | 12.6min ---
+[19:18:24] 
+======================================================================
+[19:18:24] WRAITH APPLY SWARM DONE — 12.6min
+[19:18:24]   Success: 64
+[19:18:24]   Failed: 6
+[19:18:24]   Needs code: 0
+[19:18:24]   Rate: 5.5 apps/min
+[19:18:24] ======================================================================

@@ -1,0 +1,422 @@
+[17:43:44] ======================================================================
+[17:43:44] WRAITH CDP APPLY SWARM
+[17:43:44] ======================================================================
+[17:43:44]   greenhouse: 100 jobs
+[17:43:44] Total: 100 jobs
+[17:43:44] Starting Wraith MCP client...
+[17:43:48] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[17:43:48] 
+[1/100] GREENHOUSE | unknown — click here (score=60.0)
+[17:43:52]   FAILED: Submit button not found
+[17:43:55] 
+[2/100] GREENHOUSE | unknown — click here (score=60.0)
+[17:43:58]   FAILED: Submit button not found
+[17:44:01] 
+[3/100] GREENHOUSE | unknown — click here (score=60.0)
+[17:44:05]   FAILED: Submit button not found
+[17:44:08] 
+[4/100] GREENHOUSE | unknown — click here (score=60.0)
+[17:44:12]   FAILED: Submit button not found
+[17:44:15] 
+[5/100] GREENHOUSE | unknown — click here (score=60.0)
+[17:44:18]   FAILED: Submit button not found
+[17:44:21] 
+[6/100] GREENHOUSE | Discord — Public Policy Advisor, U.S. States (score=60.0)
+[17:44:33]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:44:36] 
+[7/100] GREENHOUSE | Elastic — Principal Software Engineer I / II - Storage Engin (score=60.0)
+[17:44:36]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7508360
+[17:44:50]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:44:53] 
+[8/100] GREENHOUSE | Elastic — Principal Software Engineer II (Performance Team)  (score=60.0)
+[17:44:53]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7590700
+[17:45:06]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:45:09] 
+[9/100] GREENHOUSE | Elastic — Principal Software Engineer II - Search Management (score=60.0)
+[17:45:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7614516
+[17:45:20]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:45:23] 
+[10/100] GREENHOUSE | Elastic — Principal Software Engineer - Search Relevance - E (score=60.0)
+[17:45:23]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7699665
+[17:45:35]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:45:36] --- Progress: 10/100 | OK=5 FAIL=5 CODE=0 | 1.8min ---
+[17:45:39] 
+[11/100] GREENHOUSE | Samsara — Senior Staff Hardware Systems Engineer (score=60.0)
+[17:45:39]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7306934
+[17:45:51]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:45:54] 
+[12/100] GREENHOUSE | Nuro — Senior/Staff Controls Engineer, Core Development (score=60.0)
+[17:45:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6630682
+[17:46:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:46:09] 
+[13/100] GREENHOUSE | Nuro — Senior/Staff Safety Management Systems (SMS) Engin (score=60.0)
+[17:46:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7495390
+[17:46:16]   FAILED: Submit button not found
+[17:46:19] 
+[14/100] GREENHOUSE | Nuro — Senior/Staff Safety Standards Engineer (score=60.0)
+[17:46:19]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7495456
+[17:46:27]   FAILED: Submit button not found
+[17:46:30] 
+[15/100] GREENHOUSE | Nuro — Senior/Staff Systems Engineer, Autonomy Verificati (score=60.0)
+[17:46:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7564852
+[17:46:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:46:45] 
+[16/100] GREENHOUSE | MongoDB — Senior Staff Engineer, AMP (score=60.0)
+[17:46:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7617019
+[17:47:02]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:47:06] 
+[17/100] GREENHOUSE | MongoDB — Senior Staff Engineer, MongoDB Developer Productiv (score=60.0)
+[17:47:06]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7672820
+[17:47:17]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:47:20] 
+[18/100] GREENHOUSE | MongoDB — Senior Staff Enterprise Architect, Data (score=60.0)
+[17:47:20]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7644002
+[17:47:32]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:47:36] 
+[19/100] GREENHOUSE | MongoDB — Senior Staff Enterprise Architect, Q2C & Monetizat (score=60.0)
+[17:47:36]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7643999
+[17:47:49]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:47:52] 
+[20/100] GREENHOUSE | MongoDB — Site Reliability Engineer (Senior or Staff), Atlas (score=60.0)
+[17:47:52]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6984809
+[17:48:05]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:48:05] --- Progress: 20/100 | OK=13 FAIL=7 CODE=0 | 4.3min ---
+[17:48:08] 
+[21/100] GREENHOUSE | MongoDB — Site Reliability Engineer (Senior or Staff), Obser (score=60.0)
+[17:48:08]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6711349
+[17:48:21]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:48:24] 
+[22/100] GREENHOUSE | MongoDB — Senior Staff Engineer (score=60.0)
+[17:48:24]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7588555
+[17:48:36]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:48:39] 
+[23/100] GREENHOUSE | MongoDB — Senior Staff Engineer (score=60.0)
+[17:48:39]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7613559
+[17:48:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:48:55] 
+[24/100] GREENHOUSE | MongoDB — Senior Staff Engineer (score=60.0)
+[17:48:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7704173
+[17:49:08]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:49:11] 
+[25/100] GREENHOUSE | MongoDB — Senior Staff Engineer, AMP (score=60.0)
+[17:49:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7678147
+[17:49:24]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:49:27] 
+[26/100] GREENHOUSE | MongoDB — Senior Staff Engineer, MongoDB Developer Productiv (score=60.0)
+[17:49:27]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7672822
+[17:49:39]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:49:42] 
+[27/100] GREENHOUSE | MongoDB — Site Reliability Engineer (Senior or Staff), Obser (score=60.0)
+[17:49:42]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7192648
+[17:49:53]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:49:57] 
+[28/100] GREENHOUSE | Samsara — Account Executive, Commercial (score=60.0)
+[17:49:57]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6605599
+[17:50:09]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:50:12] 
+[29/100] GREENHOUSE | Samsara — Account Executive, Commercial (score=60.0)
+[17:50:12]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7612442
+[17:50:27]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:50:30] 
+[30/100] GREENHOUSE | Samsara — Atlassian Admin (score=60.0)
+[17:50:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7714152
+[17:50:43]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:50:43] --- Progress: 30/100 | OK=23 FAIL=7 CODE=0 | 6.9min ---
+[17:50:46] 
+[31/100] GREENHOUSE | Samsara — Atlassian Admin (score=60.0)
+[17:50:46]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7714154
+[17:51:01]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:51:04] 
+[32/100] GREENHOUSE | Samsara — Atlassian Admin (score=60.0)
+[17:51:04]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7390971
+[17:51:16]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:51:19] 
+[33/100] GREENHOUSE | Samsara — Digital Experience Specialist (score=60.0)
+[17:51:19]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7282925
+[17:51:25]   FAILED: Submit button not found
+[17:51:28] 
+[34/100] GREENHOUSE | Samsara — Enterprise Implementation Consultant (score=60.0)
+[17:51:28]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7731754
+[17:51:40]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:51:43] 
+[35/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Calgary (score=60.0)
+[17:51:43]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6330593
+[17:51:57]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:52:00] 
+[36/100] GREENHOUSE | Samsara — Mid-Market Account Executive - French Fluent (score=60.0)
+[17:52:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5868607
+[17:52:13]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:52:16] 
+[37/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:52:16]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651609
+[17:52:31]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:52:34] 
+[38/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:52:34]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651607
+[17:52:46]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:52:49] 
+[39/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:52:49]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651604
+[17:53:01]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:53:04] 
+[40/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:53:04]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651596
+[17:53:18]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:53:18] --- Progress: 40/100 | OK=32 FAIL=8 CODE=0 | 9.5min ---
+[17:53:21] 
+[41/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:53:21]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651593
+[17:53:33]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:53:36] 
+[42/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:53:36]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651591
+[17:53:49]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:53:53] 
+[43/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:53:53]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651589
+[17:54:04]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:54:07] 
+[44/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:54:07]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651583
+[17:54:20]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:54:23] 
+[45/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:54:23]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651579
+[17:54:35]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:54:38] 
+[46/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:54:38]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651574
+[17:54:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:54:55] 
+[47/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:54:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651569
+[17:55:07]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:55:11] 
+[48/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:55:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651567
+[17:55:23]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:55:26] 
+[49/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:55:26]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651556
+[17:55:38]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:55:41] 
+[50/100] GREENHOUSE | Samsara — Mid-Market Account Executive - Public Sector (score=60.0)
+[17:55:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7612559
+[17:55:54]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:55:54] --- Progress: 50/100 | OK=42 FAIL=8 CODE=0 | 12.1min ---
+[17:55:57] 
+[51/100] GREENHOUSE | Samsara — Select Major Account Executive (EST) (score=60.0)
+[17:55:57]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7699284
+[17:56:10]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:56:13] 
+[52/100] GREENHOUSE | Samsara — Select Major Account Executive (EST) (score=60.0)
+[17:56:13]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7699295
+[17:56:24]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:56:28] 
+[53/100] GREENHOUSE | Samsara — Sr. Growth Engineer (score=60.0)
+[17:56:28]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651761
+[17:56:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:56:45] 
+[54/100] GREENHOUSE | Samsara — Technical Support Engineer – Mobile Apps and Compl (score=60.0)
+[17:56:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7736569
+[17:56:57]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:57:00] 
+[55/100] GREENHOUSE | Samsara — Technical Support Engineer – Mobile Apps and Compl (score=60.0)
+[17:57:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7736544
+[17:57:12]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:57:15] 
+[56/100] GREENHOUSE | CircleCI — Strategic Account Executive, NAMER (score=60.0)
+[17:57:15]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8284360002
+[17:57:28]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:57:31] 
+[57/100] GREENHOUSE | Pinterest — Data Scientist II, Growth Marketing (score=60.0)
+[17:57:31]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6483005
+[17:57:37]   FAILED: Submit button not found
+[17:57:40] 
+[58/100] GREENHOUSE | Pinterest — Equity Administrator II-US (score=60.0)
+[17:57:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7679702
+[17:57:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:57:55] 
+[59/100] GREENHOUSE | Pinterest — Principal Engineer, Compute Platform (score=60.0)
+[17:57:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7623786
+[17:58:08]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:58:11] 
+[60/100] GREENHOUSE | Pinterest — Sr. Data Scientist, Core (score=60.0)
+[17:58:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6087213
+[17:58:23]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:58:23] --- Progress: 60/100 | OK=51 FAIL=9 CODE=0 | 14.6min ---
+[17:58:26] 
+[61/100] GREENHOUSE | Pinterest — Sr. Data Scientist, tvScientific (score=60.0)
+[17:58:26]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7642251
+[17:58:34]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:58:37] 
+[62/100] GREENHOUSE | Pinterest — Sr. Frontend Engineer, tvScientific (score=60.0)
+[17:58:37]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7642284
+[17:58:49]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:58:53] 
+[63/100] GREENHOUSE | Pinterest — Sr. ML Ops Engineer, tvScientific (score=60.0)
+[17:58:53]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7642249
+[17:59:09]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:59:12] 
+[64/100] GREENHOUSE | Pinterest — Sr. Software Engineer, Android (score=60.0)
+[17:59:12]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5773689
+[17:59:25]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:59:28] 
+[65/100] GREENHOUSE | Lattice — Account Executive - SMB (score=60.0)
+[17:59:28]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8374621002
+[17:59:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[17:59:45] 
+[66/100] GREENHOUSE | Lattice — Revenue Analyst (score=60.0)
+[17:59:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8443082002
+[17:59:52]   FAILED: Submit button not found
+[17:59:55] 
+[67/100] GREENHOUSE | Fivetran — Account Executive, Commercial - German Speaking (score=60.0)
+[17:59:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7639211003
+[18:00:06]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:00:09] 
+[68/100] GREENHOUSE | Fivetran — Account Executive, Enterprise (score=60.0)
+[18:00:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7485977003
+[18:00:30]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:00:33] 
+[69/100] GREENHOUSE | Fivetran — Account Executive, Enterprise (score=60.0)
+[18:00:33]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7551946003
+[18:00:58]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:01:01] 
+[70/100] GREENHOUSE | Fivetran — Account Executive, Enterprise (score=60.0)
+[18:01:01]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7659461003
+[18:01:14]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:01:14] --- Progress: 70/100 | OK=60 FAIL=10 CODE=0 | 17.4min ---
+[18:01:17] 
+[71/100] GREENHOUSE | Fivetran — Account Executive, Enterprise - Existing Business  (score=60.0)
+[18:01:17]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7641161003
+[18:01:26]   FAILED: Submit button not found
+[18:01:29] 
+[72/100] GREENHOUSE | Fivetran — Account Executive, Enterprise - Strategic Expansio (score=60.0)
+[18:01:29]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7636518003
+[18:01:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:01:45] 
+[73/100] GREENHOUSE | Fivetran — Principal Software Engineer (score=60.0)
+[18:01:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6266323003
+[18:02:00]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:02:03] 
+[74/100] GREENHOUSE | Fivetran — Senior Staff SDET Engineer (score=60.0)
+[18:02:03]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7451701003
+[18:02:18]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:02:21] 
+[75/100] GREENHOUSE | Fivetran — Senior Staff Site Reliability Engineer (score=60.0)
+[18:02:21]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7486167003
+[18:02:33]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:02:36] 
+[76/100] GREENHOUSE | Fivetran — Solution Architect, Enterprise - French Speaking (score=60.0)
+[18:02:36]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7611316003
+[18:02:45]   FAILED: Submit button not found
+[18:02:48] 
+[77/100] GREENHOUSE | Fivetran — Solution Architect, Enterprise - French Speaking (score=60.0)
+[18:02:48]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7567802003
+[18:02:57]   FAILED: Submit button not found
+[18:03:00] 
+[78/100] GREENHOUSE | Fivetran — Solution Architect, Networking - EMEA Hours (score=60.0)
+[18:03:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7653328003
+[18:03:21]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:03:24] 
+[79/100] GREENHOUSE | Fivetran — Solution Architect, Networking- US hours (score=60.0)
+[18:03:24]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7653324003
+[18:03:47]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:03:50] 
+[80/100] GREENHOUSE | Stripe — Commercial Counsel, Crypto (score=60.0)
+[18:03:50]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7392188
+[18:04:04]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:04:05] --- Progress: 80/100 | OK=67 FAIL=13 CODE=0 | 20.3min ---
+[18:04:08] 
+[81/100] GREENHOUSE | Stripe — Compensation Partner (score=60.0)
+[18:04:08]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7203552
+[18:04:21]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:04:24] 
+[82/100] GREENHOUSE | Stripe — Employment Counsel (score=60.0)
+[18:04:24]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7672483
+[18:04:30]   FAILED: Submit button not found
+[18:04:33] 
+[83/100] GREENHOUSE | Stripe — Head of Consumer Marketing, Link (score=60.0)
+[18:04:33]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7165781
+[18:04:46]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:04:49] 
+[84/100] GREENHOUSE | Stripe — PhD Machine Learning Engineer, Intern (score=60.0)
+[18:04:49]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7216664
+[18:05:02]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:05:05] 
+[85/100] GREENHOUSE | Stripe — Product Counsel, Payments (score=60.0)
+[18:05:05]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7558757
+[18:05:22]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:05:26] 
+[86/100] GREENHOUSE | Stripe — Senior Staff Engineer  -  Reporting, Accounting, a (score=60.0)
+[18:05:26]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5323514
+[18:05:38]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:05:42] 
+[87/100] GREENHOUSE | Bitwarden — Account Executive (ANZ) (score=60.0)
+[18:05:42]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7584549003
+[18:05:57]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:06:00] 
+[88/100] GREENHOUSE | Bitwarden — Enterprise Account Executive (score=60.0)
+[18:06:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7659183003
+[18:06:15]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:06:19] 
+[89/100] GREENHOUSE | Bitwarden — Mid-Market Account Executive (score=60.0)
+[18:06:19]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7659179003
+[18:06:43]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:06:46] 
+[90/100] GREENHOUSE | Bitwarden — Mid-Market Account Executive (German Speaking) (score=60.0)
+[18:06:46]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7635820003
+[18:07:15]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:07:15] --- Progress: 90/100 | OK=76 FAIL=14 CODE=0 | 23.5min ---
+[18:07:18] 
+[91/100] GREENHOUSE | Bitwarden — Principal Implementation Engineer (score=60.0)
+[18:07:18]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7619106003
+[18:07:48]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:07:51] 
+[92/100] GREENHOUSE | Bitwarden — Principal Implementation Engineer (EMEA) (score=60.0)
+[18:07:51]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7619101003
+[18:08:20]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:08:23] 
+[93/100] GREENHOUSE | Asana — Enterprise Account Executive (score=60.0)
+[18:08:23]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7111108
+[18:08:38]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:08:41] 
+[94/100] GREENHOUSE | Asana — Enterprise Account Executive (score=60.0)
+[18:08:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5694272
+[18:08:56]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:08:59] 
+[95/100] GREENHOUSE | Asana — Enterprise Account Executive, Strategic (score=60.0)
+[18:08:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7581811
+[18:09:12]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:09:15] 
+[96/100] GREENHOUSE | Asana — Enterprise AE (score=60.0)
+[18:09:15]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7646666
+[18:09:27]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:09:30] 
+[97/100] GREENHOUSE | Elastic — Join Elastic's Engineering Global Talent Community (score=60.0)
+[18:09:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6020362
+[18:09:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:09:46] 
+[98/100] GREENHOUSE | Elastic — Principal Software Developer I - Distributed Syste (score=60.0)
+[18:09:46]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7366826
+[18:09:57]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:10:00] 
+[99/100] GREENHOUSE | Elastic — Principal Software Developer II - Distributed Syst (score=60.0)
+[18:10:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7366818
+[18:10:16]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:10:19] 
+[100/100] GREENHOUSE | Elastic — Principal Software Engineer I / II - Storage Engin (score=60.0)
+[18:10:19]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7508491
+[18:10:32]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:10:32] --- Progress: 100/100 | OK=86 FAIL=14 CODE=0 | 26.7min ---
+[18:10:32] 
+======================================================================
+[18:10:32] WRAITH APPLY SWARM DONE — 26.7min
+[18:10:32]   Success: 86
+[18:10:32]   Failed: 14
+[18:10:32]   Needs code: 0
+[18:10:32]   Rate: 3.7 apps/min
+[18:10:32] ======================================================================

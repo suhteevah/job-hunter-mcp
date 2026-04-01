@@ -1,0 +1,54 @@
+[15:58:56] ======================================================================
+[15:58:56] WRAITH CDP APPLY SWARM
+[15:58:56] ======================================================================
+[15:58:56]   greenhouse: 50 jobs
+[15:58:56] Total: 50 jobs
+[15:58:56] Starting Wraith MCP client...
+[15:58:59] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[15:58:59] 
+[1/50] GREENHOUSE | Reddit — Staff Software Engineer, Ads API (score=81.0)
+[15:59:06]   FAILED: Submit button not found
+[15:59:09] 
+[2/50] GREENHOUSE | Reddit — Staff Software Engineer, Identity  (score=73.0)
+[15:59:16]   FAILED: Submit button not found
+[15:59:19] 
+[3/50] GREENHOUSE | Discord — Staff Software Engineer, Player Experience (score=73.0)
+[15:59:25]   FAILED: Submit button not found
+[15:59:28] 
+[4/50] GREENHOUSE | Reddit — Senior Business Engineer - Ads (score=65.0)
+[15:59:35]   FAILED: Submit button not found
+[15:59:38] 
+[5/50] GREENHOUSE | Twilio — Senior Account Executive (score=65.0)
+[15:59:45]   FAILED: Submit button not found
+[15:59:48] 
+[6/50] GREENHOUSE | Twilio — Sr. Manager, Sales Business Partner (score=65.0)
+[15:59:55]   FAILED: Submit button not found
+[15:59:58] 
+[7/50] GREENHOUSE | Cockroach Labs — Sr. Customer Success Manager- Toronto or  NYC (score=65.0)
+[15:59:58]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7578404
+[16:00:04]   FAILED: Submit button not found
+[16:00:07] 
+[8/50] GREENHOUSE | Discord — Senior Software Engineer, Platform Security (score=64.0)
+[16:00:15]   FAILED: Submit button not found
+[16:00:18] 
+[9/50] GREENHOUSE | Verkada — Solutions Engineer  (score=64.0)
+[16:00:25]   FAILED: Submit button not found
+[16:00:28] 
+[10/50] GREENHOUSE | Reddit — Machine Learning Engineer (score=64.0)
+[16:00:34]   FAILED: Submit button not found
+[16:00:34] --- Progress: 10/50 | OK=0 FAIL=10 CODE=0 | 1.6min ---
+[16:00:37] 
+[11/50] GREENHOUSE | Scale AI — Machine Learning Research Intern (Summer 2026) (score=64.0)
+[16:00:45]   FAILED: Submit button not found
+[16:00:48] 
+[12/50] GREENHOUSE | Amplitude — Senior Technical Trainer (APJ) (score=64.0)
+[16:00:54]   FAILED: Submit button not found
+[16:00:57] 
+[13/50] GREENHOUSE | Amplitude — Senior Technical Trainer (APJ) (score=64.0)
+[16:01:04]   FAILED: Submit button not found
+[16:01:07] 
+[14/50] GREENHOUSE | Grafana Labs — Senior Field Engineer | Germany | Remote (score=63.0)
+[16:01:13]   FAILED: Submit button not found

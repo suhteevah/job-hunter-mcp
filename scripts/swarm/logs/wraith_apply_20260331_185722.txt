@@ -1,0 +1,222 @@
+[18:57:22] ======================================================================
+[18:57:22] WRAITH CDP APPLY SWARM
+[18:57:22] ======================================================================
+[18:57:22]   lever: 66 jobs
+[18:57:22] Total: 66 jobs
+[18:57:22] Starting Wraith MCP client...
+[18:57:26] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[18:57:26] 
+[1/66] LEVER | mistral — Applied AI Engineer, Fullstack Software Engineer - (score=100.0)
+[18:57:29]   FAILED: Submit button not found
+[18:57:32] 
+[2/66] LEVER | mistral — Applied AI Engineer, Fullstack Software Engineer - (score=100.0)
+[18:57:35]   FAILED: Submit button not found
+[18:57:38] 
+[3/66] LEVER | mistral — Applied AI Engineer, Senior/Staff Devops/SRE - EME (score=100.0)
+[18:57:42]   FAILED: Submit button not found
+[18:57:45] 
+[4/66] LEVER | mistral — Applied AI Engineer, Senior/Staff Fullstack Softwa (score=100.0)
+[18:57:48]   FAILED: Submit button not found
+[18:57:51] 
+[5/66] LEVER | mistral — Applied AI,  Senior/Staff Forward Deployed Machine (score=100.0)
+[18:57:54]   FAILED: Submit button not found
+[18:57:57] 
+[6/66] LEVER | mistral — Applied AI, AI Engineer for Mistral (score=100.0)
+[18:58:00]   FAILED: Submit button not found
+[18:58:03] 
+[7/66] LEVER | mistral — Applied AI, Forward Deployed Machine Learning Engi (score=100.0)
+[18:58:06]   FAILED: Submit button not found
+[18:58:09] 
+[8/66] LEVER | mistral — Applied AI, Forward Deployed Machine Learning Engi (score=100.0)
+[18:58:12]   FAILED: Submit button not found
+[18:58:15] 
+[9/66] LEVER | mistral — Applied AI, Forward Deployed Machine Learning Engi (score=100.0)
+[18:58:18]   FAILED: Submit button not found
+[18:58:21] 
+[10/66] LEVER | mistral — Applied AI, Forward Deployed Machine Learning Engi (score=100.0)
+[18:58:25]   FAILED: Submit button not found
+[18:58:25] --- Progress: 10/66 | OK=0 FAIL=10 CODE=0 | 1.0min ---
+[18:58:28] 
+[11/66] LEVER | mistral — Applied AI, Technical Lead - Forward Deployed AI E (score=100.0)
+[18:58:37]   FAILED: Submit button not found
+[18:58:40] 
+[12/66] LEVER | mistral — Applied AI, Technical Lead, Forward Deployed AI En (score=100.0)
+[18:58:43]   FAILED: Submit button not found
+[18:58:46] 
+[13/66] LEVER | mistral — Applied AI, Technical Lead, Forward Deployed AI En (score=100.0)
+[18:58:49]   FAILED: Submit button not found
+[18:58:52] 
+[14/66] LEVER | metabase — Senior SRE/DevOps Engineer (score=90.0)
+[18:58:56]   FAILED: Submit button not found
+[18:58:59] 
+[15/66] LEVER | mistral — Applied AI, Senior MLOps Engineer - NYC (score=85.0)
+[18:59:02]   FAILED: Submit button not found
+[18:59:05] 
+[16/66] LEVER | jumpcloud — Full Stack Software Engineer - India (score=85.0)
+[18:59:15]   FAILED: Submit button not found
+[18:59:18] 
+[17/66] LEVER | metabase — Software Engineer (Backend) (score=85.0)
+[18:59:21]   FAILED: Submit button not found
+[18:59:24] 
+[18/66] LEVER | mistral — AI Engineer, Product (score=80.0)
+[18:59:27]   FAILED: Submit button not found
+[18:59:30] 
+[19/66] LEVER | mistral — Applied AI, Evaluation Engineer (score=80.0)
+[18:59:33]   FAILED: Submit button not found
+[18:59:36] 
+[20/66] LEVER | mistral — Machine Learning Engineer, Open-Source Software -  (score=80.0)
+[18:59:39]   FAILED: Submit button not found
+[18:59:39] --- Progress: 20/66 | OK=0 FAIL=20 CODE=0 | 2.2min ---
+[18:59:42] 
+[21/66] LEVER | plaid — Senior Software Engineer - Backend (score=80.0)
+[18:59:45]   FAILED: Submit button not found
+[18:59:48] 
+[22/66] LEVER | plaid — Senior Software Engineer - Backend (score=80.0)
+[18:59:51]   FAILED: Submit button not found
+[18:59:55] 
+[23/66] LEVER | mistral — Software Engineer, Backend (London) (score=75.0)
+[18:59:58]   FAILED: Submit button not found
+[19:00:01] 
+[24/66] LEVER | mistral — Software Engineer, Backend (Paris) (score=75.0)
+[19:00:04]   FAILED: Submit button not found
+[19:00:07] 
+[25/66] LEVER | mistral — Software Engineer, Compute Infrastructure (score=75.0)
+[19:00:10]   FAILED: Submit button not found
+[19:00:13] 
+[26/66] LEVER | mistral — Software Engineer, Deployment Infrastructure (score=75.0)
+[19:00:17]   FAILED: Submit button not found
+[19:00:20] 
+[27/66] LEVER | mistral — Software Engineer, DevOps, Research Platform (score=75.0)
+[19:00:23]   FAILED: Submit button not found
+[19:00:26] 
+[28/66] LEVER | jumpcloud — Senior Software Engineer, Devices - India (score=75.0)
+[19:00:29]   FAILED: Submit button not found
+[19:00:32] 
+[29/66] LEVER | jumpcloud — Senior Software Engineer, Devices - Türkiye (score=75.0)
+[19:00:36]   FAILED: Submit button not found
+[19:00:40] 
+[30/66] LEVER | jumpcloud — Principal Platform Software Engineer - India (score=70.0)
+[19:00:44]   FAILED: Submit button not found
+[19:00:44] --- Progress: 30/66 | OK=0 FAIL=30 CODE=0 | 3.3min ---
+[19:00:47] 
+[31/66] LEVER | jumpcloud — Software Engineer - SaaS Platform & Asset Manageme (score=70.0)
+[19:00:50]   FAILED: Submit button not found
+[19:00:53] 
+[32/66] LEVER | metabase — Software Engineer (Frontend) (score=70.0)
+[19:00:58]   FAILED: Submit button not found
+[19:01:01] 
+[33/66] LEVER | mistral — CyberSecurity Team Lead, Infrastructure and Applic (score=65.0)
+[19:01:05]   FAILED: Submit button not found
+[19:01:08] 
+[34/66] LEVER | mistral — Infrastructure Solution Architect - EMEA (score=65.0)
+[19:01:11]   FAILED: Submit button not found
+[19:01:14] 
+[35/66] LEVER | mistral — Infrastructure Solution Architect - US (score=65.0)
+[19:01:17]   FAILED: Submit button not found
+[19:01:20] 
+[36/66] LEVER | mistral — Research Platform Engineer - Paris/London (score=65.0)
+[19:01:24]   FAILED: Submit button not found
+[19:01:27] 
+[37/66] LEVER | plaid — Senior Software Engineer - Fullstack (score=65.0)
+[19:01:30]   FAILED: Submit button not found
+[19:01:33] 
+[38/66] LEVER | plaid — Senior Software Engineer - Fullstack (score=65.0)
+[19:01:37]   FAILED: Submit button not found
+[19:01:40] 
+[39/66] LEVER | plaid — Staff Software Engineer - Europe (score=65.0)
+[19:01:43]   FAILED: Submit button not found
+[19:01:46] 
+[40/66] LEVER | jumpcloud — Senior Software Engineer, ITDR - India (score=65.0)
+[19:01:50]   FAILED: Submit button not found
+[19:01:50] --- Progress: 40/66 | OK=0 FAIL=40 CODE=0 | 4.4min ---
+[19:01:53] 
+[41/66] LEVER | neon — Staff Software Engineer (score=65.0)
+[19:01:56]   FAILED: Submit button not found
+[19:01:59] 
+[42/66] LEVER | neon — Staff Software Engineer - Afirmativa para Mulheres (score=65.0)
+[19:02:02]   FAILED: Submit button not found
+[19:02:05] 
+[43/66] LEVER | shieldai — Senior Staff Engineer, Electromechanical (score=60.0)
+[19:02:08]   FAILED: Submit button not found
+[19:02:11] 
+[44/66] LEVER | shieldai — Senior Staff PLM Solutions Architect (score=60.0)
+[19:02:15]   FAILED: Submit button not found
+[19:02:18] 
+[45/66] LEVER | mistral — AI Developer Advocate (score=60.0)
+[19:02:21]   FAILED: Submit button not found
+[19:02:24] 
+[46/66] LEVER | mistral — AI Scientist - Paris/London - Onsite or Hybrid or  (score=60.0)
+[19:02:27]   FAILED: Submit button not found
+[19:02:30] 
+[47/66] LEVER | mistral — Software Engineer (Contractor) (score=60.0)
+[19:02:33]   FAILED: Submit button not found
+[19:02:36] 
+[48/66] LEVER | mistral — Software Engineer,  Frontend (score=60.0)
+[19:02:39]   FAILED: Submit button not found
+[19:02:42] 
+[49/66] LEVER | mistral — Software Engineer, Cloud Deployments (score=60.0)
+[19:02:45]   FAILED: Submit button not found
+[19:02:48] 
+[50/66] LEVER | mistral — Software Engineer, DevEx (score=60.0)
+[19:02:51]   FAILED: Submit button not found
+[19:02:51] --- Progress: 50/66 | OK=0 FAIL=50 CODE=0 | 5.4min ---
+[19:02:54] 
+[51/66] LEVER | mistral — Software Engineer, Enterprise Agents (score=60.0)
+[19:02:57]   FAILED: Submit button not found
+[19:03:00] 
+[52/66] LEVER | mistral — Software Engineer, Knowledge and Search (score=60.0)
+[19:03:03]   FAILED: Submit button not found
+[19:03:06] 
+[53/66] LEVER | mistral — Software Engineer, Mistral Vibe (score=60.0)
+[19:03:09]   FAILED: Submit button not found
+[19:03:12] 
+[54/66] LEVER | mistral — Software Engineer, QA (score=60.0)
+[19:03:15]   FAILED: Submit button not found
+[19:03:18] 
+[55/66] LEVER | plaid — Software Engineer (score=60.0)
+[19:03:22]   FAILED: Submit button not found
+[19:03:25] 
+[56/66] LEVER | plaid — Software Engineer (score=60.0)
+[19:03:34]   FAILED: Submit button not found
+[19:03:37] 
+[57/66] LEVER | jumpcloud — Business Development Representative - Mexico (score=60.0)
+[19:03:40]   FAILED: Submit button not found
+[19:03:43] 
+[58/66] LEVER | neon — Software Engineer - Afirmativa para Pessoas com De (score=60.0)
+[19:03:46]   FAILED: Submit button not found
+[19:03:49] 
+[59/66] LEVER | metabase — Analytics Engineer (score=60.0)
+[19:03:52]   FAILED: Submit button not found
+[19:03:55] 
+[60/66] LEVER | metabase — Go To Market Engineer (score=60.0)
+[19:03:58]   FAILED: Submit button not found
+[19:03:58] --- Progress: 60/66 | OK=0 FAIL=60 CODE=0 | 6.5min ---
+[19:04:01] 
+[61/66] LEVER | metabase — Open Source Community Advocate (score=60.0)
+[19:04:04]   FAILED: Submit button not found
+[19:04:07] 
+[62/66] LEVER | metabase — Success Engineer (EU) (score=60.0)
+[19:04:10]   FAILED: Submit button not found
+[19:04:13] 
+[63/66] LEVER | metabase — Success Engineer (Global) (score=60.0)
+[19:04:16]   FAILED: Submit button not found
+[19:04:19] 
+[64/66] LEVER | metabase — Technical Sourcer (score=60.0)
+[19:04:22]   FAILED: Submit button not found
+[19:04:26] 
+[65/66] LEVER | metabase — Technical Writer - Data Analytics (score=60.0)
+[19:04:29]   FAILED: Submit button not found
+[19:04:32] 
+[66/66] LEVER | metabase — VP-Marketing (score=60.0)
+[19:04:35]   FAILED: Submit button not found
+[19:04:35] 
+======================================================================
+[19:04:35] WRAITH APPLY SWARM DONE — 7.2min
+[19:04:35]   Success: 0
+[19:04:35]   Failed: 66
+[19:04:35]   Needs code: 0
+[19:04:35]   Rate: 9.2 apps/min
+[19:04:35] ======================================================================

@@ -1,0 +1,51 @@
+[16:09:11] ======================================================================
+[16:09:11] WRAITH CDP APPLY SWARM
+[16:09:11] ======================================================================
+[16:09:11]   greenhouse: 10 jobs
+[16:09:11] Total: 10 jobs
+[16:09:11] Starting Wraith MCP client...
+[16:09:14] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[16:09:14] 
+[1/10] GREENHOUSE | Anthropic — Field Marketing Manager, Partners (score=41.0)
+[16:09:23]   FAILED: Submit button not found
+[16:09:26] 
+[2/10] GREENHOUSE | Anthropic — Marketing Events Content Manager (score=41.0)
+[16:09:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:09:40] 
+[3/10] GREENHOUSE | Anthropic — Policy Manager, Chemical Weapons and High Yield Ex (score=41.0)
+[16:09:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:09:54] 
+[4/10] GREENHOUSE | Anthropic — Revenue Accounting (score=41.0)
+[16:10:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:10:10] 
+[5/10] GREENHOUSE | Anthropic — Segment Marketing Manager, Startups (score=41.0)
+[16:10:16]   FAILED: Submit button not found
+[16:10:19] 
+[6/10] GREENHOUSE | Anthropic — Support Vendor Operations Manager (score=41.0)
+[16:10:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:10:33] 
+[7/10] GREENHOUSE | SoFi — Senior Software Engineer, Agentic Test Platform (score=41.0)
+[16:10:33]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7507199003
+[16:10:46]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:10:49] 
+[8/10] GREENHOUSE | SoFi — Staff Software Engineer, Agentic Test Platform (score=41.0)
+[16:10:49]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7672527003
+[16:11:01]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:11:04] 
+[9/10] GREENHOUSE | reddit — Senior Software Engineer, Android Test Engineering (score=40.0)
+[16:11:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:11:19] 
+[10/10] GREENHOUSE | Anthropic — Software Engineer, iOS (score=40.0)
+[16:11:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:11:31] --- Progress: 10/10 | OK=8 FAIL=2 CODE=0 | 2.3min ---
+[16:11:31] 
+======================================================================
+[16:11:31] WRAITH APPLY SWARM DONE — 2.3min
+[16:11:31]   Success: 8
+[16:11:31]   Failed: 2
+[16:11:31]   Needs code: 0
+[16:11:31]   Rate: 4.4 apps/min
+[16:11:31] ======================================================================

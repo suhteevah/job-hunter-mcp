@@ -1,0 +1,642 @@
+[20:31:21] ======================================================================
+[20:31:21] WRAITH CDP APPLY SWARM
+[20:31:21] ======================================================================
+[20:31:21]   greenhouse: 200 jobs
+[20:31:21] Total: 200 jobs
+[20:31:21] Starting Wraith MCP client...
+[20:31:25] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[20:31:25] 
+[1/200] GREENHOUSE | Anduril — Senior LLM Software Engineer (score=95.0)
+[20:31:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:31:39] 
+[2/200] GREENHOUSE | Anduril — Senior LLM Software Engineer (score=95.0)
+[20:31:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:31:55] 
+[3/200] GREENHOUSE | Anduril — Senior Machine Learning Engineer, Sentry Tower (score=95.0)
+[20:32:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:32:11] 
+[4/200] GREENHOUSE | Anduril — Senior Software Engineer (Infrastructure and DevOp (score=95.0)
+[20:32:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:32:27] 
+[5/200] GREENHOUSE | Anduril — Senior AI Engineer (score=85.0)
+[20:32:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:32:43] 
+[6/200] GREENHOUSE | Anduril — Senior AI Engineer (score=85.0)
+[20:32:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:32:58] 
+[7/200] GREENHOUSE | Anduril — Senior Machine Learning Engineer (score=85.0)
+[20:33:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:33:13] 
+[8/200] GREENHOUSE | Elastic — Agentic QA Lead - Observability (score=85.0)
+[20:33:13]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7445011
+[20:33:26]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:33:29] 
+[9/200] GREENHOUSE | Anduril — Chief Machine Learning Engineer Lead (score=80.0)
+[20:33:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:33:45] 
+[10/200] GREENHOUSE | Anduril — Multinational Digital Infrastructure - Senior Clou (score=80.0)
+[20:33:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:33:57] --- Progress: 10/200 | OK=10 FAIL=0 CODE=0 | 2.5min ---
+[20:34:00] 
+[11/200] GREENHOUSE | Anduril — Senior Flight Software Platform Engineer, Embedded (score=80.0)
+[20:34:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:34:15] 
+[12/200] GREENHOUSE | Anduril — Senior Full Stack Software Engineer (score=80.0)
+[20:34:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:34:30] 
+[13/200] GREENHOUSE | Anduril — Senior Software Engineer, Backend Core Platform (score=80.0)
+[20:34:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:34:45] 
+[14/200] GREENHOUSE | Anduril — Senior Software Engineer, Device Infrastructure (score=80.0)
+[20:34:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:35:02] 
+[15/200] GREENHOUSE | Anduril — Senior Software Engineer, Device Infrastructure (score=80.0)
+[20:35:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:35:17] 
+[16/200] GREENHOUSE | Anduril — Senior Software Engineer, DevOps (score=80.0)
+[20:35:29]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:35:33] 
+[17/200] GREENHOUSE | Anduril — Senior Software Engineer, Full Stack (score=80.0)
+[20:35:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:35:48] 
+[18/200] GREENHOUSE | Anduril — Senior Software Engineer, Full Stack (score=80.0)
+[20:36:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:36:03] 
+[19/200] GREENHOUSE | Anduril — Senior Software Engineer, Fullstack UI (SIE) (score=80.0)
+[20:36:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:36:18] 
+[20/200] GREENHOUSE | Anduril — Senior Software Engineer, Rust  (score=80.0)
+[20:36:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:36:32] --- Progress: 20/200 | OK=20 FAIL=0 CODE=0 | 5.1min ---
+[20:36:35] 
+[21/200] GREENHOUSE | Anduril — Senior Software Engineer, Test Infrastructure & Si (score=80.0)
+[20:36:47]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:36:50] 
+[22/200] GREENHOUSE | Anduril — Senior Software Engineer, Test Infrastructure & Si (score=80.0)
+[20:37:04]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:37:07] 
+[23/200] GREENHOUSE | Anduril — Senior Software Security Engineer, Full Stack (score=80.0)
+[20:37:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:37:22] 
+[24/200] GREENHOUSE | Anduril — Senior Software Security Engineer, Full Stack (score=80.0)
+[20:37:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:37:37] 
+[25/200] GREENHOUSE | Anduril — Senior Software Security Engineer, Full Stack (score=80.0)
+[20:37:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:37:52] 
+[26/200] GREENHOUSE | Anduril — Senior Software Security Engineer, Full Stack (score=80.0)
+[20:38:04]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:38:07] 
+[27/200] GREENHOUSE | Anduril — Senior Software Security Engineer, Full Stack (score=80.0)
+[20:38:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:38:23] 
+[28/200] GREENHOUSE | Anduril — Senior Software Security Engineer, Full Stack (score=80.0)
+[20:38:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:38:38] 
+[29/200] GREENHOUSE | Anduril — Senior Tactical C2 Software Engineer, Web Backend  (score=80.0)
+[20:38:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:38:54] 
+[30/200] GREENHOUSE | SpaceX — Fulfillment Buyer (Starship) (score=80.0)
+[20:39:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:39:06] --- Progress: 30/200 | OK=30 FAIL=0 CODE=0 | 7.7min ---
+[20:39:09] 
+[31/200] GREENHOUSE | Elastic — Senior TypeScript Backend Engineer - Response Ops (score=80.0)
+[20:39:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7743111
+[20:39:21]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:39:24] 
+[32/200] GREENHOUSE | Elastic — Software Engineer II - Python - Developer Tools -  (score=80.0)
+[20:39:24]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7602100
+[20:39:36]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:39:39] 
+[33/200] GREENHOUSE | Elastic — Software Engineer II - Python - Developer Tools -  (score=80.0)
+[20:39:39]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7602101
+[20:39:51]   >>> SUCCESS: Wraith verified: likely success <<<
+[20:39:54] 
+[34/200] GREENHOUSE | Cloudflare — Machine Learning Engineer (score=80.0)
+[20:40:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:40:09] 
+[35/200] GREENHOUSE | Anduril — Cloud Infrastructure Engineer, Security (score=75.0)
+[20:40:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:40:24] 
+[36/200] GREENHOUSE | Anduril — Flight Software Platform Engineer, Embedded C/C++, (score=75.0)
+[20:40:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:40:39] 
+[37/200] GREENHOUSE | Anduril — Full Stack Software Engineer (score=75.0)
+[20:40:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:40:54] 
+[38/200] GREENHOUSE | Anduril — Principal Embedded Software Engineer, EW (score=75.0)
+[20:41:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:41:11] 
+[39/200] GREENHOUSE | Anduril — Senior Automation Engineer, Altius (score=75.0)
+[20:41:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:41:26] 
+[40/200] GREENHOUSE | Anduril — Senior Automation Engineer, Intelligence Systems (score=75.0)
+[20:41:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:41:38] --- Progress: 40/200 | OK=40 FAIL=0 CODE=0 | 10.2min ---
+[20:41:41] 
+[41/200] GREENHOUSE | Anduril — Senior Automation Engineer, Propulsion (score=75.0)
+[20:41:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:41:56] 
+[42/200] GREENHOUSE | Anduril — Senior Embedded Software Engineer (Bare Metal) (score=75.0)
+[20:42:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:42:24] 
+[43/200] GREENHOUSE | Anduril — Senior Embedded Software Engineer, Intelligence Sy (score=75.0)
+[20:42:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:42:38] 
+[44/200] GREENHOUSE | Anduril — Senior Embedded Software Engineer, Intelligence Sy (score=75.0)
+[20:42:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:42:54] 
+[45/200] GREENHOUSE | Anduril — Senior Embedded Software Engineer, Maritime (score=75.0)
+[20:43:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:43:09] 
+[46/200] GREENHOUSE | Anduril — Senior Embedded Software Engineer (Networking) (score=75.0)
+[20:43:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:43:25] 
+[47/200] GREENHOUSE | Anduril — Senior Flight Software Engineer, Embedded C/C++, A (score=75.0)
+[20:43:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:43:40] 
+[48/200] GREENHOUSE | Anduril — Senior Flight Software Engineer, Embedded C/C++, A (score=75.0)
+[20:43:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:43:55] 
+[49/200] GREENHOUSE | Anduril — Senior Production Embedded Software Engineer, EW (score=75.0)
+[20:44:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:44:11] 
+[50/200] GREENHOUSE | Anduril — Senior Software Engineer, Embedded C/C++ Flight So (score=75.0)
+[20:44:23]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:44:23] --- Progress: 50/200 | OK=50 FAIL=0 CODE=0 | 13.0min ---
+[20:44:26] 
+[51/200] GREENHOUSE | Anduril — Senior Software Engineer, Kubernetes (score=75.0)
+[20:44:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:44:41] 
+[52/200] GREENHOUSE | Anduril — Senior Tactical C2 Software Engineer, Cloud (score=75.0)
+[20:44:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:44:57] 
+[53/200] GREENHOUSE | Anduril — Senior Test Automation Engineer (score=75.0)
+[20:45:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:45:13] 
+[54/200] GREENHOUSE | Anduril — Software Engineer, Device Infrastructure (score=75.0)
+[20:45:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:45:29] 
+[55/200] GREENHOUSE | Anduril — Software Engineer, Device Infrastructure (score=75.0)
+[20:45:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:45:44] 
+[56/200] GREENHOUSE | Anduril — Software Engineer, DevOps, Discovery (score=75.0)
+[20:45:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:46:00] 
+[57/200] GREENHOUSE | Anduril — Software Engineer, DevOps, Discovery (score=75.0)
+[20:46:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:46:14] 
+[58/200] GREENHOUSE | Anduril — Software Engineer, Full Stack (score=75.0)
+[20:46:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:46:30] 
+[59/200] GREENHOUSE | Anduril — Software Engineer, Full Stack (score=75.0)
+[20:46:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:46:44] 
+[60/200] GREENHOUSE | Anduril — Software Engineer, Test Infrastructure & Simulatio (score=75.0)
+[20:46:58]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:46:58] --- Progress: 60/200 | OK=60 FAIL=0 CODE=0 | 15.5min ---
+[20:47:01] 
+[61/200] GREENHOUSE | Anduril — Sr. Mission Integration Engineer, Multinational Di (score=75.0)
+[20:47:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:47:15] 
+[62/200] GREENHOUSE | Anduril — Staff Embedded Software Engineer (Bare Metal), Int (score=75.0)
+[20:47:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:47:30] 
+[63/200] GREENHOUSE | Anduril — Staff Embedded Software Engineer, Intelligence Sys (score=75.0)
+[20:47:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:47:49] 
+[64/200] GREENHOUSE | Anduril — Staff RF Test Automation Engineer, Electronic Warf (score=75.0)
+[20:48:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:48:14] 
+[65/200] GREENHOUSE | Anduril — Staff Software Engineer, Distributed Simulation (score=75.0)
+[20:48:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:48:46] 
+[66/200] GREENHOUSE | Anduril — Staff Software Engineer, Distributed Simulation (score=75.0)
+[20:49:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:49:18] 
+[67/200] GREENHOUSE | Anduril — Staff Software Engineer, Distributed Simulation (score=75.0)
+[20:49:47]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:49:50] 
+[68/200] GREENHOUSE | SpaceX — Backend Software Engineer, GNC (Starlink)  (score=75.0)
+[20:50:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:50:04] 
+[69/200] GREENHOUSE | SpaceX — Full Stack Software Engineer (Application Software (score=75.0)
+[20:50:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:50:20] 
+[70/200] GREENHOUSE | SpaceX — Full Stack Software Engineer (Build Reliability)  (score=75.0)
+[20:50:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:50:31] --- Progress: 70/200 | OK=70 FAIL=0 CODE=0 | 19.1min ---
+[20:50:34] 
+[71/200] GREENHOUSE | SpaceX — Full Stack Software Engineer (Components) (score=75.0)
+[20:50:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:50:49] 
+[72/200] GREENHOUSE | SpaceX — Full Stack Software Engineer, Constellation Tools  (score=75.0)
+[20:51:02]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:51:05] 
+[73/200] GREENHOUSE | SpaceX — Full Stack Software Engineer (Starlink) (score=75.0)
+[20:51:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:51:19] 
+[74/200] GREENHOUSE | SpaceX — Full Stack Software Engineer (Starlink Ground Netw (score=75.0)
+[20:51:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:51:34] 
+[75/200] GREENHOUSE | SpaceX — Full Stack Software Engineer (Starshield) (score=75.0)
+[20:51:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:51:49] 
+[76/200] GREENHOUSE | SpaceX — Full Stack Software Engineer - Top Secret Clearanc (score=75.0)
+[20:52:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:52:04] 
+[77/200] GREENHOUSE | SpaceX — IT Systems Engineer, DevOps (score=75.0)
+[20:52:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:52:20] 
+[78/200] GREENHOUSE | SpaceX — Kubernetes Platform Infrastructure Engineer (Starl (score=75.0)
+[20:52:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:52:51] 
+[79/200] GREENHOUSE | SpaceX — Lead Software Engineer, Full Stack - Top Secret Cl (score=75.0)
+[20:53:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:53:23] 
+[80/200] GREENHOUSE | SpaceX — Software Engineer, DevOps (Starlink) (score=75.0)
+[20:53:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:53:52] --- Progress: 80/200 | OK=80 FAIL=0 CODE=0 | 22.5min ---
+[20:53:55] 
+[81/200] GREENHOUSE | SpaceX — Sr. Full Stack Software Engineer (Starlink) (score=75.0)
+[20:54:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:54:09] 
+[82/200] GREENHOUSE | SpaceX — Sr. Software Engineer, DevOps (Starlink)    (score=75.0)
+[20:54:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:54:25] 
+[83/200] GREENHOUSE | Anduril — Embedded Software Engineer, Maritime (score=70.0)
+[20:54:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:54:41] 
+[84/200] GREENHOUSE | Anduril — Firmware Engineer, Embedded Systems (score=70.0)
+[20:54:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:54:57] 
+[85/200] GREENHOUSE | Anduril — Flight Software Engineer, Embedded C/C++, Air Domi (score=70.0)
+[20:55:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:55:14] 
+[86/200] GREENHOUSE | Anduril — Flight Software Engineer, Embedded C/C++, Air Domi (score=70.0)
+[20:55:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:55:34] 
+[87/200] GREENHOUSE | Anduril — Lead Embedded Software Engineer, EW (score=70.0)
+[20:56:02]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:56:05] 
+[88/200] GREENHOUSE | Anduril — Principal Instrumentation Range & Infrastructure E (score=70.0)
+[20:56:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:56:37] 
+[89/200] GREENHOUSE | Anduril — Senior DevOps Engineer (score=70.0)
+[20:57:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:57:09] 
+[90/200] GREENHOUSE | Anduril — Senior DevOps Engineer (score=70.0)
+[20:57:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:57:20] --- Progress: 90/200 | OK=90 FAIL=0 CODE=0 | 25.9min ---
+[20:57:23] 
+[91/200] GREENHOUSE | Anduril — Senior DevOps Engineer, Space (score=70.0)
+[20:57:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:57:38] 
+[92/200] GREENHOUSE | Anduril — Senior Mission Data Platform Engineer (score=70.0)
+[20:57:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:57:54] 
+[93/200] GREENHOUSE | Anduril — Software Engineer, Data Engineering (score=70.0)
+[20:58:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:58:08] 
+[94/200] GREENHOUSE | Anduril — Software Engineer, Embedded C/C++ Flight Software (score=70.0)
+[20:58:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:58:23] 
+[95/200] GREENHOUSE | Anduril — Software Engineer, Embedded C/C++ Flight Software (score=70.0)
+[20:58:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:58:38] 
+[96/200] GREENHOUSE | Anduril — Staff Instrumentation Range & Infrastructure Engin (score=70.0)
+[20:58:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:58:54] 
+[97/200] GREENHOUSE | Anduril — Tactical C2 Software Engineer, Cloud (score=70.0)
+[20:59:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:59:08] 
+[98/200] GREENHOUSE | Anduril — Test Automation Engineer  (score=70.0)
+[20:59:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:59:23] 
+[99/200] GREENHOUSE | SpaceX — Automation Engineer (Starlink Customer Success) (score=70.0)
+[20:59:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:59:37] 
+[100/200] GREENHOUSE | SpaceX — Automation Engineer (Starlink Customer Success)  (score=70.0)
+[20:59:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:59:50] --- Progress: 100/200 | OK=100 FAIL=0 CODE=0 | 28.4min ---
+[20:59:53] 
+[101/200] GREENHOUSE | SpaceX — Automation Engineer (Starlink Customer Success)   (score=70.0)
+[21:00:04]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:00:08] 
+[102/200] GREENHOUSE | SpaceX — Automation Engineer (Starlink Growth)  (score=70.0)
+[21:00:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:00:22] 
+[103/200] GREENHOUSE | SpaceX — Embedded Security Engineer (Starlink) (score=70.0)
+[21:00:33]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:00:36] 
+[104/200] GREENHOUSE | SpaceX — Embedded Security Engineer (Starlink) (score=70.0)
+[21:00:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:00:53] 
+[105/200] GREENHOUSE | SpaceX — Embedded Security Engineer (Starlink) (score=70.0)
+[21:01:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:01:08] 
+[106/200] GREENHOUSE | SpaceX — Embedded Software Engineer, OS/Platform  (Starlink (score=70.0)
+[21:01:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:01:24] 
+[107/200] GREENHOUSE | SpaceX — Embedded Software Engineer, Satellite Antenna (Sta (score=70.0)
+[21:01:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:01:39] 
+[108/200] GREENHOUSE | SpaceX — Embedded Software Engineer (Starlink) (score=70.0)
+[21:01:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:01:53] 
+[109/200] GREENHOUSE | SpaceX — Embedded Software Engineer (Starlink)  (score=70.0)
+[21:02:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:02:08] 
+[110/200] GREENHOUSE | SpaceX — Hardware Test Automation Engineer, Satellites (Sta (score=70.0)
+[21:02:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:02:21] --- Progress: 110/200 | OK=110 FAIL=0 CODE=0 | 30.9min ---
+[21:02:24] 
+[111/200] GREENHOUSE | SpaceX — IC Packaging Automation Engineer, Electrical (Star (score=70.0)
+[21:02:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:02:38] 
+[112/200] GREENHOUSE | SpaceX — IC Packaging Automation Engineer, Software (Starli (score=70.0)
+[21:02:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:02:52] 
+[113/200] GREENHOUSE | SpaceX — Industrial Automation Engineer (Starlink) (score=70.0)
+[21:03:04]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:03:07] 
+[114/200] GREENHOUSE | SpaceX — Manufacturing Automation Engineer, Solar - (Starli (score=70.0)
+[21:03:19]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:03:23] 
+[115/200] GREENHOUSE | SpaceX — Network Automation Engineer (Starshield) (score=70.0)
+[21:03:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:03:37] 
+[116/200] GREENHOUSE | SpaceX — Network Automation Engineer (Starshield) (score=70.0)
+[21:03:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:03:52] 
+[117/200] GREENHOUSE | SpaceX — Software Engineer, Embedded Software (Starlink) (score=70.0)
+[21:04:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:04:08] 
+[118/200] GREENHOUSE | SpaceX — Software Engineer, Embedded Software (Starshield) (score=70.0)
+[21:04:19]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:04:23] 
+[119/200] GREENHOUSE | SpaceX — Sr. Automation Engineer (Starlink Growth) (score=70.0)
+[21:04:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:04:37] 
+[120/200] GREENHOUSE | SpaceX — Sr. Embedded Security Engineer (Starlink) (score=70.0)
+[21:04:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:04:50] --- Progress: 120/200 | OK=120 FAIL=0 CODE=0 | 33.4min ---
+[21:04:53] 
+[121/200] GREENHOUSE | SpaceX — Sr. Embedded Security Engineer (Starlink)  (score=70.0)
+[21:05:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:05:09] 
+[122/200] GREENHOUSE | SpaceX — Sr. Embedded Software Engineer (Starlink)  (score=70.0)
+[21:05:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:05:25] 
+[123/200] GREENHOUSE | SpaceX — Sr. Embedded Software Engineer (Starlink)  (score=70.0)
+[21:05:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:05:39] 
+[124/200] GREENHOUSE | SpaceX — Sr. Industrial Automation Engineer (Starlink) (score=70.0)
+[21:05:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:05:54] 
+[125/200] GREENHOUSE | SpaceX — Sr. IT Network Automation Engineer (score=70.0)
+[21:06:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:06:09] 
+[126/200] GREENHOUSE | SpaceX — Sr. IT Network Automation Engineer (score=70.0)
+[21:06:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:06:24] 
+[127/200] GREENHOUSE | SpaceX — Sr. IT Network Automation Engineer (score=70.0)
+[21:06:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:06:38] 
+[128/200] GREENHOUSE | SpaceX — Sr. Tooling Design & Automation Engineer (Starlink (score=70.0)
+[21:06:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:06:53] 
+[129/200] GREENHOUSE | SpaceX — Test Automation Engineer, Satellites (Starlink) (score=70.0)
+[21:07:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:07:10] 
+[130/200] GREENHOUSE | SpaceX — Tooling Design & Automation Engineer (Starlink) (score=70.0)
+[21:07:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:07:21] --- Progress: 130/200 | OK=130 FAIL=0 CODE=0 | 35.9min ---
+[21:07:24] 
+[131/200] GREENHOUSE | SpaceX — Tooling Design & Automation Engineer (Starlink) (score=70.0)
+[21:07:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:07:39] 
+[132/200] GREENHOUSE | Reddit — Senior Android Engineer, Apps Platform (Performanc (score=65.0)
+[21:07:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:07:54] 
+[133/200] GREENHOUSE | Anduril — DevOps Engineer (score=65.0)
+[21:08:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:08:09] 
+[134/200] GREENHOUSE | Anduril — Engineering Lead, Multinational Digital Infrastruc (score=65.0)
+[21:08:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:08:24] 
+[135/200] GREENHOUSE | Anduril — Infrastructure Engineer, Intelligence Systems (score=65.0)
+[21:08:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:08:39] 
+[136/200] GREENHOUSE | Anduril — IT Infrastructure Materials Handler (score=65.0)
+[21:08:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:08:55] 
+[137/200] GREENHOUSE | Anduril — Principal Software Engineer, Mixed Reality (score=65.0)
+[21:09:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:09:10] 
+[138/200] GREENHOUSE | Anduril — Principal Software Engineer, Platform Security (score=65.0)
+[21:09:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:09:25] 
+[139/200] GREENHOUSE | Anduril — Propulsion Test Infrastructure Engineer (score=65.0)
+[21:09:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:09:40] 
+[140/200] GREENHOUSE | Anduril — Senior Cloud Deployment Engineer, Space  (score=65.0)
+[21:09:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:09:52] --- Progress: 140/200 | OK=140 FAIL=0 CODE=0 | 38.5min ---
+[21:09:55] 
+[141/200] GREENHOUSE | Anduril — Senior Data Engineer (score=65.0)
+[21:10:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:10:10] 
+[142/200] GREENHOUSE | Anduril — Senior Data Engineer, Air Dominance & Strike (score=65.0)
+[21:10:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:10:25] 
+[143/200] GREENHOUSE | Anduril — Senior Embedded Engineer, EW (score=65.0)
+[21:10:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:10:40] 
+[144/200] GREENHOUSE | Anduril — Senior Embedded NixOS Engineer (score=65.0)
+[21:10:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:10:55] 
+[145/200] GREENHOUSE | Anduril — Senior Embedded Security - C/C++, Air Dominance &  (score=65.0)
+[21:11:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:11:10] 
+[146/200] GREENHOUSE | Anduril — Senior Firmware Engineer (score=65.0)
+[21:11:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:11:24] 
+[147/200] GREENHOUSE | Anduril — Senior Firmware Engineer (score=65.0)
+[21:11:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:11:40] 
+[148/200] GREENHOUSE | Anduril — Senior Firmware Engineer (score=65.0)
+[21:11:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:11:54] 
+[149/200] GREENHOUSE | Anduril — Senior Firmware Engineer (score=65.0)
+[21:12:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:12:10] 
+[150/200] GREENHOUSE | Anduril — Senior Firmware Engineer (score=65.0)
+[21:12:23]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:12:23] --- Progress: 150/200 | OK=150 FAIL=0 CODE=0 | 41.0min ---
+[21:12:26] 
+[151/200] GREENHOUSE | Anduril — Senior Firmware Engineer (score=65.0)
+[21:12:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:12:40] 
+[152/200] GREENHOUSE | Anduril — Senior Firmware Engineer, Bare-Metal (score=65.0)
+[21:12:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:12:56] 
+[153/200] GREENHOUSE | Anduril — Senior Firmware Engineer, BMS (score=65.0)
+[21:13:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:13:11] 
+[154/200] GREENHOUSE | Anduril — Senior Firmware Engineer, Manufacturing Test (score=65.0)
+[21:13:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:13:27] 
+[155/200] GREENHOUSE | Anduril — Senior Firmware Engineer, Motor Controls (score=65.0)
+[21:13:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:13:42] 
+[156/200] GREENHOUSE | Anduril — Senior Firmware Engineer, RTOS (score=65.0)
+[21:13:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:13:58] 
+[157/200] GREENHOUSE | Anduril — Senior Firmware Engineer, Wireless  (score=65.0)
+[21:14:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:14:14] 
+[158/200] GREENHOUSE | Anduril — Senior Flight Software Engineer, Maritime (score=65.0)
+[21:14:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:14:29] 
+[159/200] GREENHOUSE | Anduril — Senior Ground Software Engineer, Space (score=65.0)
+[21:14:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:14:45] 
+[160/200] GREENHOUSE | Anduril — Senior Ground Software Engineer, Space (score=65.0)
+[21:14:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:14:57] --- Progress: 160/200 | OK=160 FAIL=0 CODE=0 | 43.5min ---
+[21:15:00] 
+[161/200] GREENHOUSE | Anduril — Senior IT Systems Engineer (score=65.0)
+[21:15:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:15:14] 
+[162/200] GREENHOUSE | Anduril — Senior Mission Software Engineer, EW (score=65.0)
+[21:15:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:15:30] 
+[163/200] GREENHOUSE | Anduril — Senior Mission Software Engineer, Surface Maritime (score=65.0)
+[21:15:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:15:45] 
+[164/200] GREENHOUSE | Anduril — Senior Mission Software Engineer, Systems (score=65.0)
+[21:15:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:16:00] 
+[165/200] GREENHOUSE | Anduril — Senior Mission Software Engineer, Vehicle Software (score=65.0)
+[21:16:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:16:14] 
+[166/200] GREENHOUSE | Anduril — Senior Mission Software Engineer, Vehicle Software (score=65.0)
+[21:16:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:16:28] 
+[167/200] GREENHOUSE | Anduril — Senior Mission Software Engineer, Vehicle Software (score=65.0)
+[21:16:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:16:44] 
+[168/200] GREENHOUSE | Anduril — Senior Mission Systems Engineer, Air Dominance & S (score=65.0)
+[21:16:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:16:59] 
+[169/200] GREENHOUSE | Anduril — Senior Mission Systems Software Engineer (score=65.0)
+[21:17:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:17:13] 
+[170/200] GREENHOUSE | Anduril — Senior Offensive Security Engineer (score=65.0)
+[21:17:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:17:25] --- Progress: 170/200 | OK=170 FAIL=0 CODE=0 | 46.0min ---
+[21:17:28] 
+[171/200] GREENHOUSE | Anduril — Senior Orbital Software Engineer, Space (score=65.0)
+[21:17:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:17:44] 
+[172/200] GREENHOUSE | Anduril — Senior Production Software Engineer (score=65.0)
+[21:17:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:18:00] 
+[173/200] GREENHOUSE | Anduril — Senior Product Security Engineer, Programs (score=65.0)
+[21:18:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:18:15] 
+[174/200] GREENHOUSE | Anduril — Senior Product Security Engineer, Programs (score=65.0)
+[21:18:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:18:31] 
+[175/200] GREENHOUSE | Anduril — Senior Product Security Engineer, Programs (score=65.0)
+[21:18:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:18:45] 
+[176/200] GREENHOUSE | Anduril — Senior Radar DSP Systems Engineer, EW (score=65.0)
+[21:18:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:19:00] 
+[177/200] GREENHOUSE | Anduril — Senior React Engineer, Maritime App  (score=65.0)
+[21:19:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:19:16] 
+[178/200] GREENHOUSE | Anduril — Senior Robotics Software Engineer (score=65.0)
+[21:19:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:19:30] 
+[179/200] GREENHOUSE | Anduril — Senior Robotics Software Engineer (score=65.0)
+[21:19:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:19:44] 
+[180/200] GREENHOUSE | Anduril — Senior Robotics Software Engineer  (score=65.0)
+[21:19:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:19:56] --- Progress: 180/200 | OK=180 FAIL=0 CODE=0 | 48.5min ---
+[21:19:59] 
+[181/200] GREENHOUSE | Anduril — Senior Robotics Software Engineer, Sentry Tower (score=65.0)
+[21:20:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:20:14] 
+[182/200] GREENHOUSE | Anduril — Senior Robotics Software Engineer, Vehicle Softwar (score=65.0)
+[21:20:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:20:29] 
+[183/200] GREENHOUSE | Anduril — Senior Security Engineer (score=65.0)
+[21:20:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:20:45] 
+[184/200] GREENHOUSE | Anduril — Senior Security Engineer (score=65.0)
+[21:20:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:21:00] 
+[185/200] GREENHOUSE | Anduril — Senior Security Engineer (score=65.0)
+[21:21:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:21:16] 
+[186/200] GREENHOUSE | Anduril — Senior Security Engineer (score=65.0)
+[21:21:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:21:31] 
+[187/200] GREENHOUSE | Anduril — Senior Security Engineer (score=65.0)
+[21:21:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:21:46] 
+[188/200] GREENHOUSE | Anduril — Senior Security Engineer  (score=65.0)
+[21:21:58]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:22:01] 
+[189/200] GREENHOUSE | Anduril — Senior Security Engineer, Manufacturing (score=65.0)
+[21:22:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:22:16] 
+[190/200] GREENHOUSE | Anduril — Senior Security Engineer, Manufacturing (score=65.0)
+[21:22:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:22:28] --- Progress: 190/200 | OK=190 FAIL=0 CODE=0 | 51.1min ---
+[21:22:31] 
+[191/200] GREENHOUSE | Anduril — Senior Security Engineer, Manufacturing (score=65.0)
+[21:22:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:22:46] 
+[192/200] GREENHOUSE | Anduril — Senior Security Engineer, Manufacturing (score=65.0)
+[21:22:58]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:23:01] 
+[193/200] GREENHOUSE | Anduril — Senior Software Engineer (score=65.0)
+[21:23:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:23:16] 
+[194/200] GREENHOUSE | Anduril — Senior Software Engineer (score=65.0)
+[21:23:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:23:31] 
+[195/200] GREENHOUSE | Anduril — Senior Software Engineer (score=65.0)
+[21:23:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:23:47] 
+[196/200] GREENHOUSE | Anduril — Senior Software Engineer (score=65.0)
+[21:23:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:24:02] 
+[197/200] GREENHOUSE | Anduril — Senior Software Engineer (score=65.0)
+[21:24:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:24:18] 
+[198/200] GREENHOUSE | Anduril — Senior Software Engineer (score=65.0)
+[21:24:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:24:33] 
+[199/200] GREENHOUSE | Anduril — Senior Software Engineer, Active Clearance, Air De (score=65.0)
+[21:24:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:24:49] 
+[200/200] GREENHOUSE | Anduril — Senior Software Engineer, Air Defense (score=65.0)
+[21:25:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[21:25:02] --- Progress: 200/200 | OK=200 FAIL=0 CODE=0 | 53.6min ---
+[21:25:02] 
+======================================================================
+[21:25:02] WRAITH APPLY SWARM DONE — 53.6min
+[21:25:02]   Success: 200
+[21:25:02]   Failed: 0
+[21:25:02]   Needs code: 0
+[21:25:02]   Rate: 3.7 apps/min
+[21:25:02] ======================================================================

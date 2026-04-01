@@ -1,0 +1,21 @@
+[16:09:13] ======================================================================
+[16:09:13] WRAITH CDP APPLY SWARM
+[16:09:13] ======================================================================
+[16:09:13]   lever: 1 jobs
+[16:09:13] Total: 1 jobs
+[16:09:13] Starting Wraith MCP client...
+[16:09:17] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[16:09:17] 
+[1/1] LEVER | veeva — Associate Lead - OpenData Clinical (Remote) (score=60.0)
+[16:09:18]   FAILED: Job no longer available
+[16:09:18] 
+======================================================================
+[16:09:18] WRAITH APPLY SWARM DONE — 0.0min
+[16:09:18]   Success: 0
+[16:09:18]   Failed: 1
+[16:09:18]   Needs code: 0
+[16:09:18]   Rate: 32.2 apps/min
+[16:09:18] ======================================================================

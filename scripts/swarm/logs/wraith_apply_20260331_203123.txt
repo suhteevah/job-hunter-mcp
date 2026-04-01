@@ -1,0 +1,73 @@
+[20:31:23] ======================================================================
+[20:31:23] WRAITH CDP APPLY SWARM
+[20:31:23] ======================================================================
+[20:31:23]   ashby: 16 jobs
+[20:31:23] Total: 16 jobs
+[20:31:23] Starting Wraith MCP client...
+[20:31:27] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[20:31:27] 
+[1/16] ASHBY | Cursor — Software Engineer, Client Infrastructure (score=76.0)
+[20:31:34]   FAILED: Submit button not found
+[20:31:37] 
+[2/16] ASHBY | Supabase — Platform Engineer: Kubernetes (score=68.0)
+[20:31:44]   FAILED: Submit button not found
+[20:31:47] 
+[3/16] ASHBY | Cursor — Software Engineer, Security (score=68.0)
+[20:31:53]   FAILED: Job no longer available
+[20:31:56] 
+[4/16] ASHBY | Cursor — Software Engineer, Bugbot (score=68.0)
+[20:32:04]   FAILED: Submit button not found
+[20:32:07] 
+[5/16] ASHBY | Cursor — Software Engineer, Enterprise Platform (score=68.0)
+[20:32:12]   FAILED: Job no longer available
+[20:32:15] 
+[6/16] ASHBY | Cursor — Software Engineer, Billing (score=68.0)
+[20:32:20]   FAILED: Job no longer available
+[20:32:23] 
+[7/16] ASHBY | Cursor — Technical Support Engineer (score=60.0)
+[20:32:29]   FAILED: Job no longer available
+[20:32:32] 
+[8/16] ASHBY | Cursor — Technical Support Engineering Manager (score=60.0)
+[20:32:37]   FAILED: Job no longer available
+[20:32:40] 
+[9/16] ASHBY | Cursor — Campus Lead (score=60.0)
+[20:32:45]   FAILED: Job no longer available
+[20:32:49] 
+[10/16] ASHBY | Cursor — Forward Deployed Engineer (score=60.0)
+[20:32:54]   FAILED: Job no longer available
+[20:32:54] --- Progress: 10/16 | OK=0 FAIL=10 CODE=0 | 1.5min ---
+[20:32:57] 
+[11/16] ASHBY | ramp — Software Engineer, Frontend (score=60.0)
+[20:33:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:33:17] 
+[12/16] ASHBY | ramp — Software Engineer, Travel, Juno (score=60.0)
+[20:33:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:33:36] 
+[13/16] ASHBY | ramp — Solutions Consultant | Public Sector (score=60.0)
+[20:33:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:33:56] 
+[14/16] ASHBY | notion — Software Engineer, Developer Experience (score=60.0)
+[20:34:10]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:34:13] 
+[15/16] ASHBY | notion — Software Engineer, Product Security (score=60.0)
+[20:34:29]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:34:32] 
+[16/16] ASHBY | Snowflake — Account Executive - Expansion (score=60.0)
+[20:34:49]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[20:34:49] 
+======================================================================
+[20:34:49] WRAITH APPLY SWARM DONE — 3.4min
+[20:34:49]   Success: 6
+[20:34:49]   Failed: 10
+[20:34:49]   Needs code: 0
+[20:34:49]   Rate: 4.7 apps/min
+[20:34:49] ======================================================================

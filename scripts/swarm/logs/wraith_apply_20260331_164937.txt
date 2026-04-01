@@ -1,0 +1,221 @@
+[16:49:37] ======================================================================
+[16:49:37] WRAITH CDP APPLY SWARM
+[16:49:37] ======================================================================
+[16:49:37]   greenhouse: 50 jobs
+[16:49:37] Total: 50 jobs
+[16:49:37] Starting Wraith MCP client...
+[16:49:41] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[16:49:41] 
+[1/50] GREENHOUSE | Samsara — Senior Machine Learning Engineer (score=95.0)
+[16:49:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7412596
+[16:49:55]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:49:58] 
+[2/50] GREENHOUSE | Samsara — Senior Machine Learning Engineer (score=95.0)
+[16:49:58]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7266471
+[16:50:11]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:50:14] 
+[3/50] GREENHOUSE | Samsara — Senior Machine Learning Engineer (score=95.0)
+[16:50:14]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7315656
+[16:50:26]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:50:29] 
+[4/50] GREENHOUSE | Samsara — Senior Machine Learning Engineer (score=95.0)
+[16:50:29]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7266367
+[16:50:41]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:50:44] 
+[5/50] GREENHOUSE | Samsara — Staff Machine Learning Engineer (score=95.0)
+[16:50:44]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7266357
+[16:50:56]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:50:59] 
+[6/50] GREENHOUSE | Instacart — Senior Machine Learning Engineer II, Growth Modeli (score=95.0)
+[16:50:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7566001
+[16:51:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:51:15] 
+[7/50] GREENHOUSE | Instacart — Senior Machine Learning Engineer II, Search & Reco (score=95.0)
+[16:51:15]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7565508
+[16:51:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:51:30] 
+[8/50] GREENHOUSE | airbnb — Senior Staff Machine Learning Engineer, Data & Eva (score=90.0)
+[16:51:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6757302
+[16:51:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:51:45] 
+[9/50] GREENHOUSE | instacart — Machine Learning Engineer II, Economics (score=90.0)
+[16:51:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7565189
+[16:51:52]   FAILED: Submit button not found
+[16:51:55] 
+[10/50] GREENHOUSE | stripe — Machine Learning Engineer, Stripe Assistant  (score=90.0)
+[16:51:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7629052
+[16:52:07]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:52:07] --- Progress: 10/50 | OK=9 FAIL=1 CODE=0 | 2.4min ---
+[16:52:10] 
+[11/50] GREENHOUSE | Pinterest — Machine Learning Engineer, Core Engineering (score=90.0)
+[16:52:10]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6121450
+[16:52:23]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:52:26] 
+[12/50] GREENHOUSE | Pinterest — Principal Machine Learning Engineer, Growth (score=90.0)
+[16:52:26]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7488434
+[16:52:38]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:52:41] 
+[13/50] GREENHOUSE | Pinterest — Sr. Machine Learning Engineer, tvScientific (score=90.0)
+[16:52:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7642268
+[16:52:53]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:52:56] 
+[14/50] GREENHOUSE | databricks — Staff Machine Learning Engineer  (score=85.0)
+[16:52:56]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8401114002
+[16:53:08]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:53:12] 
+[15/50] GREENHOUSE | Pinterest — Staff Machine Learning Engineer, Ads Late Funnel (score=85.0)
+[16:53:12]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7679644
+[16:53:19]   FAILED: Submit button not found
+[16:53:22] 
+[16/50] GREENHOUSE | Pinterest — Staff Machine Learning Engineer, Monetization (score=85.0)
+[16:53:22]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6133257
+[16:53:33]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:53:36] 
+[17/50] GREENHOUSE | Airbnb — Junior/Senior/Staff Machine Learning Engineer, Com (score=85.0)
+[16:53:36]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7693033
+[16:53:48]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:53:51] 
+[18/50] GREENHOUSE | Lyft — Senior Machine Learning Engineer, Mapping  (score=85.0)
+[16:53:51]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8284511002
+[16:53:58]   FAILED: Submit button not found
+[16:54:01] 
+[19/50] GREENHOUSE | coinbase — Senior Staff Software Engineer - Financial Hub (score=80.0)
+[16:54:01]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7587071
+[16:54:08]   FAILED: Submit button not found
+[16:54:11] 
+[20/50] GREENHOUSE | coinbase — Senior Staff Software Engineer, Solana Staking Pro (score=80.0)
+[16:54:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7684298
+[16:54:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:54:22] --- Progress: 20/50 | OK=16 FAIL=4 CODE=0 | 4.7min ---
+[16:54:25] 
+[21/50] GREENHOUSE | databricks — Sr. Machine Learning Engineer  (score=80.0)
+[16:54:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7276195002
+[16:54:36]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:54:40] 
+[22/50] GREENHOUSE | Stripe — Machine Learning Engineer, Payments ML Accelerator (score=80.0)
+[16:54:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7079044
+[16:54:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:54:55] 
+[23/50] GREENHOUSE | Pinterest — Machine Learning Engineer II (score=80.0)
+[16:54:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7473497
+[16:55:07]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:55:10] 
+[24/50] GREENHOUSE | Pinterest — Machine Learning Engineer II (score=80.0)
+[16:55:10]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7681666
+[16:55:22]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:55:25] 
+[25/50] GREENHOUSE | Pinterest — Machine Learning Engineer, Monetization Engineerin (score=80.0)
+[16:55:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6121543
+[16:55:37]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:55:40] 
+[26/50] GREENHOUSE | Pinterest — Principal Machine Learning Engineer, Ads Delivery (score=80.0)
+[16:55:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6963868
+[16:55:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:55:55] 
+[27/50] GREENHOUSE | Pinterest — Sr. Machine Learning Engineer, Core Engineering  (score=80.0)
+[16:55:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6121464
+[16:56:08]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:56:11] 
+[28/50] GREENHOUSE | Pinterest — Sr. Machine Learning Engineer, Monetization Engine (score=80.0)
+[16:56:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6121551
+[16:56:22]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:56:25] 
+[29/50] GREENHOUSE | Fivetran — Senior Staff Software Engineer - Data Lakes (score=80.0)
+[16:56:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7565761003
+[16:56:33]   FAILED: Submit button not found
+[16:56:36] 
+[30/50] GREENHOUSE | Fivetran — Senior Staff Software Engineer - Distributed Syste (score=80.0)
+[16:56:36]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7608300003
+[16:56:42]   FAILED: Submit button not found
+[16:56:42] --- Progress: 30/50 | OK=24 FAIL=6 CODE=0 | 7.0min ---
+[16:56:45] 
+[31/50] GREENHOUSE | Stripe — PhD Machine Learning Engineer, New Grad (score=80.0)
+[16:56:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7216668
+[16:56:56]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:56:59] 
+[32/50] GREENHOUSE | Epic Games — Machine Learning Engineer (score=80.0)
+[16:56:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5528619004
+[16:57:05]   FAILED: Submit button not found
+[16:57:08] 
+[33/50] GREENHOUSE | Riot Games — Principal Machine Learning Engineer - League of Le (score=80.0)
+[16:57:08]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7702437
+[16:57:19]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:57:22] 
+[34/50] GREENHOUSE | Riot Games — Principal Machine Learning Engineer, ML Bots - Gam (score=80.0)
+[16:57:22]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7177099
+[16:57:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:57:41] 
+[35/50] GREENHOUSE | Lyft — Machine Learning Engineer, Recommendations (score=80.0)
+[16:57:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8378390002
+[16:57:57]   FAILED: Submit button not found
+[16:58:00] 
+[36/50] GREENHOUSE | Riot Games — Machine Learning Engineer II - Unpublished R&D Pro (score=80.0)
+[16:58:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7733820
+[16:58:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:58:16] 
+[37/50] GREENHOUSE | Riot Games — Principal Machine Learning Engineer - Unpublished  (score=80.0)
+[16:58:16]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7733809
+[16:58:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:58:30] 
+[38/50] GREENHOUSE | airbnb — Senior Android Software Engineer (score=75.0)
+[16:58:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6602436
+[16:58:41]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:58:44] 
+[39/50] GREENHOUSE | gusto — Staff Mobile Software Engineer, iOS (score=75.0)
+[16:58:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:59:00] 
+[40/50] GREENHOUSE | Okta — Principal Software Engineer, Architect - Java Back (score=75.0)
+[16:59:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7600755
+[16:59:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:59:11] --- Progress: 40/50 | OK=32 FAIL=8 CODE=0 | 9.5min ---
+[16:59:14] 
+[41/50] GREENHOUSE | airbnb — Senior Staff Data Engineer, Marketplaces DNA (score=70.0)
+[16:59:14]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7463663
+[16:59:26]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:59:30] 
+[42/50] GREENHOUSE | databricks — Senior Staff Software Engineer - Enzyme (score=70.0)
+[16:59:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7934466002
+[16:59:43]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:59:47] 
+[43/50] GREENHOUSE | databricks — Senior Staff Software Engineer - IAM (score=70.0)
+[16:59:47]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7274563002
+[16:59:59]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:00:02] 
+[44/50] GREENHOUSE | datadog — Senior Staff Software Engineer  (score=70.0)
+[17:00:02]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5608424
+[17:00:20]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:00:23] 
+[45/50] GREENHOUSE | Elastic — Principal Software Engineer I - Distributed System (score=70.0)
+[17:00:23]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7366822
+[17:00:35]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:00:39] 
+[46/50] GREENHOUSE | Elastic — Principal Software Engineer II - Distributed Syste (score=70.0)
+[17:00:39]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7360686
+[17:00:51]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:00:54] 
+[47/50] GREENHOUSE | Pinterest — Manager II, Machine Learning Engineering, Core Eng (score=70.0)
+[17:00:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7075176
+[17:01:07]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:01:10] 
+[48/50] GREENHOUSE | Pinterest — Sr. Software Engineer, iOS (score=70.0)
+[17:01:10]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6705763
+[17:01:16]   FAILED: Submit button not found
+[17:01:19] 
+[49/50] GREENHOUSE | Coursera — Senior Staff Software Engineer - Learning Content  (score=70.0)
+[17:01:26]   FAILED: Submit button not found
+[17:01:30] 
+[50/50] GREENHOUSE | Fivetran — Senior Staff Software Engineer - Binary Log Data R (score=70.0)
+[17:01:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7483663003
+[17:01:41]   >>> SUCCESS: Wraith verified: likely success <<<
+[17:01:41] --- Progress: 50/50 | OK=40 FAIL=10 CODE=0 | 12.0min ---
+[17:01:41] 
+======================================================================
+[17:01:41] WRAITH APPLY SWARM DONE — 12.0min
+[17:01:41]   Success: 40
+[17:01:41]   Failed: 10
+[17:01:41]   Needs code: 0
+[17:01:41]   Rate: 4.2 apps/min
+[17:01:41] ======================================================================

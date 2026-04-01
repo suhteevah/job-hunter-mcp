@@ -1,0 +1,223 @@
+[16:49:36] ======================================================================
+[16:49:36] WRAITH CDP APPLY SWARM
+[16:49:36] ======================================================================
+[16:49:36]   ashby: 50 jobs
+[16:49:36] Total: 50 jobs
+[16:49:36] Starting Wraith MCP client...
+[16:49:40] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[16:49:40] 
+[1/50] ASHBY | ramp — Applied AI Engineer (score=100.0)
+[16:50:00]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:50:03] 
+[2/50] ASHBY | notion — Staff Software Engineer, AI Agentic Search (score=100.0)
+[16:50:19]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:50:22] 
+[3/50] ASHBY | twenty — Applied AI Engineer (score=100.0)
+[16:50:37]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:50:40] 
+[4/50] ASHBY | Drata — Senior Applied AI Engineer (score=100.0)
+[16:50:55]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:50:58] 
+[5/50] ASHBY | Snowflake — Applied AI Engineer (score=100.0)
+[16:51:16]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:51:19] 
+[6/50] ASHBY | Deel — AI/ML Engineer, Python (score=100.0)
+[16:51:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:51:38] 
+[7/50] ASHBY | Drata — Senior AI Engineer (score=95.0)
+[16:51:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:51:56] 
+[8/50] ASHBY | Snowflake — Senior AI/ML Architect, Applied Field Engineering (score=95.0)
+[16:52:12]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:52:15] 
+[9/50] ASHBY | Snowflake — Senior AI/ML Flex Solution Engineer (score=95.0)
+[16:52:31]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:52:34] 
+[10/50] ASHBY | Writer — Software engineer, generative AI (score=90.0)
+[16:52:49]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:52:50] --- Progress: 10/50 | OK=10 FAIL=0 CODE=0 | 3.2min ---
+[16:52:53] 
+[11/50] ASHBY | Writer — Software engineer, generative AI (UK) (score=90.0)
+[16:53:07]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:53:11] 
+[12/50] ASHBY | Writer — Staff software engineer, enterprise AI platform (score=90.0)
+[16:53:27]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:53:30] 
+[13/50] ASHBY | Vanta — Backend Senior Software Engineer, Identity (score=90.0)
+[16:53:45]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:53:48] 
+[14/50] ASHBY | Vanta — Backend Senior Software Engineer, Identity (score=90.0)
+[16:54:03]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:54:06] 
+[15/50] ASHBY | Vanta — Backend Senior Software Engineer, Monetization Pla (score=90.0)
+[16:54:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:54:24] 
+[16/50] ASHBY | Vanta — Backend Senior Software Engineer, Monetization Pla (score=90.0)
+[16:54:40]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:54:43] 
+[17/50] ASHBY | Vanta — Senior Backend Software Engineer, GRC (score=90.0)
+[16:54:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:55:01] 
+[18/50] ASHBY | Vanta — Senior Software Engineer, Infrastructure and Secur (score=90.0)
+[16:55:17]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:55:20] 
+[19/50] ASHBY | Vanta — Senior Software Engineer, Infrastructure and Secur (score=90.0)
+[16:55:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:55:38] 
+[20/50] ASHBY | Snowflake — Principal AI/ML Flex Solution Engineer (score=90.0)
+[16:55:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:55:55] --- Progress: 20/50 | OK=20 FAIL=0 CODE=0 | 6.3min ---
+[16:55:58] 
+[21/50] ASHBY | ramp — Agentic Operator, Growth Marketing (score=85.0)
+[16:56:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:56:17] 
+[22/50] ASHBY | Snowflake — Senior AI/ML Architect, Applied Field Engineering (score=85.0)
+[16:56:32]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:56:35] 
+[23/50] ASHBY | Snowflake — Senior AI/ML Architect, Applied Field Engineering/ (score=85.0)
+[16:56:50]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:56:53] 
+[24/50] ASHBY | Snowflake — Senior AI/ML Architect, Applied Field Engineering/ (score=85.0)
+[16:57:11]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:57:14] 
+[25/50] ASHBY | Snowflake — Staff AI Engineer - Cortex Code Quality (score=85.0)
+[16:57:29]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:57:32] 
+[26/50] ASHBY | Snowflake — Staff AI Engineer - Snowflake Intelligence (score=85.0)
+[16:58:09]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:58:12] 
+[27/50] ASHBY | Plaid — Senior Machine Learning Engineer - Fraud (Research (score=85.0)
+[16:58:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:58:31] 
+[28/50] ASHBY | Plaid — Senior Machine Learning Engineer - Payments (score=85.0)
+[16:58:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:58:51] 
+[29/50] ASHBY | Writer — AI engineer  (score=80.0)
+[16:59:06]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:59:09] 
+[30/50] ASHBY | Writer — AI engineer (UK)  (score=80.0)
+[16:59:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:59:24] --- Progress: 30/50 | OK=30 FAIL=0 CODE=0 | 9.7min ---
+[16:59:27] 
+[31/50] ASHBY | Snowflake — AI Engineer - Cortex Code Quality (score=80.0)
+[16:59:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:59:51] 
+[32/50] ASHBY | Snowflake — Principal Machine Learning Engineer- Search Qualit (score=80.0)
+[17:00:06]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:00:09] 
+[33/50] ASHBY | Snowflake — Staff Software Engineer - Core Data and Transactio (score=80.0)
+[17:00:26]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:00:30] 
+[34/50] ASHBY | Plaid — Senior Software Engineer - Backend (score=80.0)
+[17:00:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:00:46] 
+[35/50] ASHBY | Plaid — Senior Software Engineer - Backend (score=80.0)
+[17:01:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:01:05] 
+[36/50] ASHBY | Plaid — Senior Software Engineer - Backend (score=80.0)
+[17:01:19]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:01:22] 
+[37/50] ASHBY | Plaid — Senior Software Engineer - Data Infrastructure (score=80.0)
+[17:01:38]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:01:41] 
+[38/50] ASHBY | Plaid — Senior Software Engineer - ML Infrastructure (score=80.0)
+[17:01:56]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:02:00] 
+[39/50] ASHBY | Docker — Senior Principal Software Engineer, Infrastructure (score=80.0)
+[17:02:17]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:02:20] 
+[40/50] ASHBY | Docker — Senior Software Engineer, Backend Systems (US East (score=80.0)
+[17:02:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:02:35] --- Progress: 40/50 | OK=40 FAIL=0 CODE=0 | 12.9min ---
+[17:02:38] 
+[41/50] ASHBY | Docker — Staff Software Engineer, Backend Systems (US East  (score=80.0)
+[17:02:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:02:56] 
+[42/50] ASHBY | Docker — Staff Software Engineer, Data Infrastructure  (score=80.0)
+[17:03:16]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:03:19] 
+[43/50] ASHBY | ramp — Software Engineer, FedRAMP Infrastructure (score=75.0)
+[17:03:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:03:46] 
+[44/50] ASHBY | ramp — Software Engineer, Infrastructure (score=75.0)
+[17:04:18]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:04:21] 
+[45/50] ASHBY | notion — Software Engineer, Cloud Infrastructure (score=75.0)
+[17:04:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:04:56] 
+[46/50] ASHBY | notion — Software Engineer, Data Infrastructure (score=75.0)
+[17:05:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:05:31] 
+[47/50] ASHBY | notion — Software Engineer, Product Infrastructure (score=75.0)
+[17:05:46]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:05:49] 
+[48/50] ASHBY | infisical — Full Stack Engineer (Global) (score=75.0)
+[17:06:06]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:06:09] 
+[49/50] ASHBY | modal — Member of Technical Staff - Python SDK (score=75.0)
+[17:06:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:06:27] 
+[50/50] ASHBY | PostHog — Backend Engineer — Billing (score=75.0)
+[17:06:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[17:06:42] --- Progress: 50/50 | OK=50 FAIL=0 CODE=0 | 17.0min ---
+[17:06:42] 
+======================================================================
+[17:06:42] WRAITH APPLY SWARM DONE — 17.0min
+[17:06:42]   Success: 50
+[17:06:42]   Failed: 0
+[17:06:42]   Needs code: 0
+[17:06:42]   Rate: 2.9 apps/min
+[17:06:42] ======================================================================

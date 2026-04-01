@@ -1,0 +1,36 @@
+[20:31:24] ======================================================================
+[20:31:24] WRAITH CDP APPLY SWARM
+[20:31:24] ======================================================================
+[20:31:24]   lever: 6 jobs
+[20:31:24] Total: 6 jobs
+[20:31:24] Starting Wraith MCP client...
+[20:31:28] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[20:31:28] 
+[1/6] LEVER | veeva — Associate Lead - OpenData Clinical (Remote) (score=60.0)
+[20:31:29]   FAILED: Job no longer available
+[20:31:32] 
+[2/6] LEVER | shieldai — Senior Staff PLM Solutions Architect (score=60.0)
+[20:31:34]   FAILED: Job no longer available
+[20:31:37] 
+[3/6] LEVER | metabase — Technical Writer - Data Analytics (score=60.0)
+[20:31:42]   FAILED: Job no longer available
+[20:31:45] 
+[4/6] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[20:31:48]   FAILED: Job no longer available
+[20:31:51] 
+[5/6] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[20:31:55]   FAILED: Job no longer available
+[20:31:58] 
+[6/6] LEVER | palantir — Forward Deployed Software Engineer, New Grad - Com (score=60.0)
+[20:32:01]   FAILED: Job no longer available
+[20:32:01] 
+======================================================================
+[20:32:01] WRAITH APPLY SWARM DONE — 0.5min
+[20:32:01]   Success: 0
+[20:32:01]   Failed: 6
+[20:32:01]   Needs code: 0
+[20:32:01]   Rate: 10.8 apps/min
+[20:32:01] ======================================================================

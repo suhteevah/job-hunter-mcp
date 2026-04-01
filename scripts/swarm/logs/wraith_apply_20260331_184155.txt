@@ -1,0 +1,418 @@
+[18:41:55] ======================================================================
+[18:41:55] WRAITH CDP APPLY SWARM
+[18:41:55] ======================================================================
+[18:41:56]   ashby: 98 jobs
+[18:41:56] Total: 98 jobs
+[18:41:56] Starting Wraith MCP client...
+[18:41:59] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[18:41:59] 
+[1/98] ASHBY | PostHog — Security Engineer (score=60.0)
+[18:42:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:42:18] 
+[2/98] ASHBY | PostHog — Technical Ex-Founder (score=60.0)
+[18:42:34]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:42:38] 
+[3/98] ASHBY | Vanta — Account Executive, Commercial - West (score=60.0)
+[18:42:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:42:58] 
+[4/98] ASHBY | Vanta — Account Executive, Early Stage (score=60.0)
+[18:43:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:43:17] 
+[5/98] ASHBY | Vanta — Account Executive, SLED Government (score=60.0)
+[18:43:36]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:43:39] 
+[6/98] ASHBY | Vanta — Assistant General Counsel, Public Sector and Enter (score=60.0)
+[18:43:55]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:43:58] 
+[7/98] ASHBY | Vanta — Benefits Specialist (score=60.0)
+[18:44:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:44:17] 
+[8/98] ASHBY | Vanta — Field Chief Information Security Officer (Field CI (score=60.0)
+[18:44:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:44:37] 
+[9/98] ASHBY | Vanta — Field Marketing Coordinator (score=60.0)
+[18:44:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:44:56] 
+[10/98] ASHBY | Vanta — GRC AI Subject Matter Expert, Product (score=60.0)
+[18:45:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:45:13] --- Progress: 10/98 | OK=10 FAIL=0 CODE=0 | 3.2min ---
+[18:45:16] 
+[11/98] ASHBY | Vanta — Head of Data & Analytics (score=60.0)
+[18:45:32]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:45:35] 
+[12/98] ASHBY | Vanta — Head of Data Platform (score=60.0)
+[18:45:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:45:55] 
+[13/98] ASHBY | Vanta — Head of EPD Systems and AI Transformation (score=60.0)
+[18:46:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:46:16] 
+[14/98] ASHBY | Vanta — Leadership Recruiter (score=60.0)
+[18:46:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:46:36] 
+[15/98] ASHBY | Vanta — Lead People Business Partner, Security (score=60.0)
+[18:46:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:46:57] 
+[16/98] ASHBY | Vanta — Motion Design Lead  (score=60.0)
+[18:47:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:47:16] 
+[17/98] ASHBY | Vanta — Product GRC SME (score=60.0)
+[18:47:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:47:46] 
+[18/98] ASHBY | Vanta — Solutions Engineer, Commercial (score=60.0)
+[18:48:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:48:06] 
+[19/98] ASHBY | Vanta — Solutions Engineer, Early Stage (score=60.0)
+[18:48:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:48:24] 
+[20/98] ASHBY | Vanta — Sr. Systems Engineer, AI Solutions (score=60.0)
+[18:48:41]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:48:41] --- Progress: 20/98 | OK=20 FAIL=0 CODE=0 | 6.7min ---
+[18:48:44] 
+[21/98] ASHBY | Vanta — Strategic Solutions Engineer (score=60.0)
+[18:49:00]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:49:03] 
+[22/98] ASHBY | Drata — Solutions Engineer, Commercial - East (score=60.0)
+[18:49:19]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:49:22] 
+[23/98] ASHBY | Drata — VP, Revenue Operations (score=60.0)
+[18:49:38]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:49:41] 
+[24/98] ASHBY | Snowflake — Account Executive (Acquisition) (score=60.0)
+[18:49:57]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:50:00] 
+[25/98] ASHBY | Snowflake — Account Executive, Enterprise (score=60.0)
+[18:50:18]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:50:21] 
+[26/98] ASHBY | Snowflake — Account Executive, Enterprise Acquisition (score=60.0)
+[18:50:39]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:50:42] 
+[27/98] ASHBY | Snowflake — Account Executive - Expansion (score=60.0)
+[18:51:18]   FAILED: Submit button not found
+[18:51:21] 
+[28/98] ASHBY | Snowflake — Account Executive, Latin America  (score=60.0)
+[18:51:38]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:51:41] 
+[29/98] ASHBY | Snowflake — Account Executive, Majors, Financial Services  (score=60.0)
+[18:51:57]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:52:00] 
+[30/98] ASHBY | Snowflake — Account Executive, Retail (score=60.0)
+[18:52:17]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:52:17] --- Progress: 30/98 | OK=29 FAIL=1 CODE=0 | 10.3min ---
+[18:52:20] 
+[31/98] ASHBY | Snowflake — Account Executive - Saudi (Arabic speaker) (score=60.0)
+[18:52:36]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:52:40] 
+[32/98] ASHBY | Snowflake — AI Solution Specialist (score=60.0)
+[18:52:56]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:52:59] 
+[33/98] ASHBY | Snowflake — AI Specialist (score=60.0)
+[18:53:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:53:18] 
+[34/98] ASHBY | Snowflake — Applied AI Technical Enablement Intern - Summer 20 (score=60.0)
+[18:53:33]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[18:53:36] 
+[35/98] ASHBY | Snowflake — Commercial Account Executive - Acquisition  (score=60.0)
+[18:53:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:53:55] 
+[36/98] ASHBY | Snowflake — Enterprise Account Executive (score=60.0)
+[18:54:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:54:15] 
+[37/98] ASHBY | Snowflake — Enterprise Account Executive (score=60.0)
+[18:54:32]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:54:35] 
+[38/98] ASHBY | Snowflake — Enterprise Account Executive - GCC (RCG) (score=60.0)
+[18:54:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:54:56] 
+[39/98] ASHBY | Snowflake — Forward Deployment Software Engineer  (score=60.0)
+[18:55:27]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:55:30] 
+[40/98] ASHBY | Snowflake — Industry Architect, Life Sciences (score=60.0)
+[18:55:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:55:47] --- Progress: 40/98 | OK=39 FAIL=1 CODE=0 | 13.8min ---
+[18:55:50] 
+[41/98] ASHBY | Snowflake — Industry Lead, Hospitality, Americas (score=60.0)
+[18:56:07]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:56:10] 
+[42/98] ASHBY | Snowflake — Principal AL/ML Solution Engineer (score=60.0)
+[18:56:26]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:56:29] 
+[43/98] ASHBY | Snowflake — Principal Data Cloud Architect - SI Partners (score=60.0)
+[18:56:45]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:56:48] 
+[44/98] ASHBY | Snowflake — Principal Software Engineer II, Horizon Catalog (score=60.0)
+[18:57:04]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:57:07] 
+[45/98] ASHBY | Snowflake — Principal Software Engineer II - Metadata (score=60.0)
+[18:57:23]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:57:26] 
+[46/98] ASHBY | Snowflake — Principal Software Engineer II - Next-Gen Data Tra (score=60.0)
+[18:57:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:57:45] 
+[47/98] ASHBY | Snowflake — Principal Software Engineer II - Product Security (score=60.0)
+[18:58:01]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:58:04] 
+[48/98] ASHBY | Snowflake — Principal Software Engineer I - Metadata (score=60.0)
+[18:58:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:58:23] 
+[49/98] ASHBY | Snowflake — Principal Software Engineer I - Snowhouse Foundati (score=60.0)
+[18:58:39]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:58:43] 
+[50/98] ASHBY | Snowflake — Principal Software Engineer - Metadata (score=60.0)
+[18:58:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:58:58] --- Progress: 50/98 | OK=49 FAIL=1 CODE=0 | 17.0min ---
+[18:59:01] 
+[51/98] ASHBY | Snowflake — Principal Software Engineer - PostgreSQL (score=60.0)
+[18:59:18]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:59:21] 
+[52/98] ASHBY | Snowflake — Principal Software Engineer - Snowflake Intelligen (score=60.0)
+[18:59:37]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:59:40] 
+[53/98] ASHBY | Snowflake — Principal Solution Engineer (score=60.0)
+[18:59:56]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[18:59:59] 
+[54/98] ASHBY | Snowflake — Snowflake Data Engineer (score=60.0)
+[19:00:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:00:19] 
+[55/98] ASHBY | Snowflake — Software Engineer (score=60.0)
+[19:00:34]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:00:37] 
+[56/98] ASHBY | Snowflake — Software Engineer - APG (score=60.0)
+[19:00:52]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:00:55] 
+[57/98] ASHBY | Snowflake — Software Engineer - Database Engineering (score=60.0)
+[19:01:12]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:01:15] 
+[58/98] ASHBY | Snowflake — Software Engineer, Database Platform Security (score=60.0)
+[19:01:30]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:01:33] 
+[59/98] ASHBY | Snowflake — Software Engineer - Ecosystem team (score=60.0)
+[19:01:49]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:01:52] 
+[60/98] ASHBY | Snowflake — Software Engineer - Frontend (score=60.0)
+[19:02:08]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:02:08] --- Progress: 60/98 | OK=59 FAIL=1 CODE=0 | 20.1min ---
+[19:02:11] 
+[61/98] ASHBY | Snowflake — Software Engineer – Frontend / Fullstack (Data Gov (score=60.0)
+[19:02:27]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:02:30] 
+[62/98] ASHBY | Snowflake — Software Engineer - Production Engineering  (score=60.0)
+[19:02:45]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:02:48] 
+[63/98] ASHBY | Snowflake — Software Engineer - SnowConvert AI (score=60.0)
+[19:03:04]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:03:08] 
+[64/98] ASHBY | Snowflake — Solution Architect (score=60.0)
+[19:03:23]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:03:26] 
+[65/98] ASHBY | Snowflake — Solution Engineer (score=60.0)
+[19:03:48]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:03:51] 
+[66/98] ASHBY | Snowflake — Solution Engineer (score=60.0)
+[19:04:07]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:04:10] 
+[67/98] ASHBY | Snowflake — Solution Engineer - Applied Field Engineering (score=60.0)
+[19:04:25]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[19:04:28] 
+[68/98] ASHBY | Snowflake — Solution Engineer - Data Cloud Architect  - Apps (score=60.0)
+[19:04:48]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:04:51] 
+[69/98] ASHBY | Snowflake — Solutions Architect (score=60.0)
+[19:05:07]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:05:10] 
+[70/98] ASHBY | Snowflake — Solutions Architect (score=60.0)
+[19:05:25]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:05:26] --- Progress: 70/98 | OK=69 FAIL=1 CODE=0 | 23.4min ---
+[19:05:29] 
+[71/98] ASHBY | Snowflake — Solutions Architect (score=60.0)
+[19:05:44]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:05:47] 
+[72/98] ASHBY | Snowflake — Solutions Architect (EMEA North) (score=60.0)
+[19:06:03]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:06:06] 
+[73/98] ASHBY | Snowflake — Solutions Architect - Migrations (score=60.0)
+[19:06:22]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:06:25] 
+[74/98] ASHBY | Snowflake — Solutions Consultant (score=60.0)
+[19:06:41]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:06:44] 
+[75/98] ASHBY | Snowflake — Solutions Consultant (score=60.0)
+[19:06:59]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:07:03] 
+[76/98] ASHBY | Snowflake — Solutions Engineer (score=60.0)
+[19:07:18]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:07:21] 
+[77/98] ASHBY | Snowflake — Solutions Engineer (score=60.0)
+[19:07:36]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:07:39] 
+[78/98] ASHBY | Snowflake — Solutions Engineer (score=60.0)
+[19:07:55]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:07:58] 
+[79/98] ASHBY | Snowflake — Sr. Manager, Global Fulfillment Solutions (score=60.0)
+[19:08:14]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:08:17] 
+[80/98] ASHBY | Snowflake — Sr. RVP, Solution Engineering – Retail & Consumer  (score=60.0)
+[19:08:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:08:33] --- Progress: 80/98 | OK=79 FAIL=1 CODE=0 | 26.6min ---
+[19:08:36] 
+[81/98] ASHBY | Airbyte — Software Engineer, Platform (score=60.0)
+[19:08:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:08:55] 
+[82/98] ASHBY | Airbyte — Technical Support Engineer (score=60.0)
+[19:09:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:09:14] 
+[83/98] ASHBY | InfluxData — Enterprise Account Executive  (score=60.0)
+[19:09:32]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:09:35] 
+[84/98] ASHBY | apollo-graphql — Enterprise Account Executive - West  (score=60.0)
+[19:09:51]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:09:54] 
+[85/98] ASHBY | apollo-graphql — Product Operations Lead (score=60.0)
+[19:10:09]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:10:12] 
+[86/98] ASHBY | apollo-graphql — Security Operations Engineer (score=60.0)
+[19:10:28]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:10:31] 
+[87/98] ASHBY | apollo-graphql — Sr Solutions Architect - UK / Netherlands (remote) (score=60.0)
+[19:10:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:10:50] 
+[88/98] ASHBY | Deel — Data Engineer  (score=60.0)
+[19:11:05]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:11:09] 
+[89/98] ASHBY | Plaid — Software Engineer (score=60.0)
+[19:11:24]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:11:27] 
+[90/98] ASHBY | Plaid — Software Engineer (score=60.0)
+[19:11:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:11:43] --- Progress: 90/98 | OK=89 FAIL=1 CODE=0 | 29.7min ---
+[19:11:46] 
+[91/98] ASHBY | Plaid — Software Engineer (score=60.0)
+[19:12:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:12:05] 
+[92/98] ASHBY | Plaid — Software Engineer - Platform (score=60.0)
+[19:12:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:12:24] 
+[93/98] ASHBY | Plaid — Test Job - Careers Page (score=60.0)
+[19:12:39]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:12:42] 
+[94/98] ASHBY | Docker — Principal Software Engineer,  AI Cloud (score=60.0)
+[19:12:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:13:01] 
+[95/98] ASHBY | Docker — Principal Software Engineer, AI Tools and Security (score=60.0)
+[19:13:16]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:13:20] 
+[96/98] ASHBY | Docker — Principal Software Engineer, Docker Agents (London (score=60.0)
+[19:13:35]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:13:38] 
+[97/98] ASHBY | Docker — Software Engineer III, AI Developer Tools (score=60.0)
+[19:13:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:13:56] 
+[98/98] ASHBY | Mosaic — Software Engineer (score=60.0)
+[19:14:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[19:14:11] 
+======================================================================
+[19:14:11] WRAITH APPLY SWARM DONE — 32.2min
+[19:14:11]   Success: 97
+[19:14:11]   Failed: 1
+[19:14:11]   Needs code: 0
+[19:14:11]   Rate: 3.0 apps/min
+[19:14:11] ======================================================================

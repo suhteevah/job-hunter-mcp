@@ -1,0 +1,79 @@
+[16:09:09] ======================================================================
+[16:09:09] WRAITH CDP APPLY SWARM
+[16:09:09] ======================================================================
+[16:09:09]   lever: 15 jobs
+[16:09:09] Total: 15 jobs
+[16:09:09] Starting Wraith MCP client...
+[16:09:13] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[16:09:13] 
+[1/15] LEVER | shieldai — Staff Web Designer (R3648) (score=45.0)
+[16:09:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:09:24] 
+[2/15] LEVER | shieldai — Strategic Sourcing Manager (R4251) (score=45.0)
+[16:09:31]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:09:34] 
+[3/15] LEVER | shieldai — Strategic Sourcing Specialist – Construction Proje (score=45.0)
+[16:09:42]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:09:45] 
+[4/15] LEVER | shieldai — Supplier Development Engineer - Electronics (R4560 (score=45.0)
+[16:09:53]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:09:56] 
+[5/15] LEVER | shieldai — Supplier Development Engineer, Mechanical (R4712) (score=45.0)
+[16:10:04]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:10:07] 
+[6/15] LEVER | shieldai — Talent Acquisition Partner, EMEA (score=45.0)
+[16:10:15]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:10:18] 
+[7/15] LEVER | shieldai — Technical Engineering Manager,  Software Autonomy  (score=45.0)
+[16:10:25]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:10:29] 
+[8/15] LEVER | shieldai — Technical Product Manager (R4243) (score=45.0)
+[16:10:36]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:10:39] 
+[9/15] LEVER | shieldai — Technical Program Director (R3982) (score=45.0)
+[16:10:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:10:50] 
+[10/15] LEVER | shieldai — Technical Program Manager, Quality Engineering (R4 (score=45.0)
+[16:10:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:10:58] --- Progress: 10/15 | OK=10 FAIL=0 CODE=0 | 1.8min ---
+[16:11:01] 
+[11/15] LEVER | shieldai — Technician II, Maintenance (R4636) (score=45.0)
+[16:11:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:11:14] 
+[12/15] LEVER | shieldai — Technician III, CNC Machinist (R4690) (score=45.0)
+[16:11:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:11:24] 
+[13/15] LEVER | shieldai — Territory Business Development Manager, Army (R435 (score=45.0)
+[16:11:32]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:11:35] 
+[14/15] LEVER | shieldai — Test & Evaluation Engineering Lead (R4356) (score=45.0)
+[16:11:44]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:11:47] 
+[15/15] LEVER | shieldai — V-BAT Air Vehicle Operator (score=45.0)
+[16:11:54]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:11:54] 
+======================================================================
+[16:11:54] WRAITH APPLY SWARM DONE — 2.7min
+[16:11:54]   Success: 15
+[16:11:54]   Failed: 0
+[16:11:54]   Needs code: 0
+[16:11:54]   Rate: 5.5 apps/min
+[16:11:54] ======================================================================

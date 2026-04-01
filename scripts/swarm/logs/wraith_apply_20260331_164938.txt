@@ -1,0 +1,221 @@
+[16:49:38] ======================================================================
+[16:49:38] WRAITH CDP APPLY SWARM
+[16:49:38] ======================================================================
+[16:49:38]   lever: 50 jobs
+[16:49:38] Total: 50 jobs
+[16:49:38] Starting Wraith MCP client...
+[16:49:42] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[16:49:42] 
+[1/50] LEVER | palantir — Backend Software Engineer - Infrastructure (score=90.0)
+[16:50:11]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:50:14] 
+[2/50] LEVER | palantir — Backend Software Engineer - Infrastructure (score=90.0)
+[16:50:23]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:50:26] 
+[3/50] LEVER | palantir — Backend Software Engineer - Infrastructure, Founda (score=90.0)
+[16:50:35]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:50:38] 
+[4/50] LEVER | palantir — Forward Deployed AI Engineer (score=80.0)
+[16:50:47]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:50:50] 
+[5/50] LEVER | palantir — Forward Deployed AI Engineer (score=80.0)
+[16:50:58]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:51:02] 
+[6/50] LEVER | palantir — Senior Software Engineer, Network Infrastructure (score=80.0)
+[16:51:11]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:51:14] 
+[7/50] LEVER | palantir — Senior Software Engineer, Network Infrastructure (score=80.0)
+[16:51:30]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:51:34] 
+[8/50] LEVER | palantir — Senior Software Engineer, Network Infrastructure (score=80.0)
+[16:51:42]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:51:45] 
+[9/50] LEVER | palantir — Backend Software Engineer (score=75.0)
+[16:51:54]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:51:57] 
+[10/50] LEVER | palantir — Backend Software Engineer - Application Developmen (score=75.0)
+[16:52:27]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:52:27] --- Progress: 10/50 | OK=10 FAIL=0 CODE=0 | 2.8min ---
+[16:52:30] 
+[11/50] LEVER | palantir — Backend Software Engineer - Application Developmen (score=75.0)
+[16:52:39]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:52:42] 
+[12/50] LEVER | palantir — Backend Software Engineer - Defense (score=75.0)
+[16:52:52]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:52:55] 
+[13/50] LEVER | palantir — Backend Software Engineer - Defense (score=75.0)
+[16:53:04]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:53:07] 
+[14/50] LEVER | palantir — Backend Software Engineer - Defense (score=75.0)
+[16:53:15]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:53:19] 
+[15/50] LEVER | palantir — Full Stack Software Engineer - Application Develop (score=75.0)
+[16:53:28]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:53:31] 
+[16/50] LEVER | palantir — Full Stack Software Engineer - Application Develop (score=75.0)
+[16:53:39]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:53:43] 
+[17/50] LEVER | palantir — Product Infrastructure Security Engineer (score=75.0)
+[16:53:51]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:53:54] 
+[18/50] LEVER | palantir — Software Engineer, New Grad - Infrastructure (score=75.0)
+[16:54:03]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:54:06] 
+[19/50] LEVER | palantir — Software Engineer, New Grad - Infrastructure (score=75.0)
+[16:54:20]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:54:23] 
+[20/50] LEVER | palantir — Software Engineer, New Grad - Infrastructure (score=75.0)
+[16:54:31]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:54:32] --- Progress: 20/50 | OK=20 FAIL=0 CODE=0 | 4.8min ---
+[16:54:35] 
+[21/50] LEVER | palantir — Software Engineer, New Grad - Production Infrastru (score=75.0)
+[16:54:43]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:54:47] 
+[22/50] LEVER | palantir — Software Engineer, New Grad - Production Infrastru (score=75.0)
+[16:54:55]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:54:59] 
+[23/50] LEVER | palantir — Software Engineer, New Grad - Production Infrastru (score=75.0)
+[16:55:08]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:55:11] 
+[24/50] LEVER | palantir — Software Engineer, New Grad - Production Infrastru (score=75.0)
+[16:55:22]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:55:26] 
+[25/50] LEVER | palantir — Forward Deployed Infrastructure Engineer - US Gove (score=65.0)
+[16:55:35]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:55:38] 
+[26/50] LEVER | palantir — Forward Deployed Infrastructure Engineer - US Gove (score=65.0)
+[16:55:46]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:55:50] 
+[27/50] LEVER | palantir — Forward Deployed Infrastructure Engineer - US Gove (score=65.0)
+[16:55:58]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:56:01] 
+[28/50] LEVER | palantir — Platform Engineer - Identity and Access Management (score=65.0)
+[16:56:10]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:56:13] 
+[29/50] LEVER | palantir — Product Infrastructure Security Engineer (score=65.0)
+[16:56:22]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:56:25] 
+[30/50] LEVER | palantir — Product Infrastructure Security Engineer (score=65.0)
+[16:56:34]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:56:35] --- Progress: 30/50 | OK=30 FAIL=0 CODE=0 | 6.9min ---
+[16:56:38] 
+[31/50] LEVER | palantir — Product Infrastructure Security Engineer (score=65.0)
+[16:56:49]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:56:52] 
+[32/50] LEVER | palantir — Product Infrastructure Security Engineer (score=65.0)
+[16:57:01]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:57:04] 
+[33/50] LEVER | palantir — Senior Front End Software Engineer - Application D (score=65.0)
+[16:57:14]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:57:17] 
+[34/50] LEVER | palantir — Senior Front End Software Engineer - Application D (score=65.0)
+[16:57:25]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:57:28] 
+[35/50] LEVER | palantir — Senior Software Engineer - Autonomous Systems (score=65.0)
+[16:57:37]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[16:57:41] 
+[36/50] LEVER | palantir — Senior Software Engineer - Observability (score=65.0)
+[16:57:50]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:57:53] 
+[37/50] LEVER | palantir — Senior Software Engineer, Substrate (score=65.0)
+[16:58:02]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:58:06] 
+[38/50] LEVER | palantir — Senior Software Engineer, Substrate (score=65.0)
+[16:58:14]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:58:17] 
+[39/50] LEVER | palantir — Senior Software Engineer, Substrate (score=65.0)
+[16:58:26]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:58:29] 
+[40/50] LEVER | palantir — Senior Software Engineer, Substrate (score=65.0)
+[16:58:38]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:58:38] --- Progress: 40/50 | OK=40 FAIL=0 CODE=0 | 8.9min ---
+[16:58:41] 
+[41/50] LEVER | palantir — Application Security Engineer (score=60.0)
+[16:58:50]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:58:53] 
+[42/50] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[16:59:02]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:59:05] 
+[43/50] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[16:59:08]   FAILED: Job no longer available
+[16:59:11] 
+[44/50] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[16:59:22]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:59:25] 
+[45/50] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[16:59:34]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:59:37] 
+[46/50] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[16:59:39]   FAILED: Job no longer available
+[16:59:42] 
+[47/50] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[16:59:51]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[16:59:54] 
+[48/50] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[17:00:03]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:00:06] 
+[49/50] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[17:00:20]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:00:23] 
+[50/50] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[17:00:33]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:00:33] --- Progress: 50/50 | OK=48 FAIL=2 CODE=0 | 10.8min ---
+[17:00:33] 
+======================================================================
+[17:00:33] WRAITH APPLY SWARM DONE — 10.8min
+[17:00:33]   Success: 48
+[17:00:33]   Failed: 2
+[17:00:33]   Needs code: 0
+[17:00:33]   Rate: 4.6 apps/min
+[17:00:33] ======================================================================

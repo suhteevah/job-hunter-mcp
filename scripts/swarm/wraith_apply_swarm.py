@@ -545,8 +545,10 @@ def apply_ashby_cdp(wraith: WraithMCPClient, url: str, company: str, title: str)
 
 def apply_lever_native(wraith: WraithMCPClient, url: str, company: str, title: str) -> dict:
     """Apply to a Lever job using Wraith native renderer (server-rendered HTML)."""
-    # Lever apply page is at {url}/apply
-    apply_url = url.rstrip("/") + "/apply"
+    # Lever apply page is at {url}/apply — but URL might already end in /apply
+    apply_url = url.rstrip("/")
+    if not apply_url.endswith("/apply"):
+        apply_url += "/apply"
     snap = wraith.navigate(apply_url)
 
     if "not found" in snap.lower() or "no longer" in snap.lower() or "page not found" in snap.lower():

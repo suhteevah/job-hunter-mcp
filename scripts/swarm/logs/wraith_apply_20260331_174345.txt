@@ -1,0 +1,168 @@
+[17:43:45] ======================================================================
+[17:43:45] WRAITH CDP APPLY SWARM
+[17:43:45] ======================================================================
+[17:43:45]   lever: 37 jobs
+[17:43:45] Total: 37 jobs
+[17:43:45] Starting Wraith MCP client...
+[17:43:49] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[17:43:49] 
+[1/37] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[17:43:58]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:44:01] 
+[2/37] LEVER | palantir — Forward Deployed Software Engineer (score=60.0)
+[17:44:10]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:44:13] 
+[3/37] LEVER | palantir — Forward Deployed Software Engineer  - Edge Autonom (score=60.0)
+[17:44:21]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:44:24] 
+[4/37] LEVER | palantir — Forward Deployed Software Engineer - AUS Governmen (score=60.0)
+[17:44:33]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:44:37] 
+[5/37] LEVER | palantir — Forward Deployed Software Engineer - AUS Governmen (score=60.0)
+[17:44:45]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:44:49] 
+[6/37] LEVER | palantir — Forward Deployed Software Engineer - Autonomous Sy (score=60.0)
+[17:44:58]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:45:01] 
+[7/37] LEVER | palantir — Forward Deployed Software Engineer - Autonomous Sy (score=60.0)
+[17:45:15]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:45:18] 
+[8/37] LEVER | palantir — Forward Deployed Software Engineer - France Govern (score=60.0)
+[17:45:27]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:45:30] 
+[9/37] LEVER | palantir — Forward Deployed Software Engineer - Intel (score=60.0)
+[17:45:39]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:45:42] 
+[10/37] LEVER | palantir — Forward Deployed Software Engineer - Japan Forward (score=60.0)
+[17:45:51]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:45:51] --- Progress: 10/37 | OK=10 FAIL=0 CODE=0 | 2.0min ---
+[17:45:54] 
+[11/37] LEVER | palantir — Forward Deployed Software Engineer - Japan Governm (score=60.0)
+[17:46:03]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:46:06] 
+[12/37] LEVER | palantir — Forward Deployed Software Engineer - Korea Forward (score=60.0)
+[17:46:15]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:46:18] 
+[13/37] LEVER | palantir — Forward Deployed Software Engineer - Tactical Edge (score=60.0)
+[17:46:27]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:46:30] 
+[14/37] LEVER | palantir — Forward Deployed Software Engineer - UK Government (score=60.0)
+[17:46:45]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:46:48] 
+[15/37] LEVER | palantir — Forward Deployed Software Engineer - US Government (score=60.0)
+[17:46:57]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:47:00] 
+[16/37] LEVER | palantir — Forward Deployed Software Engineer - US Government (score=60.0)
+[17:47:09]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:47:12] 
+[17/37] LEVER | palantir — Forward Deployed Software Engineer - US Government (score=60.0)
+[17:47:21]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:47:24] 
+[18/37] LEVER | palantir — Forward Deployed Software Engineer - US Government (score=60.0)
+[17:47:34]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:47:37] 
+[19/37] LEVER | palantir — Forward Deployed Software Engineer - US Government (score=60.0)
+[17:47:47]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:47:50] 
+[20/37] LEVER | palantir — Forward Deployed Software Engineer - Warp Speed (score=60.0)
+[17:47:59]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:47:59] --- Progress: 20/37 | OK=20 FAIL=0 CODE=0 | 4.2min ---
+[17:48:02] 
+[21/37] LEVER | palantir — Forward Deployed Software Engineer, New Grad - Com (score=60.0)
+[17:48:04]   FAILED: Job no longer available
+[17:48:07] 
+[22/37] LEVER | palantir — Forward Deployed Software Engineer, New Grad - UK  (score=60.0)
+[17:48:16]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:48:19] 
+[23/37] LEVER | palantir — Software Engineer - Apollo Platform (score=60.0)
+[17:48:29]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:48:33] 
+[24/37] LEVER | palantir — Software Engineer - Apollo Platform (score=60.0)
+[17:48:42]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:48:45] 
+[25/37] LEVER | palantir — Software Engineer - Apollo Platform (score=60.0)
+[17:48:54]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:48:58] 
+[26/37] LEVER | palantir — Software Engineer - Apollo Systems (score=60.0)
+[17:49:07]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:49:10] 
+[27/37] LEVER | palantir — Software Engineer - Apollo Systems (score=60.0)
+[17:49:19]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:49:22] 
+[28/37] LEVER | palantir — Software Engineer - Core Interfaces (score=60.0)
+[17:49:32]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:49:35] 
+[29/37] LEVER | palantir — Software Engineer - Defense Applications (score=60.0)
+[17:49:44]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:49:47] 
+[30/37] LEVER | palantir — Software Engineer - Developer Productivity (score=60.0)
+[17:49:56]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:49:56] --- Progress: 30/37 | OK=29 FAIL=1 CODE=0 | 6.1min ---
+[17:49:59] 
+[31/37] LEVER | palantir — Software Engineer - Edge (score=60.0)
+[17:50:08]   >>> SUCCESS: Wraith verified: {
+  "message": "Moderate success indicators found  <<<
+[17:50:11] 
+[32/37] LEVER | palantir — Software Engineer - Environment Platform (score=60.0)
+[17:50:21]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:50:24] 
+[33/37] LEVER | palantir — Software Engineer - Environment Platform (score=60.0)
+[17:50:33]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:50:36] 
+[34/37] LEVER | palantir — Software Engineer - Frontend Developer Productivit (score=60.0)
+[17:50:45]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:50:48] 
+[35/37] LEVER | palantir — Software Engineer, New Grad (score=60.0)
+[17:50:57]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:51:00] 
+[36/37] LEVER | palantir — Software Engineer, New Grad (score=60.0)
+[17:51:10]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:51:13] 
+[37/37] LEVER | palantir — Software Engineer, New Grad (score=60.0)
+[17:51:22]   >>> SUCCESS: Wraith verified: {
+  "message": "Weak success indicator found. Cann <<<
+[17:51:22] 
+======================================================================
+[17:51:22] WRAITH APPLY SWARM DONE — 7.6min
+[17:51:22]   Success: 36
+[17:51:22]   Failed: 1
+[17:51:22]   Needs code: 0
+[17:51:22]   Rate: 4.9 apps/min
+[17:51:22] ======================================================================

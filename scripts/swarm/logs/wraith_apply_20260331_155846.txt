@@ -1,0 +1,62 @@
+[15:58:46] ======================================================================
+[15:58:46] WRAITH CDP APPLY SWARM
+[15:58:46] ======================================================================
+[15:58:46]   lever: 15 jobs
+[15:58:46] Total: 15 jobs
+[15:58:46] Starting Wraith MCP client...
+[15:58:50] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[15:58:50] 
+[1/15] LEVER | shieldai — Staff GRC Analyst (R3666) (score=45.0)
+[15:58:59]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[15:59:02] 
+[2/15] LEVER | shieldai — Staff Hardware Reliability Engineer (R4675) (score=45.0)
+[15:59:11]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[15:59:14] 
+[3/15] LEVER | shieldai — Staff Integration & Test Engineer, Autonomy (R4151 (score=45.0)
+[15:59:22]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[15:59:25] 
+[4/15] LEVER | shieldai — Staff Loads Engineer (R3263) (score=45.0)
+[15:59:33]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[15:59:36] 
+[5/15] LEVER | shieldai — Staff Mechanical Engineer, Hardware Test (R4325) (score=45.0)
+[15:59:37]   FAILED: Job no longer available
+[15:59:40] 
+[6/15] LEVER | shieldai — Staff Motion Designer (R4181) (score=45.0)
+[15:59:47]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[15:59:50] 
+[7/15] LEVER | shieldai — Staff PCB Designer (score=45.0)
+[15:59:58]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:00:01] 
+[8/15] LEVER | shieldai — Staff Product Designer (R3750) (score=45.0)
+[16:00:09]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:00:12] 
+[9/15] LEVER | shieldai — Staff Software Engineer, Autonomy Applications Eng (score=45.0)
+[16:00:21]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:00:24] 
+[10/15] LEVER | shieldai — Staff Structural Analyst (R3263) (score=45.0)
+[16:00:32]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:00:33] --- Progress: 10/15 | OK=9 FAIL=1 CODE=0 | 1.7min ---
+[16:00:36] 
+[11/15] LEVER | shieldai — Staff Structural Analyst (R3263) (score=45.0)
+[16:00:43]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:00:46] 
+[12/15] LEVER | shieldai — Staff Systems Administrator (R4697) (score=45.0)
+[16:01:00]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:01:03] 
+[13/15] LEVER | shieldai — Staff Technical Program Manager, Propulsion (R4727 (score=45.0)
+[16:01:12]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
