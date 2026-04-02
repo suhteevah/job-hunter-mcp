@@ -1,0 +1,74 @@
+[22:18:43] ======================================================================
+[22:18:43] WRAITH CDP APPLY SWARM
+[22:18:43] ======================================================================
+[22:18:43]   greenhouse: 14 jobs
+[22:18:43] Total: 14 jobs
+[22:18:43] Starting Wraith MCP client...
+[22:18:47] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[22:18:47] 
+[1/14] GREENHOUSE | hubspotjobs — Staff Software Engineer, AI Serving (AI Infrastruc (score=80.0)
+[22:18:47]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7546687
+[22:18:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[22:19:02] 
+[2/14] GREENHOUSE | sumologic — Staff Software Engineer – Core AI Platform (score=80.0)
+[22:19:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[22:19:19] 
+[3/14] GREENHOUSE | dropbox — Senior Data Science Manager, AI Products (score=70.0)
+[22:19:19]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7512374
+[22:19:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[22:19:35] 
+[4/14] GREENHOUSE | dropbox — Senior Data Scientist, AI Products (score=70.0)
+[22:19:35]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7729761
+[22:19:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[22:19:53] 
+[5/14] GREENHOUSE | hubspotjobs — Principal Software Engineer- AI Context (score=65.0)
+[22:19:53]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7544220
+[22:20:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[22:20:09] 
+[6/14] GREENHOUSE | dropbox — Principal Software Engineer, Corporate AI (score=65.0)
+[22:20:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7537004
+[22:20:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[22:20:46] 
+[7/14] GREENHOUSE | hubspotjobs — Account Executive - Small Business - Ireland OR UK (score=60.0)
+[22:20:46]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5986251
+[22:20:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[22:21:02] 
+[8/14] GREENHOUSE | hubspotjobs — Senior Machine Learning Engineer (score=60.0)
+[22:21:02]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7577101
+[22:21:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[22:21:18] 
+[9/14] GREENHOUSE | hubspotjobs — Senior Machine Learning Engineer II (score=60.0)
+[22:21:18]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7618877
+[22:21:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[22:21:35] 
+[10/14] GREENHOUSE | hubspotjobs — Senior Product Manager I, Academy (AI) (score=60.0)
+[22:21:35]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6034806
+[22:21:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[22:21:51] --- Progress: 10/14 | OK=10 FAIL=0 CODE=0 | 3.1min ---
+[22:21:54] 
+[11/14] GREENHOUSE | hubspotjobs — Senior Product Manager I, Academy (AI) (score=60.0)
+[22:21:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7410314
+[22:22:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[22:22:10] 
+[12/14] GREENHOUSE | wizinc —  AI Security Researcher (score=60.0)
+[22:22:10]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=4626148006
+[22:22:28]   >>> SUCCESS: Wraith verified: likely success <<<
+[22:22:31] 
+[13/14] GREENHOUSE | dropbox — Staff Product Manager, AI Organization Workflows (score=60.0)
+[22:22:31]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7729233
+[22:22:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[22:22:47] 
+[14/14] GREENHOUSE | pinterest — Staff Product Manager, AI Safety (score=60.0)
+[22:22:47]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7718015
+[22:23:01]   >>> SUCCESS: Wraith verified: likely success <<<
+[22:23:01] 
+======================================================================
+[22:23:01] WRAITH APPLY SWARM DONE — 4.2min
+[22:23:01]   Success: 14
+[22:23:01]   Failed: 0
+[22:23:01]   Needs code: 0
+[22:23:01]   Rate: 3.3 apps/min
+[22:23:01] ======================================================================

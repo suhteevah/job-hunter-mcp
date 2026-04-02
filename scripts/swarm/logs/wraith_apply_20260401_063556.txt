@@ -1,0 +1,747 @@
+[06:35:56] ======================================================================
+[06:35:56] WRAITH CDP APPLY SWARM
+[06:35:56] ======================================================================
+[06:35:56]   greenhouse: 200 jobs
+[06:35:56] Total: 200 jobs
+[06:35:56] Starting Wraith MCP client...
+[06:36:00] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[06:36:00] 
+[1/200] GREENHOUSE | instacart — Machine Learning Engineer II, Economics (score=90.0)
+[06:36:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7565189
+[06:36:06]   FAILED: Submit button not found
+[06:36:09] 
+[2/200] GREENHOUSE | Pinterest — Staff Machine Learning Engineer, Ads Late Funnel (score=85.0)
+[06:36:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7679644
+[06:36:15]   FAILED: Submit button not found
+[06:36:18] 
+[3/200] GREENHOUSE | Lyft — Senior Machine Learning Engineer, Mapping  (score=85.0)
+[06:36:18]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8284511002
+[06:36:24]   FAILED: Submit button not found
+[06:36:27] 
+[4/200] GREENHOUSE | Reddit — Staff Software Engineer, Ads API (score=81.0)
+[06:36:33]   FAILED: Submit button not found
+[06:36:36] 
+[5/200] GREENHOUSE | coinbase — Senior Staff Software Engineer - Financial Hub (score=80.0)
+[06:36:36]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7587071
+[06:36:42]   FAILED: Submit button not found
+[06:36:45] 
+[6/200] GREENHOUSE | Fivetran — Senior Staff Software Engineer - Data Lakes (score=80.0)
+[06:36:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7565761003
+[06:36:51]   FAILED: Submit button not found
+[06:36:54] 
+[7/200] GREENHOUSE | Fivetran — Senior Staff Software Engineer - Distributed Syste (score=80.0)
+[06:36:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7608300003
+[06:37:00]   FAILED: Submit button not found
+[06:37:03] 
+[8/200] GREENHOUSE | Epic Games — Machine Learning Engineer (score=80.0)
+[06:37:03]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5528619004
+[06:37:09]   FAILED: Submit button not found
+[06:37:12] 
+[9/200] GREENHOUSE | Lyft — Machine Learning Engineer, Recommendations (score=80.0)
+[06:37:12]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8378390002
+[06:37:18]   FAILED: Submit button not found
+[06:37:22] 
+[10/200] GREENHOUSE | Reddit — Staff Software Engineer, Identity  (score=73.0)
+[06:37:28]   FAILED: Submit button not found
+[06:37:28] --- Progress: 10/200 | OK=0 FAIL=10 CODE=0 | 1.5min ---
+[06:37:31] 
+[11/200] GREENHOUSE | Discord — Staff Software Engineer, Player Experience (score=73.0)
+[06:37:37]   FAILED: Submit button not found
+[06:37:40] 
+[12/200] GREENHOUSE | Pinterest — Sr. Software Engineer, iOS (score=70.0)
+[06:37:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6705763
+[06:37:45]   FAILED: Submit button not found
+[06:37:48] 
+[13/200] GREENHOUSE | Coursera — Senior Staff Software Engineer - Learning Content  (score=70.0)
+[06:37:54]   FAILED: Submit button not found
+[06:37:57] 
+[14/200] GREENHOUSE | Reddit — Senior Business Engineer - Ads (score=65.0)
+[06:38:04]   FAILED: Submit button not found
+[06:38:07] 
+[15/200] GREENHOUSE | Twilio — Senior Account Executive (score=65.0)
+[06:38:13]   FAILED: Submit button not found
+[06:38:16] 
+[16/200] GREENHOUSE | Twilio — Sr. Manager, Sales Business Partner (score=65.0)
+[06:38:22]   FAILED: Submit button not found
+[06:38:25] 
+[17/200] GREENHOUSE | Cockroach Labs — Sr. Customer Success Manager- Toronto or  NYC (score=65.0)
+[06:38:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7578404
+[06:38:31]   FAILED: Submit button not found
+[06:38:34] 
+[18/200] GREENHOUSE | Grafana Labs — Staff Mobile Engineer: Instrumentation SDK (iOS/An (score=65.0)
+[06:38:40]   FAILED: Submit button not found
+[06:38:43] 
+[19/200] GREENHOUSE | Grafana Labs — Staff Mobile Engineer: Instrumentation SDK (iOS/An (score=65.0)
+[06:38:48]   FAILED: Submit button not found
+[06:38:51] 
+[20/200] GREENHOUSE | Grafana Labs — Staff Mobile Engineer: Instrumentation SDK (iOS/An (score=65.0)
+[06:38:57]   FAILED: Submit button not found
+[06:38:57] --- Progress: 20/200 | OK=0 FAIL=20 CODE=0 | 3.0min ---
+[06:39:00] 
+[21/200] GREENHOUSE | Grafana Labs — Staff Mobile Engineer: Instrumentation SDK (iOS/An (score=65.0)
+[06:39:07]   FAILED: Submit button not found
+[06:39:10] 
+[22/200] GREENHOUSE | Grafana Labs — Staff Mobile Engineer: Instrumentation SDK (iOS/An (score=65.0)
+[06:39:22]   FAILED: Submit button not found
+[06:39:25] 
+[23/200] GREENHOUSE | Samsara — Senior Firmware Engineer (score=65.0)
+[06:39:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7443763
+[06:39:32]   FAILED: Submit button not found
+[06:39:35] 
+[24/200] GREENHOUSE | Samsara — Senior Knowledge Management Specialist (score=65.0)
+[06:39:35]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7406599
+[06:39:41]   FAILED: Submit button not found
+[06:39:44] 
+[25/200] GREENHOUSE | Samsara — Senior Security Engineer - Threat Modeling    (score=65.0)
+[06:39:44]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7554796
+[06:39:55]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:39:58] 
+[26/200] GREENHOUSE | Pinterest — Senior Revenue Operations Analyst, tvScientific (score=65.0)
+[06:39:58]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7642282
+[06:40:04]   FAILED: Submit button not found
+[06:40:07] 
+[27/200] GREENHOUSE | Pinterest — Staff Data Scientist, Ads Performance (score=65.0)
+[06:40:07]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7435596
+[06:40:13]   FAILED: Submit button not found
+[06:40:16] 
+[28/200] GREENHOUSE | Instacart — Senior Android Engineer II, Enterprise Picking (score=65.0)
+[06:40:16]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7652044
+[06:40:22]   FAILED: Submit button not found
+[06:40:25] 
+[29/200] GREENHOUSE | Instacart — Senior Commercial Enablement Associate (score=65.0)
+[06:40:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7609254
+[06:40:31]   FAILED: Submit button not found
+[06:40:34] 
+[30/200] GREENHOUSE | Instacart — Senior Tax Technology Analyst (score=65.0)
+[06:40:34]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7644431
+[06:40:41]   FAILED: Submit button not found
+[06:40:41] --- Progress: 30/200 | OK=1 FAIL=29 CODE=0 | 4.7min ---
+[06:40:44] 
+[31/200] GREENHOUSE | Instacart — Senior Tax Technology Analyst (score=65.0)
+[06:40:44]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7644475
+[06:40:50]   FAILED: Submit button not found
+[06:40:53] 
+[32/200] GREENHOUSE | Instacart — Senior Threat Hunting Engineer (score=65.0)
+[06:40:53]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7516537
+[06:40:59]   FAILED: Submit button not found
+[06:41:02] 
+[33/200] GREENHOUSE | Okta — Senior Software Engineer - Android (score=65.0)
+[06:41:02]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7588357
+[06:41:08]   FAILED: Submit button not found
+[06:41:11] 
+[34/200] GREENHOUSE | Airbnb — Senior Frontend  Engineer, Guest & Host (score=65.0)
+[06:41:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7697962
+[06:41:17]   FAILED: Submit button not found
+[06:41:20] 
+[35/200] GREENHOUSE | SoFi — Home Loans Senior Data Analyst (score=65.0)
+[06:41:20]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7619833003
+[06:41:26]   FAILED: Submit button not found
+[06:41:29] 
+[36/200] GREENHOUSE | SoFi — Senior Stock Plan Administrator (score=65.0)
+[06:41:29]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7637658003
+[06:41:35]   FAILED: Submit button not found
+[06:41:38] 
+[37/200] GREENHOUSE | Discord — Senior Software Engineer, Platform Security (score=64.0)
+[06:41:44]   FAILED: Submit button not found
+[06:41:47] 
+[38/200] GREENHOUSE | Verkada — Solutions Engineer  (score=64.0)
+[06:41:53]   FAILED: Submit button not found
+[06:41:56] 
+[39/200] GREENHOUSE | Reddit — Machine Learning Engineer (score=64.0)
+[06:42:02]   FAILED: Submit button not found
+[06:42:05] 
+[40/200] GREENHOUSE | Scale AI — Machine Learning Research Intern (Summer 2026) (score=64.0)
+[06:42:11]   FAILED: Submit button not found
+[06:42:11] --- Progress: 40/200 | OK=1 FAIL=39 CODE=0 | 6.2min ---
+[06:42:14] 
+[41/200] GREENHOUSE | Amplitude — Senior Technical Trainer (APJ) (score=64.0)
+[06:42:20]   FAILED: Submit button not found
+[06:42:23] 
+[42/200] GREENHOUSE | Amplitude — Senior Technical Trainer (APJ) (score=64.0)
+[06:42:30]   FAILED: Submit button not found
+[06:42:33] 
+[43/200] GREENHOUSE | Grafana Labs — Senior Field Engineer | Germany | Remote (score=63.0)
+[06:42:39]   FAILED: Submit button not found
+[06:42:42] 
+[44/200] GREENHOUSE | Grafana Labs — Senior Field Engineer | UK | Remote (score=63.0)
+[06:42:48]   FAILED: Submit button not found
+[06:42:51] 
+[45/200] GREENHOUSE | Fireworks AI — Software Engineer, Infrastructure [Early Career] (score=63.0)
+[06:42:57]   FAILED: Submit button not found
+[06:43:00] 
+[46/200] GREENHOUSE | remotecom — Senior Backend Engineer - Elixir (score=62.0)
+[06:43:06]   FAILED: Submit button not found
+[06:43:09] 
+[47/200] GREENHOUSE | Postman — Senior Engineer, Backend - Workspaces (score=62.0)
+[06:43:15]   FAILED: Submit button not found
+[06:43:18] 
+[48/200] GREENHOUSE | DeepMind — Senior AI Product Designer, Generative Media, Gemi (score=61.0)
+[06:43:24]   FAILED: Submit button not found
+[06:43:27] 
+[49/200] GREENHOUSE | SingleStore — Senior Site Reliability Engineer (score=61.0)
+[06:43:33]   FAILED: Submit button not found
+[06:43:36] 
+[50/200] GREENHOUSE | airbnb — Manager, Machine Learning Engineering - Relevance  (score=60.0)
+[06:43:36]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7665266
+[06:43:42]   FAILED: Submit button not found
+[06:43:42] --- Progress: 50/200 | OK=1 FAIL=49 CODE=0 | 7.7min ---
+[06:43:45] 
+[51/200] GREENHOUSE | discord — Staff Software Engineer, Platform Security (score=60.0)
+[06:43:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:43:59] 
+[52/200] GREENHOUSE | unknown — click here (score=60.0)
+[06:44:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:44:10] 
+[53/200] GREENHOUSE | unknown — click here (score=60.0)
+[06:44:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:44:21] 
+[54/200] GREENHOUSE | unknown — click here (score=60.0)
+[06:44:29]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:44:32] 
+[55/200] GREENHOUSE | unknown — click here (score=60.0)
+[06:44:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:44:43] 
+[56/200] GREENHOUSE | unknown — click here (score=60.0)
+[06:44:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:44:54] 
+[57/200] GREENHOUSE | Databricks — Strategic Enterprise Hunter Account Executive, Man (score=60.0)
+[06:44:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8346335002
+[06:45:00]   FAILED: Submit button not found
+[06:45:03] 
+[58/200] GREENHOUSE | Twilio — Account Executive 3 (score=60.0)
+[06:45:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:45:18] 
+[59/200] GREENHOUSE | Twilio — EMEA CRM & Lifecycle Manager (score=60.0)
+[06:45:24]   FAILED: Submit button not found
+[06:45:27] 
+[60/200] GREENHOUSE | Twilio — Personalized Support Engineer 2 (score=60.0)
+[06:45:33]   FAILED: Submit button not found
+[06:45:33] --- Progress: 60/200 | OK=8 FAIL=52 CODE=0 | 9.6min ---
+[06:45:36] 
+[61/200] GREENHOUSE | Twilio — Presales Architect (score=60.0)
+[06:45:43]   FAILED: Submit button not found
+[06:45:46] 
+[62/200] GREENHOUSE | Twilio — Presales Architect, Product Specialist 5 (CDP, Mar (score=60.0)
+[06:46:19]   FAILED: Submit button not found
+[06:46:22] 
+[63/200] GREENHOUSE | Twilio — Presales Engineer (French Speaker)  (score=60.0)
+[06:46:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:46:54] 
+[64/200] GREENHOUSE | Twilio — Presales Engineer (Hebrew Speaker)  (score=60.0)
+[06:47:23]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:47:26] 
+[65/200] GREENHOUSE | Twilio — Principal Presales Engineer (score=60.0)
+[06:47:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:47:58] 
+[66/200] GREENHOUSE | Twilio — Principal Presales Engineer, Product Specialist (score=60.0)
+[06:48:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:48:13] 
+[67/200] GREENHOUSE | Twilio — Principal, Program Manager-Talent Acquisition Enab (score=60.0)
+[06:48:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:48:30] 
+[68/200] GREENHOUSE | Twilio — Principal Solution Engineer (score=60.0)
+[06:48:36]   FAILED: Submit button not found
+[06:48:39] 
+[69/200] GREENHOUSE | Twilio — Regional Health and Safety Coordinator, EMEA (score=60.0)
+[06:48:44]   FAILED: Submit button not found
+[06:48:48] 
+[70/200] GREENHOUSE | Twilio — Sales Development Representative (score=60.0)
+[06:49:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:49:00] --- Progress: 70/200 | OK=14 FAIL=56 CODE=0 | 13.0min ---
+[06:49:03] 
+[71/200] GREENHOUSE | Twilio — Sales Development Representative (German speaker) (score=60.0)
+[06:49:09]   FAILED: Submit button not found
+[06:49:12] 
+[72/200] GREENHOUSE | Twilio — Sales Operations Planning Manager (score=60.0)
+[06:49:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:49:28] 
+[73/200] GREENHOUSE | Twilio — Sales Support Specialist (score=60.0)
+[06:49:35]   FAILED: Submit button not found
+[06:49:38] 
+[74/200] GREENHOUSE | Twilio — Sales Support Specialist, Japan (score=60.0)
+[06:49:44]   FAILED: Submit button not found
+[06:49:47] 
+[75/200] GREENHOUSE | Twilio — Security Compliance & Regulatory Affairs Analyst (score=60.0)
+[06:49:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:50:03] 
+[76/200] GREENHOUSE | Twilio — Social Media Specialist (score=60.0)
+[06:50:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:50:20] 
+[77/200] GREENHOUSE | Twilio — Software Architect, Reliability Engineering (score=60.0)
+[06:50:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:50:37] 
+[78/200] GREENHOUSE | Twilio — Solution Architect - Zuora (score=60.0)
+[06:50:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:50:56] 
+[79/200] GREENHOUSE | Twilio — Sr Manager, Solutions Engineering (score=60.0)
+[06:51:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:51:12] 
+[80/200] GREENHOUSE | Twilio — Strategic Account Executive (score=60.0)
+[06:51:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:51:27] --- Progress: 80/200 | OK=21 FAIL=59 CODE=0 | 15.4min ---
+[06:51:30] 
+[81/200] GREENHOUSE | Twilio — Strategic Account Executive  (score=60.0)
+[06:51:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:51:46] 
+[82/200] GREENHOUSE | Twilio — Strategic Account Executive 3 (score=60.0)
+[06:52:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:52:04] 
+[83/200] GREENHOUSE | Twilio — Strategic Account Executive 4 (score=60.0)
+[06:52:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:52:20] 
+[84/200] GREENHOUSE | Twilio — Technical Account Manager (score=60.0)
+[06:52:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:52:37] 
+[85/200] GREENHOUSE | Twilio — Technical Account Manager 3 (score=60.0)
+[06:52:43]   FAILED: Submit button not found
+[06:52:46] 
+[86/200] GREENHOUSE | Twilio — Technical Revenue Accounting Manager (score=60.0)
+[06:52:58]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:53:02] 
+[87/200] GREENHOUSE | Twilio — Technical Support Engineer  (score=60.0)
+[06:53:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:53:19] 
+[88/200] GREENHOUSE | Twilio — Technical Support Engineer 2 (score=60.0)
+[06:53:33]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:53:36] 
+[89/200] GREENHOUSE | Twilio — Technical Support Expert 2 (score=60.0)
+[06:53:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:53:54] 
+[90/200] GREENHOUSE | Twilio — Technical Video Content Creator (score=60.0)
+[06:54:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:54:07] --- Progress: 90/200 | OK=30 FAIL=60 CODE=0 | 18.1min ---
+[06:54:10] 
+[91/200] GREENHOUSE | Twilio — Telecom Sales Specialist, Voice (score=60.0)
+[06:54:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:54:27] 
+[92/200] GREENHOUSE | Twilio — Total Rewards Analyst - LATAM (score=60.0)
+[06:54:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:54:44] 
+[93/200] GREENHOUSE | Twilio — Video Editor (score=60.0)
+[06:54:51]   FAILED: Submit button not found
+[06:54:54] 
+[94/200] GREENHOUSE | Twilio — Web Analytics & Insights Manager (score=60.0)
+[06:55:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:55:09] 
+[95/200] GREENHOUSE | Stripe — Account Executive, Product Sales (BaaS) (score=60.0)
+[06:55:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7456716
+[06:55:21]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:55:25] 
+[96/200] GREENHOUSE | Stripe — Account Executive, Product Sales, Optimized Checko (score=60.0)
+[06:55:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7455982
+[06:55:36]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:55:39] 
+[97/200] GREENHOUSE | Stripe — Affiliate Services Licensing Specialist, Regulator (score=60.0)
+[06:55:39]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7695357
+[06:55:51]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:55:54] 
+[98/200] GREENHOUSE | Stripe — AMER Partner Marketing Lead (score=60.0)
+[06:55:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7605231
+[06:56:08]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:56:11] 
+[99/200] GREENHOUSE | Stripe — Android Engineer, Terminal Developer Productivity (score=60.0)
+[06:56:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7550154
+[06:56:23]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:56:26] 
+[100/200] GREENHOUSE | Stripe — Android Engineer, Terminal OS Platform (score=60.0)
+[06:56:26]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7557403
+[06:56:37]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:56:38] --- Progress: 100/200 | OK=39 FAIL=61 CODE=0 | 20.6min ---
+[06:56:41] 
+[101/200] GREENHOUSE | Stripe — Campaign Operations Manager (score=60.0)
+[06:56:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7584016
+[06:56:53]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:56:56] 
+[102/200] GREENHOUSE | Stripe — Compensation Analyst (score=60.0)
+[06:56:56]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7564387
+[06:57:10]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:57:13] 
+[103/200] GREENHOUSE | Stripe — Core Recruiter (AMER) (score=60.0)
+[06:57:13]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7706329
+[06:57:19]   FAILED: Submit button not found
+[06:57:22] 
+[104/200] GREENHOUSE | Stripe — Credit Operations Analyst (score=60.0)
+[06:57:22]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7722938
+[06:57:33]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:57:36] 
+[105/200] GREENHOUSE | Stripe — Credit Risk Analyst, North American Underwriter (score=60.0)
+[06:57:36]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7612192
+[06:57:48]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:57:51] 
+[106/200] GREENHOUSE | Stripe — Credit Risk Program Manager, Risk Foundations (score=60.0)
+[06:57:51]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7540441
+[06:58:04]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:58:08] 
+[107/200] GREENHOUSE | Stripe — Credit Risk Strategist, Risk Foundations (score=60.0)
+[06:58:08]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7550951
+[06:58:21]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:58:24] 
+[108/200] GREENHOUSE | Stripe — Data Governance Lead (score=60.0)
+[06:58:24]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5922987
+[06:58:36]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:58:40] 
+[109/200] GREENHOUSE | Stripe — Data Recruiter (Fixed Term Contract)  (score=60.0)
+[06:58:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7454046
+[06:58:46]   FAILED: Submit button not found
+[06:58:49] 
+[110/200] GREENHOUSE | Stripe — Data Science Manager (score=60.0)
+[06:58:49]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7644403
+[06:58:59]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:59:00] --- Progress: 110/200 | OK=47 FAIL=63 CODE=0 | 23.0min ---
+[06:59:03] 
+[111/200] GREENHOUSE | Stripe — Deal Pricing (score=60.0)
+[06:59:03]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7685049
+[06:59:14]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:59:17] 
+[112/200] GREENHOUSE | Stripe — Deal Strategist (score=60.0)
+[06:59:17]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7492580
+[06:59:29]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:59:32] 
+[113/200] GREENHOUSE | Stripe — Design Recruiter, AMER  (score=60.0)
+[06:59:32]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7390389
+[06:59:38]   FAILED: Submit button not found
+[06:59:41] 
+[114/200] GREENHOUSE | Stripe — Equity Administrator (score=60.0)
+[06:59:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7688196
+[06:59:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:59:55] 
+[115/200] GREENHOUSE | Stripe — Fraud Strategist (score=60.0)
+[06:59:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7398778
+[07:00:01]   FAILED: Submit button not found
+[07:00:04] 
+[116/200] GREENHOUSE | Stripe — Integrated Campaigns Manager, Account-Based Market (score=60.0)
+[07:00:04]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7584018
+[07:00:15]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:00:18] 
+[117/200] GREENHOUSE | Stripe — Manager, Quality Support Operations  (score=60.0)
+[07:00:18]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7657231
+[07:00:25]   FAILED: Submit button not found
+[07:00:28] 
+[118/200] GREENHOUSE | Stripe — Manager, Risk Operations Technical Programs (score=60.0)
+[07:00:28]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7169392
+[07:00:34]   FAILED: Submit button not found
+[07:00:37] 
+[119/200] GREENHOUSE | Stripe — Marketing Operations Program Manager (score=60.0)
+[07:00:37]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7639823
+[07:00:48]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:00:51] 
+[120/200] GREENHOUSE | Stripe — Paid Digital Marketing Manager (score=60.0)
+[07:00:51]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7617049
+[07:01:03]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:01:03] --- Progress: 120/200 | OK=53 FAIL=67 CODE=0 | 25.0min ---
+[07:01:06] 
+[121/200] GREENHOUSE | Stripe — Partner Development Manager, Ecosystem Product (score=60.0)
+[07:01:06]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7481368
+[07:01:12]   FAILED: Submit button not found
+[07:01:15] 
+[122/200] GREENHOUSE | Stripe — Partner Development Manager, Financial Partnership (score=60.0)
+[07:01:15]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7249573
+[07:01:26]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:01:29] 
+[123/200] GREENHOUSE | Stripe — Partner Development Manager, Global Networks (score=60.0)
+[07:01:29]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7697675
+[07:01:41]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:01:44] 
+[124/200] GREENHOUSE | Stripe — Partner Development Manager, Strategic Partnership (score=60.0)
+[07:01:44]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7697672
+[07:01:56]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:01:59] 
+[125/200] GREENHOUSE | Stripe — People Process Optimization Specialist (score=60.0)
+[07:01:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7594204
+[07:02:12]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:02:15] 
+[126/200] GREENHOUSE | Stripe — People Process Optimization Team Lead (score=60.0)
+[07:02:15]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7603763
+[07:02:26]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:02:29] 
+[127/200] GREENHOUSE | Stripe — Product Manager, AMER Cards (score=60.0)
+[07:02:29]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7568269
+[07:02:40]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:02:43] 
+[128/200] GREENHOUSE | Stripe — Product Manager, Banking as a Service (score=60.0)
+[07:02:43]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7561053
+[07:02:56]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:02:59] 
+[129/200] GREENHOUSE | Stripe — Product Manager, Card Costs and Settlement (score=60.0)
+[07:02:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7176532
+[07:03:12]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:03:15] 
+[130/200] GREENHOUSE | Stripe — Product Manager, Cards Pricing (score=60.0)
+[07:03:15]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7435001
+[07:03:27]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:03:28] --- Progress: 130/200 | OK=62 FAIL=68 CODE=0 | 27.5min ---
+[07:03:31] 
+[131/200] GREENHOUSE | Stripe — Product Manager, Cards Vault (score=60.0)
+[07:03:31]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7306879
+[07:03:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:03:45] 
+[132/200] GREENHOUSE | Stripe — Product Manager, Commerce Systems (score=60.0)
+[07:03:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7561551
+[07:03:57]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:04:00] 
+[133/200] GREENHOUSE | Stripe — Product Manager, Link Consumer Product (score=60.0)
+[07:04:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7392697
+[07:04:12]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:04:15] 
+[134/200] GREENHOUSE | Stripe — Product Manager, Optimized Checkout Suite, Buyer E (score=60.0)
+[07:04:15]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7696434
+[07:04:27]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:04:30] 
+[135/200] GREENHOUSE | Stripe — Product Manager, Payment Records Platform (score=60.0)
+[07:04:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7564817
+[07:04:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:04:45] 
+[136/200] GREENHOUSE | Stripe — Product Manager, Seller Systems (score=60.0)
+[07:04:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6964987
+[07:04:51]   FAILED: Submit button not found
+[07:04:54] 
+[137/200] GREENHOUSE | Stripe — Product Marketing Manager (score=60.0)
+[07:04:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6348471
+[07:05:05]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:05:09] 
+[138/200] GREENHOUSE | Stripe — Product Marketing Manager, Stripe Billing (score=60.0)
+[07:05:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7421572
+[07:05:21]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:05:25] 
+[139/200] GREENHOUSE | Stripe — Product Marketing, Velocity (Mid-market & SMB) Seg (score=60.0)
+[07:05:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7564364
+[07:05:36]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:05:39] 
+[140/200] GREENHOUSE | Stripe — Product Strategy & Operations, Link (score=60.0)
+[07:05:39]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7657938
+[07:05:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:05:52] --- Progress: 140/200 | OK=71 FAIL=69 CODE=0 | 29.9min ---
+[07:05:55] 
+[141/200] GREENHOUSE | Stripe — Program Manager, Third Party Regulatory Risk (score=60.0)
+[07:05:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7230209
+[07:06:08]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:06:11] 
+[142/200] GREENHOUSE | Stripe — Risk Partnerships Manager - Banks & Treasury (score=60.0)
+[07:06:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7028809
+[07:06:18]   FAILED: Submit button not found
+[07:06:21] 
+[143/200] GREENHOUSE | Stripe — Risk Strategist, Onboarding and Compliance (score=60.0)
+[07:06:21]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7697973
+[07:06:32]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:06:35] 
+[144/200] GREENHOUSE | Stripe — Specialist Solutions Architect, Money Management (score=60.0)
+[07:06:35]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7380371
+[07:06:49]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:06:52] 
+[145/200] GREENHOUSE | Stripe — Strategic Programs Lead - User Communications, Adv (score=60.0)
+[07:06:52]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7680213
+[07:07:03]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:07:07] 
+[146/200] GREENHOUSE | Stripe — Strategy & Operations Business Partner (score=60.0)
+[07:07:07]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7309571
+[07:07:12]   FAILED: Submit button not found
+[07:07:15] 
+[147/200] GREENHOUSE | Stripe — Technical Account Manager (score=60.0)
+[07:07:15]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6458492
+[07:07:26]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:07:29] 
+[148/200] GREENHOUSE | Stripe — Technical Account Manager, Terminal (score=60.0)
+[07:07:29]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7366283
+[07:07:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:07:45] 
+[149/200] GREENHOUSE | Stripe — Technical Advisor (score=60.0)
+[07:07:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7587387
+[07:07:57]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:08:00] 
+[150/200] GREENHOUSE | Stripe — Technical Partner Manager - Networks (score=60.0)
+[07:08:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7543679
+[07:08:13]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:08:13] --- Progress: 150/200 | OK=79 FAIL=71 CODE=0 | 32.2min ---
+[07:08:16] 
+[151/200] GREENHOUSE | Stripe — Technical Program Manager, Payments Experiences (score=60.0)
+[07:08:16]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6932491
+[07:08:28]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:08:31] 
+[152/200] GREENHOUSE | Stripe — Technical Program Manager, People Solutions (score=60.0)
+[07:08:31]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7594208
+[07:08:44]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:08:47] 
+[153/200] GREENHOUSE | Stripe — Technical Program Manager, Risk (score=60.0)
+[07:08:47]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7685855
+[07:08:59]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:09:02] 
+[154/200] GREENHOUSE | Stripe — Technical Solutions Engineer (score=60.0)
+[07:09:02]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7377101
+[07:09:15]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:09:18] 
+[155/200] GREENHOUSE | Stripe — User Risk Strategist  (score=60.0)
+[07:09:18]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7226586
+[07:09:25]   FAILED: Submit button not found
+[07:09:28] 
+[156/200] GREENHOUSE | Stripe — User Risk Strategist, Deal Advisory  (score=60.0)
+[07:09:28]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7594866
+[07:09:39]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:09:42] 
+[157/200] GREENHOUSE | Stripe — Vendor Operations Lead (score=60.0)
+[07:09:42]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7394979
+[07:09:49]   FAILED: Submit button not found
+[07:09:52] 
+[158/200] GREENHOUSE | Stripe — Writer, Content Marketing (score=60.0)
+[07:09:52]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7587814
+[07:10:02]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:10:06] 
+[159/200] GREENHOUSE | Discord — Content Technologist (Temporary) (score=60.0)
+[07:10:11]   FAILED: Submit button not found
+[07:10:14] 
+[160/200] GREENHOUSE | GitLab — Business Systems Analyst, Marketing (score=60.0)
+[07:10:21]   FAILED: Submit button not found
+[07:10:21] --- Progress: 160/200 | OK=85 FAIL=75 CODE=0 | 34.3min ---
+[07:10:24] 
+[161/200] GREENHOUSE | GitLab — Commercial Account Executive - DACH (score=60.0)
+[07:10:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:10:37] 
+[162/200] GREENHOUSE | GitLab — Commercial Account Executive - Mid Market, CEE (score=60.0)
+[07:10:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:10:52] 
+[163/200] GREENHOUSE | GitLab — Commercial Account Executive - Mid Market, Greece (score=60.0)
+[07:11:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:11:08] 
+[164/200] GREENHOUSE | GitLab — Commercial Account Executive - Mid Market, Nordics (score=60.0)
+[07:11:15]   FAILED: Submit button not found
+[07:11:18] 
+[165/200] GREENHOUSE | GitLab — Customer Success Engineer (score=60.0)
+[07:11:29]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:11:32] 
+[166/200] GREENHOUSE | GitLab — Customer Success Engineer, Digital  (score=60.0)
+[07:11:38]   FAILED: Submit button not found
+[07:11:41] 
+[167/200] GREENHOUSE | GitLab — Customer Success Engineer, EMEA (score=60.0)
+[07:11:47]   FAILED: Submit button not found
+[07:11:50] 
+[168/200] GREENHOUSE | GitLab — Customer Success Manager (score=60.0)
+[07:12:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:12:04] 
+[169/200] GREENHOUSE | GitLab — Customer Success Manager, DACH (score=60.0)
+[07:12:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:12:19] 
+[170/200] GREENHOUSE | GitLab — Customer Success Manager, META (score=60.0)
+[07:12:25]   FAILED: Submit button not found
+[07:12:25] --- Progress: 170/200 | OK=91 FAIL=79 CODE=0 | 36.4min ---
+[07:12:28] 
+[171/200] GREENHOUSE | GitLab — Data Analyst, Product (score=60.0)
+[07:12:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:12:42] 
+[172/200] GREENHOUSE | GitLab — Investor Relations Manager (score=60.0)
+[07:12:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:12:57] 
+[173/200] GREENHOUSE | GitLab — Manager, Solutions Architects, France (score=60.0)
+[07:13:03]   FAILED: Submit button not found
+[07:13:06] 
+[174/200] GREENHOUSE | GitLab — Strategic Account Executive, South Africa (score=60.0)
+[07:13:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:13:27] 
+[175/200] GREENHOUSE | Gusto — Engineering Manager, Tax Payments and Filings (score=60.0)
+[07:13:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:13:41] 
+[176/200] GREENHOUSE | Gusto — Future Opportunities: Early Career Sales Talent (score=60.0)
+[07:13:48]   FAILED: Submit button not found
+[07:13:51] 
+[177/200] GREENHOUSE | Gusto — Future Opportunities: Retirement Operations (score=60.0)
+[07:13:57]   FAILED: Submit button not found
+[07:14:00] 
+[178/200] GREENHOUSE | Gusto — Principal Product Manager, Benefits & PEO (Multipl (score=60.0)
+[07:14:06]   FAILED: Submit button not found
+[07:14:09] 
+[179/200] GREENHOUSE | Gusto — Principal Product Manager, Gusto Pro (score=60.0)
+[07:14:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:14:23] 
+[180/200] GREENHOUSE | Gusto — Principal Product Manager, Payments (score=60.0)
+[07:14:29]   FAILED: Submit button not found
+[07:14:29] --- Progress: 180/200 | OK=96 FAIL=84 CODE=0 | 38.5min ---
+[07:14:32] 
+[181/200] GREENHOUSE | Gusto — Principal Product Manager, Tax Platform (score=60.0)
+[07:14:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:14:46] 
+[182/200] GREENHOUSE | Cockroach Labs — Account Executive, Australia (score=60.0)
+[07:14:46]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7636164
+[07:14:52]   FAILED: Submit button not found
+[07:14:55] 
+[183/200] GREENHOUSE | Cockroach Labs — Account Executive, DACH (score=60.0)
+[07:14:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7079126
+[07:15:01]   FAILED: Submit button not found
+[07:15:04] 
+[184/200] GREENHOUSE | Cockroach Labs — Account Executive, South US (score=60.0)
+[07:15:04]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7475594
+[07:15:10]   FAILED: Submit button not found
+[07:15:13] 
+[185/200] GREENHOUSE | Cockroach Labs — Account Executive, Southwest US (score=60.0)
+[07:15:13]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7552671
+[07:15:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:15:27] 
+[186/200] GREENHOUSE | Cockroach Labs — Account Executive, West US - Digital Natives (score=60.0)
+[07:15:27]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7552675
+[07:15:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:15:42] 
+[187/200] GREENHOUSE | Cockroach Labs — Partner Sales Manager - IBM OEM Partnership, AMER (score=60.0)
+[07:15:42]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7578451
+[07:15:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:15:56] 
+[188/200] GREENHOUSE | Cockroach Labs — Principal Partner Solutions Architect - Distribute (score=60.0)
+[07:15:56]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7078896
+[07:16:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:16:11] 
+[189/200] GREENHOUSE | Samsara — Account Development Representative - DACH (score=60.0)
+[07:16:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7618026
+[07:16:24]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:16:27] 
+[190/200] GREENHOUSE | Samsara — Account Executive, Commercial (score=60.0)
+[07:16:27]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7612441
+[07:16:39]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:16:39] --- Progress: 190/200 | OK=103 FAIL=87 CODE=0 | 40.7min ---
+[07:16:42] 
+[191/200] GREENHOUSE | Samsara — Account Executive, Commercial - Mexico (score=60.0)
+[07:16:42]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7516554
+[07:16:54]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:16:57] 
+[192/200] GREENHOUSE | Samsara — Account Executive, Majors (Select) - UK&I (score=60.0)
+[07:16:57]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7266224
+[07:17:09]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:17:12] 
+[193/200] GREENHOUSE | Samsara — Account Executive, Mid Market (Midwest) (score=60.0)
+[07:17:12]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7609126
+[07:17:24]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:17:27] 
+[194/200] GREENHOUSE | Samsara — Account Executive, Mid Market (Northeast) (score=60.0)
+[07:17:27]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7609147
+[07:17:38]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:17:41] 
+[195/200] GREENHOUSE | Samsara — Account Executive, Mid Market (Southeast) (score=60.0)
+[07:17:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7609156
+[07:17:53]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:17:56] 
+[196/200] GREENHOUSE | Samsara — Account Executive, Mid Market (TOLA) (score=60.0)
+[07:17:56]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7608969
+[07:18:06]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:18:09] 
+[197/200] GREENHOUSE | Samsara — Account Executive, Mid Market (West) (score=60.0)
+[07:18:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7609057
+[07:18:22]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:18:26] 
+[198/200] GREENHOUSE | Samsara — Account Executive, Select - France (score=60.0)
+[07:18:26]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7266220
+[07:18:37]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:18:40] 
+[199/200] GREENHOUSE | Samsara — Accounts Payable Specialist (score=60.0)
+[07:18:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7675186
+[07:18:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:18:55] 
+[200/200] GREENHOUSE | Samsara — AI Self-Service Program Manager (score=60.0)
+[07:18:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7339920
+[07:19:07]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:19:07] --- Progress: 200/200 | OK=113 FAIL=87 CODE=0 | 43.1min ---
+[07:19:07] 
+======================================================================
+[07:19:07] WRAITH APPLY SWARM DONE — 43.1min
+[07:19:07]   Success: 113
+[07:19:07]   Failed: 87
+[07:19:07]   Needs code: 0
+[07:19:07]   Rate: 4.6 apps/min
+[07:19:07] ======================================================================

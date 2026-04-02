@@ -72,8 +72,8 @@ def get_viable_jobs(platform=None, min_score=60.0, status="new", limit=0):
     q = "SELECT * FROM jobs WHERE status = ? AND fit_score >= ?"
     params = [status, min_score]
     if platform:
-        q += " AND source = ?"
-        params.append(platform)
+        q += " AND source LIKE ?"
+        params.append(platform + "%")
     q += " ORDER BY fit_score DESC"
     if limit > 0:
         q += f" LIMIT {limit}"

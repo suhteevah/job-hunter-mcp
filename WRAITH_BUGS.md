@@ -126,6 +126,24 @@
 - **Implemented** in `engine_cdp.rs` lines 539-688. Uses `Page.getFrameTree()` + isolated worlds to extract iframe DOM and merge into parent snapshot.
 - **Also**: BUG-2 is now resolved — embed URLs render full forms directly, making iframe extraction less critical.
 
+### FR-5: JS-rendered enterprise career sites (Radancy, Workday, Phenom, Algolia) — IN PROGRESS
+- **Severity**: P2 (blocks scraping Boeing, Raytheon, L3Harris, Northrop, Lockheed, MITRE)
+- **Status**: Radancy, Phenom, and Workday being added as native **hydrators** in Wraith. ETA: imminent (Matt pushing fix).
+- **Problem**: Major defense contractors and enterprises use JS-heavy career sites that return empty/shell HTML to both native engine and FlareSolverr:
+  - **Radancy/TMP Worldwide** (Boeing, L3Harris, Raytheon/RTX): `jobs.boeing.com`, `careers.l3harris.com`, `careers.rtx.com` — search results are JS-rendered, native engine gets HTML shell with 0 job elements
+  - **Workday** (Honeywell `wd5.myworkdayjobs.com`): React SPA, returns 34KB HTML shell, job listings rendered by JS. CSRF-blocks API calls. (Workaround found: Honeywell also uses Oracle HCM which works)
+  - **Phenom People** (MITRE): JS-rendered job listings
+  - **Algolia search** (Lockheed Martin): Search config embedded in JS bundles, not in HTML
+- **Expected**: `browse_navigate_cdp` should render these sites fully (they work in a real Chrome browser)
+- **Current**: CDP may work but hasn't been tested against these specific sites. Native engine returns empty results.
+- **Impact**: ~5 major defense contractors with thousands of SWE/firmware/embedded jobs inaccessible
+- **Test URLs**:
+  - `https://jobs.boeing.com/search?keyword=software+engineer`
+  - `https://careers.l3harris.com/en/search-jobs?keyword=software+engineer`
+  - `https://careers.rtx.com/en/search-jobs?keyword=software+engineer`
+  - `https://honeywell.wd5.myworkdayjobs.com/en-US/Honeywell/jobs?q=software+engineer`
+  - `https://careers.mitre.org/us/en/search-results?keywords=software+engineer`
+
 ### FR-4: Engine context isolation / parallel sessions — SHIPPED
 - **Implemented** in `pool.rs` with full `EnginePool` architecture: session-sticky routing, LRU idle selection, Draining state cleanup, health checks, and metrics.
 - **Verified 2026-03-22**: Switched native (Indeed) → CDP (Ashby) without crash or stale state. Engine status correctly tracks active engine.

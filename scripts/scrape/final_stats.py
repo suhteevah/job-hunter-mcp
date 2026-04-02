@@ -1,0 +1,15 @@
+import sqlite3, sys
+sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+conn = sqlite3.connect(r'C:\Users\Matt\.job-hunter-mcp\jobs.db')
+cur = conn.cursor()
+cur.execute('SELECT COUNT(*) FROM jobs')
+print(f'Total jobs: {cur.fetchone()[0]}')
+cur.execute("SELECT COUNT(*) FROM jobs WHERE status='new'")
+print(f'New/unprocessed: {cur.fetchone()[0]}')
+cur.execute("SELECT COUNT(*) FROM jobs WHERE fit_score IS NULL OR fit_score=0")
+print(f'Unscored/zero: {cur.fetchone()[0]}')
+print('By source (top 30):')
+cur.execute('SELECT source, COUNT(*) FROM jobs GROUP BY source ORDER BY COUNT(*) DESC LIMIT 30')
+for r in cur.fetchall():
+    print(f'  {r[0]}: {r[1]}')
+conn.close()

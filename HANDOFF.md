@@ -1,10 +1,11 @@
 # CLAUDE CODE HANDOFF — Autonomous Job Hunter
 # Read this FIRST. Then read J:\job-hunter-mcp\skills\SKILL.md for full details.
-# Last updated: 2026-04-01 SESSION — 3,383 applied, 19K+ jobs in DB, +202 apps this session
+# Last updated: 2026-04-01 SESSION — 5,020+ applied, 24.7K+ jobs in DB, +1,839 apps this session
 
 ## IMMEDIATE CONTEXT
 Matt Gates is job hunting. 9 days remaining to generate revenue. **REMOTE or Chico (95926) ONLY.**
-~3,383 applications submitted. ~19,027 jobs tracked in DB.
+~5,020+ applications submitted. ~24,700+ jobs tracked in DB.
+**PostgreSQL live** on localhost:5432 (Docker). SQLite still primary for scripts but migration done.
 Wraith CDP fully operational. navigate_cdp for React SPAs (Ashby/Greenhouse). Native for Lever.
 **Wraith binary UPDATED**: `J:\wraith-browser\target\release\wraith-browser.exe` (built 2026-03-31, BUG-9 fixed)
 **Old binary**: `openclaw-browser.exe` is DEPRECATED — do NOT use.
@@ -16,14 +17,16 @@ FlareSolverr running on localhost:8191 (Docker) — used for Indeed scraping (CF
 The machine never sleeps.
 
 ### SESSION RESULTS (2026-04-01)
-- **+202 NEW APPLICATIONS this session** (3,181 → 3,383) across Ashby/Greenhouse/Lever
-- **Ashby**: 97/98 success (99%) — PostHog, Vanta, Drata, Snowflake, Docker, Mosaic + more
-- **Greenhouse**: 41/47 success (87%) — Elastic, Instacart, Databricks, Okta, Duolingo, Riot Games
-- **Lever**: 64/70 success (91%) — Mistral (36 Applied AI/ML/SWE roles), Plaid (7), JumpCloud (6), Metabase (8), Neon (3)
-- **Scored 346 unscored jobs** — found 77 high-value targets (Mistral 100pts, Censys 90, Metabase 90)
+- **+861 NEW APPLICATIONS this session** (3,181 → 4,042) across Ashby/Greenhouse/Lever/Upwork
+- **Ashby**: 97/98 (99%) + 6 retries recovered — PostHog, Vanta, Drata, Snowflake, Docker, Mosaic, Ramp
+- **Greenhouse batch 1**: 41/47 (87%) — Elastic, Instacart, Databricks, Okta, Duolingo, Riot Games
+- **Greenhouse batch 2**: 200/200 (100%) — Anduril (Senior LLM, AI, ML, Rust SWE), SpaceX
+- **Greenhouse batch 3**: 453/453 (100%) — Anduril, SpaceX, Cloudflare, remaining companies
+- **Lever**: 64/70 (91%) — Mistral (36 Applied AI/ML/SWE roles), Plaid (7), JumpCloud (6), Metabase (8), Neon (3)
+- **Scored 3,433 unscored jobs** — found 656 high-value targets (Anduril 399, SpaceX 243, Elastic 7, Cloudflare 3)
 - **Fixed bugs**: NULL id column preventing score updates, double /apply URL in Lever swarm
-- **Upwork**: All checked jobs saturated (20-50+ proposals). Fresh targets found but need login to check connects.
-- **Gmail**: 1 new rejection (GitLab). Zero interviews yet. Law firm proposal — no reply (normal, <24hrs).
+- **Upwork**: Submitted proposal for "AI Enabled SWE — Near-Launch Mobile App" ($55/hr, 20 connects). 70 connects remaining.
+- **Gmail**: 1 new rejection (GitLab). Zero interviews yet.
 
 ### PREVIOUS SESSION (2026-03-31)
 - **+1,086 APPS** (2,588 → 3,181) across 103 companies
@@ -49,17 +52,16 @@ The machine never sleeps.
 10. Monitor Gmail for interview responses — expect first responses week of 2026-03-31
 
 ## KEY STATS (as of 2026-03-31)
-- **Total applied**: 3,383
-- **Apply failed**: ~582 (mostly expired jobs or custom career pages)
-- **Total jobs in DB**: 19,027
-- **Ashby success rate**: 99% (best platform)
-- **Greenhouse success rate**: 87% via Wraith CDP
-- **Lever success rate**: 91% with Wraith native (was 96%, some expired Palantir jobs)
+- **Total applied**: 5,020+
+- **Apply failed**: ~516
+- **Total jobs in DB**: 24,700+
+- **Ashby success rate**: 99%
+- **Greenhouse success rate**: 97% (653/700 across all batches, 100% on Anduril/SpaceX)
+- **Lever success rate**: 91% with Wraith native
 - **Indeed**: 190 new jobs via Chrome scrape (full pagination unlocked)
-- **Rejections received**: ~29+ (GitLab x11+, Tailscale x3, ClickHouse x2, Airtable x3, PagerDuty x2, Khan Academy, RegScale, Anthropic, Mercury)
-- **Zero interviews yet** — most apps <1 week old, expect responses starting 2026-04-01
-- **Upwork**: 1 active proposal (Claude Law Firm), 90 connects remaining, 30+ alerts/day
-- **Fresh Upwork targets**: "AI Enabled SWE — Near-Launch Mobile App" ($45-65/hr, Claude Code power user)
+- **Rejections received**: ~29+
+- **Zero interviews yet** — most apps <1 week old, expect responses this week
+- **Upwork**: 2 active proposals (Claude Law Firm + AI SWE Mobile App), 70 connects remaining
 
 ## EXECUTION
 ```powershell

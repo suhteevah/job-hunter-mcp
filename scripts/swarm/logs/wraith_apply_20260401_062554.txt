@@ -1,0 +1,43 @@
+[06:25:54] ======================================================================
+[06:25:54] WRAITH CDP APPLY SWARM
+[06:25:54] ======================================================================
+[06:25:54]   greenhouse: 8 jobs
+[06:25:54] Total: 8 jobs
+[06:25:54] Starting Wraith MCP client...
+[06:25:58] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[06:25:58] 
+[1/8] GREENHOUSE | Reddit — Senior Machine Learning Engineer, Ads (score=95.0)
+[06:26:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:26:12] 
+[2/8] GREENHOUSE | Reddit — Senior Machine Learning Engineer, Ads (score=95.0)
+[06:26:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:26:28] 
+[3/8] GREENHOUSE | Reddit — Staff Machine Learning Engineer, Consumer  (score=95.0)
+[06:26:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:26:45] 
+[4/8] GREENHOUSE | Reddit — Machine Learning Engineer, Ads (score=90.0)
+[06:27:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:27:04] 
+[5/8] GREENHOUSE | Reddit — Machine Learning Engineer, Ads (score=90.0)
+[06:27:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:27:20] 
+[6/8] GREENHOUSE | SoFi — Principal Software Engineer, Loans Originations (score=65.0)
+[06:27:20]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7575386003
+[06:27:36]   >>> SUCCESS: Wraith verified: likely success <<<
+[06:27:39] 
+[7/8] GREENHOUSE | Reddit — Senior Counsel, Ads Product and Commercial Partner (score=65.0)
+[06:27:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:27:58] 
+[8/8] GREENHOUSE | Reddit — Staff Android Engineer, Home Experience (score=65.0)
+[06:28:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[06:28:12] 
+======================================================================
+[06:28:12] WRAITH APPLY SWARM DONE — 2.2min
+[06:28:12]   Success: 8
+[06:28:12]   Failed: 0
+[06:28:12]   Needs code: 0
+[06:28:12]   Rate: 3.6 apps/min
+[06:28:12] ======================================================================

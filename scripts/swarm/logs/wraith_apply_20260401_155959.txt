@@ -1,0 +1,45 @@
+[15:59:59] ======================================================================
+[15:59:59] WRAITH CDP APPLY SWARM
+[15:59:59] ======================================================================
+[15:59:59]   greenhouse: 8 jobs
+[15:59:59] Total: 8 jobs
+[15:59:59] Starting Wraith MCP client...
+[16:00:03] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[16:00:03] 
+[1/8] GREENHOUSE | Lattice — Product Security Engineer (score=70.0)
+[16:00:03]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8485286002
+[16:00:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:00:19] 
+[2/8] GREENHOUSE | Databricks — Sr. Enterprise Security Engineer (score=70.0)
+[16:00:19]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8479031002
+[16:00:34]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:00:37] 
+[3/8] GREENHOUSE | Honeycomb — Staff Solution Architect  (score=65.0)
+[16:01:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:01:03] 
+[4/8] GREENHOUSE | Honeycomb — Staff Solution Architect  (score=65.0)
+[16:01:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:01:20] 
+[5/8] GREENHOUSE | Honeycomb — Staff Solution Architect - EMEA (score=65.0)
+[16:01:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:01:52] 
+[6/8] GREENHOUSE | Honeycomb — Staff Solution Architect - EMEA (score=65.0)
+[16:02:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:02:24] 
+[7/8] GREENHOUSE | Netlify — Senior UX Engineer  (score=65.0)
+[16:02:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[16:02:56] 
+[8/8] GREENHOUSE | Databricks — Sr. Executive Assistant (score=60.0)
+[16:02:56]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8449864002
+[16:03:07]   >>> SUCCESS: Wraith verified: likely success <<<
+[16:03:07] 
+======================================================================
+[16:03:07] WRAITH APPLY SWARM DONE — 3.1min
+[16:03:07]   Success: 8
+[16:03:07]   Failed: 0
+[16:03:07]   Needs code: 0
+[16:03:07]   Rate: 2.6 apps/min
+[16:03:07] ======================================================================

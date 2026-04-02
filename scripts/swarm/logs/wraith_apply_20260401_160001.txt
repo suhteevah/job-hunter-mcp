@@ -1,0 +1,22 @@
+[16:00:01] ======================================================================
+[16:00:01] WRAITH CDP APPLY SWARM
+[16:00:01] ======================================================================
+[16:00:01]   ashby: 1 jobs
+[16:00:01] Total: 1 jobs
+[16:00:01] Starting Wraith MCP client...
+[16:00:05] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[16:00:05] 
+[1/1] ASHBY | Deel — Senior Compensation Partner (score=65.0)
+[16:00:20]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[16:00:20] 
+======================================================================
+[16:00:20] WRAITH APPLY SWARM DONE — 0.3min
+[16:00:20]   Success: 1
+[16:00:20]   Failed: 0
+[16:00:20]   Needs code: 0
+[16:00:20]   Rate: 3.8 apps/min
+[16:00:20] ======================================================================

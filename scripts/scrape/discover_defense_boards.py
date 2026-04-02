@@ -210,7 +210,9 @@ def insert_jobs(jobs_to_insert: list[dict]) -> int:
     """Insert jobs into DB. Returns count of newly inserted."""
     if not jobs_to_insert:
         return 0
-    conn = sqlite3.connect(DB_PATH)
+    conn = sqlite3.connect(DB_PATH, timeout=60)
+    conn.execute("PRAGMA journal_mode=WAL")
+    conn.execute("PRAGMA busy_timeout=60000")
     cur = conn.cursor()
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     inserted = 0

@@ -279,12 +279,45 @@ def insert_jobs(conn: sqlite3.Connection, jobs_to_insert: list[dict]) -> int:
                 inserted += 1
         except sqlite3.IntegrityError:
             pass
-    conn.commit()
+        except sqlite3.OperationalError:
+            # DB locked — wait and retry
+            import time
+            time.sleep(2)
+            try:
+                cur.execute(
+                    """INSERT OR IGNORE INTO jobs
+                       (id, source, source_id, title, company, url, location,
+                        salary, job_type, category, description, tags,
+                        date_posted, date_found, fit_score, fit_reason,
+                        status, notes, cover_letter, applied_date)
+                       VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+                    (
+                        jid, j["source"], j["source_id"], j["title"], j["company"],
+                        j["url"], j.get("location", ""), j.get("salary", ""),
+                        j.get("job_type", ""), j.get("category", ""),
+                        "", "",
+                        j.get("date_posted", ""), now,
+                        0.0, "", "new", "", "", "",
+                    ),
+                )
+                if cur.rowcount > 0:
+                    inserted += 1
+            except Exception:
+                pass
+    for attempt in range(10):
+        try:
+            conn.commit()
+            break
+        except sqlite3.OperationalError:
+            import time
+            time.sleep(3)
     return inserted
 
 
 def main():
-    conn = sqlite3.connect(DB_PATH)
+    conn = sqlite3.connect(DB_PATH, timeout=60)
+    conn.execute("PRAGMA journal_mode=WAL")
+    conn.execute("PRAGMA busy_timeout=60000")
 
     total_new = 0
     lever_boards = []

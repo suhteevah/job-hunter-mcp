@@ -1,0 +1,1080 @@
+[18:25:32] ======================================================================
+[18:25:32] WRAITH CDP APPLY SWARM
+[18:25:32] ======================================================================
+[18:25:32]   greenhouse: 300 jobs
+[18:25:32] Total: 300 jobs
+[18:25:32] Starting Wraith MCP client...
+[18:25:36] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[18:25:36] 
+[1/300] GREENHOUSE | Datadog — Senior Generative AI Engineer (score=100.0)
+[18:25:36]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7731306
+[18:25:47]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:25:50] 
+[2/300] GREENHOUSE | Datadog — Staff AI Engineer - Cloud FinOps (score=100.0)
+[18:25:50]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7752299
+[18:26:02]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:26:05] 
+[3/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (Streaming Infra (score=100.0)
+[18:26:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:26:19] 
+[4/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (Streaming Infra (score=100.0)
+[18:26:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:26:33] 
+[5/300] GREENHOUSE | Affirm — Senior Staff Machine Learning Engineer, (ML Underw (score=100.0)
+[18:26:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:26:48] 
+[6/300] GREENHOUSE | Affirm — Senior Staff Machine Learning Engineer, (ML Underw (score=100.0)
+[18:27:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:27:03] 
+[7/300] GREENHOUSE | Webflow — Staff Software Engineer, Applied AI (score=100.0)
+[18:27:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:27:18] 
+[8/300] GREENHOUSE | Roblox — [2026] Senior Machine Learning Engineer, AI Platfo (score=100.0)
+[18:27:18]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7403998
+[18:27:30]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:27:33] 
+[9/300] GREENHOUSE | Addepar — Sr. Software Engineer - AI/ML - AI Platform (score=100.0)
+[18:27:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:27:46] 
+[10/300] GREENHOUSE | Datadog — Staff AI Engineer - Notebooks  (score=95.0)
+[18:27:46]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7627429
+[18:27:57]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:27:57] --- Progress: 10/300 | OK=10 FAIL=0 CODE=0 | 2.4min ---
+[18:28:00] 
+[11/300] GREENHOUSE | SeatGeek — Senior Machine Learning Engineer (score=95.0)
+[18:28:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7246460
+[18:28:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:28:16] 
+[12/300] GREENHOUSE | Temporal — Senior Staff Software Engineer, Infrastructure (score=95.0)
+[18:28:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:28:30] 
+[13/300] GREENHOUSE | Datadog — Senior Software Engineer - AI Platform (score=90.0)
+[18:28:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7043352
+[18:28:43]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:28:46] 
+[14/300] GREENHOUSE | Datadog — Senior Software Engineer, AI Platform - Evaluation (score=90.0)
+[18:28:46]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7050512
+[18:28:58]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:29:01] 
+[15/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (Affirm Card) (score=90.0)
+[18:29:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:29:16] 
+[16/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (Comms Platform) (score=90.0)
+[18:29:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:29:31] 
+[17/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (Comms Platform) (score=90.0)
+[18:29:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:29:48] 
+[18/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (Growth Platform (score=90.0)
+[18:30:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:30:03] 
+[19/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (Merchant Advoca (score=90.0)
+[18:30:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:30:21] 
+[20/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (Merchant Advoca (score=90.0)
+[18:30:33]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:30:33] --- Progress: 20/300 | OK=20 FAIL=0 CODE=0 | 4.9min ---
+[18:30:36] 
+[21/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (Merchant Data P (score=90.0)
+[18:30:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:30:51] 
+[22/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (Merchant Data P (score=90.0)
+[18:31:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:31:08] 
+[23/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (Merchant Interf (score=90.0)
+[18:31:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:31:24] 
+[24/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (Merchant Interf (score=90.0)
+[18:31:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:31:38] 
+[25/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (PMI Integration (score=90.0)
+[18:31:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:31:54] 
+[26/300] GREENHOUSE | Affirm — Senior Software Engineer, Backend (PMI Integration (score=90.0)
+[18:32:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:32:10] 
+[27/300] GREENHOUSE | Affirm — Senior Software Engineer, Fullstack (Consumer Engi (score=90.0)
+[18:32:23]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:32:26] 
+[28/300] GREENHOUSE | Affirm — Senior Software Engineer, Fullstack (Consumer Engi (score=90.0)
+[18:32:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:32:41] 
+[29/300] GREENHOUSE | Affirm — Senior Software Engineer, Fullstack (Open Banking) (score=90.0)
+[18:32:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:32:56] 
+[30/300] GREENHOUSE | Affirm — Senior Software Engineer, Full-Stack (Trust & Safe (score=90.0)
+[18:33:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:33:10] --- Progress: 30/300 | OK=30 FAIL=0 CODE=0 | 7.6min ---
+[18:33:13] 
+[31/300] GREENHOUSE | Affirm — Staff Software Engineer, Backend (Deal reporting)  (score=90.0)
+[18:33:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:33:29] 
+[32/300] GREENHOUSE | Affirm — Staff Software Engineer, Backend (Deal Reporting) (score=90.0)
+[18:33:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:33:45] 
+[33/300] GREENHOUSE | Affirm — Staff Software Engineer, Backend (Growth Platform) (score=90.0)
+[18:33:58]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:34:01] 
+[34/300] GREENHOUSE | Affirm — Staff Software Engineer, Backend (Growth Platform) (score=90.0)
+[18:34:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:34:15] 
+[35/300] GREENHOUSE | Affirm — Staff Software Engineer, Backend (Streaming)    (score=90.0)
+[18:34:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:34:34] 
+[36/300] GREENHOUSE | Affirm — Staff Software Engineer, Backend (Streaming)    (score=90.0)
+[18:34:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:34:49] 
+[37/300] GREENHOUSE | Webflow — Lead AI Engineer, Enterprise AI Operations (score=90.0)
+[18:35:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:35:04] 
+[38/300] GREENHOUSE | Webflow — Senior Security Engineer, Infrastructure & Automat (score=90.0)
+[18:35:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:35:17] 
+[39/300] GREENHOUSE | Webflow — Senior Software Engineer, Fullstack (score=90.0)
+[18:35:29]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:35:32] 
+[40/300] GREENHOUSE | Toast — Senior Software Engineer (Backend), Menus (score=90.0)
+[18:35:32]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7589132
+[18:35:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:35:44] --- Progress: 40/300 | OK=40 FAIL=0 CODE=0 | 10.1min ---
+[18:35:47] 
+[41/300] GREENHOUSE | Toast — Senior Software Engineer (Backend), Payments    (score=90.0)
+[18:35:47]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7599843
+[18:36:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:36:03] 
+[42/300] GREENHOUSE | Toast — Staff Software Engineer - Application Infrastructu (score=90.0)
+[18:36:03]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7727235
+[18:36:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:36:18] 
+[43/300] GREENHOUSE | Toast — Staff Software Engineer (Backend), Payments (score=90.0)
+[18:36:18]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7746979
+[18:36:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:36:33] 
+[44/300] GREENHOUSE | Temporal — Senior Software Engineer, DevProd (Infrastructure  (score=90.0)
+[18:36:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:36:48] 
+[45/300] GREENHOUSE | Temporal — Staff Software Engineer, DevProd (Infrastructure O (score=90.0)
+[18:37:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:37:03] 
+[46/300] GREENHOUSE | Flex — Senior Software Engineer, Backend (score=90.0)
+[18:37:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:37:18] 
+[47/300] GREENHOUSE | Flex — Senior Software Engineer, Backend (score=90.0)
+[18:37:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:37:35] 
+[48/300] GREENHOUSE | Flex — Senior Software Engineer, Fullstack (score=90.0)
+[18:37:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:37:51] 
+[49/300] GREENHOUSE | Flex — Staff Software Engineer, FinPlatform Backend (score=90.0)
+[18:38:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:38:06] 
+[50/300] GREENHOUSE | Datadog — Senior AI Engineer (score=85.0)
+[18:38:06]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7731292
+[18:38:17]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:38:17] --- Progress: 50/300 | OK=50 FAIL=0 CODE=0 | 12.7min ---
+[18:38:20] 
+[51/300] GREENHOUSE | Datadog — Senior AI Engineer - AI Developer Workflows (score=85.0)
+[18:38:20]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7097751
+[18:38:32]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:38:35] 
+[52/300] GREENHOUSE | Datadog — Senior AI Engineer - APM Experiences (score=85.0)
+[18:38:35]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7440333
+[18:38:51]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:38:54] 
+[53/300] GREENHOUSE | Datadog — Senior AI Engineer - APM Features (score=85.0)
+[18:38:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7601886
+[18:39:06]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:39:09] 
+[54/300] GREENHOUSE | Datadog — Senior LLM Engineer (score=85.0)
+[18:39:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7731295
+[18:39:22]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:39:25] 
+[55/300] GREENHOUSE | Datadog — Staff AI Engineer - MCP Services (score=85.0)
+[18:39:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7584904
+[18:39:37]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:39:40] 
+[56/300] GREENHOUSE | Datadog — Staff AI Engineer - MCP Services (score=85.0)
+[18:39:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7584905
+[18:39:51]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:39:54] 
+[57/300] GREENHOUSE | Datadog — Staff AI Engineer - Notebooks  (score=85.0)
+[18:39:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7574626
+[18:40:06]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:40:09] 
+[58/300] GREENHOUSE | Datadog — Staff AI Engineer - Notebooks  (score=85.0)
+[18:40:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7574412
+[18:40:21]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:40:24] 
+[59/300] GREENHOUSE | Affirm — Software Engineer I, Backend (Purchasing Power) (score=85.0)
+[18:40:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:40:41] 
+[60/300] GREENHOUSE | Affirm — Software Engineer I, Full Stack (Consumer Engineer (score=85.0)
+[18:40:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:40:53] --- Progress: 60/300 | OK=60 FAIL=0 CODE=0 | 15.3min ---
+[18:40:56] 
+[61/300] GREENHOUSE | Affirm — Software Engineer II, Backend (Affirm Card) (score=85.0)
+[18:41:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:41:12] 
+[62/300] GREENHOUSE | Affirm — Software Engineer II, Backend (AI Agents) (score=85.0)
+[18:41:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:41:27] 
+[63/300] GREENHOUSE | Affirm — Software Engineer II, Backend (Consumer Authentica (score=85.0)
+[18:41:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:41:43] 
+[64/300] GREENHOUSE | Affirm — Software Engineer II, Backend (Consumer Engineerin (score=85.0)
+[18:41:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:42:00] 
+[65/300] GREENHOUSE | Affirm — Software Engineer II, Backend (Credit Decisioning) (score=85.0)
+[18:42:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:42:16] 
+[66/300] GREENHOUSE | Affirm — Software Engineer II, Backend (Credit Decisioning) (score=85.0)
+[18:42:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:42:31] 
+[67/300] GREENHOUSE | Affirm — Software Engineer II, Backend (Fraud) (score=85.0)
+[18:42:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:42:47] 
+[68/300] GREENHOUSE | Affirm — Software Engineer II, Backend (Identity Decisionin (score=85.0)
+[18:42:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:43:02] 
+[69/300] GREENHOUSE | Affirm — Software Engineer II, Backend (Identity Decisionin (score=85.0)
+[18:43:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:43:17] 
+[70/300] GREENHOUSE | Affirm — Software Engineer II, Backend (Marketplace Perform (score=85.0)
+[18:43:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:43:31] --- Progress: 70/300 | OK=70 FAIL=0 CODE=0 | 17.9min ---
+[18:43:34] 
+[71/300] GREENHOUSE | Affirm — Software Engineer II, Backend (Repayment UX Engine (score=85.0)
+[18:43:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:43:48] 
+[72/300] GREENHOUSE | Affirm — Software Engineer II, Backend (Repayment UX Engine (score=85.0)
+[18:44:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:44:05] 
+[73/300] GREENHOUSE | DoorDash — Principal Engineer, AI/ML Platform (score=85.0)
+[18:44:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:44:20] 
+[74/300] GREENHOUSE | DoorDash — Principal Machine Learning Engineer, Ads & Promos  (score=85.0)
+[18:44:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:44:37] 
+[75/300] GREENHOUSE | DoorDash — Staff Machine Learning Engineer - DashPass (score=85.0)
+[18:44:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:44:54] 
+[76/300] GREENHOUSE | DoorDash — Staff Machine Learning Engineer, Money (Founding M (score=85.0)
+[18:45:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:45:10] 
+[77/300] GREENHOUSE | Webflow — Senior Staff Engineer - Infrastructure and Archite (score=85.0)
+[18:45:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:45:25] 
+[78/300] GREENHOUSE | SeatGeek — Senior Machine Learning Engineer (score=85.0)
+[18:45:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7246461
+[18:45:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:45:40] 
+[79/300] GREENHOUSE | SeatGeek — Senior Software Engineer, Cloud Platform (score=85.0)
+[18:45:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7586653
+[18:45:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:45:55] 
+[80/300] GREENHOUSE | Roblox — [2026] Senior Machine Learning Engineer, Account I (score=85.0)
+[18:45:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7473686
+[18:46:08]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:46:08] --- Progress: 80/300 | OK=80 FAIL=0 CODE=0 | 20.5min ---
+[18:46:11] 
+[81/300] GREENHOUSE | Roblox — [2026] Senior Machine Learning Engineer,  Engine O (score=85.0)
+[18:46:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7421746
+[18:46:25]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:46:28] 
+[82/300] GREENHOUSE | Roblox — [2026] Senior Machine Learning Engineer, Multimoda (score=85.0)
+[18:46:28]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7323437
+[18:46:40]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:46:43] 
+[83/300] GREENHOUSE | Roblox — [2026] Senior Machine Learning Engineer, Natural L (score=85.0)
+[18:46:43]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7324377
+[18:46:55]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:46:58] 
+[84/300] GREENHOUSE | Roblox — [2026] Senior Machine Learning Engineer, Recommend (score=85.0)
+[18:46:58]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7350081
+[18:47:10]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:47:14] 
+[85/300] GREENHOUSE | Roblox — Principal Machine Learning Engineer, Alt Defense (score=85.0)
+[18:47:14]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7565086
+[18:47:27]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:47:30] 
+[86/300] GREENHOUSE | Roblox — Principal Machine Learning Engineer, Communication (score=85.0)
+[18:47:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7347389
+[18:47:41]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:47:45] 
+[87/300] GREENHOUSE | Roblox — Principal Machine Learning Engineer, Embodied AI a (score=85.0)
+[18:47:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7629843
+[18:47:56]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:47:59] 
+[88/300] GREENHOUSE | Roblox — Principal Machine Learning Engineer, Engineering E (score=85.0)
+[18:47:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7669310
+[18:48:12]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:48:15] 
+[89/300] GREENHOUSE | Roblox — Principal Machine Learning Engineer - Reliability  (score=85.0)
+[18:48:15]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7682993
+[18:48:27]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:48:30] 
+[90/300] GREENHOUSE | Roblox — Principal Machine Learning Engineer, Safety Experi (score=85.0)
+[18:48:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7272668
+[18:48:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:48:42] --- Progress: 90/300 | OK=90 FAIL=0 CODE=0 | 23.1min ---
+[18:48:45] 
+[91/300] GREENHOUSE | Roblox — Senior Data Scientist - Generative AI (score=85.0)
+[18:48:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7420848
+[18:48:57]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:49:00] 
+[92/300] GREENHOUSE | Roblox — Senior Machine Learning Engineer, Ads (score=85.0)
+[18:49:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7351220
+[18:49:12]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:49:15] 
+[93/300] GREENHOUSE | Roblox — Senior Machine Learning Engineer, Economy (score=85.0)
+[18:49:15]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7573319
+[18:49:29]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:49:32] 
+[94/300] GREENHOUSE | Roblox — Senior Machine Learning Engineer, Home Modeling (score=85.0)
+[18:49:32]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7562965
+[18:49:43]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:49:47] 
+[95/300] GREENHOUSE | Roblox — Senior Machine Learning Engineer, Safety Core Data (score=85.0)
+[18:49:47]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7543090
+[18:50:01]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:50:04] 
+[96/300] GREENHOUSE | Roblox — Senior Talent Business Partner, Early Career - AI/ (score=85.0)
+[18:50:04]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7616745
+[18:50:15]   >>> SUCCESS: Wraith verified: likely success <<<
+[18:50:18] 
+[97/300] GREENHOUSE | Buildkite — Senior Machine Learning Engineer (score=85.0)
+[18:50:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:50:35] 
+[98/300] GREENHOUSE | Tanium — Senior Cloud Cybersecurity Engineer (score=85.0)
+[18:50:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:50:52] 
+[99/300] GREENHOUSE | Temporal — Senior Software Engineer, Cloud Capacity (score=85.0)
+[18:51:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:51:08] 
+[100/300] GREENHOUSE | Temporal — Senior Software Engineer, Cloud Data Storage (score=85.0)
+[18:51:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:51:22] --- Progress: 100/300 | OK=100 FAIL=0 CODE=0 | 25.8min ---
+[18:51:25] 
+[101/300] GREENHOUSE | Temporal — Senior Software Engineer, Cloud Enablement  (score=85.0)
+[18:51:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:51:39] 
+[102/300] GREENHOUSE | Temporal — Senior Software Engineer, Cloud Growth (score=85.0)
+[18:51:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:51:53] 
+[103/300] GREENHOUSE | Temporal — Senior Software Engineer, Temporal Cloud (score=85.0)
+[18:52:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:52:10] 
+[104/300] GREENHOUSE | Temporal — Staff Software Engineer, Cloud Capacity (score=85.0)
+[18:52:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:52:26] 
+[105/300] GREENHOUSE | Temporal — Staff Software Engineer, Cloud Data Storage (score=85.0)
+[18:52:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:52:41] 
+[106/300] GREENHOUSE | Temporal — Staff Software Engineer - Cloud Global Services (score=85.0)
+[18:52:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:52:58] 
+[107/300] GREENHOUSE | Temporal — Staff Software Engineer, Compute (Temporal Cloud) (score=85.0)
+[18:53:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:53:13] 
+[108/300] GREENHOUSE | Motive — Software Engineer - AI Platform (score=85.0)
+[18:53:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:53:28] 
+[109/300] GREENHOUSE | Datadog — Senior Backend Software Engineer - Product Analyti (score=80.0)
+[18:53:28]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7547361
+[18:53:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:53:54] 
+[110/300] GREENHOUSE | Datadog — Senior Software Engineer - Backend & Scalability (score=80.0)
+[18:53:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7083878
+[18:54:23]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:54:23] --- Progress: 110/300 | OK=110 FAIL=0 CODE=0 | 28.8min ---
+[18:54:26] 
+[111/300] GREENHOUSE | Affirm — Staff Endpoint Engineer (Client Platform Engineeri (score=80.0)
+[18:54:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:54:58] 
+[112/300] GREENHOUSE | Affirm — Staff Endpoint Engineer (Client Platform Engineeri (score=80.0)
+[18:55:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:55:30] 
+[113/300] GREENHOUSE | DoorDash — DashMart Team Member - Tallmadge (score=80.0)
+[18:55:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:55:48] 
+[114/300] GREENHOUSE | DoorDash — Machine Learning Engineer, Computer Vision (score=80.0)
+[18:56:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:56:04] 
+[115/300] GREENHOUSE | DoorDash — Machine Learning Engineer, Marketplace Optimizatio (score=80.0)
+[18:56:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:56:20] 
+[116/300] GREENHOUSE | DoorDash — Machine Learning Engineer - New Verticals - Search (score=80.0)
+[18:56:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:56:36] 
+[117/300] GREENHOUSE | DoorDash — Machine Learning Engineer, Reinforcement Learning (score=80.0)
+[18:56:47]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:56:50] 
+[118/300] GREENHOUSE | DoorDash — Shift Lead - Tallmadge (score=80.0)
+[18:57:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:57:06] 
+[119/300] GREENHOUSE | DoorDash — Staff Software Engineer, Backend (score=80.0)
+[18:57:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:57:21] 
+[120/300] GREENHOUSE | Webflow — Senior Backend Engineer, Assets (score=80.0)
+[18:57:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:57:32] --- Progress: 120/300 | OK=120 FAIL=0 CODE=0 | 31.9min ---
+[18:57:35] 
+[121/300] GREENHOUSE | Webflow — Senior Infrastructure Engineer (score=80.0)
+[18:57:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:57:53] 
+[122/300] GREENHOUSE | Webflow — Senior Staff Software Engineer, Compose & Localize (score=80.0)
+[18:58:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:58:08] 
+[123/300] GREENHOUSE | Webflow — Senior Trust & Safety Engineer (score=80.0)
+[18:58:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:58:25] 
+[124/300] GREENHOUSE | Toast — Senior Backend Engineer (score=80.0)
+[18:58:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7579629
+[18:58:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:58:40] 
+[125/300] GREENHOUSE | Toast — Senior Backend Engineer - Enterprise Financial Sys (score=80.0)
+[18:58:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7178660
+[18:58:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:58:57] 
+[126/300] GREENHOUSE | Toast — Senior Fullstack Engineer, New Ventures (score=80.0)
+[18:58:57]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7701507
+[18:59:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:59:12] 
+[127/300] GREENHOUSE | Toast — Senior Software Engineer - Full Stack  (score=80.0)
+[18:59:12]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7214485
+[18:59:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:59:27] 
+[128/300] GREENHOUSE | Toast — Senior Software Engineer,Full Stack (score=80.0)
+[18:59:27]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7731621
+[18:59:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:59:42] 
+[129/300] GREENHOUSE | Toast — Senior Software Engineer, Full Stack - Fintech (score=80.0)
+[18:59:42]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7571251
+[18:59:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[18:59:59] 
+[130/300] GREENHOUSE | Toast — Senior Software Engineer (Full Stack) - Guest Enga (score=80.0)
+[18:59:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7764304
+[19:00:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:00:11] --- Progress: 130/300 | OK=130 FAIL=0 CODE=0 | 34.6min ---
+[19:00:14] 
+[131/300] GREENHOUSE | Roblox — Distinguished Machine Learning Engineer - Safety (score=80.0)
+[19:00:14]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6606035
+[19:00:25]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:00:28] 
+[132/300] GREENHOUSE | Roblox — Principal Backend Software Engineer (score=80.0)
+[19:00:28]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7639617
+[19:00:40]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:00:43] 
+[133/300] GREENHOUSE | Roblox — Senior Backend Software Engineer (score=80.0)
+[19:00:43]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7579594
+[19:00:54]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:00:57] 
+[134/300] GREENHOUSE | Roblox — Senior Fullstack Software Engineer, Connections (score=80.0)
+[19:00:57]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7760129
+[19:01:08]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:01:11] 
+[135/300] GREENHOUSE | Roblox — Senior Security Software Engineer, Infrastructure  (score=80.0)
+[19:01:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7639742
+[19:01:23]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:01:26] 
+[136/300] GREENHOUSE | Roblox — Senior Software Engineer, Creator Trust (score=80.0)
+[19:01:26]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7558340
+[19:01:37]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:01:40] 
+[137/300] GREENHOUSE | Roblox — Senior Software Engineer - Engine Infrastructure (score=80.0)
+[19:01:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7377933
+[19:01:53]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:01:56] 
+[138/300] GREENHOUSE | Roblox — Senior Software Engineer, Fullstack (score=80.0)
+[19:01:56]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7540814
+[19:02:09]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:02:12] 
+[139/300] GREENHOUSE | Roblox — Senior Software Engineer - Fullstack, Account Iden (score=80.0)
+[19:02:12]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7600216
+[19:02:23]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:02:27] 
+[140/300] GREENHOUSE | Roblox — Senior Software Engineer - Infrastructure (score=80.0)
+[19:02:27]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7414380
+[19:02:38]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:02:39] --- Progress: 140/300 | OK=140 FAIL=0 CODE=0 | 37.0min ---
+[19:02:42] 
+[141/300] GREENHOUSE | Roblox — Senior Software Engineer, Sharing (Backend) (score=80.0)
+[19:02:42]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7675467
+[19:02:53]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:02:56] 
+[142/300] GREENHOUSE | Roblox — Sr Machine Learning Engineer - Safety Experience (score=80.0)
+[19:02:56]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7292063
+[19:03:09]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:03:12] 
+[143/300] GREENHOUSE | Roblox — Talent Business Partner, AI/ML  (score=80.0)
+[19:03:12]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7635674
+[19:03:22]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:03:25] 
+[144/300] GREENHOUSE | Roblox — Technical Sourcer, AI/ML, Short Term (score=80.0)
+[19:03:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7641394
+[19:03:37]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:03:40] 
+[145/300] GREENHOUSE | Tanium — Corporate AI Engineer (score=80.0)
+[19:03:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:03:55] 
+[146/300] GREENHOUSE | Tanium — Senior Software Engineer - Full Stack (score=80.0)
+[19:04:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:04:11] 
+[147/300] GREENHOUSE | Tanium — Sr. Cloud Cybersecurity Engineer (score=80.0)
+[19:04:23]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:04:26] 
+[148/300] GREENHOUSE | Temporal — Staff Developer Advocate, Platform Engineering (score=80.0)
+[19:04:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:04:41] 
+[149/300] GREENHOUSE | Flex — Senior Infrastructure Engineer (score=80.0)
+[19:04:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:04:58] 
+[150/300] GREENHOUSE | Datadog — Senior AI Engineer - Bits AI Security Analyst (score=75.0)
+[19:04:58]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7553034
+[19:05:10]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:05:10] --- Progress: 150/300 | OK=150 FAIL=0 CODE=0 | 39.6min ---
+[19:05:13] 
+[151/300] GREENHOUSE | Datadog — Senior Security Engineer, Security Incident Respon (score=75.0)
+[19:05:13]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7761259
+[19:05:25]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:05:28] 
+[152/300] GREENHOUSE | Datadog — Senior Software Engineer, Community Open Source En (score=75.0)
+[19:05:28]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7555524
+[19:05:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:05:45] 
+[153/300] GREENHOUSE | Datadog — Senior Software Engineer - Distributed Systems (score=75.0)
+[19:05:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=4599111
+[19:05:56]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:05:59] 
+[154/300] GREENHOUSE | Datadog — Staff Software Engineer - Cloud Networks (score=75.0)
+[19:05:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7699472
+[19:06:11]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:06:14] 
+[155/300] GREENHOUSE | Datadog — Staff Software Engineer - Distributed Systems (score=75.0)
+[19:06:14]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6830435
+[19:06:26]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:06:29] 
+[156/300] GREENHOUSE | Datadog — Staff Software Engineer – Logs Observability Pipel (score=75.0)
+[19:06:29]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7743369
+[19:06:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:06:45] 
+[157/300] GREENHOUSE | Datadog — Staff Software Engineer - Product Analytics (score=75.0)
+[19:06:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7627466
+[19:06:56]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:07:00] 
+[158/300] GREENHOUSE | Datadog — Staff Software Engineer - RUM Platform (score=75.0)
+[19:07:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7641251
+[19:07:12]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:07:15] 
+[159/300] GREENHOUSE | Chime — Backend Engineer (Chicago) (score=75.0)
+[19:07:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:07:30] 
+[160/300] GREENHOUSE | Chime — Senior Application Security Engineer (score=75.0)
+[19:07:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:07:42] --- Progress: 160/300 | OK=160 FAIL=0 CODE=0 | 42.1min ---
+[19:07:45] 
+[161/300] GREENHOUSE | Chime — Senior Offensive Security Engineer (score=75.0)
+[19:07:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:07:59] 
+[162/300] GREENHOUSE | Chime — Senior Software Engineer (Chicago) (score=75.0)
+[19:08:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:08:16] 
+[163/300] GREENHOUSE | Chime — Senior Software Engineer, Data Platform (score=75.0)
+[19:08:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:08:33] 
+[164/300] GREENHOUSE | Chime — Senior Software Engineer, Deposits & Insights (score=75.0)
+[19:08:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:08:47] 
+[165/300] GREENHOUSE | Chime — Senior Software Engineer, Secure Cards (score=75.0)
+[19:08:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:09:02] 
+[166/300] GREENHOUSE | Affirm — Senior Product Security Engineer (score=75.0)
+[19:09:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:09:17] 
+[167/300] GREENHOUSE | Affirm — Senior Site Reliability Engineer  (SRE & Platform  (score=75.0)
+[19:09:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:09:35] 
+[168/300] GREENHOUSE | Affirm — Senior Site Reliability Engineer (SRE & Platform R (score=75.0)
+[19:09:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:09:51] 
+[169/300] GREENHOUSE | Affirm — Senior Software Engineer, Back-end (Fraud) (score=75.0)
+[19:10:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:10:06] 
+[170/300] GREENHOUSE | Affirm — Senior Software Engineer, Back-end (Fraud) (score=75.0)
+[19:10:19]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:10:19] --- Progress: 170/300 | OK=170 FAIL=0 CODE=0 | 44.7min ---
+[19:10:22] 
+[171/300] GREENHOUSE | Affirm — Senior Software engineer (Furnishing Platform) (score=75.0)
+[19:10:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:10:37] 
+[172/300] GREENHOUSE | Affirm — Senior Software engineer (Furnishing Platform) (score=75.0)
+[19:10:50]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:10:53] 
+[173/300] GREENHOUSE | Affirm — Senior Software Engineer - IAM (score=75.0)
+[19:11:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:11:13] 
+[174/300] GREENHOUSE | Affirm — Senior Software Engineer - IAM (score=75.0)
+[19:11:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:11:28] 
+[175/300] GREENHOUSE | Affirm — Senior Software Engineer, Powered by Affirm (score=75.0)
+[19:11:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:11:43] 
+[176/300] GREENHOUSE | Affirm — Staff Software Engineer (score=75.0)
+[19:11:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:12:00] 
+[177/300] GREENHOUSE | Affirm — Staff Software Engineer (score=75.0)
+[19:12:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:12:15] 
+[178/300] GREENHOUSE | Affirm — Staff Software Engineer, Back-end (Identity Engine (score=75.0)
+[19:12:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:12:31] 
+[179/300] GREENHOUSE | Affirm — Staff Software Engineer, Back-end (Identity Engine (score=75.0)
+[19:12:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:12:45] 
+[180/300] GREENHOUSE | Affirm — Staff Software Engineer, Back-end (Identity Engine (score=75.0)
+[19:12:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:12:58] --- Progress: 180/300 | OK=180 FAIL=0 CODE=0 | 47.4min ---
+[19:13:01] 
+[181/300] GREENHOUSE | DoorDash — Senior Security Engineer, Red Team (score=75.0)
+[19:13:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:13:16] 
+[182/300] GREENHOUSE | DoorDash — Senior Software Engineer, Data Engineering (score=75.0)
+[19:13:29]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:13:32] 
+[183/300] GREENHOUSE | DoorDash — Software Engineer, Backend (All Teams) (score=75.0)
+[19:13:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:13:48] 
+[184/300] GREENHOUSE | DoorDash — Software Engineer, Backend - SevenRooms, In-Store  (score=75.0)
+[19:14:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:14:06] 
+[185/300] GREENHOUSE | DoorDash — Staff Security Engineer, Proactive Security (score=75.0)
+[19:14:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:14:23] 
+[186/300] GREENHOUSE | DoorDash — Staff Software Engineer (score=75.0)
+[19:14:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:14:39] 
+[187/300] GREENHOUSE | Webflow — Senior Software Engineer, Developer Tooling (score=75.0)
+[19:14:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:14:55] 
+[188/300] GREENHOUSE | Webflow — Staff Distributed Systems Engineer - Collaboration (score=75.0)
+[19:15:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:15:12] 
+[189/300] GREENHOUSE | Webflow — Staff Software Engineer, Developer Productivity (score=75.0)
+[19:15:23]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:15:26] 
+[190/300] GREENHOUSE | Webflow — Staff Software Engineer, New Products (score=75.0)
+[19:15:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:15:38] --- Progress: 190/300 | OK=190 FAIL=0 CODE=0 | 50.0min ---
+[19:15:41] 
+[191/300] GREENHOUSE | Toast — Full Stack Software Engineer II - Guest Engagement (score=75.0)
+[19:15:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7760878
+[19:15:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:15:56] 
+[192/300] GREENHOUSE | Toast — Principal Software Engineer (score=75.0)
+[19:15:56]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7579646
+[19:16:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:16:12] 
+[193/300] GREENHOUSE | Toast — Principal Software Engineer, Toast IQ (score=75.0)
+[19:16:12]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7613842
+[19:16:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:16:28] 
+[194/300] GREENHOUSE | Toast — Senior Software Engineer, Android (score=75.0)
+[19:16:28]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7673490
+[19:16:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:16:43] 
+[195/300] GREENHOUSE | Toast — Senior Software Engineer, Android (score=75.0)
+[19:16:43]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7550881
+[19:16:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:16:59] 
+[196/300] GREENHOUSE | Toast — Senior Software Engineer, Android - Retail (score=75.0)
+[19:16:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7687169
+[19:17:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:17:25] 
+[197/300] GREENHOUSE | Toast — Senior Software Engineer, Care Experience (score=75.0)
+[19:17:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7590046
+[19:17:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:17:41] 
+[198/300] GREENHOUSE | Toast — Senior Software Engineer, Enterprise (score=75.0)
+[19:17:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7587101
+[19:17:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:17:59] 
+[199/300] GREENHOUSE | Toast — Senior Software Engineer, Enterprise (score=75.0)
+[19:17:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7587088
+[19:18:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:18:14] 
+[200/300] GREENHOUSE | Toast — Senior Software Engineer, Front End  (score=75.0)
+[19:18:14]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7731798
+[19:18:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:18:30] --- Progress: 200/300 | OK=200 FAIL=0 CODE=0 | 52.9min ---
+[19:18:33] 
+[201/300] GREENHOUSE | Toast — Senior Software Engineer (Frontend), Menus (score=75.0)
+[19:18:33]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7649620
+[19:18:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:18:49] 
+[202/300] GREENHOUSE | Toast — Senior Software Engineer, Retail  (score=75.0)
+[19:18:49]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7592643
+[19:19:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:19:04] 
+[203/300] GREENHOUSE | Toast — Senior Software Engineer, Supply Chain (score=75.0)
+[19:19:04]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7579627
+[19:19:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:19:19] 
+[204/300] GREENHOUSE | Toast — Senior Software Engineer, Voice AI (score=75.0)
+[19:19:19]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7701541
+[19:19:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:19:34] 
+[205/300] GREENHOUSE | Toast — Software Engineer II-Full Stack (score=75.0)
+[19:19:34]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7704341
+[19:19:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:19:51] 
+[206/300] GREENHOUSE | Toast — Software Engineer II, Full Stack - Fintech (score=75.0)
+[19:19:51]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7571294
+[19:20:04]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:20:07] 
+[207/300] GREENHOUSE | Toast — Staff Software Engineer (score=75.0)
+[19:20:07]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7531142
+[19:20:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:20:23] 
+[208/300] GREENHOUSE | Toast — Staff Software Engineer, AI & Strategy (score=75.0)
+[19:20:23]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7579640
+[19:20:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:20:39] 
+[209/300] GREENHOUSE | Toast — Staff Software Engineer, Android (score=75.0)
+[19:20:39]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7673492
+[19:20:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:20:55] 
+[210/300] GREENHOUSE | Toast — Staff Software Engineer (Android), Enterprise (score=75.0)
+[19:20:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7609997
+[19:21:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:21:06] --- Progress: 210/300 | OK=210 FAIL=0 CODE=0 | 55.5min ---
+[19:21:09] 
+[211/300] GREENHOUSE | Toast — Staff Software Engineer, Enterprise (score=75.0)
+[19:21:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7651256
+[19:21:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:21:24] 
+[212/300] GREENHOUSE | Toast — Staff Software Engineer, Toast Tables (score=75.0)
+[19:21:24]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7455150
+[19:21:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:21:39] 
+[213/300] GREENHOUSE | SeatGeek — Senior Software Engineer (score=75.0)
+[19:21:39]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7073875
+[19:21:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:21:54] 
+[214/300] GREENHOUSE | SeatGeek — Senior Software Engineer, Cloud Platform (score=75.0)
+[19:21:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7586656
+[19:22:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:22:09] 
+[215/300] GREENHOUSE | SeatGeek — Senior Software Engineer, Payments (score=75.0)
+[19:22:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7769530
+[19:22:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:22:24] 
+[216/300] GREENHOUSE | SeatGeek — Senior Software Engineer, Platform (score=75.0)
+[19:22:24]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7575992
+[19:22:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:22:40] 
+[217/300] GREENHOUSE | Roblox — Principal Software Engineer - Creator Distributed  (score=75.0)
+[19:22:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7740153
+[19:22:52]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:22:55] 
+[218/300] GREENHOUSE | Roblox — Principal Software Engineer, Data Engineering (score=75.0)
+[19:22:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7678832
+[19:23:07]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:23:10] 
+[219/300] GREENHOUSE | Roblox — Senior/Principal AI Data and Feature Platform Engi (score=75.0)
+[19:23:10]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6470334
+[19:23:22]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:23:25] 
+[220/300] GREENHOUSE | Roblox — Senior/Principal Platform Engineer, ML Platform (score=75.0)
+[19:23:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7185278
+[19:23:37]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:23:37] --- Progress: 220/300 | OK=220 FAIL=0 CODE=0 | 58.0min ---
+[19:23:40] 
+[221/300] GREENHOUSE | Tanium — Software Engineer II - Full Stack  (score=75.0)
+[19:23:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:23:59] 
+[222/300] GREENHOUSE | Temporal — Senior Software Engineer, Open Source Nexus Server (score=75.0)
+[19:24:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:24:14] 
+[223/300] GREENHOUSE | Temporal — Senior Software Engineer, Open Source Server (score=75.0)
+[19:24:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:24:29] 
+[224/300] GREENHOUSE | Temporal — Senior Software Engineer, Release Engineering (score=75.0)
+[19:24:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:24:43] 
+[225/300] GREENHOUSE | Temporal — Senior Software Engineer, Release Engineering (score=75.0)
+[19:24:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:24:58] 
+[226/300] GREENHOUSE | Temporal — Senior Software Engineer, Traffic  (score=75.0)
+[19:25:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:25:14] 
+[227/300] GREENHOUSE | Temporal — Staff Software Engineer - AI SDK (score=75.0)
+[19:25:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:25:29] 
+[228/300] GREENHOUSE | Temporal — Staff Software Engineer - Open Source Server (score=75.0)
+[19:25:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:25:43] 
+[229/300] GREENHOUSE | Temporal — Staff Software Engineer, Replication Foundations (score=75.0)
+[19:25:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:25:58] 
+[230/300] GREENHOUSE | Temporal — Staff Software Engineer, System Reliability  (score=75.0)
+[19:26:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:26:10] --- Progress: 230/300 | OK=230 FAIL=0 CODE=0 | 60.6min ---
+[19:26:13] 
+[231/300] GREENHOUSE | Temporal — Staff Software Engineer, Traffic (score=75.0)
+[19:26:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:26:29] 
+[232/300] GREENHOUSE | Temporal — Staff Software Engineer, Visibility (score=75.0)
+[19:26:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:26:44] 
+[233/300] GREENHOUSE | Flex — Senior Security Engineer (score=75.0)
+[19:27:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:27:04] 
+[234/300] GREENHOUSE | Flex — Senior Software Engineer, Mobile & Web (score=75.0)
+[19:27:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:27:18] 
+[235/300] GREENHOUSE | Flex — Senior Software Engineer, Risk Engineering (score=75.0)
+[19:27:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:27:35] 
+[236/300] GREENHOUSE | Motive — Software Engineer, Backend (score=75.0)
+[19:27:47]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:27:50] 
+[237/300] GREENHOUSE | Motive — Software Engineer, Backend (score=75.0)
+[19:28:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:28:06] 
+[238/300] GREENHOUSE | Addepar — Backend Software Engineer - Investor Solutions (score=75.0)
+[19:28:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:28:21] 
+[239/300] GREENHOUSE | Addepar — Backend Software Engineer - Portfolio Data Workflo (score=75.0)
+[19:28:33]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:28:36] 
+[240/300] GREENHOUSE | Addepar — Fullstack Software Engineer (score=75.0)
+[19:28:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:28:53] --- Progress: 240/300 | OK=240 FAIL=0 CODE=0 | 63.3min ---
+[19:28:56] 
+[241/300] GREENHOUSE | Addepar — Full Stack Software Engineer - Alts & Data Managem (score=75.0)
+[19:29:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:29:10] 
+[242/300] GREENHOUSE | Addepar — Full Stack Software Engineer - Feed & Workflow Int (score=75.0)
+[19:29:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:29:25] 
+[243/300] GREENHOUSE | Addepar — Sr. Backend Software Engineer (score=75.0)
+[19:29:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:29:40] 
+[244/300] GREENHOUSE | Addepar — Sr. Backend Software Engineer (score=75.0)
+[19:29:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:29:56] 
+[245/300] GREENHOUSE | Addepar — Sr. Backend Software Engineer - Platform Integrati (score=75.0)
+[19:30:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:30:10] 
+[246/300] GREENHOUSE | Addepar — Sr. Staff Software Engineer - Investment Data Plat (score=75.0)
+[19:30:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:30:25] 
+[247/300] GREENHOUSE | Datadog — Enablement Systems Engineer (score=70.0)
+[19:30:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7538717
+[19:30:38]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:30:41] 
+[248/300] GREENHOUSE | Lyft — Senior Software (Backend) Engineer, AI-Powered Dev (score=70.0)
+[19:30:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8481872002
+[19:30:53]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:30:56] 
+[249/300] GREENHOUSE | Robinhood — Senior Software Developer, Infrastructure (score=70.0)
+[19:31:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:31:11] 
+[250/300] GREENHOUSE | Robinhood — Senior Staff Software Engineer  (score=70.0)
+[19:31:23]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:31:24] --- Progress: 250/300 | OK=250 FAIL=0 CODE=0 | 65.8min ---
+[19:31:27] 
+[251/300] GREENHOUSE | Robinhood — Staff Software Developer, Backend Platform (score=70.0)
+[19:31:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:31:42] 
+[252/300] GREENHOUSE | Chime — Mobile Software Engineer, Cross Platform (score=70.0)
+[19:31:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:31:57] 
+[253/300] GREENHOUSE | Chime — Product Security Engineer (score=70.0)
+[19:32:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:32:11] 
+[254/300] GREENHOUSE | Chime — Senior Data Analyst, Trust & Safety (score=70.0)
+[19:32:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:32:27] 
+[255/300] GREENHOUSE | Chime — Software Engineer, Financial Platform (score=70.0)
+[19:32:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:32:41] 
+[256/300] GREENHOUSE | Chime — Software Engineer, Growth - Paid Ads & Acquisition (score=70.0)
+[19:32:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:32:56] 
+[257/300] GREENHOUSE | Affirm — Senior Software Engineer, Fullstack (Servicing Int (score=70.0)
+[19:33:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:33:12] 
+[258/300] GREENHOUSE | Affirm — Senior Software Engineer, Fullstack (Servicing Int (score=70.0)
+[19:33:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:33:27] 
+[259/300] GREENHOUSE | Affirm — Software Engineer I, Back-end (Collections) (score=70.0)
+[19:33:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:33:41] 
+[260/300] GREENHOUSE | Affirm — Software Engineer I, Back-end (Collections) (score=70.0)
+[19:33:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:33:56] --- Progress: 260/300 | OK=260 FAIL=0 CODE=0 | 68.3min ---
+[19:33:59] 
+[261/300] GREENHOUSE | Affirm — Software Engineer II (score=70.0)
+[19:34:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:34:14] 
+[262/300] GREENHOUSE | Affirm — Software Engineer II, Full-Stack (Card Acquisition (score=70.0)
+[19:34:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:34:29] 
+[263/300] GREENHOUSE | Affirm — Software Engineering Apprentice, Full-Stack (score=70.0)
+[19:34:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:34:46] 
+[264/300] GREENHOUSE | DoorDash — Embedded Software Engineer - Labs (score=70.0)
+[19:34:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:35:02] 
+[265/300] GREENHOUSE | DoorDash — Senior Staff Software Engineer - Delivery Experien (score=70.0)
+[19:35:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:35:20] 
+[266/300] GREENHOUSE | DoorDash — Senior Staff Software Engineer - Launchpad (score=70.0)
+[19:35:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:35:35] 
+[267/300] GREENHOUSE | DoorDash — Software Engineer II, Data Engineering (score=70.0)
+[19:35:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:35:51] 
+[268/300] GREENHOUSE | Webflow — Senior Staff Engineer, Developer Productivity (score=70.0)
+[19:36:02]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:36:05] 
+[269/300] GREENHOUSE | Toast — Senior Full Stack Engineer, Help Center (score=70.0)
+[19:36:05]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7642162
+[19:36:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:36:21] 
+[270/300] GREENHOUSE | Toast — Senior Principal Software Engineer, Team Agent (score=70.0)
+[19:36:21]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7745843
+[19:36:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:36:34] --- Progress: 270/300 | OK=270 FAIL=0 CODE=0 | 71.0min ---
+[19:36:37] 
+[271/300] GREENHOUSE | Toast — Software Engineer II, Delivery Services (score=70.0)
+[19:36:37]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7643460
+[19:36:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:36:59] 
+[272/300] GREENHOUSE | Toast — Software Engineer II, Enterprise (score=70.0)
+[19:36:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7587103
+[19:37:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:37:13] 
+[273/300] GREENHOUSE | SeatGeek — Lead Software Engineer, Security (score=70.0)
+[19:37:13]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7655302
+[19:37:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:37:29] 
+[274/300] GREENHOUSE | SeatGeek — Software Engineer, Developer Experience (score=70.0)
+[19:37:29]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7587468
+[19:37:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:37:44] 
+[275/300] GREENHOUSE | Roblox — [2026] Senior Machine Learning Engineer, Content S (score=70.0)
+[19:37:44]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7473599
+[19:37:56]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:37:59] 
+[276/300] GREENHOUSE | Roblox — Principal Client Platform Engineer (score=70.0)
+[19:37:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7681009
+[19:38:11]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:38:14] 
+[277/300] GREENHOUSE | Roblox — Principal Machine Learning Engineer, Content Safet (score=70.0)
+[19:38:14]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7617984
+[19:38:26]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:38:29] 
+[278/300] GREENHOUSE | Roblox — Principal Machine Learning Infrastructure Engineer (score=70.0)
+[19:38:29]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7351202
+[19:38:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:38:45] 
+[279/300] GREENHOUSE | Roblox — Senior Frontend/Fullstack engineer, Profile  (score=70.0)
+[19:38:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7678482
+[19:38:57]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:39:00] 
+[280/300] GREENHOUSE | Roblox — Senior Hardware Engineer - GPU & AI Infrastructure (score=70.0)
+[19:39:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7463674
+[19:39:13]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:39:13] --- Progress: 280/300 | OK=280 FAIL=0 CODE=0 | 73.6min ---
+[19:39:16] 
+[281/300] GREENHOUSE | Roblox — Senior Machine Learning Infrastructure Engineer, A (score=70.0)
+[19:39:16]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7351059
+[19:39:27]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:39:30] 
+[282/300] GREENHOUSE | Roblox — Senior Mobile and Platform Engineer, Audio Team (score=70.0)
+[19:39:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7528070
+[19:39:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:39:46] 
+[283/300] GREENHOUSE | Roblox — Senior/Principal Software Engineer - Data Access (score=70.0)
+[19:39:46]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7437922
+[19:39:56]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:39:59] 
+[284/300] GREENHOUSE | Tanium — AI Security Engineer (score=70.0)
+[19:40:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:40:14] 
+[285/300] GREENHOUSE | Motive — Data Engineer (score=70.0)
+[19:40:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:40:29] 
+[286/300] GREENHOUSE | Motive — Staff Platform Engineer (score=70.0)
+[19:40:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[19:40:46] 
+[287/300] GREENHOUSE | Datadog — Senior Counsel, Corporate & M&A (score=65.0)
+[19:40:46]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7382522
+[19:40:59]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:41:02] 
+[288/300] GREENHOUSE | Datadog — Senior Developer Advocate - Data Observability (score=65.0)
+[19:41:02]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7555520
+[19:41:15]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:41:18] 
+[289/300] GREENHOUSE | Datadog — Senior Product Solutions Architect - Logs (score=65.0)
+[19:41:18]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7750751
+[19:41:30]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:41:34] 
+[290/300] GREENHOUSE | Datadog — Senior Software Engineer (AI) (score=65.0)
+[19:41:34]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7566827
+[19:41:45]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:41:45] --- Progress: 290/300 | OK=290 FAIL=0 CODE=0 | 76.2min ---
+[19:41:48] 
+[291/300] GREENHOUSE | Datadog — Senior Software Engineer - AI Code Gen - Agent Eng (score=65.0)
+[19:41:48]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7440341
+[19:42:01]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:42:04] 
+[292/300] GREENHOUSE | Datadog — Senior Software Engineer - Data Science (score=65.0)
+[19:42:04]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7472886
+[19:42:15]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:42:18] 
+[293/300] GREENHOUSE | Datadog — Senior Software Engineer, macOS Specialist (score=65.0)
+[19:42:18]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7566336
+[19:42:30]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:42:33] 
+[294/300] GREENHOUSE | Datadog — Senior Technical Curriculum Developer, Engineering (score=65.0)
+[19:42:33]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7759526
+[19:42:48]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:42:51] 
+[295/300] GREENHOUSE | Datadog — Staff Software Engineer  (score=65.0)
+[19:42:51]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6476651
+[19:43:04]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:43:07] 
+[296/300] GREENHOUSE | Datadog — Staff Software Engineer - Linux/Kernel (score=65.0)
+[19:43:07]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7553779
+[19:43:18]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:43:21] 
+[297/300] GREENHOUSE | Datadog — Staff Software Engineer - Product Analytics (score=65.0)
+[19:43:21]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7410232
+[19:43:33]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:43:36] 
+[298/300] GREENHOUSE | Datadog — Staff Software Engineer - RUM Platform (score=65.0)
+[19:43:36]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7559684
+[19:43:53]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:43:56] 
+[299/300] GREENHOUSE | Lyft — Senior Data Engineer, PickupXP (score=65.0)
+[19:43:56]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8479543002
+[19:44:09]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:44:13] 
+[300/300] GREENHOUSE | Lyft — Staff Software Engineer, Mapping (score=65.0)
+[19:44:13]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8284535002
+[19:44:26]   >>> SUCCESS: Wraith verified: likely success <<<
+[19:44:26] --- Progress: 300/300 | OK=300 FAIL=0 CODE=0 | 78.8min ---
+[19:44:26] 
+======================================================================
+[19:44:26] WRAITH APPLY SWARM DONE — 78.8min
+[19:44:26]   Success: 300
+[19:44:26]   Failed: 0
+[19:44:26]   Needs code: 0
+[19:44:26]   Rate: 3.8 apps/min
+[19:44:26] ======================================================================
