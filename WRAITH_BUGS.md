@@ -7,6 +7,24 @@
 
 ## OPEN BUGS
 
+### BUG-12: FlareSolverr CORS error on second navigate — FIXED (2026-04-02)
+- **Severity**: ~~P2~~ → **RESOLVED**
+- **Root cause**: After FlareSolverr solves page 1, wraith stores `cf_clearance` cookies. On the second navigate, wraith tries Tier 1 (direct HTTP) with those cookies. Indeed sees valid cookies but a mismatched TLS fingerprint (wraith Firefox vs FlareSolverr Chrome) and returns "Invalid CORS request". This tiny error page didn't trigger `is_cloudflare_challenge()`, so wraith didn't escalate to FlareSolverr for page 2.
+- **Fix**: Added `"Invalid CORS request"` to the definitive challenge signatures in `is_cloudflare_challenge()`. Now wraith detects it and re-escalates to FlareSolverr for each page.
+- **Binary rebuild required**. Note: each page costs a FlareSolverr solve (~8-10s per page). For bulk Indeed pagination, the Google SSO login flow (`scripts/indeed-login.md`) is faster since it avoids repeated Turnstile solves.
+
+### BUG-11: Indeed CF challenge escalation regression — RESOLVED (2026-04-02)
+- **Severity**: ~~P1~~ → **RESOLVED** (was NOT a hydrator regression)
+- **Root cause**: FlareSolverr's `maxTimeout` was 60s. After Docker restart with 410 Chrome zombie processes, FlareSolverr's cold Chrome took >60s to solve Indeed's Turnstile CAPTCHA, causing a timeout (status=0). The challenge detection and escalation chain worked correctly the entire time (`is_challenge=true` → Tier 2 → Tier 3).
+- **Fix**: Bumped FlareSolverr `maxTimeout` from 60s to 120s in `try_flaresolverr_full_page()`.
+- **Additional fix**: Killed 410 Chrome zombie processes and restarted FlareSolverr Docker container.
+- **Verified working** (2026-04-02):
+  ```
+  WRAITH_FLARESOLVERR=http://localhost:8191 wraith-browser navigate "https://www.indeed.com/jobs?q=AI+engineer+remote&sort=date&filter=0"
+  → Page: "Flexible Ai Engineer Remote Jobs – Apply Today to Work From Home (April 2, 2026) | Indeed"
+  ```
+- **Note for job-hunter**: If FlareSolverr starts hanging, check Chrome zombie count (`tasklist | grep -c chrome`). If >50, kill them all (`taskkill /F /IM chrome.exe`) and restart FlareSolverr (`docker restart flaresolverr`). The zombies accumulate from FlareSolverr's poor process cleanup.
+
 ### BUG-9: Indeed Cloudflare bypass regression — RESOLVED (2026-03-31)
 - **Severity**: ~~P1~~ → **RESOLVED**
 - **Fixed by**: Wraith dev session 2026-03-31. Two bugs were blocking the escalation to FlareSolverr:
@@ -126,23 +144,24 @@
 - **Implemented** in `engine_cdp.rs` lines 539-688. Uses `Page.getFrameTree()` + isolated worlds to extract iframe DOM and merge into parent snapshot.
 - **Also**: BUG-2 is now resolved — embed URLs render full forms directly, making iframe extraction less critical.
 
-### FR-5: JS-rendered enterprise career sites (Radancy, Workday, Phenom, Algolia) — IN PROGRESS
-- **Severity**: P2 (blocks scraping Boeing, Raytheon, L3Harris, Northrop, Lockheed, MITRE)
-- **Status**: Radancy, Phenom, and Workday being added as native **hydrators** in Wraith. ETA: imminent (Matt pushing fix).
-- **Problem**: Major defense contractors and enterprises use JS-heavy career sites that return empty/shell HTML to both native engine and FlareSolverr:
-  - **Radancy/TMP Worldwide** (Boeing, L3Harris, Raytheon/RTX): `jobs.boeing.com`, `careers.l3harris.com`, `careers.rtx.com` — search results are JS-rendered, native engine gets HTML shell with 0 job elements
-  - **Workday** (Honeywell `wd5.myworkdayjobs.com`): React SPA, returns 34KB HTML shell, job listings rendered by JS. CSRF-blocks API calls. (Workaround found: Honeywell also uses Oracle HCM which works)
-  - **Phenom People** (MITRE): JS-rendered job listings
-  - **Algolia search** (Lockheed Martin): Search config embedded in JS bundles, not in HTML
-- **Expected**: `browse_navigate_cdp` should render these sites fully (they work in a real Chrome browser)
-- **Current**: CDP may work but hasn't been tested against these specific sites. Native engine returns empty results.
-- **Impact**: ~5 major defense contractors with thousands of SWE/firmware/embedded jobs inaccessible
-- **Test URLs**:
-  - `https://jobs.boeing.com/search?keyword=software+engineer`
-  - `https://careers.l3harris.com/en/search-jobs?keyword=software+engineer`
-  - `https://careers.rtx.com/en/search-jobs?keyword=software+engineer`
-  - `https://honeywell.wd5.myworkdayjobs.com/en-US/Honeywell/jobs?q=software+engineer`
-  - `https://careers.mitre.org/us/en/search-results?keywords=software+engineer`
+### FR-5: JS-rendered enterprise career sites — SHIPPED + VERIFIED (2026-04-02)
+- **Status**: **ALL 5 WORKING** via native engine. Three hydrators added + detection logic fixed.
+- **Hydrators added**:
+  1. `try_radancy_api_hydration` — `GET /search-jobs/results` + `X-Requested-With: XMLHttpRequest`. Extracts tenant ID from meta tags.
+  2. `try_phenom_api_hydration` — `POST /widgets` with JSON. Returns structured jobs with ML skills.
+  3. `try_workday_api_hydration` — `POST /wday/cxs/{company}/{site}/jobs`. Needs PLAY_SESSION cookie.
+- **Detection fix**: Platform hydrators now trigger regardless of element count. Previously nav chrome (>5 elements) skipped hydration.
+- **Verified results (2026-04-02)**:
+  | Site | Platform | Elements | FlareSolverr? | Page Title |
+  |------|----------|----------|---------------|------------|
+  | Boeing | Radancy | 198 | No | "Job Search Results" |
+  | L3Harris | Radancy | 145 | No | "Job Search Results" |
+  | Lockheed | Radancy | 194 | No | "Job Search Results" |
+  | MITRE | Phenom | 180 | No | "25 Jobs - Search Results" |
+  | RTX/Raytheon | Phenom+CF | 246 | Yes | "Search results \| Available job openings at Raytheon" |
+- **RTX note**: Behind Cloudflare — requires `WRAITH_FLARESOLVERR=http://localhost:8191`
+- **Honeywell/Workday**: Intermittent (Workday maintenance windows). When up, needs PLAY_SESSION cookie from initial page load.
+- **Northrop Grumman** (Eightfold.ai): NOT supported — requires session + CSRF + reCAPTCHA. Use CDP fallback.
 
 ### FR-4: Engine context isolation / parallel sessions — SHIPPED
 - **Implemented** in `pool.rs` with full `EnginePool` architecture: session-sticky routing, LRU idle selection, Draining state cleanup, health checks, and metrics.
@@ -150,7 +169,7 @@
 
 ---
 
-## PLATFORM CAPABILITY MATRIX (retested 2026-03-22, full integration test)
+## PLATFORM CAPABILITY MATRIX (updated 2026-04-02)
 
 | Platform | Native Scrape | CDP Scrape | Native Click Nav | CDP Click Nav | CDP Apply Form | Playwright Apply |
 |----------|--------------|------------|-----------------|---------------|---------------|-----------------|
@@ -159,3 +178,9 @@
 | Ashby | Empty body | Board WORKS (129 jobs) | N/A | **WORKS** (job detail + apply form) | **WORKS** (all fields rendered) | WORKS (97.5%) |
 | Lever | WORKS (1090 elements, BUG-6 FIXED) | Not needed | **WORKS** (full detail + salary) | Not needed | Not needed | Not needed |
 | Indeed | **WORKS** (page 1 via FlareSolverr, BUG-9 FIXED) | **BLOCKED** (CF "Request Blocked") | N/A | N/A | N/A | N/A |
+| Boeing | **WORKS** (198 elements, Radancy hydrator) | Not needed | N/A | N/A | N/A | N/A |
+| L3Harris | **WORKS** (145 elements, Radancy hydrator) | Not needed | N/A | N/A | N/A | N/A |
+| Lockheed Martin | **WORKS** (194 elements, Radancy hydrator) | Not needed | N/A | N/A | N/A | N/A |
+| RTX/Raytheon | **WORKS** (246 elements, FlareSolverr+Phenom) | Not tested | N/A | N/A | N/A | N/A |
+| MITRE | **WORKS** (180 elements, Phenom hydrator) | Not needed | N/A | N/A | N/A | N/A |
+| Northrop Grumman | NOT SUPPORTED (Eightfold+reCAPTCHA) | Not tested | N/A | N/A | N/A | N/A |

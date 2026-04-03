@@ -1,0 +1,1044 @@
+[07:51:02] ======================================================================
+[07:51:02] WRAITH CDP APPLY SWARM
+[07:51:02] ======================================================================
+[07:51:02]   greenhouse: 300 jobs
+[07:51:02] Total: 300 jobs
+[07:51:02] Starting Wraith MCP client...
+[07:51:07] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[07:51:07] 
+[1/300] GREENHOUSE | Epic Games — Senior UI Programmer, Fortnite (score=55.0)
+[07:51:07]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5568503004
+[07:51:15]   FAILED: Submit button not found
+[07:51:18] 
+[2/300] GREENHOUSE | Epic Games — Senior Vehicle Artist  (score=55.0)
+[07:51:18]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=5808703004
+[07:51:24]   FAILED: Submit button not found
+[07:51:27] 
+[3/300] GREENHOUSE | CoreWeave — Senior Billing Analyst (score=55.0)
+[07:51:27]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=4657670006
+[07:51:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:51:46] 
+[4/300] GREENHOUSE | CoreWeave — Senior Counsel, Strategic Transactions (score=55.0)
+[07:51:46]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=4656620006
+[07:52:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:52:04] 
+[5/300] GREENHOUSE | CoreWeave — Senior Developer Relations Engineer - marimo (score=55.0)
+[07:52:04]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=4665386006
+[07:52:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:52:21] 
+[6/300] GREENHOUSE | CoreWeave — Senior Engineer, Storage Control Plane (score=55.0)
+[07:52:21]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=4611874006
+[07:52:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:52:41] 
+[7/300] GREENHOUSE | CoreWeave — Senior Enterprise Account Executive, UK + Benelux (score=55.0)
+[07:52:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=4647988006
+[07:52:58]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:53:01] 
+[8/300] GREENHOUSE | CoreWeave — Senior Enterprise Account Executive - W&B (score=55.0)
+[07:53:01]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=4650861006
+[07:53:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:53:17] 
+[9/300] GREENHOUSE | CoreWeave — Senior Financial Analyst, Strategic Finance (score=55.0)
+[07:53:17]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=4658721006
+[07:53:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:53:32] 
+[10/300] GREENHOUSE | CoreWeave — Senior Marketing Performance Analyst (score=55.0)
+[07:53:32]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=4663425006
+[07:53:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:53:45] --- Progress: 10/300 | OK=8 FAIL=2 CODE=0 | 2.6min ---
+[07:53:48] 
+[11/300] GREENHOUSE | CoreWeave — Staff Business Systems Engineer – Finance Systems (score=55.0)
+[07:53:48]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=4645231006
+[07:54:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:54:03] 
+[12/300] GREENHOUSE | Duolingo — Senior Account Executive (score=55.0)
+[07:54:03]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8444398002
+[07:54:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:54:18] 
+[13/300] GREENHOUSE | Duolingo — Senior Account Executive (score=55.0)
+[07:54:18]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8374797002
+[07:54:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:54:35] 
+[14/300] GREENHOUSE | Duolingo — Senior Android Engineer (score=55.0)
+[07:54:35]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8217266002
+[07:54:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:54:56] 
+[15/300] GREENHOUSE | Duolingo — Senior Android Engineer (score=55.0)
+[07:54:56]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8215862002
+[07:55:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:55:15] 
+[16/300] GREENHOUSE | Duolingo — Senior Android Engineer, App Builds (score=55.0)
+[07:55:15]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8453396002
+[07:55:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:55:34] 
+[17/300] GREENHOUSE | Duolingo — Senior Content Producer (score=55.0)
+[07:55:34]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8453338002
+[07:55:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:55:51] 
+[18/300] GREENHOUSE | Duolingo — Senior Executive Assistant (score=55.0)
+[07:55:51]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8400423002
+[07:56:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:56:09] 
+[19/300] GREENHOUSE | Duolingo — Senior Gameplay Programmer (score=55.0)
+[07:56:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8424809002
+[07:56:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:56:24] 
+[20/300] GREENHOUSE | Duolingo — Senior iOS Engineer, App Builds (score=55.0)
+[07:56:24]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8054750002
+[07:56:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:56:36] --- Progress: 20/300 | OK=18 FAIL=2 CODE=0 | 5.5min ---
+[07:56:39] 
+[21/300] GREENHOUSE | Duolingo — Senior iOS Engineer, Application Stability & Perfo (score=55.0)
+[07:56:39]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8369151002
+[07:56:52]   FAILED: Submit button not found
+[07:56:55] 
+[22/300] GREENHOUSE | Duolingo — Senior Talent Attraction Partner (score=55.0)
+[07:56:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8455014002
+[07:57:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:57:13] 
+[23/300] GREENHOUSE | Duolingo — Senior Talent Attraction Partner (score=55.0)
+[07:57:13]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8455005002
+[07:57:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:57:30] 
+[24/300] GREENHOUSE | Duolingo — Senior University Recruiter (score=55.0)
+[07:57:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8457640002
+[07:57:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:57:46] 
+[25/300] GREENHOUSE | Duolingo — Staff Data Scientist, Forecasting in Monetization (score=55.0)
+[07:57:46]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8385155002
+[07:57:52]   FAILED: Submit button not found
+[07:57:55] 
+[26/300] GREENHOUSE | Duolingo — Staff Enterprise Engineer (score=55.0)
+[07:57:55]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8466009002
+[07:58:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:58:11] 
+[27/300] GREENHOUSE | Duolingo — Staff Enterprise Engineer (score=55.0)
+[07:58:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8465989002
+[07:58:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:58:29] 
+[28/300] GREENHOUSE | Duolingo — Staff iOS Engineer, App Builds (score=55.0)
+[07:58:29]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8322733002
+[07:58:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:58:45] 
+[29/300] GREENHOUSE | Duolingo — Staff Product Researcher (score=55.0)
+[07:58:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8471742002
+[07:59:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:59:03] 
+[30/300] GREENHOUSE | Duolingo — Staff Product Researcher (score=55.0)
+[07:59:03]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8471736002
+[07:59:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[07:59:15] --- Progress: 30/300 | OK=26 FAIL=4 CODE=0 | 8.1min ---
+[07:59:18] 
+[31/300] GREENHOUSE | Airbnb — Senior Accountant, Revenue Operations (score=55.0)
+[07:59:18]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7590319
+[07:59:34]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:59:37] 
+[32/300] GREENHOUSE | Airbnb — Senior Account Executive (score=55.0)
+[07:59:37]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7645878
+[07:59:50]   >>> SUCCESS: Wraith verified: likely success <<<
+[07:59:54] 
+[33/300] GREENHOUSE | Airbnb — Senior Business Analyst  (score=55.0)
+[07:59:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7669533
+[08:00:08]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:00:11] 
+[34/300] GREENHOUSE | Airbnb — Senior Communications Lead, DACH & CEE (score=55.0)
+[08:00:11]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7451609
+[08:00:22]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:00:25] 
+[35/300] GREENHOUSE | Airbnb — Senior Connectivity Integration Analyst (score=55.0)
+[08:00:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7590549
+[08:00:42]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:00:45] 
+[36/300] GREENHOUSE | Airbnb — Senior Counsel, Product (Services) (score=55.0)
+[08:00:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7697544
+[08:00:51]   FAILED: Submit button not found
+[08:00:54] 
+[37/300] GREENHOUSE | Airbnb — Senior Data Scientist - Inference, Global Markets (score=55.0)
+[08:00:54]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7446449
+[08:01:06]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:01:10] 
+[38/300] GREENHOUSE | Airbnb — Senior Frontend Engineer, Hosting Services (score=55.0)
+[08:01:10]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7544451
+[08:01:22]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:01:25] 
+[39/300] GREENHOUSE | Airbnb — Senior Programs and Business Operations Lead, Mont (score=55.0)
+[08:01:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7736820
+[08:01:37]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:01:40] 
+[40/300] GREENHOUSE | Airbnb — Senior Specialist, Premium Support (German) (score=55.0)
+[08:01:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7454959
+[08:01:53]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:01:54] --- Progress: 40/300 | OK=35 FAIL=5 CODE=0 | 10.8min ---
+[08:01:57] 
+[41/300] GREENHOUSE | Airbnb — Senior Specialist, Premium Support (Korean Speakin (score=55.0)
+[08:01:57]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7556586
+[08:02:14]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:02:17] 
+[42/300] GREENHOUSE | Airbnb — Senior Specialist, Premium Support (Mandarin) (score=55.0)
+[08:02:17]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7552162
+[08:02:34]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:02:37] 
+[43/300] GREENHOUSE | Airbnb — Senior Supply Analyst (score=55.0)
+[08:02:37]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7590553
+[08:02:55]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:02:58] 
+[44/300] GREENHOUSE | Airbnb — Senior Workday Integration Engineer - Talent Syste (score=55.0)
+[08:02:58]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7685812
+[08:03:06]   FAILED: Submit button not found
+[08:03:10] 
+[45/300] GREENHOUSE | Airbnb — Specialist /Senior Specialist, Premium Support (Ja (score=55.0)
+[08:03:10]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7714706
+[08:03:17]   FAILED: Submit button not found
+[08:03:20] 
+[46/300] GREENHOUSE | Airbnb — Specialist /Senior Specialist, Premium Support (Ja (score=55.0)
+[08:03:20]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7715094
+[08:03:27]   FAILED: Submit button not found
+[08:03:30] 
+[47/300] GREENHOUSE | Airbnb — Staff, Advanced Analytics, CS Safety (score=55.0)
+[08:03:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7579193
+[08:03:44]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:03:48] 
+[48/300] GREENHOUSE | Airbnb — Staff, Advanced Analytics, New Business (score=55.0)
+[08:03:48]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7440935
+[08:03:59]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:04:03] 
+[49/300] GREENHOUSE | Airbnb — Staff Analytics Engineer - Foundational Data (score=55.0)
+[08:04:03]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7733495
+[08:04:16]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:04:19] 
+[50/300] GREENHOUSE | Airbnb — Staff Data Scientist, Forecasting-Finance (score=55.0)
+[08:04:19]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7551313
+[08:04:33]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:04:33] --- Progress: 50/300 | OK=42 FAIL=8 CODE=0 | 13.4min ---
+[08:04:36] 
+[51/300] GREENHOUSE | Airbnb — Staff UX Researcher (score=55.0)
+[08:04:36]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7482366
+[08:04:45]   FAILED: Submit button not found
+[08:04:48] 
+[52/300] GREENHOUSE | Riot Games — Senior Compensation Partner (score=55.0)
+[08:04:48]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7733352
+[08:05:04]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:05:08] 
+[53/300] GREENHOUSE | Riot Games — Senior Content Producer, Unpublished R&D Title (score=55.0)
+[08:05:08]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7670167
+[08:05:16]   FAILED: Submit button not found
+[08:05:19] 
+[54/300] GREENHOUSE | Riot Games — Senior Data Scientist - Singapore Efficiency Team (score=55.0)
+[08:05:19]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6580972
+[08:05:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:05:34] 
+[55/300] GREENHOUSE | Riot Games — Senior Data Scientist, Skill & Matchmaking - VALOR (score=55.0)
+[08:05:34]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7078979
+[08:05:47]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:05:50] 
+[56/300] GREENHOUSE | Riot Games — Senior Employee Relations Partner (ADA) (score=55.0)
+[08:05:50]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7551511
+[08:06:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:06:14] 
+[57/300] GREENHOUSE | Riot Games — Senior Financial Accountant (score=55.0)
+[08:06:14]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7053979
+[08:06:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:06:40] 
+[58/300] GREENHOUSE | Riot Games — Senior Game Producer 高级游戏项目管理经理 - Unpublished R&D  (score=55.0)
+[08:06:40]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7704828
+[08:06:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:06:57] 
+[59/300] GREENHOUSE | Riot Games — Senior Integration Specialist, Enterprise (score=55.0)
+[08:06:57]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6357129
+[08:07:06]   FAILED: Submit button not found
+[08:07:10] 
+[60/300] GREENHOUSE | Riot Games — Senior Localization Producer  (score=55.0)
+[08:07:10]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7656636
+[08:07:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:07:27] --- Progress: 60/300 | OK=49 FAIL=11 CODE=0 | 16.3min ---
+[08:07:30] 
+[61/300] GREENHOUSE | Riot Games — Senior Researcher - China Studio (score=55.0)
+[08:07:30]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7446288
+[08:07:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:07:49] 
+[62/300] GREENHOUSE | Riot Games — Senior Researcher - Unpublished R&D Product (score=55.0)
+[08:07:49]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7593430
+[08:07:58]   FAILED: Submit button not found
+[08:08:01] 
+[63/300] GREENHOUSE | Riot Games — Senior Researcher - Wild Rift (score=55.0)
+[08:08:01]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6710152
+[08:08:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:08:25] 
+[64/300] GREENHOUSE | Riot Games — Senior Technical Artist, Animation - Unpublished R (score=55.0)
+[08:08:25]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7593313
+[08:08:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:08:42] 
+[65/300] GREENHOUSE | Riot Games — Senior Technical Artist, Environment - Unpublished (score=55.0)
+[08:08:42]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7259093
+[08:08:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:09:00] 
+[66/300] GREENHOUSE | Riot Games — Senior Technical Producer, Services - Unpublished  (score=55.0)
+[08:09:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7593448
+[08:09:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:09:17] 
+[67/300] GREENHOUSE | Riot Games — Senior Technical Producer - Tech Research (score=55.0)
+[08:09:17]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7674332
+[08:09:23]   FAILED: Submit button not found
+[08:09:26] 
+[68/300] GREENHOUSE | Riot Games — Senior Tools & Pipeline Technical Artist - Central (score=55.0)
+[08:09:26]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7597092
+[08:09:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:09:43] 
+[69/300] GREENHOUSE | Riot Games — Senior VFX Artist - VALORANT, Expressions (score=55.0)
+[08:09:43]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=6908905
+[08:09:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:09:59] 
+[70/300] GREENHOUSE | Lyft — Senior Android Engineer, Mobile Foundations (score=55.0)
+[08:09:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8378420002
+[08:10:11]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:10:11] --- Progress: 70/300 | OK=57 FAIL=13 CODE=0 | 19.1min ---
+[08:10:14] 
+[71/300] GREENHOUSE | Lyft — Senior Data Scientist, Algorithms - Lyft Business (score=55.0)
+[08:10:14]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8391359002
+[08:10:28]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:10:31] 
+[72/300] GREENHOUSE | Lyft — Senior Data Scientist, Algorithms - Lyft Business (score=55.0)
+[08:10:31]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8392976002
+[08:10:44]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:10:47] 
+[73/300] GREENHOUSE | Lyft — Senior Data Scientist, Rider New Products (score=55.0)
+[08:10:47]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8355960002
+[08:11:04]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:11:07] 
+[74/300] GREENHOUSE | Lyft — Senior Data Scientist, Rider New Products (score=55.0)
+[08:11:07]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8355945002
+[08:11:21]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:11:24] 
+[75/300] GREENHOUSE | Lyft — Senior Privacy Analyst (score=55.0)
+[08:11:24]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8436395002
+[08:11:36]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:11:39] 
+[76/300] GREENHOUSE | Lyft — Senior Revenue Accountant (score=55.0)
+[08:11:39]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8417184002
+[08:11:46]   FAILED: Submit button not found
+[08:11:49] 
+[77/300] GREENHOUSE | Lyft — Senior Revenue Accountant (score=55.0)
+[08:11:49]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8417172002
+[08:11:55]   FAILED: Submit button not found
+[08:11:59] 
+[78/300] GREENHOUSE | Lyft — Senior Workday HCM Lead   (score=55.0)
+[08:11:59]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8399127002
+[08:12:10]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:12:14] 
+[79/300] GREENHOUSE | Cloudflare — Senior Dev GTM (score=55.0)
+[08:12:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:12:32] 
+[80/300] GREENHOUSE | Cloudflare — Senior Dev GTM (score=55.0)
+[08:12:44]   FAILED: Submit button not found
+[08:12:44] --- Progress: 80/300 | OK=64 FAIL=16 CODE=0 | 21.6min ---
+[08:12:47] 
+[81/300] GREENHOUSE | Cloudflare — Senior Territory Account Executive - Greek Speakin (score=55.0)
+[08:13:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:13:16] 
+[82/300] GREENHOUSE | Robinhood — Communications Compliance Senior Specialist (score=55.0)
+[08:13:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:13:30] 
+[83/300] GREENHOUSE | Robinhood — Risk Governance Senior Specialist (score=55.0)
+[08:13:39]   FAILED: Submit button not found
+[08:13:42] 
+[84/300] GREENHOUSE | Robinhood — Risk Governance Senior Specialist (score=55.0)
+[08:13:51]   FAILED: Submit button not found
+[08:13:54] 
+[85/300] GREENHOUSE | Robinhood — Senior Android Developer (score=55.0)
+[08:14:02]   FAILED: Submit button not found
+[08:14:06] 
+[86/300] GREENHOUSE | Robinhood — Senior Android Engineer (score=55.0)
+[08:14:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:14:21] 
+[87/300] GREENHOUSE | Robinhood — Senior iOS Engineer (score=55.0)
+[08:14:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:14:41] 
+[88/300] GREENHOUSE | SoFi — Credit Strategy - Senior Data Scientist (score=55.0)
+[08:14:41]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7655871003
+[08:14:50]   FAILED: Submit button not found
+[08:14:53] 
+[89/300] GREENHOUSE | SoFi — Senior Data Scientist (score=55.0)
+[08:14:53]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7667953003
+[08:15:05]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:15:08] 
+[90/300] GREENHOUSE | SoFi — Senior Data Scientist, Member Insights - Growth (score=55.0)
+[08:15:08]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7587079003
+[08:15:21]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:15:21] --- Progress: 90/300 | OK=70 FAIL=20 CODE=0 | 24.2min ---
+[08:15:24] 
+[91/300] GREENHOUSE | SoFi — Senior Editor, Newsletters (Contract)	 (score=55.0)
+[08:15:24]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7592146003
+[08:15:40]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:15:43] 
+[92/300] GREENHOUSE | SoFi — Senior Marketing Data Scientist (score=55.0)
+[08:15:43]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7602842003
+[08:15:50]   FAILED: Submit button not found
+[08:15:53] 
+[93/300] GREENHOUSE | SoFi — Senior Marketing Data Scientist (score=55.0)
+[08:15:53]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7602832003
+[08:16:10]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:16:13] 
+[94/300] GREENHOUSE | SoFi — Senior People Business Partner (score=55.0)
+[08:16:13]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7670821003
+[08:16:30]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:16:33] 
+[95/300] GREENHOUSE | SoFi — Staff Data Scientist, Borrow (score=55.0)
+[08:16:33]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7601581003
+[08:16:53]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:16:56] 
+[96/300] GREENHOUSE | SoFi — Staff Data Scientist - Loss Forecasting & Portfoli (score=55.0)
+[08:16:56]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7534860003
+[08:17:25]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:17:28] 
+[97/300] GREENHOUSE | SoFi — Staff Data Scientist, Member Insights - Subscripti (score=55.0)
+[08:17:28]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7634890003
+[08:17:57]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:18:00] 
+[98/300] GREENHOUSE | SoFi — Staff Enterprise Architect (score=55.0)
+[08:18:00]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7661740003
+[08:18:29]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:18:32] 
+[99/300] GREENHOUSE | SoFi — Staff Front-End Engineer, Commercial Banking (score=55.0)
+[08:18:32]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7668601003
+[08:18:42]   FAILED: Submit button not found
+[08:18:45] 
+[100/300] GREENHOUSE | SoFi — Staff IAM Engineer (score=55.0)
+[08:18:45]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7525493003
+[08:19:00]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:19:00] --- Progress: 100/300 | OK=78 FAIL=22 CODE=0 | 27.9min ---
+[08:19:03] 
+[101/300] GREENHOUSE | SoFi — Staff IT Support Specialist (score=55.0)
+[08:19:03]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7593395003
+[08:19:16]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:19:20] 
+[102/300] GREENHOUSE | SoFi — Staff ServiceNow Engineer (score=55.0)
+[08:19:20]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7531120003
+[08:19:32]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:19:35] 
+[103/300] GREENHOUSE | SoFi — Staff UX Researcher (score=55.0)
+[08:19:35]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7589435003
+[08:19:48]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:19:51] 
+[104/300] GREENHOUSE | Lyft — Senior Accountant, Fleet Accounting (score=55.0)
+[08:19:51]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=8476426002
+[08:20:05]   >>> SUCCESS: Wraith verified: likely success <<<
+[08:20:09] 
+[105/300] GREENHOUSE | Riot Games — Senior Tax Analyst - 13 Month Contract (score=55.0)
+[08:20:09]   Converted to embed URL: https://boards.greenhouse.io/embed/job_app?token=7758912
+[08:20:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:20:24] 
+[106/300] GREENHOUSE | Anduril — Chief of Staff, Air Dominance & Strike  (score=55.0)
+[08:20:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:20:41] 
+[107/300] GREENHOUSE | Anduril — Chief of Staff, Design (score=55.0)
+[08:20:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:20:58] 
+[108/300] GREENHOUSE | Anduril — Chief of Staff, Tactical Recon and Strike  (Skillb (score=55.0)
+[08:21:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:21:13] 
+[109/300] GREENHOUSE | Anduril — Chief of Staff, Tactical Recon & Strike (score=55.0)
+[08:21:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:21:31] 
+[110/300] GREENHOUSE | Anduril — Chief of Staff, Tactical Recon & Strike (score=55.0)
+[08:21:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:21:42] --- Progress: 110/300 | OK=88 FAIL=22 CODE=0 | 30.6min ---
+[08:21:45] 
+[111/300] GREENHOUSE | Anduril — Chief of Staff, Tactical Recon & Strike (score=55.0)
+[08:21:58]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:22:01] 
+[112/300] GREENHOUSE | Anduril — Principal Digital Hardware Engineer, PCB & FPGA de (score=55.0)
+[08:22:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:22:18] 
+[113/300] GREENHOUSE | Anduril — Principal Flight Test Engineer, Air Dominance & St (score=55.0)
+[08:22:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:22:34] 
+[114/300] GREENHOUSE | Anduril — Principal Flight Test Engineer, Air Dominance & St (score=55.0)
+[08:22:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:22:52] 
+[115/300] GREENHOUSE | Anduril — Principal Loads & Dynamics Engineer (score=55.0)
+[08:23:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:23:08] 
+[116/300] GREENHOUSE | Anduril — Principal Powertrain Engineer, Omen  (score=55.0)
+[08:23:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:23:25] 
+[117/300] GREENHOUSE | Anduril — Principal Radar Engineer, Space (score=55.0)
+[08:23:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:23:43] 
+[118/300] GREENHOUSE | Anduril —  Senior Aerodynamics Engineer, Air Vehicles (score=55.0)
+[08:23:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:24:01] 
+[119/300] GREENHOUSE | Anduril — Senior Aftermarket Parts Planner (score=55.0)
+[08:24:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:24:16] 
+[120/300] GREENHOUSE | Anduril — Senior Airborne Payload Integration Engineer, Elec (score=55.0)
+[08:24:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:24:31] --- Progress: 120/300 | OK=98 FAIL=22 CODE=0 | 33.4min ---
+[08:24:34] 
+[121/300] GREENHOUSE | Anduril — Senior Air Vehicle Configuration Engineer, Omen (score=55.0)
+[08:24:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:24:51] 
+[122/300] GREENHOUSE | Anduril — Senior Analytics Engineer (score=55.0)
+[08:25:04]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:25:07] 
+[123/300] GREENHOUSE | Anduril — Senior Avionics Technician (score=55.0)
+[08:25:19]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:25:22] 
+[124/300] GREENHOUSE | Anduril — Senior Battery Engineer  (score=55.0)
+[08:25:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:25:38] 
+[125/300] GREENHOUSE | Anduril — Senior Battery Engineer, BMS (score=55.0)
+[08:25:51]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:25:54] 
+[126/300] GREENHOUSE | Anduril — Senior Battery Engineer, Mechanical & Pack Design (score=55.0)
+[08:26:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:26:09] 
+[127/300] GREENHOUSE | Anduril — Senior Battery Test Engineer,  Arbin/Maccor/Digatr (score=55.0)
+[08:26:23]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:26:26] 
+[128/300] GREENHOUSE | Anduril — Senior BOM Engineer, Intelligence Systems (Active  (score=55.0)
+[08:26:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:26:42] 
+[129/300] GREENHOUSE | Anduril — Senior BOM Sourcing Engineer (score=55.0)
+[08:26:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:26:57] 
+[130/300] GREENHOUSE | Anduril — Senior BOM Sourcing Engineer, Intelligence Systems (score=55.0)
+[08:27:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:27:13] --- Progress: 130/300 | OK=108 FAIL=22 CODE=0 | 36.1min ---
+[08:27:16] 
+[131/300] GREENHOUSE | Anduril — Senior Business Operations Engineer, Air Dominance (score=55.0)
+[08:27:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:27:30] 
+[132/300] GREENHOUSE | Anduril — Senior Buyer (score=55.0)
+[08:27:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:27:46] 
+[133/300] GREENHOUSE | Anduril — Senior Buyer (score=55.0)
+[08:27:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:28:02] 
+[134/300] GREENHOUSE | Anduril — Senior Buyer (score=55.0)
+[08:28:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:28:18] 
+[135/300] GREENHOUSE | Anduril — Senior Buyer, Commercial Hardware Procurement (score=55.0)
+[08:28:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:28:35] 
+[136/300] GREENHOUSE | Anduril — Senior Compensation Partner, Manufacturing (score=55.0)
+[08:29:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:29:03] 
+[137/300] GREENHOUSE | Anduril — Senior Compliance Engineer (score=55.0)
+[08:29:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:29:19] 
+[138/300] GREENHOUSE | Anduril — Senior Computer Vision Engineer, Image Quality (score=55.0)
+[08:29:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:29:34] 
+[139/300] GREENHOUSE | Anduril — Senior Computer Vision Engineer, Space (score=55.0)
+[08:29:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:29:51] 
+[140/300] GREENHOUSE | Anduril — Senior Computer Vision Engineer, Space (score=55.0)
+[08:30:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:30:05] --- Progress: 140/300 | OK=118 FAIL=22 CODE=0 | 39.0min ---
+[08:30:08] 
+[141/300] GREENHOUSE | Anduril — Senior Controls Engineer, Manufacturing Automation (score=55.0)
+[08:30:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:30:23] 
+[142/300] GREENHOUSE | Anduril — Senior Controls Engineer, Rocket Motor Systems (score=55.0)
+[08:30:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:30:40] 
+[143/300] GREENHOUSE | Anduril — Senior, Cost Accounting (score=55.0)
+[08:30:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:30:56] 
+[144/300] GREENHOUSE | Anduril — Senior, Cost Accounting (score=55.0)
+[08:31:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:31:13] 
+[145/300] GREENHOUSE | Anduril — Senior Cost Value Engineer (score=55.0)
+[08:31:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:31:29] 
+[146/300] GREENHOUSE | Anduril — Senior Cost Value Engineer, Intelligence Systems ( (score=55.0)
+[08:31:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:31:45] 
+[147/300] GREENHOUSE | Anduril — Senior Cost Value Engineer, Intelligence Systems & (score=55.0)
+[08:31:58]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:32:01] 
+[148/300] GREENHOUSE | Anduril — Senior Demand & Supply Planner (score=55.0)
+[08:32:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:32:19] 
+[149/300] GREENHOUSE | Anduril — Senior Demand & Supply Planner (score=55.0)
+[08:32:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:32:35] 
+[150/300] GREENHOUSE | Anduril — Senior Demand & Supply Planner, Advanced Effects M (score=55.0)
+[08:32:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:32:49] --- Progress: 150/300 | OK=128 FAIL=22 CODE=0 | 41.7min ---
+[08:32:52] 
+[151/300] GREENHOUSE | Anduril — Senior Demand & Supply Planner, Air Defense (score=55.0)
+[08:33:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:33:08] 
+[152/300] GREENHOUSE | Anduril — Senior Demand & Supply Planner, Air Dominance & St (score=55.0)
+[08:33:22]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:33:25] 
+[153/300] GREENHOUSE | Anduril — Senior Demand & Supply Planner, Connected Warfare (score=55.0)
+[08:33:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:33:42] 
+[154/300] GREENHOUSE | Anduril — Senior Demand & Supply Planner, Counter Intrusion (score=55.0)
+[08:33:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:33:59] 
+[155/300] GREENHOUSE | Anduril — Senior Demand & Supply Planner, Electronic Warfare (score=55.0)
+[08:34:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:34:15] 
+[156/300] GREENHOUSE | Anduril — Senior Demand & Supply Planner, Intelligence Syste (score=55.0)
+[08:34:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:34:31] 
+[157/300] GREENHOUSE | Anduril — Senior Demand & Supply Planner, Precision Engageme (score=55.0)
+[08:34:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:34:47] 
+[158/300] GREENHOUSE | Anduril — Senior Development Test Engineer (score=55.0)
+[08:35:02]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:35:05] 
+[159/300] GREENHOUSE | Anduril — Senior Development Test Engineer, Satellite Progra (score=55.0)
+[08:35:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:35:21] 
+[160/300] GREENHOUSE | Anduril — Senior  Dev Fab Technician (score=55.0)
+[08:35:33]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:35:33] --- Progress: 160/300 | OK=138 FAIL=22 CODE=0 | 44.4min ---
+[08:35:36] 
+[161/300] GREENHOUSE | Anduril — Senior DSP Engineer (score=55.0)
+[08:35:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:35:52] 
+[162/300] GREENHOUSE | Anduril — Senior Dynamics Test Technician (score=55.0)
+[08:36:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:36:15] 
+[163/300] GREENHOUSE | Anduril — Senior Edge Software Deployment Engineer (score=55.0)
+[08:36:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:36:30] 
+[164/300] GREENHOUSE | Anduril — Senior Electrical Engineer (score=55.0)
+[08:36:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:36:46] 
+[165/300] GREENHOUSE | Anduril — Senior Electrical Engineer (score=55.0)
+[08:36:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:37:02] 
+[166/300] GREENHOUSE | Anduril — Senior Electrical Engineer (score=55.0)
+[08:37:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:37:19] 
+[167/300] GREENHOUSE | Anduril — Senior Electrical Engineer (score=55.0)
+[08:37:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:37:35] 
+[168/300] GREENHOUSE | Anduril — Senior Electrical Engineer (score=55.0)
+[08:37:47]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:37:50] 
+[169/300] GREENHOUSE | Anduril — Senior Electrical Engineer (score=55.0)
+[08:38:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:38:08] 
+[170/300] GREENHOUSE | Anduril — Senior Electrical Engineer  (score=55.0)
+[08:38:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:38:21] --- Progress: 170/300 | OK=148 FAIL=22 CODE=0 | 47.2min ---
+[08:38:24] 
+[171/300] GREENHOUSE | Anduril — Senior Electrical Engineer, AI, Drones & Robotics  (score=55.0)
+[08:38:37]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:38:40] 
+[172/300] GREENHOUSE | Anduril — Senior Electrical Engineer, AI, Drones & Robotics  (score=55.0)
+[08:38:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:38:57] 
+[173/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Air Dominance and Stri (score=55.0)
+[08:39:10]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:39:13] 
+[174/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Avionics Design (score=55.0)
+[08:39:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:39:31] 
+[175/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Circuit Design (score=55.0)
+[08:39:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:39:48] 
+[176/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Connected Warfare Grou (score=55.0)
+[08:39:56]   FAILED: Submit button not found
+[08:39:59] 
+[177/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Drones (score=55.0)
+[08:40:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:40:14] 
+[178/300] GREENHOUSE | Anduril — Senior Electrical Engineer, EMI/EMC Design (score=55.0)
+[08:40:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:40:31] 
+[179/300] GREENHOUSE | Anduril — Senior Electrical Engineer, EMI - Intelligence Sys (score=55.0)
+[08:40:44]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:40:47] 
+[180/300] GREENHOUSE | Anduril — Senior Electrical Engineering Technician (score=55.0)
+[08:41:02]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:41:02] --- Progress: 180/300 | OK=157 FAIL=23 CODE=0 | 49.9min ---
+[08:41:05] 
+[181/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Intelligence Systems (score=55.0)
+[08:41:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:41:21] 
+[182/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Maneuver Dominance (score=55.0)
+[08:41:33]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:41:36] 
+[183/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Maneuver Dominance (score=55.0)
+[08:41:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:41:57] 
+[184/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Manufacturing Test  (score=55.0)
+[08:42:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:42:14] 
+[185/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Manufacturing Test  (score=55.0)
+[08:42:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:42:33] 
+[186/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Manufacturing Test (Ac (score=55.0)
+[08:42:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:42:49] 
+[187/300] GREENHOUSE | Anduril — Senior Electrical Engineer, MIL-Standards/Design (score=55.0)
+[08:43:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:43:04] 
+[188/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Missiles/PCBs  (score=55.0)
+[08:43:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:43:20] 
+[189/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Rocket Motor Systems (score=55.0)
+[08:43:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:43:36] 
+[190/300] GREENHOUSE | Anduril — Senior Electrical Engineer, Space (score=55.0)
+[08:43:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:43:49] --- Progress: 190/300 | OK=167 FAIL=23 CODE=0 | 52.7min ---
+[08:43:52] 
+[191/300] GREENHOUSE | Anduril — Senior Electrical Engineer (TEMPEST) (score=55.0)
+[08:44:05]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:44:08] 
+[192/300] GREENHOUSE | Anduril — Senior Electrical Engineer (TEMPEST) (score=55.0)
+[08:44:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:44:24] 
+[193/300] GREENHOUSE | Anduril — Senior Electrical Engineer (TEMPEST) (score=55.0)
+[08:44:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:44:41] 
+[194/300] GREENHOUSE | Anduril — Senior Electrical Hardware Engineer (score=55.0)
+[08:44:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:44:58] 
+[195/300] GREENHOUSE | Anduril — Senior Electrical Integration Engineer (score=55.0)
+[08:45:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:45:15] 
+[196/300] GREENHOUSE | Anduril — Senior Electrical Integration Engineer, High Speed (score=55.0)
+[08:45:27]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:45:30] 
+[197/300] GREENHOUSE | Anduril — Senior Electrical Sustainment Engineer (score=55.0)
+[08:45:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:45:47] 
+[198/300] GREENHOUSE | Anduril — Senior Electrical System Test Engineer (score=55.0)
+[08:46:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:46:04] 
+[199/300] GREENHOUSE | Anduril — Senior Electrical Test Engineer (score=55.0)
+[08:46:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:46:18] 
+[200/300] GREENHOUSE | Anduril — Senior Electrical Test Technician (score=55.0)
+[08:46:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:46:31] --- Progress: 200/300 | OK=177 FAIL=23 CODE=0 | 55.4min ---
+[08:46:34] 
+[201/300] GREENHOUSE | Anduril — Senior Electromechanical Engineer, Connected Warfa (score=55.0)
+[08:46:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:46:49] 
+[202/300] GREENHOUSE | Anduril — Senior EMI Test Engineer (score=55.0)
+[08:47:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:47:04] 
+[203/300] GREENHOUSE | Anduril — Senior Engineer, Environmental Health & Safety  (score=55.0)
+[08:47:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:47:21] 
+[204/300] GREENHOUSE | Anduril — Senior Equipment Engineer, Rocket Motor Systems (score=55.0)
+[08:47:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:47:39] 
+[205/300] GREENHOUSE | Anduril — Senior Equipment Safety Engineer, Manufacturing Au (score=55.0)
+[08:47:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:47:55] 
+[206/300] GREENHOUSE | Anduril — Senior Equipment Safety Engineer, Rocket Motor Sys (score=55.0)
+[08:48:08]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:48:11] 
+[207/300] GREENHOUSE | Anduril — Senior Field Service Parts Planner (score=55.0)
+[08:48:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:48:27] 
+[208/300] GREENHOUSE | Anduril — Senior Flight Performance Engineer, Air Vehicles (score=55.0)
+[08:48:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:48:44] 
+[209/300] GREENHOUSE | Anduril — Senior Flight Sciences Engineer (score=55.0)
+[08:48:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:48:59] 
+[210/300] GREENHOUSE | Anduril — Senior Flight Sciences Engineer (score=55.0)
+[08:49:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:49:11] --- Progress: 210/300 | OK=187 FAIL=23 CODE=0 | 58.1min ---
+[08:49:14] 
+[211/300] GREENHOUSE | Anduril — Senior Flight Test Engineer, Air Dominance & Strik (score=55.0)
+[08:49:29]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:49:32] 
+[212/300] GREENHOUSE | Anduril — Senior Flight Test Engineer, Air Dominance & Strik (score=55.0)
+[08:49:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:49:49] 
+[213/300] GREENHOUSE | Anduril — Senior Flight Test Engineer, Group 5 (score=55.0)
+[08:50:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:50:06] 
+[214/300] GREENHOUSE | Anduril — Senior Flight Test Engineer, Intel Systems (score=55.0)
+[08:50:19]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:50:22] 
+[215/300] GREENHOUSE | Anduril — Senior Flight Test Engineer, Missiles (score=55.0)
+[08:50:34]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:50:37] 
+[216/300] GREENHOUSE | Anduril — Senior Flight Test Engineer - Mission Autonomy (score=55.0)
+[08:50:49]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:50:52] 
+[217/300] GREENHOUSE | Anduril — Senior Flight Test Engineer, Space Systems (score=55.0)
+[08:51:06]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:51:09] 
+[218/300] GREENHOUSE | Anduril — Senior FPGA Engineer (score=55.0)
+[08:51:21]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:51:25] 
+[219/300] GREENHOUSE | Anduril — Senior FPGA Engineer, EW (score=55.0)
+[08:51:38]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:51:41] 
+[220/300] GREENHOUSE | Anduril —  Senior FPGA Engineer, Intelligence Systems (score=55.0)
+[08:51:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:51:53] --- Progress: 220/300 | OK=197 FAIL=23 CODE=0 | 60.8min ---
+[08:51:56] 
+[221/300] GREENHOUSE | Anduril — Senior FPGA Engineer, Space (score=55.0)
+[08:52:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:52:14] 
+[222/300] GREENHOUSE | Anduril — Senior GNC Engineer, Space (score=55.0)
+[08:52:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:52:29] 
+[223/300] GREENHOUSE | Anduril — Senior GNC Engineer, Space (score=55.0)
+[08:52:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:52:45] 
+[224/300] GREENHOUSE | Anduril — Senior Guidance Navigation and Control (GNC) Engin (score=55.0)
+[08:52:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:52:59] 
+[225/300] GREENHOUSE | Anduril — Senior Guidance, Navigation and Control (GNC) Engi (score=55.0)
+[08:53:13]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:53:17] 
+[226/300] GREENHOUSE | Anduril — Senior Guidance, Navigation & Control (GNC) Engine (score=55.0)
+[08:53:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:53:33] 
+[227/300] GREENHOUSE | Anduril — Senior Guidance, Navigation & Control (GNC) Engine (score=55.0)
+[08:53:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:53:49] 
+[228/300] GREENHOUSE | Anduril — Senior Industrial Engineer (score=55.0)
+[08:54:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:54:06] 
+[229/300] GREENHOUSE | Anduril — Senior Industrial Engineer (score=55.0)
+[08:54:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:54:22] 
+[230/300] GREENHOUSE | Anduril — Senior Industrial Engineer (score=55.0)
+[08:54:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:54:35] --- Progress: 230/300 | OK=207 FAIL=23 CODE=0 | 63.5min ---
+[08:54:38] 
+[231/300] GREENHOUSE | Anduril — Senior Industrial Engineer (score=55.0)
+[08:54:53]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:54:56] 
+[232/300] GREENHOUSE | Anduril — Senior Industrial Engineer, Supply Chain Material  (score=55.0)
+[08:55:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:55:14] 
+[233/300] GREENHOUSE | Anduril — Senior Loads Engineer, Omen (score=55.0)
+[08:55:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:55:31] 
+[234/300] GREENHOUSE | Anduril — Senior Low Observables Engineer - Mission Systems  (score=55.0)
+[08:55:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:55:46] 
+[235/300] GREENHOUSE | Anduril — Senior Low Observables Engineer, RCS (score=55.0)
+[08:55:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:56:02] 
+[236/300] GREENHOUSE | Anduril — Senior Machine Learning/MLOps Engineer (score=55.0)
+[08:56:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:56:17] 
+[237/300] GREENHOUSE | Anduril — Senior Machine Vision Engineer, Manufacturing Auto (score=55.0)
+[08:56:29]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:56:32] 
+[238/300] GREENHOUSE | Anduril — Senior Maintenance Specialist (score=55.0)
+[08:56:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:56:48] 
+[239/300] GREENHOUSE | Anduril — Senior Manufacturing Development Engineer (score=55.0)
+[08:57:02]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:57:05] 
+[240/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer (score=55.0)
+[08:57:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:57:19] --- Progress: 240/300 | OK=217 FAIL=23 CODE=0 | 66.2min ---
+[08:57:22] 
+[241/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer (score=55.0)
+[08:57:35]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:57:38] 
+[242/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, Analytics (score=55.0)
+[08:57:54]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:57:57] 
+[243/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, Core Technology  (score=55.0)
+[08:58:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:58:17] 
+[244/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, Digital Tools (score=55.0)
+[08:58:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:58:33] 
+[245/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, EagleEye (score=55.0)
+[08:58:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:58:48] 
+[246/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, Electrical Systems  (score=55.0)
+[08:59:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:59:04] 
+[247/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, Maritime (score=55.0)
+[08:59:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:59:21] 
+[248/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, Maritime Systems (score=55.0)
+[08:59:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:59:40] 
+[249/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, Missiles (score=55.0)
+[08:59:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[08:59:55] 
+[250/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, New Product Introdu (score=55.0)
+[09:00:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:00:09] --- Progress: 250/300 | OK=227 FAIL=23 CODE=0 | 69.0min ---
+[09:00:12] 
+[251/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, Production, Sentry  (score=55.0)
+[09:00:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:00:29] 
+[252/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, Production Validati (score=55.0)
+[09:00:42]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:00:45] 
+[253/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, Space Systems (score=55.0)
+[09:00:57]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:01:01] 
+[254/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, Test Analytics (score=55.0)
+[09:01:14]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:01:17] 
+[255/300] GREENHOUSE | Anduril — Senior Manufacturing Engineer, Underwater Autonomo (score=55.0)
+[09:01:30]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:01:33] 
+[256/300] GREENHOUSE | Anduril — Senior Manufacturing Equipment Engineer, Intellige (score=55.0)
+[09:01:46]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:01:49] 
+[257/300] GREENHOUSE | Anduril — Senior Manufacturing Process Development Engineer, (score=55.0)
+[09:02:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:02:03] 
+[258/300] GREENHOUSE | Anduril — Senior Manufacturing Test Engineer (score=55.0)
+[09:02:16]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:02:19] 
+[259/300] GREENHOUSE | Anduril — Senior Manufacturing Test Engineer (score=55.0)
+[09:02:31]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:02:34] 
+[260/300] GREENHOUSE | Anduril — Senior Master Scheduler, S&OP Planning (score=55.0)
+[09:02:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:02:49] --- Progress: 260/300 | OK=237 FAIL=23 CODE=0 | 71.7min ---
+[09:02:52] 
+[261/300] GREENHOUSE | Anduril — Senior Master Scheduler, S&OP Planning (score=55.0)
+[09:03:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:03:07] 
+[262/300] GREENHOUSE | Anduril — Senior Material Flow Engineer, Supply Chain  (score=55.0)
+[09:03:20]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:03:23] 
+[263/300] GREENHOUSE | Anduril — Senior Material Planner (score=55.0)
+[09:03:36]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:03:39] 
+[264/300] GREENHOUSE | Anduril — Senior Material Planner (score=55.0)
+[09:03:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:03:58] 
+[265/300] GREENHOUSE | Anduril — Senior Materials and Process Engineer, Space (score=55.0)
+[09:04:09]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:04:12] 
+[266/300] GREENHOUSE | Anduril — Senior Materials Associate, Warehouse (score=55.0)
+[09:04:24]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:04:27] 
+[267/300] GREENHOUSE | Anduril — Senior Materials Engineer, Metals (score=55.0)
+[09:04:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:04:43] 
+[268/300] GREENHOUSE | Anduril — Senior Mechanical Engineer (score=55.0)
+[09:04:56]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:04:59] 
+[269/300] GREENHOUSE | Anduril — Senior Mechanical Engineer (score=55.0)
+[09:05:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:05:14] 
+[270/300] GREENHOUSE | Anduril — Senior Mechanical Engineer (score=55.0)
+[09:05:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:05:26] --- Progress: 270/300 | OK=247 FAIL=23 CODE=0 | 74.3min ---
+[09:05:29] 
+[271/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Advanced Maneuver Syst (score=55.0)
+[09:05:39]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:05:42] 
+[272/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Air Vehicle Lead Desig (score=55.0)
+[09:05:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:05:58] 
+[273/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Air Vehicles (score=55.0)
+[09:06:12]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:06:15] 
+[274/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Connected Warfare (score=55.0)
+[09:06:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:06:29] 
+[275/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Counter Intrusion (score=55.0)
+[09:06:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:06:46] 
+[276/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Drones (score=55.0)
+[09:07:01]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:07:04] 
+[277/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Manufacturing Automati (score=55.0)
+[09:07:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:07:20] 
+[278/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Manufacturing Test (score=55.0)
+[09:07:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:07:35] 
+[279/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Maritime (score=55.0)
+[09:07:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:07:51] 
+[280/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Omen (score=55.0)
+[09:08:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:08:03] --- Progress: 280/300 | OK=257 FAIL=23 CODE=0 | 76.9min ---
+[09:08:06] 
+[281/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Production, Connected  (score=55.0)
+[09:08:18]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:08:21] 
+[282/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Rocket Motor Systems (score=55.0)
+[09:08:33]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:08:37] 
+[283/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Rocket Motor Systems (score=55.0)
+[09:08:52]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:08:56] 
+[284/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Space (score=55.0)
+[09:09:07]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:09:11] 
+[285/300] GREENHOUSE | Anduril — Senior Mechanical Engineer, Space (score=55.0)
+[09:09:25]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:09:28] 
+[286/300] GREENHOUSE | Anduril — Senior Metal Former/Plate Roller (score=55.0)
+[09:09:40]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:09:43] 
+[287/300] GREENHOUSE | Anduril — Senior Mission Operations Engineer, Connected Warf (score=55.0)
+[09:09:55]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:09:58] 
+[288/300] GREENHOUSE | Anduril — Senior Modeling and Simulation Engineer, Space (score=55.0)
+[09:10:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:10:14] 
+[289/300] GREENHOUSE | Anduril — Senior Modeling and Simulation Engineer  -Tactical (score=55.0)
+[09:10:26]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:10:30] 
+[290/300] GREENHOUSE | Anduril — Senior Modeling and Simulation Engineer  -Tactical (score=55.0)
+[09:10:41]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:10:41] --- Progress: 290/300 | OK=267 FAIL=23 CODE=0 | 79.6min ---
+[09:10:44] 
+[291/300] GREENHOUSE | Anduril — Senior Modeling, Simulation and Analysis Engineer, (score=55.0)
+[09:10:58]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:11:01] 
+[292/300] GREENHOUSE | Anduril — Senior Modeling, Simulation and Analysis Engineer  (score=55.0)
+[09:11:11]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:11:15] 
+[293/300] GREENHOUSE | Anduril — Senior MRB Engineer (score=55.0)
+[09:11:28]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:11:31] 
+[294/300] GREENHOUSE | Anduril — Senior NPI Sourcing Engineer (score=55.0)
+[09:11:43]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:11:46] 
+[295/300] GREENHOUSE | Anduril — Senior Operations & Logistics Associate (score=55.0)
+[09:11:59]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:12:02] 
+[296/300] GREENHOUSE | Anduril — Senior Optical Engineer - AI&T, Space Imaging (score=55.0)
+[09:12:15]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:12:18] 
+[297/300] GREENHOUSE | Anduril — Senior Optical Engineer Design & Architecture, Spa (score=55.0)
+[09:12:32]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:12:35] 
+[298/300] GREENHOUSE | Anduril — Senior Optical Engineer Design & Architecture, Spa (score=55.0)
+[09:12:48]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:12:51] 
+[299/300] GREENHOUSE | Anduril — Senior Opto-Mechanical Engineer: Payload/Sensor, S (score=55.0)
+[09:13:03]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:13:06] 
+[300/300] GREENHOUSE | Anduril — Senior Packaging Engineer, Electromechanical Hardw (score=55.0)
+[09:13:17]   >>> SUCCESS: Wraith verified: confirmed <<<
+[09:13:17] --- Progress: 300/300 | OK=277 FAIL=23 CODE=0 | 82.2min ---
+[09:13:17] 
+======================================================================
+[09:13:17] WRAITH APPLY SWARM DONE — 82.2min
+[09:13:17]   Success: 277
+[09:13:17]   Failed: 23
+[09:13:17]   Needs code: 0
+[09:13:17]   Rate: 3.7 apps/min
+[09:13:17] ======================================================================
