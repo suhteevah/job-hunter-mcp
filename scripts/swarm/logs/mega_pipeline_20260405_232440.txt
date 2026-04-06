@@ -1,0 +1,35 @@
+[23:24:40] MEGA PIPELINE started at 2026-04-05T23:24:40.286231
+[23:24:40] Args: {'scrape': False, 'rescore': False, 'apply': True, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[23:24:40] 
+======================================================================
+[23:24:40] PHASE 3: APPLY  [Wraith CDP]
+[23:24:40] ======================================================================
+[23:24:40]   lever: 3 jobs
+[23:24:40] Total: 3 jobs across 1 platforms
+[23:24:40] Starting Wraith MCP client...
+[23:24:44] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[23:24:44] 
+[1/3] LEVER | Shield AI — Senior Staff Aerostructures Design Engineer (R4721 (score=60.0)
+[23:24:52]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[23:24:55] 
+[2/3] LEVER | Shield AI — Senior Staff Engineer, Mechanical Design (R4486) (score=60.0)
+[23:25:02]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[23:25:05] 
+[3/3] LEVER | Shield AI — Senior Staff Engineer, Supplier Development (R4184 (score=60.0)
+[23:25:13]   >>> SUCCESS: Wraith verified: {
+  "message": "No clear success or failure indica <<<
+[23:25:14] 
+APPLY DONE in 0.6min
+[23:25:14]   Success: 3
+[23:25:14]   Failed: 0
+[23:25:14]   Needs code: 0
+[23:25:14]   Rate: 5.3 apps/min
+[23:25:14] 
+======================================================================
+[23:25:14] MEGA PIPELINE COMPLETE — 0.6min total
+[23:25:14] ======================================================================

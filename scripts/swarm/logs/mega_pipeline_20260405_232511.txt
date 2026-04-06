@@ -1,0 +1,16 @@
+[23:25:11] MEGA PIPELINE started at 2026-04-05T23:25:11.236669
+[23:25:11] Args: {'scrape': False, 'rescore': True, 'apply': False, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[23:25:11] 
+======================================================================
+[23:25:11] PHASE 2: RESCORE — Fetching full descriptions
+[23:25:11] ======================================================================
+[23:25:11] Jobs to rescore: 9264
+[23:28:28]   PROMOTED 33.0->87.0: Senior Software Engineer, GenAI Platform
+[23:28:48]   PROMOTED 30.0->60.0: Senior, Tech Risk and AI Automation
+[23:28:49]   PROMOTED 30.0->60.0: Senior, Tech Risk and AI Automation
+[23:30:07] 
+RESCORE DONE in 297s — 3882 rescored, 3 promoted to viable, 0 demoted
+[23:30:07] 
+======================================================================
+[23:30:07] MEGA PIPELINE COMPLETE — 4.9min total
+[23:30:07] ======================================================================

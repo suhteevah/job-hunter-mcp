@@ -1,0 +1,30 @@
+[23:21:10] MEGA PIPELINE started at 2026-04-05T23:21:10.299065
+[23:21:10] Args: {'scrape': True, 'rescore': False, 'apply': False, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[23:21:10] 
+======================================================================
+[23:21:10] PHASE 1: MEGA SCRAPE
+[23:21:10] ======================================================================
+[23:21:10] Boards: 164 GH + 96 Ashby + 44 Lever = 304 total
+[23:21:10] Workers: 100
+[23:21:51]   + 26 new  Scale AI (greenhouse) [168 total]
+[23:21:57]   + 29 new  Pathward (greenhouse) [30 total]
+[23:22:08]   +  5 new  Epic Games (greenhouse) [67 total]
+[23:22:28]   +  2 new  DeepMind (greenhouse) [92 total]
+[23:23:32]   +  3 new  Datadog (greenhouse) [436 total]
+[23:24:00] 
+SCRAPE DONE in 170s
+[23:24:00]   Found: 9833 jobs across 78 boards
+[23:24:00]   New inserted: 65
+[23:24:00]   Viable (fit>=60, new): 1234
+[23:24:00]   Total DB: 32102
+[23:24:00] 
+Top by new jobs:
+[23:24:00]   Pathward                  +29 (greenhouse)
+[23:24:00]   Scale AI                  +26 (greenhouse)
+[23:24:00]   Epic Games                +5 (greenhouse)
+[23:24:00]   Datadog                   +3 (greenhouse)
+[23:24:00]   DeepMind                  +2 (greenhouse)
+[23:24:00] 
+======================================================================
+[23:24:00] MEGA PIPELINE COMPLETE — 2.8min total
+[23:24:00] ======================================================================

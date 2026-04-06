@@ -7,11 +7,13 @@
 
 ## OPEN BUGS
 
-### BUG-12: FlareSolverr CORS error on second navigate — FIXED (2026-04-02)
+### BUG-12: FlareSolverr CORS error on second navigate — FIXED (2026-04-03)
 - **Severity**: ~~P2~~ → **RESOLVED**
-- **Root cause**: After FlareSolverr solves page 1, wraith stores `cf_clearance` cookies. On the second navigate, wraith tries Tier 1 (direct HTTP) with those cookies. Indeed sees valid cookies but a mismatched TLS fingerprint (wraith Firefox vs FlareSolverr Chrome) and returns "Invalid CORS request". This tiny error page didn't trigger `is_cloudflare_challenge()`, so wraith didn't escalate to FlareSolverr for page 2.
-- **Fix**: Added `"Invalid CORS request"` to the definitive challenge signatures in `is_cloudflare_challenge()`. Now wraith detects it and re-escalates to FlareSolverr for each page.
-- **Binary rebuild required**. Note: each page costs a FlareSolverr solve (~8-10s per page). For bulk Indeed pagination, the Google SSO login flow (`scripts/indeed-login.md`) is faster since it avoids repeated Turnstile solves.
+- **Root cause**: After FlareSolverr solves page 1, wraith stores `cf_clearance` cookies. On the second navigate, Tier 1 (direct fetch) replays those cookies, but Indeed sees a TLS fingerprint mismatch (wraith Firefox vs FlareSolverr Chrome) and returns "Invalid CORS request" or a fresh CF challenge.
+- **Fix (attempt 1)**: Added `"Invalid CORS request"` to challenge signatures — didn't fully work because the MCP server's response varied.
+- **Fix (attempt 2, WORKING)**: Added FlareSolverr domain memory. When FlareSolverr resolves a page, the domain is marked as "FlareSolverr-required" in a `HashSet`. Subsequent navigates to that domain **skip Tier 1 entirely** and go straight to FlareSolverr. No stale cookies, no CORS mismatch.
+- **Binary rebuild + MCP server restart required**.
+- **Performance note**: Each page costs ~8-10s (FlareSolverr Turnstile solve). For bulk pagination, the Google SSO login flow (`scripts/indeed-login.md`) is faster since authenticated cookies work directly without FlareSolverr.
 
 ### BUG-11: Indeed CF challenge escalation regression — RESOLVED (2026-04-02)
 - **Severity**: ~~P1~~ → **RESOLVED** (was NOT a hydrator regression)
