@@ -1,0 +1,18 @@
+[06:26:57] MEGA PIPELINE started at 2026-04-06T06:26:57.121047
+[06:26:57] Args: {'scrape': True, 'rescore': False, 'apply': False, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[06:26:57] 
+======================================================================
+[06:26:57] PHASE 1: MEGA SCRAPE
+[06:26:57] ======================================================================
+[06:26:57] Boards: 164 GH + 96 Ashby + 44 Lever = 304 total
+[06:26:57] Workers: 100
+[06:33:58] 
+SCRAPE DONE in 421s
+[06:33:58]   Found: 9830 jobs across 77 boards
+[06:33:58]   New inserted: 0
+[06:33:58]   Viable (fit>=60, new): 1254
+[06:33:58]   Total DB: 32650
+[06:33:58] 
+======================================================================
+[06:33:58] MEGA PIPELINE COMPLETE — 7.0min total
+[06:33:58] ======================================================================

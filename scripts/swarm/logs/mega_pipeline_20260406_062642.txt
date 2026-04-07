@@ -1,0 +1,2 @@
+[06:26:42] MEGA PIPELINE started at 2026-04-06T06:26:42.320219
+[06:26:42] Args: {'scrape': False, 'rescore': False, 'apply': False, 'all': False, 'stats': True, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
