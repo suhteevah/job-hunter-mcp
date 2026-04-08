@@ -1,0 +1,56 @@
+[20:07:54] MEGA PIPELINE started at 2026-04-07T20:07:54.785627
+[20:07:54] Args: {'scrape': False, 'rescore': False, 'apply': False, 'all': True, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[20:07:54] 
+======================================================================
+[20:07:54] PHASE 1: MEGA SCRAPE
+[20:07:54] ======================================================================
+[20:07:54] Boards: 164 GH + 96 Ashby + 44 Lever = 304 total
+[20:07:54] Workers: 100
+[20:10:17]   + 41 new  Grafana Labs (greenhouse) [128 total]
+[20:12:52]   +  6 new  Cloudflare (greenhouse) [506 total]
+[20:13:14] 
+SCRAPE DONE in 320s
+[20:13:14]   Found: 9737 jobs across 78 boards
+[20:13:14]   New inserted: 47
+[20:13:14]   Viable (fit>=60, new): 1418
+[20:13:14]   Total DB: 32890
+[20:13:14] 
+Top by new jobs:
+[20:13:14]   Grafana Labs              +41 (greenhouse)
+[20:13:14]   Cloudflare                +6 (greenhouse)
+[20:13:14] 
+======================================================================
+[20:13:14] PHASE 2: RESCORE — Fetching full descriptions
+[20:13:14] ======================================================================
+[20:13:14] Jobs to rescore: 5442
+[20:13:22]   PROMOTED 43.0->76.0: Senior Software Engineer - AI and Automation, Data
+[20:13:23]   PROMOTED 43.0->76.0: Senior Software Engineer - AI and Automation, Data
+[20:13:29] 
+RESCORE DONE in 15s — 50 rescored, 2 promoted to viable, 0 demoted
+[20:13:29] 
+======================================================================
+[20:13:29] PHASE 3: APPLY  [Wraith CDP]
+[20:13:29] ======================================================================
+[20:13:29]   greenhouse: 2 jobs
+[20:13:29] Total: 2 jobs across 1 platforms
+[20:13:29] Starting Wraith MCP client...
+[20:13:34] Engine: Active engine: native (Sevro)
+
+All browse_* commands use the native Sevro engine.
+Call browse_naviga
+[20:13:34] 
+[1/2] GREENHOUSE | Grafana Labs — Senior Software Engineer - AI and Automation, Data (score=76.0)
+[20:13:45]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:13:48] 
+[2/2] GREENHOUSE | Grafana Labs — Senior Software Engineer - AI and Automation, Data (score=76.0)
+[20:14:00]   >>> SUCCESS: Wraith verified: confirmed <<<
+[20:14:00] 
+APPLY DONE in 0.5min
+[20:14:00]   Success: 2
+[20:14:00]   Failed: 0
+[20:14:00]   Needs code: 0
+[20:14:00]   Rate: 3.9 apps/min
+[20:14:00] 
+======================================================================
+[20:14:00] MEGA PIPELINE COMPLETE — 6.1min total
+[20:14:00] ======================================================================
