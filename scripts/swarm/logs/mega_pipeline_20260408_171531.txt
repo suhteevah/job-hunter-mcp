@@ -1,0 +1,38 @@
+[17:15:31] MEGA PIPELINE started at 2026-04-08T17:15:31.966857
+[17:15:31] Args: {'scrape': False, 'rescore': False, 'apply': False, 'all': True, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[17:15:31] 
+======================================================================
+[17:15:31] PHASE 1: MEGA SCRAPE
+[17:15:31] ======================================================================
+[17:15:31] Boards: 164 GH + 96 Ashby + 44 Lever = 304 total
+[17:15:31] Workers: 100
+[17:16:11]   + 11 new  Mercury (greenhouse) [58 total]
+[17:16:18]   +  6 new  Khan Academy (greenhouse) [34 total]
+[17:17:37]   + 13 new  Plaid (lever) [96 total]
+[17:19:52] 
+SCRAPE DONE in 261s
+[17:19:52]   Found: 9706 jobs across 77 boards
+[17:19:52]   New inserted: 30
+[17:19:52]   Viable (fit>=60, new): 1394
+[17:19:52]   Total DB: 33222
+[17:19:52] 
+Top by new jobs:
+[17:19:52]   Plaid                     +13 (lever)
+[17:19:52]   Mercury                   +11 (greenhouse)
+[17:19:52]   Khan Academy              +6 (greenhouse)
+[17:19:52] 
+======================================================================
+[17:19:52] PHASE 2: RESCORE — Fetching full descriptions
+[17:19:52] ======================================================================
+[17:19:53] Jobs to rescore: 5465
+[17:20:06] 
+RESCORE DONE in 13s — 17 rescored, 0 promoted to viable, 0 demoted
+[17:20:06] 
+======================================================================
+[17:20:06] PHASE 3: APPLY  [Wraith CDP]
+[17:20:06] ======================================================================
+[17:20:06] No viable jobs to apply to.
+[17:20:06] 
+======================================================================
+[17:20:06] MEGA PIPELINE COMPLETE — 4.6min total
+[17:20:06] ======================================================================

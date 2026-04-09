@@ -19,6 +19,7 @@ Quick reference for all profiled application tracking systems and job platforms.
 | [Indeed](indeed.md) | 14 | 1% | Chrome | Browser | Hard |
 | [LinkedIn](linkedin.md) | 13 | 1% | Chrome+Kapture | Browser | Hardest |
 | [Company-Native](company-native-greenhouse.md) | ~800 | 33% | Wraith (via GH) | Greenhouse redirect | Medium |
+| [Defense ATSes](defense_ats.md) | 728 | — | TBD | Account + multi-step | Hardest (blocked on login) |
 
 Note: Company-Native overlaps with Greenhouse count (they ARE Greenhouse under the hood).
 

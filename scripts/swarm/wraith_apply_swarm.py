@@ -306,12 +306,21 @@ def apply_greenhouse_cdp(wraith: WraithMCPClient, url: str, company: str, title:
             url = f"https://boards.greenhouse.io/embed/job_app?token={jid}"
     # Navigate to the job page using CDP for React SPA rendering
     snap = wraith.navigate_cdp(url)
-    if "not found" in snap.lower() or "no longer" in snap.lower():
-        return {"success": False, "error": "Job no longer available"}
+    snap_low = snap.lower()
+    if "not found" in snap_low or "no longer" in snap_low:
+        return {"success": False, "error": "Job no longer available", "expired": True}
+    # Expired GH jobs redirect to ?error=true showing the company's full job list
+    if "error=true" in snap_low or "current openings at" in snap_low or "current openings" in snap_low:
+        return {"success": False, "error": "Job expired (redirected to careers list)", "expired": True}
 
     time.sleep(2)
     snap = wraith.snapshot()
     elements = parse_snapshot_refs(snap)
+
+    # Guard: if there are no input/textarea fields at all, this isn't an apply page
+    form_fields = [e for e in elements if e["tag"] in ("input", "textarea")]
+    if len(form_fields) < 2:
+        return {"success": False, "error": "No application form on page (likely expired)", "expired": True}
 
     cover_letter = generate_cover_letter(company, title)
 
@@ -731,6 +740,10 @@ def run_swarm(platform=None, min_score=60.0, limit=0, retry_failed=False, delay=
             elif result.get("already"):
                 log(f"  Already applied")
                 update_job_status(job["id"], "applied")
+            elif result.get("expired"):
+                log(f"  EXPIRED: {result.get('error', '')[:120]}")
+                failures += 1
+                update_job_status(job["id"], "expired")
             else:
                 log(f"  FAILED: {result.get('error', '')[:120]}")
                 failures += 1

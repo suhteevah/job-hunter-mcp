@@ -5,10 +5,21 @@ type: ATS
 prevalence: 1794 jobs (74% of DB)
 fill_strategy: wraith
 submit_strategy: wraith_api_post
-last_profiled: 2026-03-20
+last_profiled: 2026-04-08
 ---
 
 # Greenhouse Playbook
+
+## ⚠️ Expired Job Detection (added 2026-04-08)
+**Symptom**: `FAILED: Submit button not found` on formerly-working URLs.
+**Root cause**: Greenhouse redirects expired/removed job postings to `https://job-boards.greenhouse.io/{company}?error=true` — the company's full job list page. The apply swarm was navigating there, seeing 80+ job-link cards, and fruitlessly searching for a Submit button.
+**Detection signals** (any one → mark status=`expired`, NOT `apply_failed`):
+1. Final URL contains `error=true`
+2. Page text contains "current openings at"
+3. Form field count `< 2` after render (real apply forms have 5+)
+**Fix location**: `scripts/swarm/wraith_apply_swarm.py` → `apply_greenhouse_cdp()` early-return guard + new `expired` status branch in main loop.
+**Cleanup sweep**: `scripts/swarm/sweep_expired_gh.py` reclassifies existing apply_failed GH jobs whose URLs now redirect.
+
 
 ## Overview
 Greenhouse is the dominant ATS. Used directly at `job-boards.greenhouse.io/{company}/jobs/{id}` and embedded by 100+ companies (Samsara, Databricks, Datadog, Stripe, Coinbase, Brex, etc.) via their own career sites with `gh_jid=` parameter.
