@@ -1,0 +1,136 @@
+# Hyper-selective filter rules for the job orchestrator.
+# Tune these without touching code. Reloaded on every orchestrator run.
+# Default expected output: 0-3 jobs/day surface to the shortlist, often 0.
+# That is the point — quiet is better than loud (sniper mode).
+
+upwork:
+  # Title or description must contain at least one of these.
+  required_keywords_any:
+    - "claude code"
+    - "claude api"
+    - "anthropic"
+    - "mcp server"
+    - "model context protocol"
+    - "openclaw"
+    - "wraith"
+    - "agentic"
+    - "ai agent"
+    - "autonomous agent"
+    - "agent orchestration"
+    - "claude sdk"
+
+  # Title or description containing any of these = silent reject.
+  blocked_keywords:
+    - "entry-level"
+    - "entry level"
+    - "internship"
+    - "intern only"
+    - "low budget"
+    - "small budget"
+    - "india only"
+    - "philippines only"
+    - "bangladesh only"
+    - "pakistan only"
+
+  # Budget gates
+  min_hourly_usd: 50
+  min_fixed_usd: 3000
+
+  # Client trust signals
+  min_client_spent_usd: 5000
+  min_client_rating: 4.5
+  allow_new_unrated_if_payment_verified: true
+  require_payment_verified: true
+
+  # Competition gates
+  max_proposals_on_job: 15
+  ideal_proposals_under: 10
+
+  # Connect economics — per feedback_upwork_connects.md
+  max_connects_required: 10
+
+  # Recency
+  max_age_hours: 6
+
+  # Final composite gate (0-100)
+  min_composite_score: 90
+
+ats:
+  # Title must contain one of these (core IC roles only).
+  required_title_any:
+    - "claude"
+    - "mcp"
+    - "ai engineer"
+    - "ml engineer"
+    - "agent"
+    - "llm"
+    - "automation engineer"
+    - "prompt engineer"
+
+  # Hard rejects on title — prevents the sales/AE/marketing noise.
+  blocked_title_any:
+    - "sales"
+    - "account executive"
+    - "marketing"
+    - "recruiter"
+    - "customer success"
+    - "intern"
+    - "manager"      # NOTE: see allow_manager_if below for the override
+    - "director"
+    - "vp "
+    - "vice president"
+    - "principal engineer manager"
+
+  # Manager-title override — only "engineering manager" passes.
+  allow_manager_if_title_contains:
+    - "engineering manager"
+
+  # Company size — small companies less likely to template-reject and bot-flag.
+  max_company_size: 500
+
+  # Recency — avoid stale postings that may already be filled.
+  max_age_hours: 48
+
+  # Existing DB title-score gate (we already have this from score_unscored.py).
+  min_title_score: 95
+
+  # Final composite gate (0-100). ATS is held tighter than Upwork because the
+  # cost of a bad apply is bot-flag risk on the one email account.
+  min_composite_score: 95
+
+scrape:
+  # The orchestrator runs every 30 minutes, but the ATS scrape via
+  # mega_pipeline.py --scrape is heavy and slow (~8 min runtime, runs 304
+  # boards × 100 workers). Upwork polling stays at 30min via IMAP — the
+  # full ATS scrape is gated to this many hours between runs.
+  #
+  # Verified runtime as of 2026-04-11: ~8 minutes per full scrape. At 2h
+  # intervals that's 12 scrapes/day, ~96 min total compute, well within
+  # the 30-min poll budget (each run finishes in seconds when gated).
+  full_scrape_interval_hours: 2
+
+  # Hard cap on the mega_pipeline subprocess. If it takes longer than this,
+  # the orchestrator marks the scrape as failed and continues with the
+  # IMAP+DB-diff-only path.
+  full_scrape_timeout_sec: 900
+
+bypass_detector:
+  # If a board returns less than this fraction of its baseline yield,
+  # flag a bypass alert in .pipeline/bypass-library.md.
+  yield_drop_threshold: 0.5
+
+  # Number of consecutive low-yield runs before alerting (avoids false alarms
+  # on slow-traffic windows).
+  min_consecutive_low_yields: 3
+
+  # Don't fire alerts unless the EMA baseline is at least this many jobs.
+  # Prevents false alarms during the EMA warm-up period and on naturally
+  # low-volume boards.
+  min_baseline_for_alert: 10
+
+  # Boards to monitor for yield drops.
+  monitored_boards:
+    - greenhouse
+    - ashby
+    - lever
+    - upwork_email

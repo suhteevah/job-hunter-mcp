@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "file=$(echo \"$TOOL_INPUT\" | grep -oP '\"file_path\"\\s*:\\s*\"\\K[^\"]+\\.py') && [ -n \"$file\" ] && 'J:/job-hunter-mcp/.venv/Scripts/ruff.exe' check \"$file\" 2>&1 | tail -10 || true"
+          }
+        ]
+      }
+    ]
+  }
+}

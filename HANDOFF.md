@@ -1,67 +1,199 @@
 # CLAUDE CODE HANDOFF — Autonomous Job Hunter
 # Read this FIRST. Then read J:\job-hunter-mcp\skills\SKILL.md for full details.
-# Last updated: 2026-04-01 SESSION — 5,020+ applied, 24.7K+ jobs in DB, +1,839 apps this session
+# Last updated: 2026-04-11 SESSION 2 — Orchestrator live, 30min cadence, sniper mode
 
 ## IMMEDIATE CONTEXT
-Matt Gates is job hunting. 9 days remaining to generate revenue. **REMOTE or Chico (95926) ONLY.**
-~5,020+ applications submitted. ~24,700+ jobs tracked in DB.
-**PostgreSQL live** on localhost:5432 (Docker). SQLite still primary for scripts but migration done.
-Wraith CDP fully operational. navigate_cdp for React SPAs (Ashby/Greenhouse). Native for Lever.
-**Wraith binary UPDATED**: `J:\wraith-browser\target\release\wraith-browser.exe` (built 2026-03-31, BUG-9 fixed)
-**Old binary**: `openclaw-browser.exe` is DEPRECATED — do NOT use.
-**.mcp.json updated** to point to `wraith-browser.exe` with `WRAITH_FLARESOLVERR=http://localhost:8191`.
-**Indeed full pagination unlocked**: Google SSO login + `filter=0` URL param. Use `indeed_chrome_scrape.py`.
-**Greenhouse URL embed conversion** unlocks custom career pages (Stripe, Samsara, Datadog, etc.)
-BUG-9 (Indeed CF regression) FIXED in new binary. BUG-10 (page 2 auth) solved via Chrome login.
-FlareSolverr running on localhost:8191 (Docker) — used for Indeed scraping (CF bypass).
+Matt Gates is job hunting. **REMOTE or Chico (95926) ONLY.**
+~5,746 applications submitted. ~33,000+ jobs tracked in DB.
+**⚠️ SNIPER MODE — DO NOT MASS-APPLY.** See feedback_sniper_mode.md in memory.
+Mass-apply flagged Matt as a bot (5,746 apps from one email, zero interviews, 30+ template rejections).
+All future applications must be: hand-curated, personalized cover letter, max 5-10/day, human-paced.
+GH/Ashby/Lever apply pool is **fully drained** — zero viable unapplied on supported platforms.
+Upwork is now the primary channel. 18 connects remaining.
+**PostgreSQL live** on localhost:5432 (Docker). SQLite still primary for scripts.
+Wraith CDP fully operational. Chrome CDP on port 9222 for Upwork proposals.
 The machine never sleeps.
 
-### SESSION RESULTS (2026-04-01)
-- **+861 NEW APPLICATIONS this session** (3,181 → 4,042) across Ashby/Greenhouse/Lever/Upwork
-- **Ashby**: 97/98 (99%) + 6 retries recovered — PostHog, Vanta, Drata, Snowflake, Docker, Mosaic, Ramp
-- **Greenhouse batch 1**: 41/47 (87%) — Elastic, Instacart, Databricks, Okta, Duolingo, Riot Games
-- **Greenhouse batch 2**: 200/200 (100%) — Anduril (Senior LLM, AI, ML, Rust SWE), SpaceX
-- **Greenhouse batch 3**: 453/453 (100%) — Anduril, SpaceX, Cloudflare, remaining companies
-- **Lever**: 64/70 (91%) — Mistral (36 Applied AI/ML/SWE roles), Plaid (7), JumpCloud (6), Metabase (8), Neon (3)
-- **Scored 3,433 unscored jobs** — found 656 high-value targets (Anduril 399, SpaceX 243, Elastic 7, Cloudflare 3)
-- **Fixed bugs**: NULL id column preventing score updates, double /apply URL in Lever swarm
-- **Upwork**: Submitted proposal for "AI Enabled SWE — Near-Launch Mobile App" ($55/hr, 20 connects). 70 connects remaining.
-- **Gmail**: 1 new rejection (GitLab). Zero interviews yet.
+### SESSION RESULTS (2026-04-11 #2 — Orchestrator)
+- **Built persistent job orchestrator** at `scripts/orchestrator/` — runs every 30 min via Windows Task Scheduler, scrape-only, ZERO auto-apply
+- **State, filters, reports, shortlist live in `.pipeline/`** at project root
+- **Hyper-selective filter active** — Upwork composite ≥90 + Claude/MCP/agent keyword + ≥$50/hr + ≥$5K client spent + ≤6h age; ATS composite ≥95 + IC title + ≥95 fit_score + ≤48h age. Default outcome: 0 jobs surface most runs (the point).
+- **Bypass detector live** — flags <50% yield drops to `.pipeline/bypass-library.md` after 3 consecutive low runs. Does NOT auto-write bypass code (human-in-loop on Wraith binary changes).
+- **Scheduled task `JobHunterOrchestrator` registered** — first scheduled run was 2026-04-11 00:43, fires every 30min after.
+- **Priyasha S. → SCHEDULING A CLIENT CALL** — first real interview-equivalent in 5,746 apps. Matt is handling the scheduling.
+- 22 unread Upwork emails as of session start; 0 passed hyper-selective. Newest one ("AI Agent Development for Company") rejected at 35/100: $5–20/hr from a $501 client.
 
-### PREVIOUS SESSION (2026-03-31)
-- **+1,086 APPS** (2,588 → 3,181) across 103 companies
-- **Ashby**: 245/250 (98%), **Greenhouse**: 205/250 (82%), **Lever**: 120/125 (96%)
-- Indeed full pagination unlocked, board discovery +5,655 new jobs, 1 Upwork proposal
+### SESSION RESULTS (2026-04-11 #1 — Insights)
+- **Implemented Claude Code Insights report recommendations** from `C:\Users\Matt\.claude\usage-data\report.html`
+- **CLAUDE.md upgraded** — added 4 new sections: Handoff Protocol, Diagnosis Discipline, Tooling Preferences, Output Discipline
+- **Created `/handoff` custom command** at `.claude/commands/handoff.md` — end-of-session routine
+- **Added PostToolUse hook** at `.claude/settings.json` — auto-runs `ruff check` on Python files after Edit/Write
+- **Installed ruff 0.15.10** in venv for Python linting
+- No new applications submitted (sniper mode, monitoring existing leads)
+
+### SESSION RESULTS (2026-04-10)
+- **PIVOTED TO SNIPER MODE** — stopped all mass-apply automation
+- **Retried 305 apply_failed** → +155 recovered, 150 still failing (mostly expired jobs)
+- **Fixed GH "Submit button not found" regression** — was actually expired jobs redirecting to `?error=true`
+  - Added early-detect in `wraith_apply_swarm.py`: URL check + form field count guard + new `expired` status
+  - Wrote `scripts/swarm/sweep_expired_gh.py` — reclassified 126/300 GH failures as `expired`
+  - Updated `playbooks/greenhouse.md` with finding
+- **Filtered defense jobs** — 24/752 marked `not_eligible` (clearance required in description)
+- **Profiled defense ATSes** — Lockheed=BrassRing (NOT Workday), MITRE=Workday, Honeywell=Oracle HCM
+  - All require account creation before apply — BLOCKED, Matt will create accounts manually later
+  - Written up in `playbooks/defense_ats.md`
+- **Board discovery** — +155 new jobs from Ashby boards (Vanta, Notion, Ramp, Plaid, etc.)
+- **Promoted 51 stale `saved` GH jobs** → all turned out expired (0 applied)
+- **Upwork email hunt built** — `scripts/swarm/upwork_email_hunt.py` (shortlist mode, no auto-apply)
+  - `scripts/swarm/upwork_scan_fresh.py` — quick IMAP scan for budget/rating info
+- **2 Upwork proposals submitted:**
+  1. **AI Pipeline Builder — Claude Code, OpenClaw & Dashboards** (D2C e-commerce, $484K client, $55/hr, 21 connects)
+  2. **Help me set up OpenClaw** ($42K client, hourly, 14 connects)
+- **Rejections**: AbbVie, GitLab x4, PagerDuty x2, Tailscale x3, ZipRecruiter = 11 new this session
+- **Zero interviews** still across 5,746 applications
+
+### PREVIOUS SESSIONS
+- 2026-04-01: +861 apps (3,181 → 4,042) across Ashby/Greenhouse/Lever/Upwork
+- 2026-03-31: +1,086 apps (2,588 → 3,181), Indeed pagination unlocked, board discovery
 
 ### ACTIVE LEADS
-1. **Aryan C. via Upwork** — GitHub & Stripe SME courses. Sent course list (7 courses) + SME guidelines PDF. Needs: (a) reply on Upwork, (b) 1-min audition video reading C# script from PDF, MP4 on Google Drive. Pay: $200-360/course. Course review agent pipeline exists at `J:\github-SME\`.
-2. **Upwork: Claude AI Implementation Consultant — Law Firm** — Proposal submitted 2026-03-31. $50-80/hr. Texas law firm using Claude Team plan. Monitor for response.
-3. **Hudson Manpower** — GenAI role, follow-up sent 2026-03-19, no response. Monitor mmichels88@gmail.com.
-4. **WinCo Foods** — Sr. Middleware Developer, Phoenix. No response. Monitor mmichels88@gmail.com.
+1. **Upwork: Priyasha S. → CLIENT CALL BEING SCHEDULED** — She sent Matt a scheduling request 2026-04-09 06:45 CDT for the GitHub SME track. Matt is filling in the availability sheet. **First interview-equivalent in 5,746 apps. Top priority.**
+2. **Upwork: AI Pipeline Builder (OpenClaw/Claude)** — Proposal submitted 2026-04-10. $55/hr. $484K client, 4.65★. 73 proposals on job, 10 interviewing. Monitor ridgecellrepair@gmail.com + Upwork messages.
+3. **Upwork: Help me set up OpenClaw** — Proposal submitted 2026-04-10. Hourly. $42K client, 4.6★. Only 9 proposals. Monitor Upwork messages.
+4. **Aryan C. via Upwork** — GitHub SME courses. Audition video submitted. Likely upstream of the Priyasha lead — same GitHub SME track.
+5. **Upwork: Claude AI Law Firm** — Proposal submitted 2026-03-31. $50-80/hr. Aging (11 days, no response). Likely dead.
 
-## YOUR JOB
-1. Run fresh search cycles to find new jobs
-2. Apply to every viable job (score >= 60) automatically
-3. Track all applications in SQLite
-4. Prioritize: Ashby (98% success) > Lever (96%) > Greenhouse (82%) > Indeed > Upwork
-5. Never stop. If one application fails, move to the next.
-6. ALWAYS write personalized cover letters for each application.
-7. ALWAYS fetch full job descriptions for scoring — never score title-only.
-8. Score and apply Anduril + SpaceX jobs (3,000+ unprocessed)
-9. Monitor Upwork for <=10 connect jobs and submit proposals immediately
-10. Monitor Gmail for interview responses — expect first responses week of 2026-03-31
+**Dead leads**: Hudson Manpower, WinCo Foods (20+ days no response). Plaid/Gabe Arditti was inbound SALES, not a job.
 
-## KEY STATS (as of 2026-03-31)
-- **Total applied**: 5,020+
-- **Apply failed**: ~516
-- **Total jobs in DB**: 24,700+
-- **Ashby success rate**: 99%
-- **Greenhouse success rate**: 97% (653/700 across all batches, 100% on Anduril/SpaceX)
-- **Lever success rate**: 91% with Wraith native
-- **Indeed**: 190 new jobs via Chrome scrape (full pagination unlocked)
-- **Rejections received**: ~29+
-- **Zero interviews yet** — most apps <1 week old, expect responses this week
-- **Upwork**: 2 active proposals (Claude Law Firm + AI SWE Mobile App), 70 connects remaining
+## ORCHESTRATOR — `.pipeline/` and `scripts/orchestrator/`
+
+A persistent scrape + score + shortlist agent runs every 30 minutes via
+Windows Task Scheduler. Built 2026-04-11. Sniper mode is enforced — it never
+auto-applies to anything.
+
+### What it does on each run
+
+1. Loads state from `.pipeline/state.json`
+2. Triggers `mega_pipeline.py --scrape` to refresh GH/Ashby/Lever DB
+3. In parallel: scans unread Upwork "New job" emails via IMAP, diffs SQLite
+   for new ATS jobs since last run cursor
+4. Scores everything against `.pipeline/filters.yaml` (HYPER-SELECTIVE)
+5. Detects sustained yield drops per board → bypass alerts
+6. Writes curated shortlist to `.pipeline/shortlist/current.md`
+7. Appends a run section to `.pipeline/reports/YYYY-MM-DD.md`
+8. Saves state atomically
+
+### File layout
+
+```
+.pipeline/
+├── state.json              cursor per board, EMA baselines, run metrics
+├── filters.yaml            HYPER-SELECTIVE rules — TUNE HERE not in code
+├── bypass-library.md       known anti-bot fixes + auto alerts
+├── reports/YYYY-MM-DD.md   daily diff (one section per run)
+├── shortlist/
+│   ├── current.md          THIS is what to read each morning
+│   └── archive/            previous shortlists (rotated automatically)
+└── logs/orchestrator-*.log
+
+scripts/orchestrator/
+├── run.py                  main entry
+├── boards.py               scrape dispatch (wraps existing scripts)
+├── scoring.py              hyper-selective filter
+├── shortlist.py            writes current.md
+├── reporter.py             writes daily diff
+├── bypass_detector.py      yield-drop alerts (no auto-coding)
+├── state.py                atomic state I/O
+└── register_scheduled_task.ps1   one-time setup
+```
+
+### Filter thresholds (in `filters.yaml`)
+
+- **Upwork**: ≥1 of [claude code, mcp, agentic, openclaw, ai agent, ...] in title/desc;
+  ≥$50/hr OR ≥$3K fixed; client spent ≥$5K; rating ≥4.5; payment verified;
+  ≤15 proposals; ≤6h old; composite ≥90/100
+- **ATS**: title contains [claude, mcp, ai engineer, agent, llm, ...] but NOT
+  [sales, AE, marketing, manager (unless engineering), intern]; company <500
+  employees; ≤48h old; existing fit_score ≥95; composite ≥95/100
+
+Tune these without touching code — just edit `filters.yaml`, the orchestrator
+reloads it on every run.
+
+### Daily routine
+
+1. Open `.pipeline/shortlist/current.md` — that's the only file you need
+2. If it says "Nothing passed the filter" → that's the expected outcome most
+   runs. Quiet is good. Sniper mode.
+3. If something surfaces → review it manually, click through to verify
+   proposal count + full description, decide whether to spend connects
+4. Skim `.pipeline/reports/YYYY-MM-DD.md` end of day for run-by-run history
+
+### Managing the scheduled task
+
+```powershell
+# Inspect
+Get-ScheduledTask -TaskName 'JobHunterOrchestrator' | Get-ScheduledTaskInfo
+
+# Run manually right now
+Start-ScheduledTask -TaskName 'JobHunterOrchestrator'
+
+# Disable (stops the cron without deleting)
+Disable-ScheduledTask -TaskName 'JobHunterOrchestrator'
+
+# Re-enable
+Enable-ScheduledTask -TaskName 'JobHunterOrchestrator'
+
+# Remove entirely
+Unregister-ScheduledTask -TaskName 'JobHunterOrchestrator' -Confirm:$false
+
+# Re-register (after editing the .ps1)
+powershell -ExecutionPolicy Bypass -File J:\job-hunter-mcp\scripts\orchestrator\register_scheduled_task.ps1
+```
+
+### Manual orchestrator runs (debugging)
+
+```powershell
+$VENV = "J:\job-hunter-mcp\.venv\Scripts\python.exe"
+
+# Full run (scrape + filter + write)
+& $VENV J:\job-hunter-mcp\scripts\orchestrator\run.py
+
+# Skip the heavy mega_pipeline scrape (IMAP + DB diffs only — fast)
+& $VENV J:\job-hunter-mcp\scripts\orchestrator\run.py --no-scrape
+
+# Dry run — no state, shortlist, or report writes
+& $VENV J:\job-hunter-mcp\scripts\orchestrator\run.py --no-scrape --dry-run
+```
+
+### Sniper mode guarantees built into the orchestrator
+
+- **No script in `scripts/orchestrator/` ever submits an application.** The
+  shortlist is the only apply-side surface and it requires manual review.
+- The bypass detector only **flags** drops — it does not autonomously write
+  Wraith Rust code or modify scrapers.
+- Filters defaults are tight enough that **0 surfaces** is the most common
+  outcome. That is correct, not a bug.
+
+## YOUR JOB (SNIPER MODE)
+1. **DO NOT run mega_pipeline.py --all or any batch apply.** Scrape-only is fine.
+2. Scan Upwork emails for high-value jobs (Claude/MCP/OpenClaw/agent keywords)
+3. Present curated shortlist to Matt — he picks, you draft personalized proposal, submit one at a time
+4. Monitor Gmail for interview responses and Upwork messages
+5. Check connects cost before any Upwork proposal (18 remaining)
+6. ALWAYS write personalized cover letters matching Matt's voice (casual, direct, correct grammar)
+7. **Do NOT mention the job-hunter automation system** in proposals — it flags bot behavior
+8. ALWAYS fetch full job descriptions for scoring — never score title-only
+
+## KEY STATS (as of 2026-04-10)
+- **Total applied**: 5,746
+- **Total jobs in DB**: 33,000+
+- **Apply failed**: ~175 (after sweep reclassified 126 as expired)
+- **Expired**: 177 (126 from sweep + 51 from stale saved pool)
+- **Not eligible**: 24 (clearance-required defense jobs)
+- **Rejections received**: ~40+
+- **Zero interviews** — mass-apply likely triggered bot detection
+- **Upwork**: 4 active proposals, 18 connects remaining
+- **GH/Ashby/Lever viable unapplied**: 0 (fully drained)
 
 ## EXECUTION
 ```powershell
@@ -72,11 +204,10 @@ powershell -ExecutionPolicy Bypass -File J:\job-hunter-mcp\launch_hunter.ps1
 ```
 
 ## KEY FILES
-- `J:\job-hunter-mcp\WRAITH_BUGS.md` — **Single consolidated Wraith bug report** (BUG-9 FIXED, BUG-10 solved)
+- `J:\job-hunter-mcp\WRAITH_BUGS.md` — Wraith bug report (BUG-9 FIXED, BUG-10 solved)
 - `J:\job-hunter-mcp\skills\SKILL.md` — Full platform docs, DB schema, workflow
-- `J:\job-hunter-mcp\skills\linkedin\SKILL.md` — LinkedIn shadow DOM patterns
 - `J:\job-hunter-mcp\skills\upwork\SKILL.md` — Upwork proposal workflow
-- `J:\job-hunter-mcp\skills\dice\SKILL.md` — Aggregator behavior map
+- `J:\job-hunter-mcp\playbooks\` — ATS playbooks (greenhouse, ashby, lever, indeed, linkedin, defense_ats)
 - `J:\job-hunter-mcp\launch_hunter.ps1` — PowerShell functions (search, status, stats)
 - `C:\Users\Matt\Downloads\matt_gates_resume_ai.docx` — AI-focused resume (USE THIS)
 - `C:\Users\Matt\.job-hunter-mcp\jobs.db` — SQLite job database
@@ -89,88 +220,73 @@ $VENV = "J:\job-hunter-mcp\.venv\Scripts\python.exe"
 ```
 
 ## BROWSER AUTOMATION PRIORITY
-1. **HTTP APIs** — PRIMARY for scraping (no browser needed, fastest)
-   - Greenhouse: `boards-api.greenhouse.io/v1/boards/{company}/jobs` (public REST, 150 workers proven)
-   - Ashby: `jobs.ashbyhq.com/api/non-user-graphql` (public GraphQL — use `jobPostings` not `teams.jobs`)
-   - Lever: `api.lever.co/v0/postings/{company}` (public REST)
-2. **Wraith (wraith-browser)** — Lever full pipeline, CDP Greenhouse/Ashby pipeline
-   - MCP server: `.mcp.json` configured with FlareSolverr + CDP env
-   - **Binary**: `J:\wraith-browser\target\release\wraith-browser.exe` (rebuilt 2026-03-31 with BUG-9 fix)
-   - Lever: FULL PIPELINE (board scrape + click nav + apply form) via native renderer
-   - Greenhouse: CDP fill/upload/select/custom dropdown ALL WORK (BUG-7 FIXED). Embed URLs work (BUG-2 fixed).
-   - Ashby: CDP board + click nav + apply form ALL WORK
-   - Indeed: **Needs FlareSolverr escalation** — native engine detects CF, escalates to FlareSolverr. Requires `WRAITH_FLARESOLVERR=http://localhost:8191` env var.
-3. **Chrome CDP (Playwright)** — Indeed scraping with logged-in session
-   - Launch Chrome with `--remote-debugging-port=9222`
-   - Log into Indeed via Google SSO (ridgecellrepair@gmail.com)
-   - Use `indeed_chrome_scrape.py` with `filter=0` for full pagination
-   - Also used for Upwork proposals (`upwork_apply.py`)
-4. **FlareSolverr** — Docker on localhost:8191, CF Turnstile bypass — backup for Indeed
-5. **Claude in Chrome** — For checking mmichels88 Gmail, manual interventions
+1. **Chrome CDP (Playwright)** — PRIMARY for Upwork proposals
+   - Launch: `powershell -ExecutionPolicy Bypass -Command "Start-Process chrome --remote-debugging-port=9222"`
+   - Log into Upwork, then use `upwork_apply.py` or manual Playwright scripts
+   - Rate increase frequency dropdown: use `.air3-dropdown-toggle:has-text("Select a frequency")` → click → select "Never"
+2. **HTTP APIs** — For scrape-only (no apply in sniper mode)
+   - Greenhouse: `boards-api.greenhouse.io/v1/boards/{company}/jobs`
+   - Ashby: `jobs.ashbyhq.com/api/non-user-graphql`
+   - Lever: `api.lever.co/v0/postings/{company}`
+3. **Wraith (wraith-browser)** — Lever/Greenhouse/Ashby apply (PAUSED in sniper mode)
+4. **FlareSolverr** — Docker on localhost:8191, CF bypass
 
-## SCRIPTS (organized in scripts/ subfolder)
+## SCRIPTS
 ```
 scripts/
-├── swarm/          # Battle-tested batch apply + scrape pipelines
-│   ├── mega_pipeline.py                (UNIFIED: --scrape --rescore --apply --all --stats --retry-failed)
-│   ├── wraith_mcp_client.py            (Python MCP client — spawns Wraith, sends JSON-RPC)
-│   ├── wraith_apply_swarm.py           (Wraith CDP apply swarm — replaces Playwright for apply)
-│   ├── indeed_chrome_scrape.py         (NEW: Chrome CDP Indeed scrape with anti-detection, filter=0)
-│   ├── indeed_sso_login.py             (NEW: FlareSolverr SSO flow + cookie export)
-│   ├── indeed_cookies.json             (Exported Indeed auth cookies)
-│   ├── upwork_apply.py                 (NEW: Upwork proposal submit via Chrome CDP)
-│   ├── score_unscored.py               (Quick title-based scoring for new jobs)
-│   ├── swarm_greenhouse_playwright.py  (Playwright fallback, --limit N --resume-from N)
-│   ├── swarm_ashby_playwright.py       (Playwright fallback, --limit N --resume-from N)
+├── swarm/
+│   ├── mega_pipeline.py                (scrape + rescore + apply — USE --stats ONLY in sniper mode)
+│   ├── wraith_apply_swarm.py           (Wraith CDP apply — PAUSED, has expired-detection fix)
+│   ├── wraith_mcp_client.py            (Python MCP client)
+│   ├── upwork_apply.py                 (Chrome CDP Upwork proposal submit)
+│   ├── upwork_email_hunt.py            (NEW: IMAP scan + keyword score, shortlist mode default)
+│   ├── upwork_scan_fresh.py            (NEW: quick email scan with budget/rating)
+│   ├── sweep_expired_gh.py             (NEW: HTTP sweep to reclassify expired GH apply_failed)
+│   ├── score_unscored.py               (title-based scoring)
+│   ├── indeed_chrome_scrape.py         (Chrome CDP Indeed scrape)
 │   ├── greenhouse_code_retry.py        (single-threaded IMAP code retry)
-│   ├── flaresolverr_indeed.py          (Indeed CF bypass scrape — page 1 only)
-│   ├── indeed_mass_scrape.py           (FlareSolverr Indeed scrape — page 1 only, use chrome version instead)
-│   └── logs/                           (all swarm run logs)
-├── scrape/         # Harvest/insert scripts
-│   ├── discover_boards.py              (NEW: Lever/Ashby board discovery)
-│   └── discover_defense_boards.py      (NEW: Defense/gov board discovery)
-├── apply_one_off/  # Single-company apply scripts (historical)
-├── db_utils/       # DB queries, status checks, mark_applied
-├── debug/          # Probes, cover letters, screenshots
-└── cookie/         # playwright_cookie_export.py, cdp_cookie_bridge.py
+│   └── logs/
+├── scrape/
+│   ├── discover_boards.py              (Lever/Ashby board discovery)
+│   └── discover_defense_boards.py      (Defense/gov board discovery)
+├── apply_one_off/
+├── db_utils/
+├── debug/
+└── cookie/
 ```
 
-### NEW TOOL USAGE
+### TOOL USAGE (SNIPER MODE)
 ```powershell
-# Full pipeline (scrape + rescore + apply)
-.venv\Scripts\python.exe scripts\swarm\mega_pipeline.py --all
-
-# Apply via Wraith CDP (preferred — handles React dropdowns)
-.venv\Scripts\python.exe scripts\swarm\wraith_apply_swarm.py --platform ashby --min-score 60 --limit 100
-
-# Indeed scrape via logged-in Chrome (REQUIRES Chrome with --remote-debugging-port=9222)
-.venv\Scripts\python.exe scripts\swarm\indeed_chrome_scrape.py --pages 5
-
-# Upwork proposal (REQUIRES Chrome with --remote-debugging-port=9222, logged into Upwork)
-.venv\Scripts\python.exe scripts\swarm\upwork_apply.py "https://www.upwork.com/jobs/JOB_URL"
-
-# Score unscored jobs
-.venv\Scripts\python.exe scripts\swarm\score_unscored.py
-
-# Board discovery
-.venv\Scripts\python.exe scripts\scrape\discover_boards.py
-.venv\Scripts\python.exe scripts\scrape\discover_defense_boards.py
-
-# Stats
+# Stats only (safe)
 .venv\Scripts\python.exe scripts\swarm\mega_pipeline.py --stats
+
+# Scrape only (safe, no apply)
+.venv\Scripts\python.exe scripts\swarm\mega_pipeline.py --scrape
+
+# Upwork email shortlist (safe, no apply)
+.venv\Scripts\python.exe scripts\swarm\upwork_email_hunt.py
+
+# Quick Upwork email scan with budget info
+.venv\Scripts\python.exe scripts\swarm\upwork_scan_fresh.py
+
+# Board discovery (safe)
+.venv\Scripts\python.exe scripts\scrape\discover_boards.py
+
+# Single Upwork proposal (REQUIRES Chrome CDP + logged in)
+.venv\Scripts\python.exe scripts\swarm\upwork_apply.py "https://www.upwork.com/jobs/JOB_URL"
 ```
 Key env: `GMAIL_APP_PASSWORD="yzpn qern vrax fvta"`
 
 ## CRITICAL PATTERNS LEARNED
-- **Ashby forms**: React SPA. CDP handles full pipeline. **Ashby GraphQL schema changed**: use `jobPostings { id title locationName }` not `teams { jobs }`.
-- **Lever forms**: Server-rendered HTML — Wraith native renders perfectly. No Playwright needed.
-- **Greenhouse via CDP**: Full pipeline. Embed URL conversion for custom career pages. Security codes auto-fetched from Gmail IMAP.
-- **Indeed via Chrome**: Login required for page 2+. Use `filter=0` to bypass dedup. Randomize delays (2-8s) and shuffle query order for anti-detection. Chrome must have `--remote-debugging-port=9222`.
-- **Indeed via Wraith**: Needs rebuilt binary (`wraith-browser.exe`) with FlareSolverr escalation. Native engine detects CF challenge → escalates to FlareSolverr → gets page. CDP path still blocked.
-- **Upwork**: Proposals via Chrome CDP. Rate increase frequency dropdown is REQUIRED (combobox, click "Select a frequency" → "Never"). Max 10 connects per job to conserve budget.
-- **Defense contractors**: Raytheon, Lockheed, Northrop, Boeing use Workday/Taleo (not GH/Ashby/Lever). Use Indeed to find their jobs. Anduril + SpaceX use Greenhouse.
-- **Gmail IMAP vs API**: IMAP search has 60-90s index lag. Use message count or Gmail MCP API (no lag).
-- **Parallel workers**: Multiple Wraith instances work fine. Security code jobs: SINGLE-THREADED.
+- **Greenhouse expired detection**: Expired jobs redirect to `?error=true` showing company job list. Detect via URL + form field count < 2. Mark `expired` not `apply_failed`. See `playbooks/greenhouse.md`.
+- **Defense ATSes are NOT Workday**: Lockheed=BrassRing, MITRE=Workday, Honeywell=Oracle HCM, USAJobs=login.gov. All require account creation. See `playbooks/defense_ats.md`.
+- **Aggregator URLs are login-walled**: weworkremotely/jobicy/remoteok/remotive/himalayas all hide real apply URL behind auth. Not worth resolving — most companies overlap with direct ATS scrapers.
+- **`saved` status jobs are invisible to apply swarm** — it only pulls `status='new'`. Promote with SQL if needed.
+- **jsearch source is spam-heavy**: Hiredock (kesug.com), Flexionis (wuaze.com) are fake job sites on free hosting. Filter them out of any quality shortlist.
+- **Upwork `air3-dropdown`**: Rate increase dropdowns use `.air3-dropdown-toggle` class. Click toggle → click option from `.air3-dropdown-menu`.
+- **Upwork proposals MUST sound human**: Client explicitly says "no AI-written proposals." Write in Matt's voice — casual, direct, correct capitalization, no corporate buzzwords, no bullet-heavy structure.
+- **DO NOT mention the job-hunter bot** in proposals — it proves bot behavior, the exact thing flagging Matt.
+- **Gmail IMAP vs API**: IMAP search has 60-90s index lag. Use Gmail MCP API (no lag).
 - Always add `sys.stdout.reconfigure(encoding='utf-8', errors='replace')` in Python
 - PowerShell `&&` doesn't work — use `;` as separator
 
@@ -187,49 +303,52 @@ Key env: `GMAIL_APP_PASSWORD="yzpn qern vrax fvta"`
 - Education: Some college (Associates level) — Butte College
 - Current company: Ridge Cell Repair LLC (Self-employed)
 
-## ACTIVE LEADS AWAITING RESPONSE
-1. **Upwork: Claude AI Law Firm** — Proposal submitted 2026-03-31. $50-80/hr. Monitor ridgecellrepair@gmail.com.
-2. **Aryan C. via Upwork** — GitHub SME gig. Needs audition video. Monitor ridgecellrepair@gmail.com.
-3. **Hudson Manpower** — GenAI / ML AI / Data Scientist. Follow-up sent 2026-03-19. Monitor mmichels88@gmail.com.
-4. **WinCo Foods** — Sr. Middleware Developer, Phoenix. Monitor mmichels88@gmail.com.
-5. **All 3,181 applications** — Monitor ridgecellrepair@gmail.com. Expect first responses by 2026-04-01.
-
 ## NEXT IMMEDIATE TARGETS
-1. **Score + apply Anduril/SpaceX jobs** — 3,000+ unscored, likely hundreds of viable SE/AI roles
-2. **Continue Indeed Chrome scrape** — add more queries, defense-specific terms
-3. **Upwork proposals** — watch for <=10 connect jobs, submit immediately (90 connects left)
-4. **Monitor both Gmail accounts** — expect interview responses starting 2026-04-01
-5. **Retry 520 apply_failed** — many may be expired, but some recoverable with CDP
-6. **Discover more Ashby/Lever boards** — try more companies
-7. **PRIORITY**: Remote or Chico (95926) jobs only
+1. **Monitor Upwork messages** — 2 fresh proposals out (Pipeline Builder + OpenClaw Setup)
+2. **Monitor Gmail** — ridgecellrepair for Upwork + GH/Ashby/Lever responses
+3. **Scan Upwork emails daily** — run `upwork_scan_fresh.py`, present top hits to Matt
+4. **Curated Upwork proposals** — Claude/MCP/OpenClaw/agent jobs only, personalized, max 2-3/day
+5. **Consider Acquisitions.com** — $5-500/hr Claude AI Engineer, 22 connects, needs Loom video of prior work
+6. **Defense ATSes** — BLOCKED on account creation (Matt will do manually, then build apply scripts)
+7. **Let existing 5,746 apps cook** — quiet period, no more ATS mass-apply
 
-## PLATFORMS COVERED vs NOT COVERED
-| Platform | Status | Jobs in DB |
-|----------|--------|-----------|
-| Greenhouse | 110+ companies scraped, ~12,000 jobs | Including Anduril (1,769), SpaceX (1,511) |
-| Ashby | 52 companies, ~2,200 jobs | Snowflake, Vanta, Ramp, Notion, Deel, Docker, Plaid, etc. |
-| Lever | 31 companies, ~2,500 jobs | Palantir (233), Shield AI, Veeva, etc. |
-| Indeed | 35 queries x 5 pages, ~940 jobs | Full pagination via Chrome login + filter=0 |
-| Upwork | 1 proposal submitted, 90 connects | Watch for <=10 connect AI/Claude jobs |
-| LinkedIn | Not scraped, needs auth + anti-bot | HARD |
-| Workday | Not scraped (Raytheon, Lockheed, Boeing) | Enterprise companies — use Indeed |
-| Wellfound | Not scraped, has public API | Startups |
-
-## WRAITH (WRAITH-BROWSER) — CONFIG
-- **Binary**: `J:\wraith-browser\target\release\wraith-browser.exe` (rebuilt 2026-03-31 with BUG-9 fix)
-- **OLD Binary**: `openclaw-browser.exe` — DEPRECATED, do not use
-- **Version**: 0.1.0
-- **CDP**: COMPILED AND WORKING
-- **MCP config**: `J:\job-hunter-mcp\.mcp.json` (FlareSolverr + CDP env vars, points to wraith-browser.exe)
-- **FlareSolverr**: Docker on `localhost:8191` — Indeed CF bypass via escalation
-- **Stealth**: 19 evasions, Chrome TLS fingerprint
-- **Bug tracking**: `WRAITH_BUGS.md` (BUG-9 FIXED, BUG-10 solved via login, 0 open blocking bugs)
+## OPENCLAW ECOSYSTEM (Matt's deployment infra, NOT the creator)
+Matt did NOT create OpenClaw — he built a deployment/orchestration ecosystem around it:
+- `J:\distcc for claw project\` — fleet orchestration, kernel builds, cluster management, SSH, Tailscale
+- `J:\openclaw-cli-mcp\` — MCP CLI integration
+- `J:\openclaw model load optimizer\` — model load optimization + dashboards
+- `J:\ollama for open claw\` — Ollama integration
+- `J:\openclaw-vault\` — secrets/vault management
+- `J:\clawbot search\` — search functionality
+- `J:\clawhub customer hunter\` — customer hunting tools
+- `J:\clawhub skill repo\` — skill repository
+He is an expert OpenClaw deployer/operator, not the author. Pitch accordingly.
 
 ## MATT'S KEY PROJECTS FOR COVER LETTERS
 - **Wraith Browser**: 27K lines Rust, AI-driven browser automation, agent orchestration
 - **Kalshi Weather Bot**: 20x returns, 4 beta testers, ML prediction + autonomous trading
-- **OpenClaw**: AI inference fleet, distributed model serving
+- **OpenClaw ecosystem**: Fleet deployment, model load optimization, MCP CLI, monitoring dashboards (user, not creator)
 - **10+ MCP Servers**: Production Model Context Protocol integrations
 - **LatchPac Validator 3000**: ESP32-S3 production test fixture, 120VAC, SWD programming, opto-isolated
 - **PID Controller**: Custom implementation on GitHub
 - **Industrial Sensors QA**: Compas Engineering — liquid level switches, ERECTA SWITCH
+
+## WRAITH (WRAITH-BROWSER) — CONFIG
+- **Binary**: `J:\wraith-browser\target\release\wraith-browser.exe` (rebuilt 2026-03-31 with BUG-9 fix)
+- **OLD Binary**: `openclaw-browser.exe` — DEPRECATED, do not use
+- **CDP**: COMPILED AND WORKING
+- **MCP config**: `J:\job-hunter-mcp\.mcp.json`
+- **FlareSolverr**: Docker on `localhost:8191`
+- **Bug tracking**: `WRAITH_BUGS.md` (0 open blocking bugs)
+
+## PLATFORMS COVERED vs NOT COVERED
+| Platform | Status | Jobs in DB |
+|----------|--------|-----------|
+| Greenhouse | 164+ companies, fully drained on apply | ~15,000 jobs |
+| Ashby | 96 companies, fully drained on apply | ~2,500 jobs |
+| Lever | 44 companies, fully drained on apply | ~2,800 jobs |
+| Indeed | Chrome scrape works, not actively applying | ~1,100 jobs |
+| Upwork | PRIMARY CHANNEL NOW. 18 connects, 4 proposals out | Manual curated |
+| Defense (BrassRing/Workday) | Profiled, BLOCKED on account creation | 728 viable |
+| Aggregators | Login-walled, low ROI to resolve | ~300 viable but dupes |
+| LinkedIn | Not scraped, needs auth + anti-bot | HARD |

@@ -12,6 +12,30 @@ powershell -ExecutionPolicy Bypass -File J:\job-hunter-mcp\launch_hunter.ps1
 Autonomous job hunting system. Searches multiple job APIs, scores matches with AI,
 tracks everything in SQLite, and applies via browser automation.
 
+## HANDOFF PROTOCOL
+- ALWAYS read HANDOFF.md and recent memory files BEFORE diagnosing any issue
+- Trust prior session findings — do not re-diagnose bugs already patched
+- Update HANDOFF.md at end of session with current state, blockers, and next steps
+- When continuing from a prior session, summarize what you read before acting
+
+## DIAGNOSIS DISCIPLINE
+- Investigate the actual error before suggesting reinstalls or generic fixes
+- For Windows spawn/ENOENT errors: check shim file extensions (.exe vs shell scripts) FIRST
+- Do not assume a dependency is missing until you've verified with `where`/`which`
+- Read error messages and stack traces carefully before proposing solutions
+
+## TOOLING PREFERENCES
+- DO NOT use Playwright unless explicitly requested or no alternative exists
+- Prefer Wraith browser MCP for scraping/browser automation
+- Chrome CDP (via Playwright connect_over_cdp) is acceptable for Upwork proposals where Wraith can't auth
+- For Unraid deployments: use plain `docker run`, not docker-compose (busybox shell limitation)
+
+## OUTPUT DISCIPLINE
+- Keep responses concise; avoid long explanations after task completion
+- When hitting token limits, summarize and offer to continue rather than retrying full output
+- Write detailed output, logs, and analysis to files instead of chat when possible
+- Checkpoint progress to HANDOFF.md during long-running work
+
 ## CRITICAL RULES
 1. Always use `-ExecutionPolicy Bypass` for PowerShell
 2. Always write scripts to .ps1 files instead of inline (escape issues)
