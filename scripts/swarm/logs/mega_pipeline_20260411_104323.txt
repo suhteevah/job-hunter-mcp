@@ -1,0 +1,24 @@
+[10:43:23] MEGA PIPELINE started at 2026-04-11T10:43:23.622729
+[10:43:23] Args: {'scrape': True, 'rescore': False, 'apply': False, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[10:43:23] 
+======================================================================
+[10:43:23] PHASE 1: MEGA SCRAPE
+[10:43:23] ======================================================================
+[10:43:23] Boards: 164 GH + 96 Ashby + 44 Lever = 304 total
+[10:43:23] Workers: 100
+[10:43:59]   + 19 new  Cockroach Labs (greenhouse) [30 total]
+[10:45:43]   + 29 new  Pinterest (greenhouse) [138 total]
+[10:48:18] 
+SCRAPE DONE in 294s
+[10:48:18]   Found: 9720 jobs across 77 boards
+[10:48:18]   New inserted: 48
+[10:48:18]   Viable (fit>=60, new): 1396
+[10:48:18]   Total DB: 34049
+[10:48:18] 
+Top by new jobs:
+[10:48:18]   Pinterest                 +29 (greenhouse)
+[10:48:18]   Cockroach Labs            +19 (greenhouse)
+[10:48:18] 
+======================================================================
+[10:48:18] MEGA PIPELINE COMPLETE — 4.9min total
+[10:48:18] ======================================================================

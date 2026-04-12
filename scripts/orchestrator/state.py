@@ -86,29 +86,47 @@ def update_board(
     board: str,
     yield_count: int,
     error: str | None = None,
+    *,
+    is_full_scrape: bool = False,
 ) -> None:
-    """Update per-board metrics and roll the baseline yield (EMA, alpha=0.3)."""
+    """Update per-board metrics.
+
+    IMPORTANT: `baseline_yield` and `last_yield` are only updated when
+    `is_full_scrape=True`. That's because diff-mode runs (the 30min hot
+    loop) return small numbers (0-5 new jobs since last run), which would
+    roll the EMA baseline down below heavy-scrape yields and cause the
+    bypass detector to false-alarm.
+
+    For diff runs we update `last_diff_yield` and `last_run` only — those
+    feed the report but NOT the bypass detector.
+    """
     boards = state.setdefault("boards", {})
     b = boards.setdefault(
         board,
         {
             "baseline_yield": None,
             "last_yield": None,
+            "last_diff_yield": None,
             "last_run": None,
             "last_error": None,
             "consecutive_low_yields": 0,
         },
     )
-    b["last_yield"] = yield_count
     b["last_run"] = utcnow_iso()
     b["last_error"] = error
-    if b["baseline_yield"] is None:
-        b["baseline_yield"] = float(yield_count)
+
+    if is_full_scrape:
+        b["last_yield"] = yield_count
+        if b["baseline_yield"] is None:
+            b["baseline_yield"] = float(yield_count)
+        else:
+            # Exponential moving average — adapts but does not whipsaw.
+            b["baseline_yield"] = round(
+                0.3 * float(yield_count) + 0.7 * float(b["baseline_yield"]), 2
+            )
     else:
-        # Exponential moving average — adapts but does not whipsaw.
-        b["baseline_yield"] = round(
-            0.3 * float(yield_count) + 0.7 * float(b["baseline_yield"]), 2
-        )
+        # Diff run — cursor-based "new since last run", not scrape yield.
+        b["last_diff_yield"] = yield_count
 
 
 if __name__ == "__main__":

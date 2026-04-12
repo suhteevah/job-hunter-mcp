@@ -1,0 +1,8 @@
+[03:13:24] MEGA PIPELINE started at 2026-04-11T03:13:24.074197
+[03:13:24] Args: {'scrape': True, 'rescore': False, 'apply': False, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[03:13:24] 
+======================================================================
+[03:13:24] PHASE 1: MEGA SCRAPE
+[03:13:24] ======================================================================
+[03:13:24] Boards: 164 GH + 96 Ashby + 44 Lever = 304 total
+[03:13:24] Workers: 100

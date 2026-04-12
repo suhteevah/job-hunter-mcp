@@ -1,6 +1,13 @@
 # CLAUDE CODE HANDOFF — Autonomous Job Hunter
 # Read this FIRST. Then read J:\job-hunter-mcp\skills\SKILL.md for full details.
-# Last updated: 2026-04-11 SESSION 2 — Orchestrator live, 30min cadence, sniper mode
+# Last updated: 2026-04-11 SESSION 2 END — Orchestrator live, 30min poll + 2h scrape, sniper mode
+
+## THINGS A FUTURE SESSION SHOULD CHECK FIRST
+1. **Priyasha S. client call status** — was scheduling in progress at session end. Matt handled it manually. Did the call happen? Any outcome?
+2. **Read `.pipeline/shortlist/current.md`** — that's the orchestrator's curated output. If empty, sniper mode is doing its job.
+3. **Read `.pipeline/reports/YYYY-MM-DD.md`** — daily run log. Watch for any bypass alerts (should be rare after the baseline-pollution fix).
+4. **Orchestrator health** — `Get-ScheduledTask JobHunterOrchestrator | Get-ScheduledTaskInfo`. LastTaskResult should be 0. NumberOfMissedRuns should be 0 or very low.
+5. **Upwork connects** — still 18 at session end. If lower, a proposal was submitted manually.
 
 ## IMMEDIATE CONTEXT
 Matt Gates is job hunting. **REMOTE or Chico (95926) ONLY.**
@@ -15,13 +22,16 @@ Wraith CDP fully operational. Chrome CDP on port 9222 for Upwork proposals.
 The machine never sleeps.
 
 ### SESSION RESULTS (2026-04-11 #2 — Orchestrator)
-- **Built persistent job orchestrator** at `scripts/orchestrator/` — runs every 30 min via Windows Task Scheduler, scrape-only, ZERO auto-apply
+- **Built persistent job orchestrator** at `scripts/orchestrator/` — runs every 30 min via Windows Task Scheduler `JobHunterOrchestrator`, scrape-only, ZERO auto-apply
 - **State, filters, reports, shortlist live in `.pipeline/`** at project root
 - **Hyper-selective filter active** — Upwork composite ≥90 + Claude/MCP/agent keyword + ≥$50/hr + ≥$5K client spent + ≤6h age; ATS composite ≥95 + IC title + ≥95 fit_score + ≤48h age. Default outcome: 0 jobs surface most runs (the point).
-- **Bypass detector live** — flags <50% yield drops to `.pipeline/bypass-library.md` after 3 consecutive low runs. Does NOT auto-write bypass code (human-in-loop on Wraith binary changes).
-- **Scheduled task `JobHunterOrchestrator` registered** — first scheduled run was 2026-04-11 00:43, fires every 30min after.
-- **Priyasha S. → SCHEDULING A CLIENT CALL** — first real interview-equivalent in 5,746 apps. Matt is handling the scheduling.
-- 22 unread Upwork emails as of session start; 0 passed hyper-selective. Newest one ("AI Agent Development for Company") rejected at 35/100: $5–20/hr from a $501 client.
+- **Heavy scrape decoupled from hot poll loop.** `mega_pipeline.py --scrape` runs silently for ~8 min (it buffers stdout). Gated to every **2 hours** (bumped from 6h after observing clean completion). Upwork IMAP polls on the 30min cron. Filter reloaded from `.pipeline/filters.yaml` every run — tune without code change.
+- **Bypass detector** flags <50% yield drops after 3 consecutive low runs. Only reads `baseline_yield` (full-scrape-only — see bug fix below). Does NOT auto-write bypass code.
+- **IMAP retry-on-transient** — `scan_upwork_emails()` retries on SSL EOF / DNS / reset errors, which Gmail throws periodically.
+- **BUG FOUND + FIXED: EMA baseline pollution.** `update_board()` originally fed every run's yield into the baseline EMA. Cursor-diff runs (30min hot loop) return 0-5 new jobs, which dragged ATS baselines down to 0.02 by run #28 and fired false "complete block" alerts for greenhouse/ashby/lever at 08:43 and 10:23 UTC. **Fix:** `update_board(state, board, yield_count, *, is_full_scrape=False)`. Only full-scrape yields feed `baseline_yield` + `last_yield`. Cursor-diff yields go to `last_diff_yield` (reported but NOT seen by the detector). `run.py` passes `is_full_scrape=(board == 'upwork_email' or do_full_scrape)` — Upwork always uses the full path since it has no diff mode. State baselines reset and false alerts cleared from `bypass-library.md`. Next heavy scrape (~19:48 UTC / 12:48 PM local) will re-seed baselines correctly.
+- **Scheduled task `JobHunterOrchestrator`** — 26 successful runs by session end. LastRunTime 12:43:43 PM, NextRunTime 1:13:13 PM, LastTaskResult 0, 0 missed runs.
+- **Priyasha S. → CLIENT CALL BEING SCHEDULED** — first real interview-equivalent in 5,746 apps. Matt is handling the scheduling.
+- 22 unread Upwork emails at session start, 28 by end. 0 passed hyper-selective in any run. Newest one ("AI Agent Development for Company") rejected at 35/100: $5–20/hr from a $501 client — exactly the kind of job the filter is designed to silently reject.
 
 ### SESSION RESULTS (2026-04-11 #1 — Insights)
 - **Implemented Claude Code Insights report recommendations** from `C:\Users\Matt\.claude\usage-data\report.html`
@@ -73,12 +83,11 @@ auto-applies to anything.
 
 ### What it does on each run
 
-1. Loads state from `.pipeline/state.json`
-2. Triggers `mega_pipeline.py --scrape` to refresh GH/Ashby/Lever DB
-3. In parallel: scans unread Upwork "New job" emails via IMAP, diffs SQLite
-   for new ATS jobs since last run cursor
-4. Scores everything against `.pipeline/filters.yaml` (HYPER-SELECTIVE)
-5. Detects sustained yield drops per board → bypass alerts
+1. Loads state from `.pipeline/state.json` and filters from `.pipeline/filters.yaml`
+2. If ≥2h since last full scrape: triggers `mega_pipeline.py --scrape` (takes ~8 min, silent buffered output). Otherwise skips the heavy subprocess.
+3. In parallel: scans unread Upwork "New job" emails via IMAP (with retry on SSL EOF / DNS / reset), diffs SQLite for new ATS jobs since last run cursor
+4. Scores everything against HYPER-SELECTIVE rules in `filters.yaml`
+5. Detects sustained yield drops per board → writes bypass alerts (full-scrape yields only — cursor-diff yields are NOT fed to the baseline EMA)
 6. Writes curated shortlist to `.pipeline/shortlist/current.md`
 7. Appends a run section to `.pipeline/reports/YYYY-MM-DD.md`
 8. Saves state atomically
@@ -115,6 +124,8 @@ scripts/orchestrator/
 - **ATS**: title contains [claude, mcp, ai engineer, agent, llm, ...] but NOT
   [sales, AE, marketing, manager (unless engineering), intern]; company <500
   employees; ≤48h old; existing fit_score ≥95; composite ≥95/100
+- **Scrape**: `full_scrape_interval_hours: 2` (heavy subprocess gate, 12× per day)
+- **Bypass detector**: `yield_drop_threshold: 0.5`, `min_consecutive_low_yields: 3`, `min_baseline_for_alert: 10` (prevents false alarms during EMA warm-up)
 
 Tune these without touching code — just edit `filters.yaml`, the orchestrator
 reloads it on every run.

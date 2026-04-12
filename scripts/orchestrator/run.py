@@ -203,7 +203,18 @@ def main() -> int:
             len(data["jobs"]),
             data["error"],
         )
-        update_board(state, board, len(data["jobs"]), data["error"])
+        # Upwork IMAP always uses the full scrape path (it has no diff mode).
+        # ATS boards only update the EMA baseline when a real mega_pipeline
+        # scrape was run — otherwise we're reading cursor-diff yields which
+        # would pollute the baseline and false-alarm the bypass detector.
+        is_scrape_yield = (board == "upwork_email") or do_full_scrape
+        update_board(
+            state,
+            board,
+            len(data["jobs"]),
+            data["error"],
+            is_full_scrape=is_scrape_yield,
+        )
 
     # ─── Phase 2: Score + filter ───────────────────────────────────────────
     logger.info("Phase 2: hyper-selective scoring")

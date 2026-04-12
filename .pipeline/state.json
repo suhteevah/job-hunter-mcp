@@ -1,42 +1,46 @@
 {
   "version": 1,
   "created": "2026-04-11T00:00:00Z",
-  "last_run": "2026-04-11T09:13:44Z",
-  "last_run_id": 7,
+  "last_run": "2026-04-12T08:13:35Z",
+  "last_run_id": 55,
   "boards": {
     "upwork_email": {
-      "baseline_yield": 23.0,
-      "last_yield": 23,
-      "last_run": "2026-04-11T09:13:44Z",
+      "baseline_yield": 38.47,
+      "last_yield": 43,
+      "last_diff_yield": null,
+      "last_run": "2026-04-12T08:13:35Z",
       "last_error": null,
       "consecutive_low_yields": 0,
       "last_message_id": null
     },
     "greenhouse": {
-      "baseline_yield": 51.72,
-      "last_yield": 0,
-      "last_run": "2026-04-11T09:13:44Z",
+      "baseline_yield": 27.55,
+      "last_yield": 19,
+      "last_diff_yield": 0,
+      "last_run": "2026-04-12T08:13:35Z",
       "last_error": null,
-      "consecutive_low_yields": 1
+      "consecutive_low_yields": 0
     },
     "ashby": {
-      "baseline_yield": 48.02,
+      "baseline_yield": 0.0,
       "last_yield": 0,
-      "last_run": "2026-04-11T09:13:44Z",
+      "last_diff_yield": 0,
+      "last_run": "2026-04-12T08:13:35Z",
       "last_error": null,
-      "consecutive_low_yields": 1
+      "consecutive_low_yields": 0
     },
     "lever": {
-      "baseline_yield": 48.02,
+      "baseline_yield": 0.0,
       "last_yield": 0,
-      "last_run": "2026-04-11T09:13:44Z",
+      "last_diff_yield": 0,
+      "last_run": "2026-04-12T08:13:35Z",
       "last_error": null,
-      "consecutive_low_yields": 1
+      "consecutive_low_yields": 0
     }
   },
   "shortlist": {
     "current_count": 0,
-    "last_updated": "2026-04-11T09:13:44Z",
+    "last_updated": "2026-04-12T08:13:35Z",
     "items_surfaced_lifetime": 0
   },
   "upwork": {
@@ -45,19 +49,17 @@
     "active_proposals": 5
   },
   "metrics": {
-    "runs_total": 5,
+    "runs_total": 53,
     "runs_with_shortlist_hits": 0,
-    "scrapes_completed": 5,
+    "scrapes_completed": 52,
     "last_24h_jobs_added": 0
   },
   "scrape": {
-    "last_full_scrape_at": "2026-04-11T07:59:31Z",
-    "last_full_scrape_status": null,
+    "last_full_scrape_at": "2026-04-12T06:19:37Z",
+    "last_full_scrape_status": "ok",
     "consecutive_failures": 0
   },
   "bypass_alerts": [
-    "2026-04-11 08:43 UTC | greenhouse | 0/74 (0%) | suspected: complete block (zero yield)",
-    "2026-04-11 08:43 UTC | ashby | 0/69 (0%) | suspected: complete block (zero yield)",
-    "2026-04-11 08:43 UTC | lever | 0/69 (0%) | suspected: complete block (zero yield)"
+    "2026-04-12 02:13 UTC | greenhouse | 9/29 (31%) | suspected: partial block (yield drop)"
   ]
 }

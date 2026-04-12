@@ -11,12 +11,10 @@ Format for a solution: `## board — short title` then full body.
 
 ## Alerts (auto-written by orchestrator)
 
-- 2026-04-11 08:43 UTC | greenhouse | 0/74 (0%) | suspected: complete block (zero yield)
-- 2026-04-11 08:43 UTC | ashby | 0/69 (0%) | suspected: complete block (zero yield)
-- 2026-04-11 08:43 UTC | lever | 0/69 (0%) | suspected: complete block (zero yield)
+- 2026-04-12 02:13 UTC | greenhouse | 9/29 (31%) | suspected: partial block (yield drop)
 
 
-_(none yet — orchestrator has not detected any board drops)_
+_(none — false alerts from 2026-04-11 08:43 and 10:23 UTC were cleared after fixing the EMA baseline pollution bug. See HANDOFF.md session #2 notes.)_
 
 ---
 
