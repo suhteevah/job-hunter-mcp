@@ -76,7 +76,7 @@ def fill_react_select(page, field_id, search_text, timeout=3000):
 
 def main():
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(headless=True)
         ctx = browser.new_context(viewport={"width": 1280, "height": 1024})
         page = ctx.new_page()
         page.set_default_timeout(15000)

@@ -45,7 +45,7 @@ def greenhouse_combobox(page, field_id, value, timeout=5000):
 
 def main():
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False, slow_mo=200)
+        browser = p.chromium.launch(headless=True, slow_mo=200)
         ctx = browser.new_context()
         page = ctx.new_page()
         page.set_default_timeout(15000)

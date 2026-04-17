@@ -89,7 +89,7 @@ def apply():
     print(f"    URL: {URL}")
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False, slow_mo=200)
+        browser = p.chromium.launch(headless=True, slow_mo=200)
         page = browser.new_page(viewport={"width": 1280, "height": 900})
         page.goto(URL, wait_until="networkidle")
         time.sleep(3)

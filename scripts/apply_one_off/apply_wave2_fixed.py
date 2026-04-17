@@ -456,7 +456,7 @@ def main():
     os.makedirs(os.path.join(os.path.dirname(__file__), "screenshots"), exist_ok=True)
     results = []
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False, slow_mo=200)
+        browser = p.chromium.launch(headless=True, slow_mo=200)
         page = browser.new_page()
 
         for job in JOBS:

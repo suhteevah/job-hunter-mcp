@@ -11,6 +11,12 @@ Format for a solution: `## board — short title` then full body.
 
 ## Alerts (auto-written by orchestrator)
 
+- 2026-04-12 22:13 UTC | greenhouse | 4/23 (18%) | suspected: partial block (yield drop)
+
+
+- 2026-04-12 09:43 UTC | greenhouse | 0/19 (0%) | suspected: complete block (zero yield)
+
+
 - 2026-04-12 02:13 UTC | greenhouse | 9/29 (31%) | suspected: partial block (yield drop)
 
 

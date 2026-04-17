@@ -1,0 +1,24 @@
+[11:43:24] MEGA PIPELINE started at 2026-04-12T11:43:24.828635
+[11:43:24] Args: {'scrape': True, 'rescore': False, 'apply': False, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[11:43:24] 
+======================================================================
+[11:43:24] PHASE 1: MEGA SCRAPE
+[11:43:24] ======================================================================
+[11:43:24] Boards: 164 GH + 96 Ashby + 44 Lever = 304 total
+[11:43:24] Workers: 100
+[11:44:10]   +  2 new  OnBoard Meetings (greenhouse) [6 total]
+[11:47:07]   + 38 new  Riot Games (greenhouse) [179 total]
+[11:48:40] 
+SCRAPE DONE in 316s
+[11:48:40]   Found: 9570 jobs across 76 boards
+[11:48:40]   New inserted: 40
+[11:48:40]   Viable (fit>=60, new): 1397
+[11:48:40]   Total DB: 34319
+[11:48:40] 
+Top by new jobs:
+[11:48:40]   Riot Games                +38 (greenhouse)
+[11:48:40]   OnBoard Meetings          +2 (greenhouse)
+[11:48:40] 
+======================================================================
+[11:48:40] MEGA PIPELINE COMPLETE — 5.3min total
+[11:48:40] ======================================================================

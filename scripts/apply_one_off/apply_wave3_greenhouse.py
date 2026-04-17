@@ -286,7 +286,7 @@ def update_db(url, company, title, success):
 def main():
     results = []
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False, slow_mo=150)
+        browser = p.chromium.launch(headless=True, slow_mo=150)
         page = browser.new_page()
 
         for job in JOBS:

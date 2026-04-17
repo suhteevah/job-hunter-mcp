@@ -1,0 +1,22 @@
+[04:13:23] MEGA PIPELINE started at 2026-04-12T04:13:23.992462
+[04:13:23] Args: {'scrape': True, 'rescore': False, 'apply': False, 'all': False, 'stats': False, 'retry_failed': False, 'platform': None, 'min_score': 60.0, 'limit': 0, 'resume_from': 0, 'delay': 3.0, 'workers': 100}
+[04:13:23] 
+======================================================================
+[04:13:23] PHASE 1: MEGA SCRAPE
+[04:13:23] ======================================================================
+[04:13:23] Boards: 164 GH + 96 Ashby + 44 Lever = 304 total
+[04:13:23] Workers: 100
+[04:16:48]   + 16 new  Asana (greenhouse) [146 total]
+[04:19:08] 
+SCRAPE DONE in 344s
+[04:19:08]   Found: 9719 jobs across 77 boards
+[04:19:08]   New inserted: 16
+[04:19:08]   Viable (fit>=60, new): 1397
+[04:19:08]   Total DB: 34210
+[04:19:08] 
+Top by new jobs:
+[04:19:08]   Asana                     +16 (greenhouse)
+[04:19:08] 
+======================================================================
+[04:19:08] MEGA PIPELINE COMPLETE — 5.7min total
+[04:19:08] ======================================================================

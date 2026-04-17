@@ -38,7 +38,7 @@ def apply():
     print(f"[*] Starting RegScale application v2...")
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False, slow_mo=200)
+        browser = p.chromium.launch(headless=True, slow_mo=200)
         page = browser.new_page()
         page.goto(URL, wait_until="networkidle")
         time.sleep(2)

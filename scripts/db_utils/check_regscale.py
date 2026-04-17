@@ -10,7 +10,7 @@ COVER_LETTER_PATH = r"J:\job-hunter-mcp\regscale_cover_letter.txt"
 
 def check_and_submit():
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False, slow_mo=300)
+        browser = p.chromium.launch(headless=True, slow_mo=300)
         page = browser.new_page()
         page.goto(URL, wait_until="networkidle")
         time.sleep(2)
